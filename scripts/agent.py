@@ -1,0 +1,397 @@
+"""MIREAL SNS Agent — メインオーケストレーター
+
+毎朝 8:00 JST に GitHub Actions cron から起動される。
+
+実行フロー:
+  1. kill_switch チェック
+  2. 世情チェック（災害・大事件があれば中止）
+  3. CALENDAR.md と今日の曜日からテーマ決定
+  4. history.json で重複・連続フォーマット回避
+  5. Claude API で投稿原稿生成
+  6. 別Claude callでセルフレビュー (最大3回リトライ)
+  7. PIL で画像生成
+  8. 画像をリポジトリにコミット → raw URL を取得
+  9. IG + FB に投稿
+  10. history.json 更新 → コミット
+"""
+import os
+import sys
+import json
+import re
+import subprocess
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+from anthropic import Anthropic
+
+# 同ディレクトリのスクリプトを再利用
+sys.path.insert(0, str(Path(__file__).parent))
+from generate_image import generate_image          # noqa: E402
+from world_check import is_safe_to_post            # noqa: E402
+from post_to_meta import post_to_ig, post_to_fb    # noqa: E402
+
+ROOT = Path(__file__).parent.parent
+PLAYBOOK_DIR = ROOT / "playbook"
+DATA_DIR = ROOT / "data"
+HISTORY_FILE = DATA_DIR / "history.json"
+KILL_SWITCH_FILE = ROOT / "kill_switch.txt"
+
+JST = timezone(timedelta(hours=9))
+
+CONTENT_MODEL = os.environ.get("CLAUDE_CONTENT_MODEL", "claude-opus-4-7")
+REVIEW_MODEL = os.environ.get("CLAUDE_REVIEW_MODEL", "claude-opus-4-7")
+
+
+# ---------- utilities ----------
+
+def fail(msg, exit_code=1):
+    print(f"❌ {msg}", flush=True)
+    sys.exit(exit_code)
+
+
+def ok(msg):
+    print(f"✅ {msg}", flush=True)
+
+
+def info(msg):
+    print(f"   {msg}", flush=True)
+
+
+def step(msg):
+    print(f"\n=== {msg} ===", flush=True)
+
+
+def check_kill_switch():
+    if not KILL_SWITCH_FILE.exists():
+        return
+    content = KILL_SWITCH_FILE.read_text(encoding="utf-8").strip().upper()
+    if "STOP" in content:
+        print("🛑 kill_switch.txt = STOP → 投稿停止", flush=True)
+        sys.exit(0)
+
+
+def load_history():
+    try:
+        return json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {"posts": []}
+
+
+def save_history(data):
+    HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    HISTORY_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def read_playbook():
+    files = ["BRAND_GUIDELINE.md", "PILLARS.md", "FORMATS.md", "CALENDAR.md"]
+    return {f: (PLAYBOOK_DIR / f).read_text(encoding="utf-8") for f in files}
+
+
+def strip_json_fence(content):
+    content = content.strip()
+    content = re.sub(r"^```(?:json)?\s*", "", content)
+    content = re.sub(r"\s*```$", "", content)
+    return content.strip()
+
+
+# ---------- core steps ----------
+
+def pick_todays_theme(playbook, override_pillar=None):
+    """CALENDAR.md から今日の柱・フォーマット・テーマを引く"""
+    now_jst = datetime.now(JST)
+    weekday = now_jst.weekday()  # 0=月, 6=日
+    weekday_jp = ["月", "火", "水", "木", "金", "土", "日"][weekday]
+
+    if weekday == 6:
+        fail("日曜日は投稿スキップの設定です", exit_code=0)
+
+    week_num = min(((now_jst.day - 1) // 7) + 1, 4)
+
+    calendar = playbook["CALENDAR.md"]
+    week_block_pattern = re.compile(
+        rf"## Week {week_num}.*?\n(.+?)(?=## |\Z)",
+        re.DOTALL,
+    )
+    m = week_block_pattern.search(calendar)
+    if not m:
+        info(f"Week {week_num} のテーブルが無い、Week 1 にフォールバック")
+        m = re.search(r"## Week 1.*?\n(.+?)(?=## |\Z)", calendar, re.DOTALL)
+        if not m:
+            fail("CALENDAR.md に Week 1 が見つかりません")
+
+    week_table = m.group(1)
+    row_pattern = re.compile(
+        rf"\|\s*{weekday_jp}\s*\|\s*([A-E])\s*\|\s*(F\d)\s*\|\s*([^|]+?)\s*\|"
+    )
+    row = row_pattern.search(week_table)
+    if not row:
+        fail(f"{weekday_jp}曜の行が Week {week_num} に見つかりません")
+
+    pillar, format_, theme_text = row.group(1), row.group(2), row.group(3).strip()
+    if override_pillar:
+        pillar = override_pillar.upper()
+        info(f"柱を強制指定: {pillar}")
+
+    return {
+        "date": now_jst.strftime("%Y-%m-%d"),
+        "weekday": weekday_jp,
+        "week_num": week_num,
+        "pillar": pillar,
+        "format": format_,
+        "theme": theme_text,
+    }
+
+
+def generate_post(client, playbook, history, theme):
+    """Claude API で投稿原稿（画像テキスト + キャプション + ハッシュタグ）を生成"""
+    recent = history.get("posts", [])[-10:]
+    recent_lines = [
+        f"  - {p.get('date', '?')} {p.get('pillar', '?')}-{p.get('format', '?')}: {p.get('theme', '?')}"
+        for p in recent
+    ]
+    recent_str = "\n".join(recent_lines) if recent_lines else "  (まだ無し)"
+
+    system_prompt = f"""あなたはMIREAL株式会社のSNS運用担当エージェントです。
+以下のブランドガイドラインに**完全準拠**して、Instagram / Facebook 用の投稿を生成してください。
+
+# BRAND GUIDELINE
+{playbook['BRAND_GUIDELINE.md']}
+
+# PILLARS
+{playbook['PILLARS.md']}
+
+# FORMATS
+{playbook['FORMATS.md']}
+
+# 出力ルール (厳守)
+- 出力は **JSON のみ**、説明文・前置き・コードフェンスなし
+- スキーマ:
+  {{
+    "heading_image": "画像中央の大文字。1-2行、合計20文字以内。改行は \\n",
+    "subheading_image": "画像中央のサブ文字。1-3行、合計60文字以内。改行は \\n",
+    "footer_image": "画像下のフッター。20文字以内、例: 'ONE DAY PROMOTION  |  mireal.co.jp'",
+    "caption": "SNS本文。400-800字。ガイドライン準拠。改行 \\n で読みやすく",
+    "hashtags": ["#動画制作", "#ONEDAYPROMOTION", ...]  // 12-15個、層別配分
+  }}
+
+# 厳守ルール
+- 絵文字は使わない
+- 誇大広告（「業界No.1」「絶対」「最安値」等）禁止
+- 価格は ¥98,000(税別) で固定
+- 政治・宗教・差別・天災・事件・競合言及は禁止
+"""
+
+    user_prompt = f"""今日のお題:
+- 日付: {theme['date']}
+- 曜日: {theme['weekday']} (Week {theme['week_num']})
+- 訴求柱: {theme['pillar']}
+- フォーマット: {theme['format']}
+- カレンダー指示テーマ: 「{theme['theme']}」
+
+直近の投稿（重複・冗長を避けるため参照）:
+{recent_str}
+
+このお題に沿った投稿原稿を JSON で生成してください。
+画像のheadingは数字や強い言葉で目を引くこと。subheadingで補足。caption本文はSNSで読まれやすいように改行を入れて。
+"""
+
+    response = client.messages.create(
+        model=CONTENT_MODEL,
+        max_tokens=2500,
+        system=system_prompt,
+        messages=[{"role": "user", "content": user_prompt}],
+    )
+    raw = response.content[0].text
+    cleaned = strip_json_fence(raw)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        fail(f"生成応答のJSONパース失敗: {e}\n--- raw ---\n{raw}")
+
+
+def self_review(client, playbook, post):
+    """別Claude callでブランド準拠審査"""
+    review_prompt = f"""あなたはMIREAL社のコンプライアンス担当エージェントです。
+以下のSNS投稿原稿を、ブランドガイドラインに照らして審査してください。
+
+# BRAND GUIDELINE
+{playbook['BRAND_GUIDELINE.md']}
+
+# 投稿原稿
+{json.dumps(post, ensure_ascii=False, indent=2)}
+
+# 審査項目
+1. 価格は ¥98,000(税別) で正しく表記されているか（言及されている場合）
+2. 禁止トピック（政治・宗教・差別・天災・事件・競合言及）に該当しないか
+3. 誇大広告（業界No.1、絶対、最安値、100%等）に該当しないか
+4. NGワード（神、ヤバい、マジ等の口語スラング）が含まれていないか
+5. ブランド人格（頼れる兄貴分のような、専門家風NG）から逸脱していないか
+6. ハッシュタグ数は12〜15個か
+7. 絵文字を使っていないか
+
+# 出力 (JSON のみ、説明文なし)
+{{
+  "verdict": "PASS" or "FAIL",
+  "issues": ["..."],
+  "advice": "FAILの場合の修正方針"
+}}
+"""
+
+    response = client.messages.create(
+        model=REVIEW_MODEL,
+        max_tokens=1000,
+        messages=[{"role": "user", "content": review_prompt}],
+    )
+    raw = response.content[0].text
+    cleaned = strip_json_fence(raw)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        return {"verdict": "FAIL", "issues": ["レビュー応答パース失敗"], "advice": raw[:500]}
+
+
+def git_commit_push(message, *paths):
+    """指定パスをコミット&プッシュ。差分なしならスキップ。"""
+    subprocess.run(["git", "config", "user.email", "agent@mireal.co.jp"], check=True)
+    subprocess.run(["git", "config", "user.name", "MIREAL SNS Agent"], check=True)
+    subprocess.run(["git", "add", *paths], check=True)
+    status = subprocess.run(
+        ["git", "status", "--porcelain"],
+        capture_output=True, text=True, check=True,
+    )
+    if not status.stdout.strip():
+        info("git: 変更なし、commit スキップ")
+        return
+    subprocess.run(["git", "commit", "-m", message], check=True)
+    subprocess.run(["git", "push"], check=True)
+
+
+def build_raw_url(repo_full_name, relative_path, branch="main"):
+    return f"https://raw.githubusercontent.com/{repo_full_name}/{branch}/{relative_path}"
+
+
+# ---------- main ----------
+
+def main():
+    step("MIREAL SNS Agent — Daily Post")
+    print(f"Started at: {datetime.now(JST).strftime('%Y-%m-%d %H:%M:%S JST')}")
+
+    dry_run = os.environ.get("DRY_RUN", "false").lower() == "true"
+    override_pillar = (os.environ.get("FORCE_PILLAR") or "").strip() or None
+    repo = os.environ.get("GH_REPO", "kato-oss/mireal-sns-agent")
+
+    if dry_run:
+        info("DRY_RUN モード: 生成のみで実投稿しない")
+
+    # 1. Kill switch
+    check_kill_switch()
+    ok("kill switch OK")
+
+    # 2. 世情チェック
+    step("世情チェック")
+    safe, reason = is_safe_to_post()
+    print(reason)
+    if not safe and not dry_run:
+        print("🛑 世情NG、投稿中止", flush=True)
+        sys.exit(0)
+
+    # 3. テーマ決定
+    step("今日のテーマ決定")
+    playbook = read_playbook()
+    history = load_history()
+    theme = pick_todays_theme(playbook, override_pillar=override_pillar)
+    print(json.dumps(theme, ensure_ascii=False, indent=2))
+
+    # 4. Anthropic client
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        fail("ANTHROPIC_API_KEY 未設定")
+    client = Anthropic(api_key=api_key)
+
+    # 5. 原稿生成 + セルフレビュー（最大3回）
+    step("原稿生成 + セルフレビュー")
+    post = None
+    for attempt in range(3):
+        info(f"--- 試行 {attempt + 1}/3 ---")
+        post = generate_post(client, playbook, history, theme)
+        info(f"生成: heading={post.get('heading_image', '?')!r}")
+
+        review = self_review(client, playbook, post)
+        info(f"レビュー: {review.get('verdict')}")
+        if review.get("verdict") == "PASS":
+            ok("セルフレビュー通過")
+            break
+        info(f"問題: {review.get('issues')}")
+        info(f"助言: {review.get('advice')}")
+    else:
+        fail("3回試したがセルフレビュー通過せず、投稿中止")
+
+    # 6. 画像生成
+    step("画像生成 (PIL)")
+    image_path = generate_image(
+        heading=post.get("heading_image", ""),
+        subheading=post.get("subheading_image", ""),
+        footer=post.get("footer_image", "MIREAL.Official  |  mireal.co.jp"),
+    )
+    image_relative = image_path.relative_to(ROOT).as_posix()
+    ok(f"生成: {image_relative}")
+
+    # 7. キャプション組み立て
+    hashtags_str = " ".join(post.get("hashtags", []))
+    full_caption = f"{post['caption']}\n\n{hashtags_str}".strip()
+
+    if dry_run:
+        step("DRY_RUN 完了 — 投稿はスキップ")
+        info(f"\n--- caption ---\n{full_caption}\n")
+        info(f"--- image ---\n{image_path}\n")
+        info(f"--- post (raw json) ---\n{json.dumps(post, ensure_ascii=False, indent=2)}")
+        return
+
+    # 8. 画像をコミット & push (raw URL用)
+    step("画像をリポジトリへコミット")
+    git_commit_push(f"post: {theme['date']} {theme['pillar']}-{theme['format']} image", image_relative)
+    image_url = build_raw_url(repo, image_relative)
+    info(f"image_url: {image_url}")
+
+    # 9. 投稿
+    step("Meta API 投稿")
+    page_id = os.environ["FB_PAGE_ID"]
+    page_token = os.environ["FB_PAGE_ACCESS_TOKEN"]
+    ig_id = os.environ["IG_BUSINESS_ACCOUNT_ID"]
+
+    info("[Instagram] posting…")
+    ig_result = post_to_ig(ig_id, page_token, image_url, full_caption)
+    ok(f"IG投稿: media_id={ig_result.get('id')}")
+
+    info("[Facebook] posting…")
+    fb_result = post_to_fb(page_id, page_token, full_caption, image_url=image_url)
+    fb_post_id = fb_result.get("post_id") or fb_result.get("id")
+    ok(f"FB投稿: id={fb_post_id}")
+
+    # 10. history 更新 → commit
+    step("history.json 更新")
+    record = {
+        "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "date": theme["date"],
+        "weekday": theme["weekday"],
+        "week_num": theme["week_num"],
+        "pillar": theme["pillar"],
+        "format": theme["format"],
+        "theme": theme["theme"],
+        "heading_image": post.get("heading_image", ""),
+        "caption_preview": post["caption"][:200],
+        "image_url": image_url,
+        "ig_media_id": ig_result.get("id"),
+        "fb_post_id": fb_post_id,
+    }
+    history["posts"].append(record)
+    save_history(history)
+    git_commit_push(f"post: {theme['date']} history update", "data/history.json")
+
+    print()
+    ok("🎉 投稿完了")
+    print(json.dumps(record, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()

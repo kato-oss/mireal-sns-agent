@@ -1,0 +1,57 @@
+name: 03 - Daily Post
+
+on:
+  schedule:
+    # JST 8:00 = UTC 23:00 前日 / JST 月-土 = UTC 日-金 (0-5)
+    - cron: "0 23 * * 0-5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (生成のみ、実投稿しない)"
+        type: boolean
+        default: false
+      force_pillar:
+        description: "柱を強制指定 (A/B/C/D/E、空欄でカレンダー通り)"
+        type: string
+        default: ""
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+jobs:
+  daily-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Noto CJK fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE_PILLAR: ${{ inputs.force_pillar }}
+          GH_REPO: ${{ github.repository }}
+        run: python scripts/agent.py
