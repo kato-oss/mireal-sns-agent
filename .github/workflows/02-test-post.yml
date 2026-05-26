@@ -1,0 +1,51 @@
+name: 02 - Test Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "投稿先 (both / ig / fb)"
+        type: choice
+        options:
+          - both
+          - ig
+          - fb
+        default: both
+      caption:
+        description: "投稿本文"
+        type: string
+        default: "🤖 MIREAL SNS Agent 自動投稿テスト。これはシステム検証用の投稿です。確認後に削除します。 #MIREAL #ONEDAYPROMOTION"
+      image_url:
+        description: "画像URL (HTTPS必須、IG投稿に必要)"
+        type: string
+        default: "https://placehold.co/1080x1080/0A2540/E6FF00/png?text=MIREAL+Test"
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  test-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post
+        env:
+          TARGET: ${{ inputs.target }}
+          CAPTION: ${{ inputs.caption }}
+          IMAGE_URL: ${{ inputs.image_url }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+        run: python scripts/post_to_meta.py
