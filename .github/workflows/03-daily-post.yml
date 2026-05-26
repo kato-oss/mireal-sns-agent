@@ -7,29 +7,26 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Dry run (生成のみ、実投稿しない)"
+        description: "Dry run mode"
         type: boolean
-        default: false
+        default: true
       force_pillar:
-        description: "柱を強制指定 (A/B/C/D/E、空欄でカレンダー通り)"
+        description: "Force pillar A-E (blank = use calendar)"
         type: string
         default: ""
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-permissions:
-  contents: write
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   daily-post:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
