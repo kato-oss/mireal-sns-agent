@@ -58,10 +58,44 @@ def main():
     print("MIREAL SNS Agent — Connection Test")
     print("=" * 60)
 
-    # 1. 環境変数の存在確認
+    # 1. 環境変数の存在確認 + 安全な形式診断
     print("\n[1/5] Checking environment variables…")
     env = {name: get_env(name) for name in REQUIRED_ENV}
     ok(f"All {len(REQUIRED_ENV)} required env vars are set")
+
+    # 値そのものは出さず、形だけ可視化する
+    print("\n  --- Secret format diagnostics (values not shown) ---")
+    for name in REQUIRED_ENV:
+        v = env[name]
+        issues = []
+        if v != v.strip():
+            issues.append("LEADING/TRAILING WHITESPACE")
+        if "\n" in v or "\r" in v:
+            issues.append("NEWLINE INSIDE")
+        if v.startswith('"') or v.endswith('"'):
+            issues.append("WRAPPED IN DOUBLE QUOTES")
+        if v.startswith("'") or v.endswith("'"):
+            issues.append("WRAPPED IN SINGLE QUOTES")
+        if " " in v.strip():
+            issues.append("INTERNAL SPACE")
+
+        prefix = v[:4] if len(v) >= 4 else v
+        status = "⚠️  " + ", ".join(issues) if issues else "OK"
+        print(f"  {name}: len={len(v):>4}, prefix='{prefix}…', {status}")
+
+    # トークン系の長さ妥当性チェック
+    if not env["FB_PAGE_ACCESS_TOKEN"].startswith("EAA"):
+        warn("FB_PAGE_ACCESS_TOKEN does not start with 'EAA' — Meta tokens normally do")
+    if len(env["FB_PAGE_ACCESS_TOKEN"]) < 100:
+        warn(
+            f"FB_PAGE_ACCESS_TOKEN is unusually short ({len(env['FB_PAGE_ACCESS_TOKEN'])} chars). "
+            "Real Page tokens are typically 180+ chars. Token may be truncated."
+        )
+    if not env["FB_PAGE_ID"].isdigit():
+        warn("FB_PAGE_ID is not purely digits — should be a numeric Page ID")
+    if not env["IG_BUSINESS_ACCOUNT_ID"].isdigit():
+        warn("IG_BUSINESS_ACCOUNT_ID is not purely digits — should be a numeric ID")
+    print()
 
     # 2. Page token の有効性確認 (GET /me)
     print("\n[2/5] Verifying Page token via /me…")
