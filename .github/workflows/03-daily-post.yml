@@ -52,3 +52,12 @@ jobs:
           FORCE_PILLAR: ${{ inputs.force_pillar }}
           GH_REPO: ${{ github.repository }}
         run: python scripts/agent.py
+
+      - name: Upload generated image (dry run preview)
+        if: ${{ inputs.dry_run == true && always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run-image
+          path: data/images/generated/
+          retention-days: 7
+          if-no-files-found: ignore
