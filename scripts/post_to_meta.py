@@ -77,8 +77,11 @@ def post_to_ig(ig_id: str, page_token: str, image_url: str, caption: str) -> dic
     """Instagram Business アカウントに画像投稿（2段階）
 
     Step 1: media container を作成
-    Step 2: container が FINISHED になるまで待つ
-    Step 3: media_publish で公開
+    Step 2: media_publish で公開（画像はほぼ即時readyなので、status pollingせず
+            transient failureには指数バックオフでリトライ）
+
+    Status polling endpoint (GET /{container_id}) は Page token で
+    error_subcode 33 を返すことがあるため使用しない。
     """
     # Step 1: Create container
     r = requests.post(
@@ -97,39 +100,29 @@ def post_to_ig(ig_id: str, page_token: str, image_url: str, caption: str) -> dic
         fail(f"IG container create returned no id: {r.text}")
     info(f"IG container created: {container_id}")
 
-    # Step 2: Poll until FINISHED (最大30秒)
-    for attempt in range(15):
-        r = requests.get(
-            f"{GRAPH_API}/{container_id}",
-            params={"access_token": page_token, "fields": "status_code"},
-            timeout=10,
-        )
-        if r.status_code != 200:
-            fail(f"IG container status check failed: {r.text}")
-        status = r.json().get("status_code")
-        info(f"IG container status (attempt {attempt + 1}/15): {status}")
-        if status == "FINISHED":
-            break
-        if status == "ERROR":
-            fail(f"IG container went to ERROR: {r.json()}")
-        if status == "EXPIRED":
-            fail(f"IG container EXPIRED before publish: {r.json()}")
-        time.sleep(2)
-    else:
-        fail("IG container did not reach FINISHED within 30s")
+    # Step 2: Publish (リトライ最大8回、指数バックオフ)
+    last_response = None
+    for attempt in range(8):
+        if attempt > 0:
+            wait = min(2 ** attempt, 30)  # 2, 4, 8, 16, 30, 30, 30, 30
+            info(f"  retrying IG publish in {wait}s (attempt {attempt + 1}/8)…")
+            time.sleep(wait)
 
-    # Step 3: Publish
-    r = requests.post(
-        f"{GRAPH_API}/{ig_id}/media_publish",
-        params={
-            "access_token": page_token,
-            "creation_id": container_id,
-        },
-        timeout=60,
-    )
-    if r.status_code != 200:
-        fail(f"IG publish failed (HTTP {r.status_code}): {r.text}")
-    return r.json()
+        r = requests.post(
+            f"{GRAPH_API}/{ig_id}/media_publish",
+            params={
+                "access_token": page_token,
+                "creation_id": container_id,
+            },
+            timeout=60,
+        )
+        last_response = r
+        if r.status_code == 200:
+            return r.json()
+        # 9007: メディアまだ準備中 など、Meta側の一時的状態をリトライ
+        info(f"  IG publish HTTP {r.status_code}: {r.text[:200]}")
+
+    fail(f"IG publish failed after 8 attempts (last HTTP {last_response.status_code}): {last_response.text}")
 
 
 def append_history(record: dict):

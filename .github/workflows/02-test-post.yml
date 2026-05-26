@@ -18,7 +18,7 @@ on:
       image_url:
         description: "画像URL (HTTPS必須、IG投稿に必要)"
         type: string
-        default: "https://placehold.co/1080x1080/0A2540/E6FF00/png?text=MIREAL+Test"
+        default: "https://placehold.co/1080x1080/0A2540/E6FF00/jpg?text=MIREAL+Test"
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
