@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-dark: #0F1721;
+    --tag-bg: #FFFFFF;
+    --tag-text: #0F1721;
+    --primary: #FFFFFF;
+    --accent: #FFD23F;
+    --footer: rgba(255,255,255,0.72);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden;
+    font-family: 'Noto Sans JP', sans-serif; }
+  .canvas { width: 1080px; height: 1080px; position: relative;
+    background-image: url('{{bg_url}}'); background-size: cover; background-position: center; }
+  .overlay { position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(15,23,33,0.62) 0%, rgba(15,23,33,0.78) 100%); }
+
+  .content { position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    padding: 84px 76px; color: var(--primary); }
+
+  .top-tag {
+    align-self: flex-start;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    font-size: 24px;
+    font-weight: 700;
+    padding: 10px 26px;
+    border-radius: 999px;
+    letter-spacing: 2px;
+  }
+
+  .heading-block {
+    margin-top: auto;
+    margin-bottom: 28px;
+  }
+  .heading {
+    font-size: 78px;
+    font-weight: 900;
+    line-height: 1.22;
+    letter-spacing: -1px;
+    white-space: pre-line;
+  }
+
+  .number-row {
+    display: flex; align-items: flex-end;
+    margin-top: 16px;
+    gap: 8px;
+  }
+  .number {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 240px;
+    font-weight: 900;
+    color: var(--accent);
+    line-height: 0.9;
+    letter-spacing: -8px;
+  }
+  .number-suffix {
+    font-size: 60px;
+    font-weight: 900;
+    color: var(--accent);
+    padding-bottom: 30px;
+    margin-left: 4px;
+  }
+
+  .footer-row {
+    margin-top: auto;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .bookmark-tag {
+    background: rgba(255,255,255,0.16);
+    border: 1.5px solid rgba(255,255,255,0.45);
+    padding: 8px 20px;
+    border-radius: 999px;
+    font-size: 18px;
+    color: var(--footer);
+    letter-spacing: 2px;
+  }
+  .brand-mini {
+    font-size: 16px; letter-spacing: 4px;
+    color: var(--footer); font-weight: 700;
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="overlay"></div>
+  <div class="content">
+    <div class="top-tag">{{top_tag}}</div>
+
+    <div class="heading-block">
+      <h1 class="heading">{{heading}}</h1>
+      <div class="number-row">
+        <span class="number">{{number}}</span>
+        <span class="number-suffix">{{number_suffix}}</span>
+      </div>
+    </div>
+
+    <div class="footer-row">
+      <div class="bookmark-tag">保存して見返す</div>
+      <div class="brand-mini">{{footer}}</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -362,32 +362,37 @@ def main():
     step("デザイナーエージェント (テンプレート選定)")
     design = design_post(client, post, theme, model=REVIEW_MODEL)
     template_name = design["template"]
+    design_vars = design.get("variables", {})
     info(f"テンプレート: {template_name}")
     info(f"理由: {design.get('reasoning', '')}")
-    info(f"heading: {design.get('heading_lead', '')!r} + [{design.get('heading_accent', '')!r}] + {design.get('heading_tail', '')!r}")
-    info(f"pills: {design.get('pill1_tag')}/{design.get('pill1_body')} | {design.get('pill2_tag')}/{design.get('pill2_body')}")
+    info(f"変数: {json.dumps(design_vars, ensure_ascii=False, indent=2)}")
 
-    # 7. 背景写真選択 (T_campaign は 9枚使う)
-    bgs = pick_backgrounds(history, count=9 if template_name == "T_campaign" else 1)
+    # 7. 背景写真選択 (T_campaign は 9枚、T_tipcard は 0枚、それ以外は 1枚)
+    if template_name == "T_campaign":
+        bg_count = 9
+    elif template_name == "T_tipcard":
+        bg_count = 0
+    else:
+        bg_count = 1
+    bgs = pick_backgrounds(history, count=bg_count) if bg_count > 0 else []
     bg_names = [b.name for b in bgs] if bgs else []
-    info(f"背景: {bg_names}")
+    info(f"背景: {bg_names if bg_names else '(なし)'}")
 
     # 8. Playwright で HTML/CSS テンプレートをレンダリング
     step("画像レンダリング (Playwright + HTML/CSS)")
-    render_vars = {k: v for k, v in design.items() if k not in ("template", "reasoning")}
     try:
         image_path = render_template(
             template_name=template_name,
-            variables=render_vars,
-            bg_paths=bgs,
+            variables=design_vars,
+            bg_paths=bgs if bgs else None,
         )
         ok(f"Playwright レンダリング成功: {image_path.name}")
     except Exception as e:
         info(f"Playwright失敗 ({e}) → PILフォールバック")
         image_path = generate_image(
-            heading=f"{design.get('heading_lead', '')}\n{design.get('heading_accent', '')}",
-            subheading=f"{design.get('pill1_body', '')} / {design.get('pill2_body', '')}",
-            footer=design.get("footer", "ONE DAY PROMOTION  |  mireal.co.jp"),
+            heading=design_vars.get("heading", design_vars.get("heading_accent", "MIREAL")),
+            subheading=design_vars.get("subheading", design_vars.get("pill1_body", "")),
+            footer="ONE DAY PROMOTION  |  mireal.co.jp",
             bg_image_path=bgs[0] if bgs else None,
         )
     image_relative = image_path.relative_to(ROOT).as_posix()
@@ -436,7 +441,9 @@ def main():
         "format": theme["format"],
         "theme": theme["theme"],
         "template": template_name,
-        "heading_image": f"{design.get('heading_lead', '')}{design.get('heading_accent', '')}{design.get('heading_tail', '')}",
+        "heading_image": design_vars.get("heading") or (
+            f"{design_vars.get('heading_lead', '')}{design_vars.get('heading_accent', '')}{design_vars.get('heading_tail', '')}"
+        ),
         "caption_preview": post["caption"][:200],
         "image_url": image_url,
         "bgs_used": bg_names,

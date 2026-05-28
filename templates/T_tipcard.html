@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #FFF5EC;
+    --primary: #2B1810;
+    --primary-soft: #5C4232;
+    --accent: #E07856;
+    --accent-soft: #FFE4D6;
+    --badge-bg: #2B1810;
+    --badge-text: #FFF5EC;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden;
+    font-family: 'Noto Sans JP', sans-serif;
+    background: var(--bg); }
+  .canvas { width: 1080px; height: 1080px; position: relative; background: var(--bg); }
+
+  /* 装飾的な角アクセント */
+  .corner-deco {
+    position: absolute;
+    width: 120px; height: 120px;
+    border: 4px solid var(--accent);
+  }
+  .deco-tl { top: 60px; left: 60px; border-right: none; border-bottom: none; border-radius: 24px 0 0 0; }
+  .deco-br { bottom: 60px; right: 60px; border-left: none; border-top: none; border-radius: 0 0 24px 0; }
+
+  .content {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 140px 110px;
+    text-align: center;
+  }
+
+  .badge {
+    background: var(--badge-bg);
+    color: var(--badge-text);
+    padding: 14px 32px;
+    border-radius: 999px;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 56px;
+    display: inline-flex; align-items: center; gap: 12px;
+  }
+  .badge::before { content: ''; width: 8px; height: 8px; background: var(--accent); border-radius: 50%; }
+
+  .heading {
+    font-size: 78px;
+    font-weight: 900;
+    line-height: 1.32;
+    color: var(--primary);
+    letter-spacing: -0.5px;
+    margin-bottom: 40px;
+    white-space: pre-line;
+  }
+  .heading .highlight {
+    color: var(--accent);
+    border-bottom: 8px solid var(--accent-soft);
+    padding: 0 6px;
+  }
+
+  .subheading {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.85;
+    color: var(--primary-soft);
+    max-width: 760px;
+    white-space: pre-line;
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 60px; left: 0; right: 0;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 4px;
+    color: var(--primary-soft);
+    font-weight: 700;
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="corner-deco deco-tl"></div>
+  <div class="corner-deco deco-br"></div>
+  <div class="content">
+    <div class="badge">{{badge}}</div>
+    <h1 class="heading">{{heading}}</h1>
+    <p class="subheading">{{subheading}}</p>
+  </div>
+  <div class="footer">{{footer}}</div>
+</div>
+</body>
+</html>
