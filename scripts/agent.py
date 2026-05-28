@@ -319,13 +319,17 @@ def main():
     check_kill_switch()
     ok("kill switch OK")
 
-    # 2. 世情チェック
+    # 2. 世情チェック (SKIP_WORLD_CHECK=true で手動スキップ可)
     step("世情チェック")
-    safe, reason = is_safe_to_post()
-    print(reason)
-    if not safe and not dry_run:
-        print("🛑 世情NG、投稿中止", flush=True)
-        sys.exit(0)
+    skip_world = os.environ.get("SKIP_WORLD_CHECK", "false").lower() == "true"
+    if skip_world:
+        info("SKIP_WORLD_CHECK=true → 世情チェックを手動スキップ")
+    else:
+        safe, reason = is_safe_to_post()
+        print(reason)
+        if not safe and not dry_run:
+            print("🛑 世情NG、投稿中止", flush=True)
+            sys.exit(0)
 
     # 3. テーマ決定
     step("今日のテーマ決定")
