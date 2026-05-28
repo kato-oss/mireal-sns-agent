@@ -99,25 +99,31 @@ def strip_json_fence(content):
 
 
 def pick_background(history):
-    """assets/backgrounds/processed/ からランダムに1枚選ぶ。
+    """1枚だけ選ぶ。下位互換のため残す。"""
+    bgs = pick_backgrounds(history, count=1)
+    return bgs[0] if bgs else None
+
+
+def pick_backgrounds(history, count: int = 1):
+    """assets/backgrounds/processed/ から count 枚をランダムに選ぶ。
 
     直近5投稿で使われた背景は避ける（重複防止）。
-    フォルダが空・無ければ None を返し、PIL onlyにフォールバックさせる。
     """
     if not BG_DIR.exists():
-        return None
+        return []
     bgs = sorted(BG_DIR.glob("bg-*.jpg"))
     if not bgs:
-        return None
-    recent = set()
+        return []
+    recent_names = set()
     for p in history.get("posts", [])[-5:]:
-        bg_name = p.get("bg_used")
-        if bg_name:
-            recent.add(bg_name)
-    candidates = [bg for bg in bgs if bg.name not in recent]
-    if not candidates:
+        used = p.get("bgs_used") or ([p.get("bg_used")] if p.get("bg_used") else [])
+        for n in used:
+            if n:
+                recent_names.add(n)
+    candidates = [bg for bg in bgs if bg.name not in recent_names]
+    if len(candidates) < count:
         candidates = bgs
-    return random.choice(candidates)
+    return random.sample(candidates, min(count, len(candidates)))
 
 
 # ---------- core steps ----------
@@ -352,41 +358,37 @@ def main():
     else:
         fail("3回試したがセルフレビュー通過せず、投稿中止")
 
-    # 6. デザイナーエージェントがテンプレート選択 + テキスト微調整
+    # 6. デザイナーエージェントがテンプレート選択 + コピー構造化
     step("デザイナーエージェント (テンプレート選定)")
     design = design_post(client, post, theme, model=REVIEW_MODEL)
     template_name = design["template"]
     info(f"テンプレート: {template_name}")
     info(f"理由: {design.get('reasoning', '')}")
-    info(f"final heading: {design['heading']!r}")
-    info(f"final subheading: {design['subheading']!r}")
+    info(f"heading: {design.get('heading_lead', '')!r} + [{design.get('heading_accent', '')!r}] + {design.get('heading_tail', '')!r}")
+    info(f"pills: {design.get('pill1_tag')}/{design.get('pill1_body')} | {design.get('pill2_tag')}/{design.get('pill2_body')}")
 
-    # 7. 背景選択
-    bg_path = pick_background(history)
-    bg_name = bg_path.name if bg_path else None
-    info(f"背景: {bg_name or '(なし)'}")
+    # 7. 背景写真選択 (T_campaign は 9枚使う)
+    bgs = pick_backgrounds(history, count=9 if template_name == "T_campaign" else 1)
+    bg_names = [b.name for b in bgs] if bgs else []
+    info(f"背景: {bg_names}")
 
     # 8. Playwright で HTML/CSS テンプレートをレンダリング
     step("画像レンダリング (Playwright + HTML/CSS)")
+    render_vars = {k: v for k, v in design.items() if k not in ("template", "reasoning")}
     try:
         image_path = render_template(
             template_name=template_name,
-            variables={
-                "heading": design["heading"],
-                "subheading": design["subheading"],
-                "footer": design.get("footer", "ONE DAY PROMOTION  |  mireal.co.jp"),
-            },
-            bg_path=bg_path,
+            variables=render_vars,
+            bg_paths=bgs,
         )
         ok(f"Playwright レンダリング成功: {image_path.name}")
     except Exception as e:
-        warn_msg = f"Playwright失敗 ({e}) → PILフォールバック"
-        info(warn_msg)
+        info(f"Playwright失敗 ({e}) → PILフォールバック")
         image_path = generate_image(
-            heading=design["heading"],
-            subheading=design["subheading"],
+            heading=f"{design.get('heading_lead', '')}\n{design.get('heading_accent', '')}",
+            subheading=f"{design.get('pill1_body', '')} / {design.get('pill2_body', '')}",
             footer=design.get("footer", "ONE DAY PROMOTION  |  mireal.co.jp"),
-            bg_image_path=bg_path,
+            bg_image_path=bgs[0] if bgs else None,
         )
     image_relative = image_path.relative_to(ROOT).as_posix()
     ok(f"生成: {image_relative}")
@@ -434,10 +436,10 @@ def main():
         "format": theme["format"],
         "theme": theme["theme"],
         "template": template_name,
-        "heading_image": design["heading"],
+        "heading_image": f"{design.get('heading_lead', '')}{design.get('heading_accent', '')}{design.get('heading_tail', '')}",
         "caption_preview": post["caption"][:200],
         "image_url": image_url,
-        "bg_used": bg_name,
+        "bgs_used": bg_names,
         "ig_media_id": ig_result.get("id"),
         "fb_post_id": fb_post_id,
     }

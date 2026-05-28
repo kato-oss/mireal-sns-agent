@@ -42,7 +42,17 @@ def substitute(template_html: str, variables: dict) -> str:
 
 
 async def _render(html: str, output_path: Path, quality: int = 92):
-    """Playwright で HTML をスクリーンショット"""
+    """Playwright で HTML をスクリーンショット
+
+    file:// の背景画像を正しくロードするため、HTML を ROOT 配下に一時保存して
+    goto() で開く。set_content() は about:blank コンテキストになり file:// URL が
+    制約されるため使わない。
+    """
+    # HTML をプロジェクトルート配下の一時パスに保存
+    tmp_html = ROOT / ".render_tmp.html"
+    tmp_html.write_text(html, encoding="utf-8")
+    tmp_url = tmp_html.resolve().as_uri()
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(args=["--no-sandbox"])
         context = await browser.new_context(
@@ -50,44 +60,63 @@ async def _render(html: str, output_path: Path, quality: int = 92):
             device_scale_factor=1,
         )
         page = await context.new_page()
-        await page.set_content(html, wait_until="networkidle")
-        # フォント読込完了を待つ
         try:
-            await page.evaluate("document.fonts.ready")
-        except Exception:
-            pass
-        await page.screenshot(
-            path=str(output_path),
-            type="jpeg",
-            quality=quality,
-            full_page=False,
-            clip={"x": 0, "y": 0, "width": CANVAS_SIZE, "height": CANVAS_SIZE},
-        )
-        await browser.close()
+            await page.goto(tmp_url, wait_until="networkidle")
+            # フォントと画像の読込完了を待つ
+            try:
+                await page.evaluate("document.fonts.ready")
+            except Exception:
+                pass
+            # 念のため少し待機（背景画像の描画用）
+            await page.wait_for_timeout(500)
+            await page.screenshot(
+                path=str(output_path),
+                type="jpeg",
+                quality=quality,
+                full_page=False,
+                clip={"x": 0, "y": 0, "width": CANVAS_SIZE, "height": CANVAS_SIZE},
+            )
+        finally:
+            await browser.close()
+            try:
+                tmp_html.unlink()
+            except Exception:
+                pass
 
 
 def render_template(
     template_name: str,
     variables: dict,
-    bg_path: Path | None = None,
+    bg_paths=None,
     output_path: Path | None = None,
 ) -> Path:
-    """テンプレートをレンダリングして JPG を保存、パスを返す"""
+    """テンプレートをレンダリングして JPG を保存、パスを返す
+
+    bg_paths:
+      - None: 背景なし
+      - Path: 単一背景。{{bg_url}} で参照
+      - list[Path]: 複数背景。{{bg_url_0}}, {{bg_url_1}}, ... と {{bg_url}}(=bg_url_0)
+    """
     template_path = TEMPLATES_DIR / f"{template_name}.html"
     if not template_path.exists():
         raise FileNotFoundError(f"Template not found: {template_path}")
 
     html = template_path.read_text(encoding="utf-8")
 
-    # bg_url の決定（file:// URL）
-    if bg_path:
-        bg_path = Path(bg_path).resolve()
-        if not bg_path.exists():
-            raise FileNotFoundError(f"Background not found: {bg_path}")
-        bg_url = bg_path.as_uri()
+    # bg_paths を list に正規化
+    if bg_paths is None:
+        paths = []
+    elif isinstance(bg_paths, (str, Path)):
+        paths = [Path(bg_paths)]
     else:
-        bg_url = ""
-    variables = {**variables, "bg_url": bg_url}
+        paths = [Path(p) for p in bg_paths]
+
+    for i, p in enumerate(paths):
+        p = p.resolve()
+        if not p.exists():
+            raise FileNotFoundError(f"Background not found: {p}")
+        variables[f"bg_url_{i}"] = p.as_uri()
+    variables["bg_url"] = paths[0].resolve().as_uri() if paths else ""
 
     html = substitute(html, variables)
 
@@ -112,15 +141,26 @@ if __name__ == "__main__":
     bg_dir = ROOT / "assets" / "backgrounds" / "processed"
     bgs = sorted(bg_dir.glob("bg-*.jpg")) if bg_dir.exists() else []
     tpl = sys.argv[1] if len(sys.argv) > 1 else random.choice(tpls)
-    bg = random.choice(bgs) if bgs else None
+    # T_campaign は 9 枚使う、それ以外は 1 枚
+    if tpl.startswith("T_campaign") and len(bgs) >= 9:
+        chosen_bgs = random.sample(bgs, 9)
+    else:
+        chosen_bgs = [random.choice(bgs)] if bgs else []
 
     path = render_template(
         template_name=tpl,
         variables={
+            "heading_lead": "中小企業の動画は",
+            "heading_accent": "¥98,000",
+            "heading_tail": "から",
+            "pill1_tag": "速度",
+            "pill1_body": "1日で完結",
+            "pill2_tag": "価格",
+            "pill2_body": "税別 ¥98,000",
+            "footer": "ONE DAY PROMOTION  |  mireal.co.jp",
             "heading": "地方の小売店\nを動画で照らす",
             "subheading": "全国47都道府県、出張撮影。\n地域に根ざした1日完結の動画制作。",
-            "footer": "ONE DAY PROMOTION  |  mireal.co.jp",
         },
-        bg_path=bg,
+        bg_paths=chosen_bgs,
     )
-    print(f"Generated: {path}  (template: {tpl}, bg: {bg.name if bg else 'none'})")
+    print(f"Generated: {path}  (template: {tpl}, bgs: {len(chosen_bgs)})")
