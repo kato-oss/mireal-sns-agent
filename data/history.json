@@ -1,3 +1,20 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "timestamp": "2026-05-28T05:02:36Z",
+      "date": "2026-05-28",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "D",
+      "format": "F3",
+      "theme": "「撮影〜納品早回し」",
+      "template": "T_tipcard",
+      "heading_image": "1日で完結する\n制作フローの正体",
+      "caption_preview": "「動画制作って、なんでそんなに時間かかるの?」\nよく聞かれます。\n\n通常、撮影〜納品まで2〜4週間。\n企画書、絵コンテ、ロケハン、撮影、編集、修正往復...\n工程が多いほど、時間もコストも膨らみます。\n\nMIREALの ONE DAY PROMOTION は、ここを根本から組み直しました。\n\n午前: 打ち合わせと同時に撮影セッティング\n昼前後: 本番撮影(目安2〜3時間)\n午後: その場で編集スタ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-28.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18590866450039789",
+      "fb_post_id": "1120701334458496_122106166989301053"
+    }
+  ]
 }
