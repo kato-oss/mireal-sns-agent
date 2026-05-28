@@ -1,6 +1,34 @@
 {
   "date": "2026-05-28",
-  "ig": {},
-  "fb": {},
-  "posts": []
+  "ig": {
+    "username": "mireal_inc",
+    "followers": 403,
+    "follows": 5,
+    "media_count": 138,
+    "reach": 5,
+    "profile_views": 2,
+    "website_clicks": 0
+  },
+  "fb": {
+    "name": "MIREAL.Official",
+    "followers": 1,
+    "fan_count": 1
+  },
+  "posts": [
+    {
+      "date": "2026-05-28",
+      "ig_media_id": "18590866450039789",
+      "pillar": "D",
+      "format": "F3",
+      "template": "T_tipcard",
+      "metrics": {
+        "reach": 4,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    }
+  ]
 }
