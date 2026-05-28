@@ -11,7 +11,6 @@ venv/
 .DS_Store
 node_modules/
 data/insights/raw/
-data/images/generated/
 .claude/
 
 # Raw stock photos under assets/backgrounds/ are gitignored (huge).
