@@ -360,9 +360,13 @@ def main():
 
     # 6. デザイナーエージェントがテンプレート選択 + コピー構造化
     step("デザイナーエージェント (テンプレート選定)")
-    design = design_post(client, post, theme, model=REVIEW_MODEL)
+    force_tpl = (os.environ.get("FORCE_TEMPLATE") or "").strip() or None
+    if force_tpl:
+        info(f"FORCE_TEMPLATE={force_tpl} を強制指定")
+    design = design_post(client, post, theme, model=REVIEW_MODEL, force_template=force_tpl)
     template_name = design["template"]
     design_vars = design.get("variables", {})
+
     info(f"テンプレート: {template_name}")
     info(f"理由: {design.get('reasoning', '')}")
     info(f"変数: {json.dumps(design_vars, ensure_ascii=False, indent=2)}")

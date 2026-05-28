@@ -94,9 +94,15 @@ def strip_json_fence(content: str) -> str:
     return content.strip()
 
 
-def design_post(client, post: dict, theme: dict, model: str) -> dict:
+def design_post(client, post: dict, theme: dict, model: str, force_template: str | None = None) -> dict:
+    # force_template が指定されていれば、そのテンプレだけを Claude に見せる
+    if force_template and force_template in TEMPLATE_SPECS:
+        active_specs = {force_template: TEMPLATE_SPECS[force_template]}
+    else:
+        active_specs = TEMPLATE_SPECS
+
     tpl_listing_lines = []
-    for tid, spec in TEMPLATE_SPECS.items():
+    for tid, spec in active_specs.items():
         schema_lines = "\n    ".join(f"- {k}: {v}" for k, v in spec["variables_schema"].items())
         tpl_listing_lines.append(
             f"## {tid}\n"
@@ -106,8 +112,13 @@ def design_post(client, post: dict, theme: dict, model: str) -> dict:
         )
     tpl_listing = "\n\n".join(tpl_listing_lines)
 
+    force_note = ""
+    if force_template:
+        force_note = f"\n# 制約\n強制指定: **{force_template}** を必ず使用する。下記の選定ルールは無視し、このテンプレに合うようにコピーを最適化する。\n"
+
     prompt = f"""あなたはMIREALのシニアアートディレクターです。
-今日のSNS投稿のために、4つのデザインテンプレから最適を1つ選び、そのテンプレに必要な変数を全て生成してください。
+今日のSNS投稿のために、最適なテンプレを選び、そのテンプレに必要な変数を全て生成してください。
+{force_note}
 
 # 投稿内容
 - pillar: {theme['pillar']} (A=スピード, B=価格, C=中小企業フィット, D=専門性, E=全国対応)

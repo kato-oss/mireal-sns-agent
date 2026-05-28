@@ -14,6 +14,17 @@ on:
         description: "Force pillar A-E (blank = use calendar)"
         type: string
         default: ""
+      force_template:
+        description: "Force template (blank = designer picks)"
+        type: choice
+        options:
+          - ""
+          - T_campaign
+          - T_listicle
+          - T_overlay
+          - T_tipcard
+          - T_softbg
+        default: ""
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
@@ -61,6 +72,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DRY_RUN: ${{ inputs.dry_run }}
           FORCE_PILLAR: ${{ inputs.force_pillar }}
+          FORCE_TEMPLATE: ${{ inputs.force_template }}
           GH_REPO: ${{ github.repository }}
         run: python scripts/agent.py
 
