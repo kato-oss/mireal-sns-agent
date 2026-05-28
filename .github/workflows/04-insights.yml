@@ -1,0 +1,48 @@
+name: 04 - Daily Insights
+
+on:
+  schedule:
+    # 23:00 JST = 14:00 UTC, daily (after morning posts are out for ~15h)
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  fetch-insights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch insights
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+        run: python scripts/fetch_insights.py
+
+      - name: Commit insights data
+        run: |
+          git config user.email "insights@mireal.co.jp"
+          git config user.name "MIREAL Insights Agent"
+          git add data/insights/
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "insights: snapshot $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
