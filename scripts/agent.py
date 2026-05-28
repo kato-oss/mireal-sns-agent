@@ -18,6 +18,7 @@ import os
 import sys
 import json
 import re
+import random
 import subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -35,6 +36,7 @@ PLAYBOOK_DIR = ROOT / "playbook"
 DATA_DIR = ROOT / "data"
 HISTORY_FILE = DATA_DIR / "history.json"
 KILL_SWITCH_FILE = ROOT / "kill_switch.txt"
+BG_DIR = ROOT / "assets" / "backgrounds" / "processed"
 
 JST = timezone(timedelta(hours=9))
 
@@ -92,6 +94,28 @@ def strip_json_fence(content):
     content = re.sub(r"^```(?:json)?\s*", "", content)
     content = re.sub(r"\s*```$", "", content)
     return content.strip()
+
+
+def pick_background(history):
+    """assets/backgrounds/processed/ からランダムに1枚選ぶ。
+
+    直近5投稿で使われた背景は避ける（重複防止）。
+    フォルダが空・無ければ None を返し、PIL onlyにフォールバックさせる。
+    """
+    if not BG_DIR.exists():
+        return None
+    bgs = sorted(BG_DIR.glob("bg-*.jpg"))
+    if not bgs:
+        return None
+    recent = set()
+    for p in history.get("posts", [])[-5:]:
+        bg_name = p.get("bg_used")
+        if bg_name:
+            recent.add(bg_name)
+    candidates = [bg for bg in bgs if bg.name not in recent]
+    if not candidates:
+        candidates = bgs
+    return random.choice(candidates)
 
 
 # ---------- core steps ----------
@@ -326,12 +350,19 @@ def main():
     else:
         fail("3回試したがセルフレビュー通過せず、投稿中止")
 
-    # 6. 画像生成
-    step("画像生成 (PIL)")
+    # 6. 画像生成 (背景写真 + テキスト合成)
+    step("画像生成 (背景写真 + テキスト合成)")
+    bg_path = pick_background(history)
+    bg_name = bg_path.name if bg_path else None
+    if bg_path:
+        info(f"背景: {bg_name}")
+    else:
+        info("背景写真なし → PIL ソリッド背景にフォールバック")
     image_path = generate_image(
         heading=post.get("heading_image", ""),
         subheading=post.get("subheading_image", ""),
         footer=post.get("footer_image", "MIREAL.Official  |  mireal.co.jp"),
+        bg_image_path=bg_path,
     )
     image_relative = image_path.relative_to(ROOT).as_posix()
     ok(f"生成: {image_relative}")
@@ -381,6 +412,7 @@ def main():
         "heading_image": post.get("heading_image", ""),
         "caption_preview": post["caption"][:200],
         "image_url": image_url,
+        "bg_used": bg_name,
         "ig_media_id": ig_result.get("id"),
         "fb_post_id": fb_post_id,
     }

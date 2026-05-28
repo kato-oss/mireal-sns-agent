@@ -13,3 +13,16 @@ node_modules/
 data/insights/raw/
 data/images/generated/
 .claude/
+
+# Raw stock photos under assets/backgrounds/ are gitignored (huge).
+# Only the resized output under assets/backgrounds/processed/ is committed.
+assets/backgrounds/*.jpg
+assets/backgrounds/*.jpeg
+assets/backgrounds/*.png
+assets/backgrounds/*.JPG
+assets/backgrounds/*.JPEG
+assets/backgrounds/*.PNG
+!assets/backgrounds/processed/
+!assets/backgrounds/processed/**
+!assets/backgrounds/README.md
+!assets/backgrounds/.gitkeep

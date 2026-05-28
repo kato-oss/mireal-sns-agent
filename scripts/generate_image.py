@@ -90,7 +90,7 @@ def auto_fit_font(
     draw, text, max_width, max_height, max_lines, base_size,
     bold=True, min_size=32, line_height_factor=1.15,
 ):
-    """テキストが領域に収まる最大フォントサイズを段階的に探す"""
+    """テキストが領域に収まる最大フォントサイズを段階的に探す (自動折り返しあり)"""
     size = base_size
     while size >= min_size:
         font = load_font(size, bold=bold)
@@ -106,6 +106,32 @@ def auto_fit_font(
     return font, lines, line_h
 
 
+def auto_fit_font_strict(
+    draw, text, max_width, max_height, base_size,
+    bold=True, min_size=32, line_height_factor=1.15,
+):
+    """改行(\\n)を尊重して、各行が max_width に収まる最大フォントサイズを返す。
+
+    自動折り返しは一切しない（heading 用）。
+    どうしても min_size でも入らなければ妥協してそのまま返す。
+    """
+    paragraphs = [p for p in text.split("\n") if p]
+    if not paragraphs:
+        paragraphs = [""]
+    size = base_size
+    while size >= min_size:
+        font = load_font(size, bold=bold)
+        max_w = max(measure(draw, p, font)[0] for p in paragraphs)
+        line_h = int(measure(draw, "あ", font)[1] * line_height_factor)
+        total_h = line_h * len(paragraphs)
+        if max_w <= max_width and total_h <= max_height:
+            return font, paragraphs, line_h
+        size -= 4
+    font = load_font(min_size, bold=bold)
+    line_h = int(measure(draw, "あ", font)[1] * line_height_factor)
+    return font, paragraphs, line_h
+
+
 def draw_lines_centered(draw, lines, font, line_h, y_start, color, x_center):
     y = y_start
     for line in lines:
@@ -116,9 +142,28 @@ def draw_lines_centered(draw, lines, font, line_h, y_start, color, x_center):
     return y
 
 
-def generate_image(heading, subheading="", footer="MIREAL.Official  |  mireal.co.jp", output_path=None):
-    """ブランド画像を生成して JPG として保存"""
-    img = Image.new("RGB", (CANVAS_SIZE, CANVAS_SIZE), BG_DEEP)
+def generate_image(
+    heading,
+    subheading="",
+    footer="MIREAL.Official  |  mireal.co.jp",
+    output_path=None,
+    bg_image_path=None,
+    overlay_strength=0.55,
+):
+    """ブランド画像を生成して JPG として保存
+
+    bg_image_path が指定されれば、その画像を背景にして暗化オーバーレイ + テキスト合成。
+    指定されなければソリッドの濃紺背景にテキストのみ。
+    """
+    if bg_image_path:
+        with Image.open(bg_image_path) as src:
+            src = src.convert("RGB")
+            if src.size != (CANVAS_SIZE, CANVAS_SIZE):
+                src = src.resize((CANVAS_SIZE, CANVAS_SIZE), Image.LANCZOS)
+            black = Image.new("RGB", src.size, (0, 0, 0))
+            img = Image.blend(src, black, overlay_strength)
+    else:
+        img = Image.new("RGB", (CANVAS_SIZE, CANVAS_SIZE), BG_DEEP)
     draw = ImageDraw.Draw(img)
     x_center = CANVAS_SIZE // 2
 
@@ -140,15 +185,14 @@ def generate_image(heading, subheading="", footer="MIREAL.Official  |  mireal.co
     # ============================================================
     content_max_w = CANVAS_SIZE - SAFE_MARGIN_X * 2
 
-    # heading
-    h_font, h_lines, h_lh = auto_fit_font(
+    # heading (strict mode: 改行を尊重、自動折返ししない)
+    h_font, h_lines, h_lh = auto_fit_font_strict(
         draw, heading,
         max_width=content_max_w,
-        max_height=480,
-        max_lines=3,
+        max_height=520,
         base_size=140,
         bold=True,
-        min_size=64,
+        min_size=56,
         line_height_factor=1.18,
     )
     h_block_h = h_lh * len(h_lines)
@@ -226,10 +270,15 @@ def generate_image(heading, subheading="", footer="MIREAL.Official  |  mireal.co
 
 
 if __name__ == "__main__":
-    # スタンドアロンテスト
+    # スタンドアロンテスト (背景を1枚ランダムに選ぶ)
+    import random
+    bg_dir = Path(__file__).parent.parent / "assets" / "backgrounds" / "processed"
+    bgs = sorted(bg_dir.glob("bg-*.jpg")) if bg_dir.exists() else []
+    bg = random.choice(bgs) if bgs else None
     path = generate_image(
         heading="地方の小売店\nを動画で照らす",
         subheading="全国47都道府県、出張撮影。\n地域に根ざした1日完結の動画制作。",
         footer="ONE DAY PROMOTION  |  mireal.co.jp",
+        bg_image_path=bg,
     )
-    print(f"Generated: {path}")
+    print(f"Generated: {path}  (bg: {bg.name if bg else 'PIL only'})")
