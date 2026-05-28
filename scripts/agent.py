@@ -30,6 +30,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from generate_image import generate_image          # noqa: E402
 from world_check import is_safe_to_post            # noqa: E402
 from post_to_meta import post_to_ig, post_to_fb    # noqa: E402
+from designer import design_post                   # noqa: E402
+from render_html import render_template            # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 PLAYBOOK_DIR = ROOT / "playbook"
@@ -350,20 +352,42 @@ def main():
     else:
         fail("3回試したがセルフレビュー通過せず、投稿中止")
 
-    # 6. 画像生成 (背景写真 + テキスト合成)
-    step("画像生成 (背景写真 + テキスト合成)")
+    # 6. デザイナーエージェントがテンプレート選択 + テキスト微調整
+    step("デザイナーエージェント (テンプレート選定)")
+    design = design_post(client, post, theme, model=REVIEW_MODEL)
+    template_name = design["template"]
+    info(f"テンプレート: {template_name}")
+    info(f"理由: {design.get('reasoning', '')}")
+    info(f"final heading: {design['heading']!r}")
+    info(f"final subheading: {design['subheading']!r}")
+
+    # 7. 背景選択
     bg_path = pick_background(history)
     bg_name = bg_path.name if bg_path else None
-    if bg_path:
-        info(f"背景: {bg_name}")
-    else:
-        info("背景写真なし → PIL ソリッド背景にフォールバック")
-    image_path = generate_image(
-        heading=post.get("heading_image", ""),
-        subheading=post.get("subheading_image", ""),
-        footer=post.get("footer_image", "MIREAL.Official  |  mireal.co.jp"),
-        bg_image_path=bg_path,
-    )
+    info(f"背景: {bg_name or '(なし)'}")
+
+    # 8. Playwright で HTML/CSS テンプレートをレンダリング
+    step("画像レンダリング (Playwright + HTML/CSS)")
+    try:
+        image_path = render_template(
+            template_name=template_name,
+            variables={
+                "heading": design["heading"],
+                "subheading": design["subheading"],
+                "footer": design.get("footer", "ONE DAY PROMOTION  |  mireal.co.jp"),
+            },
+            bg_path=bg_path,
+        )
+        ok(f"Playwright レンダリング成功: {image_path.name}")
+    except Exception as e:
+        warn_msg = f"Playwright失敗 ({e}) → PILフォールバック"
+        info(warn_msg)
+        image_path = generate_image(
+            heading=design["heading"],
+            subheading=design["subheading"],
+            footer=design.get("footer", "ONE DAY PROMOTION  |  mireal.co.jp"),
+            bg_image_path=bg_path,
+        )
     image_relative = image_path.relative_to(ROOT).as_posix()
     ok(f"生成: {image_relative}")
 
@@ -409,7 +433,8 @@ def main():
         "pillar": theme["pillar"],
         "format": theme["format"],
         "theme": theme["theme"],
-        "heading_image": post.get("heading_image", ""),
+        "template": template_name,
+        "heading_image": design["heading"],
         "caption_preview": post["caption"][:200],
         "image_url": image_url,
         "bg_used": bg_name,

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden; font-family: 'Noto Sans JP', sans-serif; }
+  .canvas {
+    width: 1080px; height: 1080px; position: relative;
+    background-image: url('{{bg_url}}');
+    background-size: cover; background-position: center;
+  }
+  .overlay {
+    position: absolute; inset: 0;
+    background: rgba(8,28,51,0.55);
+  }
+  .content {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    padding: 80px;
+  }
+  .card {
+    background: #FAFAFA;
+    width: 880px;
+    padding: 80px 72px;
+    border-left: 6px solid #E6FF00;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.4);
+    color: #081C33;
+  }
+  .brand-row {
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 48px;
+  }
+  .brand {
+    font-size: 18px; letter-spacing: 6px;
+    font-weight: 700; color: #081C33;
+  }
+  .brand-line {
+    flex: 0 0 28px; height: 2px; background: #E6FF00;
+  }
+  .heading {
+    font-size: 80px; font-weight: 900;
+    line-height: 1.18;
+    letter-spacing: -1px;
+    color: #081C33;
+    white-space: pre-line;
+  }
+  .accent {
+    width: 60px; height: 3px;
+    background: #E6FF00;
+    margin: 32px 0 28px;
+  }
+  .subheading {
+    font-size: 28px; font-weight: 400;
+    line-height: 1.65;
+    color: rgba(8,28,51,0.78);
+    white-space: pre-line;
+  }
+  .footer {
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid rgba(8,28,51,0.18);
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: rgba(8,28,51,0.55);
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="overlay"></div>
+  <div class="content">
+    <div class="card">
+      <div class="brand-row">
+        <div class="brand">MIREAL</div>
+        <div class="brand-line"></div>
+      </div>
+      <h1 class="heading">{{heading}}</h1>
+      <div class="accent"></div>
+      <p class="subheading">{{subheading}}</p>
+      <div class="footer">{{footer}}</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

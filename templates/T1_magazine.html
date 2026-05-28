@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden; font-family: 'Noto Sans JP', sans-serif; }
+  .canvas {
+    width: 1080px; height: 1080px; position: relative;
+    background-image: url('{{bg_url}}');
+    background-size: cover; background-position: center;
+  }
+  .overlay {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg,
+      rgba(0,0,0,0.30) 0%,
+      rgba(8,28,51,0.55) 45%,
+      rgba(8,28,51,0.92) 100%
+    );
+  }
+  .content {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    padding: 80px;
+    color: #FFFFFF;
+  }
+  .brand-row {
+    display: flex; align-items: center; gap: 16px;
+  }
+  .brand {
+    font-size: 22px; letter-spacing: 8px;
+    font-weight: 700;
+  }
+  .brand-line {
+    flex: 0 0 40px; height: 2px; background: #E6FF00;
+  }
+  .spacer { flex: 1; }
+  .heading {
+    font-size: 102px; font-weight: 900;
+    line-height: 1.12;
+    letter-spacing: -1px;
+    white-space: pre-line;
+  }
+  .accent {
+    width: 72px; height: 4px;
+    background: #E6FF00;
+    margin: 36px 0 32px;
+  }
+  .subheading {
+    font-size: 32px; font-weight: 400;
+    line-height: 1.6;
+    color: rgba(255,255,255,0.88);
+    white-space: pre-line;
+  }
+  .footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid rgba(255,255,255,0.25);
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: rgba(255,255,255,0.7);
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="overlay"></div>
+  <div class="content">
+    <div class="brand-row">
+      <div class="brand">MIREAL</div>
+      <div class="brand-line"></div>
+    </div>
+    <div class="spacer"></div>
+    <h1 class="heading">{{heading}}</h1>
+    <div class="accent"></div>
+    <p class="subheading">{{subheading}}</p>
+    <div class="footer">{{footer}}</div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden; font-family: 'Noto Sans JP', sans-serif; }
+  .canvas { width: 1080px; height: 1080px; display: flex; flex-direction: column; }
+  .photo {
+    height: 540px;
+    background-image: url('{{bg_url}}');
+    background-size: cover; background-position: center;
+    position: relative;
+  }
+  .photo::after {
+    content: ''; position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 30%, rgba(8,28,51,0.55) 100%);
+  }
+  .brand-tag {
+    position: absolute; top: 48px; left: 60px;
+    display: flex; align-items: center; gap: 14px;
+    z-index: 2; color: #FFFFFF;
+  }
+  .brand {
+    font-size: 22px; letter-spacing: 8px;
+    font-weight: 700;
+  }
+  .brand-line {
+    width: 40px; height: 2px; background: #E6FF00;
+  }
+  .panel {
+    flex: 1; background: #081C33;
+    padding: 64px 70px;
+    display: flex; flex-direction: column;
+    color: #FFFFFF;
+    position: relative;
+  }
+  .panel::before {
+    content: ''; position: absolute; top: 0; left: 70px;
+    width: 80px; height: 5px; background: #E6FF00;
+  }
+  .heading {
+    font-size: 76px; font-weight: 900;
+    line-height: 1.14;
+    letter-spacing: -1px;
+    margin-top: 16px;
+    white-space: pre-line;
+  }
+  .subheading {
+    font-size: 26px; font-weight: 400;
+    line-height: 1.65;
+    color: rgba(255,255,255,0.82);
+    margin-top: 24px;
+    white-space: pre-line;
+  }
+  .footer {
+    margin-top: auto;
+    padding-top: 20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: rgba(255,255,255,0.6);
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="photo">
+    <div class="brand-tag">
+      <span class="brand">MIREAL</span>
+      <span class="brand-line"></span>
+    </div>
+  </div>
+  <div class="panel">
+    <h1 class="heading">{{heading}}</h1>
+    <p class="subheading">{{subheading}}</p>
+    <div class="footer">{{footer}}</div>
+  </div>
+</div>
+</body>
+</html>
