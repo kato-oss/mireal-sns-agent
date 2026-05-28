@@ -69,6 +69,21 @@ TEMPLATE_SPECS = {
             "footer": "固定",
         },
     },
+    "T_softbg": {
+        "desc": (
+            "クリーム背景に写真を22%不透明度でテクスチャとして重ねる + "
+            "Serif (明朝系) フォントでタイポを上品に組む + 中央センター配置。"
+            "雑誌スプレッド/編集デザインの高級感。写真の主張を抑えて、文字で語る。"
+        ),
+        "best_for": "ブランドメッセージ系、ビジョン訴求、感情的・情緒的なメッセージ、"
+                    "「動画でビジネスを動かす」など本質訴求",
+        "variables_schema": {
+            "label": "上部の小ラベル、英字推奨 6〜18字。例: 'CREATIVE STUDIO' 'EDITORIAL' 'BUSINESS VISION'",
+            "heading": "1〜2行、合計14〜22字。Serifで描画されるので情緒的に。",
+            "subheading": "30〜70字。",
+            "footer": "固定",
+        },
+    },
 }
 
 
@@ -111,6 +126,7 @@ def design_post(client, post: dict, theme: dict, model: str) -> dict:
 - format F2 (数字インパクト) → **T_campaign** (リード+アクセント数字+ピル構造)
 - format F5 (事例紹介) → **T_overlay** (写真+白カード) または **T_campaign**
 - 柱D 専門性訴求で写真より概念訴求 → **T_tipcard** (無地クリーム)
+- 情緒的・ブランドメッセージ・本質訴求 → **T_softbg** (Serif編集デザイン)
 - 柱A/B/C/Eで写真ベース → **T_listicle** or **T_overlay** or **T_campaign**
 - 連続して同じテンプレを使わない（直近 history を確認できる場合）
 

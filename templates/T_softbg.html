@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F4ECDD;
+    --primary: #2A1F18;
+    --primary-soft: #5C4837;
+    --accent: #C45A3D;
+    --badge-bg: #2A1F18;
+    --badge-text: #F4ECDD;
+    --line: #C45A3D;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden;
+    font-family: 'Noto Sans JP', sans-serif;
+    background: var(--bg); }
+  .canvas {
+    width: 1080px; height: 1080px;
+    position: relative; background: var(--bg);
+    overflow: hidden;
+  }
+
+  /* 写真を低不透明度で背景テクスチャとして重ねる */
+  .photo-bg {
+    position: absolute; inset: 0;
+    background-image: url('{{bg_url}}');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.22;
+    mix-blend-mode: multiply;
+  }
+
+  /* 上下のグラデで写真の存在感を中央寄りに */
+  .vignette {
+    position: absolute; inset: 0;
+    background: radial-gradient(
+      ellipse at center,
+      rgba(244,236,221,0) 30%,
+      rgba(244,236,221,0.6) 100%
+    );
+  }
+
+  .content {
+    position: relative; z-index: 2;
+    width: 100%; height: 100%;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 130px 110px;
+    text-align: center;
+  }
+
+  /* ラベル: serifで上品に */
+  .label {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 12px;
+    color: var(--primary-soft);
+    margin-bottom: 28px;
+    text-transform: uppercase;
+  }
+  .label-line {
+    width: 56px; height: 1px;
+    background: var(--primary-soft);
+    margin: 0 auto 56px;
+  }
+
+  .heading {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 86px;
+    font-weight: 900;
+    line-height: 1.4;
+    color: var(--primary);
+    letter-spacing: -0.5px;
+    white-space: pre-line;
+    margin-bottom: 56px;
+  }
+  .heading .accent {
+    color: var(--accent);
+    font-style: italic;
+  }
+
+  .subheading {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 2;
+    color: var(--primary-soft);
+    max-width: 720px;
+    white-space: pre-line;
+    letter-spacing: 1px;
+  }
+
+  .footer-row {
+    position: absolute;
+    bottom: 60px; left: 0; right: 0;
+    display: flex; justify-content: center; align-items: center;
+    gap: 18px;
+    z-index: 2;
+  }
+  .footer-line {
+    width: 40px; height: 1px;
+    background: var(--primary-soft);
+  }
+  .footer-text {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 16px;
+    letter-spacing: 4px;
+    color: var(--primary-soft);
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="photo-bg"></div>
+  <div class="vignette"></div>
+  <div class="content">
+    <div class="label">{{label}}</div>
+    <div class="label-line"></div>
+    <h1 class="heading">{{heading}}</h1>
+    <p class="subheading">{{subheading}}</p>
+  </div>
+  <div class="footer-row">
+    <div class="footer-line"></div>
+    <div class="footer-text">{{footer}}</div>
+    <div class="footer-line"></div>
+  </div>
+</div>
+</body>
+</html>

@@ -367,12 +367,13 @@ def main():
     info(f"理由: {design.get('reasoning', '')}")
     info(f"変数: {json.dumps(design_vars, ensure_ascii=False, indent=2)}")
 
-    # 7. 背景写真選択 (T_campaign は 9枚、T_tipcard は 0枚、それ以外は 1枚)
+    # 7. 背景写真選択 (テンプレ別)
     if template_name == "T_campaign":
         bg_count = 9
     elif template_name == "T_tipcard":
         bg_count = 0
     else:
+        # T_listicle / T_overlay / T_softbg は 1枚
         bg_count = 1
     bgs = pick_backgrounds(history, count=bg_count) if bg_count > 0 else []
     bg_names = [b.name for b in bgs] if bgs else []
