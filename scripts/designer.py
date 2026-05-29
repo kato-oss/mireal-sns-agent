@@ -138,6 +138,7 @@ def design_post(client, post: dict, theme: dict, model: str, force_template: str
 - format F5 (事例紹介) → **T_overlay** (写真+白カード) または **T_campaign**
 - 柱D 専門性訴求で写真より概念訴求 → **T_tipcard** (無地クリーム)
 - 情緒的・ブランドメッセージ・本質訴求 → **T_softbg** (Serif編集デザイン)
+- **pillar R (クリエイター募集)** → **T_overlay** (写真+白カード、求人広告感) または **T_tipcard** (無地クリーンな募集案内) または **T_campaign** (構造化された募集情報)。T_listicle (X選) と T_softbg (情緒的) は避ける。heading は「映像クリエイター 募集」固定なので、T_campaign の場合は heading_lead='映像クリエイター' / heading_accent='募集' / heading_tail='' とする。
 - 柱A/B/C/Eで写真ベース → **T_listicle** or **T_overlay** or **T_campaign**
 - 連続して同じテンプレを使わない（直近 history を確認できる場合）
 
