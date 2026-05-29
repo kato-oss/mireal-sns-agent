@@ -1,0 +1,89 @@
+name: 06 - Daily Overseas Video News (x3/day)
+
+on:
+  schedule:
+    # 1日3回: JST 10:00 / 15:00 / 19:00
+    - cron: "0 1 * * *"   # 10:00 JST
+    - cron: "0 6 * * *"   # 15:00 JST
+    - cron: "0 10 * * *"  # 19:00 JST
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run mode"
+        type: boolean
+        default: true
+      force_template:
+        description: "Force template (blank = designer picks)"
+        type: choice
+        options:
+          - ""
+          - T_campaign
+          - T_listicle
+          - T_overlay
+          - T_tipcard
+          - T_softbg
+        default: ""
+      skip_world_check:
+        description: "Skip world events safety check"
+        type: boolean
+        default: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  news-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Noto CJK fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
+
+      - name: Install Playwright Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run news agent
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODE: news
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE_TEMPLATE: ${{ inputs.force_template }}
+          SKIP_WORLD_CHECK: ${{ inputs.skip_world_check }}
+          GH_REPO: ${{ github.repository }}
+        run: python scripts/agent.py
+
+      - name: Upload generated image (dry run preview)
+        if: ${{ inputs.dry_run == true && always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run-news-image-${{ github.run_id }}
+          path: data/images/generated/
+          retention-days: 7
+          if-no-files-found: ignore

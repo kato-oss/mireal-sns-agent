@@ -139,6 +139,7 @@ def design_post(client, post: dict, theme: dict, model: str, force_template: str
 - 柱D 専門性訴求で写真より概念訴求 → **T_tipcard** (無地クリーム)
 - 情緒的・ブランドメッセージ・本質訴求 → **T_softbg** (Serif編集デザイン)
 - **pillar R (クリエイター募集)** → **T_overlay** (写真+白カード、求人広告感) または **T_tipcard** (無地クリーンな募集案内) または **T_campaign** (構造化された募集情報)。T_listicle (X選) と T_softbg (情緒的) は避ける。heading は「映像クリエイター 募集」固定なので、T_campaign の場合は heading_lead='映像クリエイター' / heading_accent='募集' / heading_tail='' とする。
+- **pillar N (海外映像ニュース)** → **T_listicle** (上部 'VIDEO NEWS' タグ + 大見出し) または **T_overlay** (写真+白カードでニュース感) または **T_softbg** (Serif編集デザインで雑誌風) を推奨。T_campaign (キャンペーン感が強い) は避ける。top_tag は「海外ニュース」「VIDEO NEWS」「FILM TECH」等を使う。
 - 柱A/B/C/Eで写真ベース → **T_listicle** or **T_overlay** or **T_campaign**
 - 連続して同じテンプレを使わない（直近 history を確認できる場合）
 
