@@ -41,6 +41,24 @@
       ],
       "ig_media_id": "17890357083522377",
       "fb_post_id": "1120701334458496_122106331101301053"
+    },
+    {
+      "timestamp": "2026-05-29T04:27:53Z",
+      "date": "2026-05-29",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "R",
+      "format": "RECRUIT",
+      "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+      "template": "T_overlay",
+      "heading_image": "映像クリエイター\n募集",
+      "caption_preview": "【映像クリエイター募集】\n\nMIREALでは下記ポジションを募集しています。今週は特に動画編集者・モーショングラファーを増員中です。\n\n■ 募集職種\n・動画編集者\n・モーショングラファー\n・ディレクター\n・カメラマン\n\n■ 働き方\n・案件単位での参加\n・フルリモートOK\n・副業・複業OK\n・全国の案件あり\n\n■ こんな方歓迎\n・編集ソフト（Premiere / After Effects等）の実務",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-29.jpg",
+      "bgs_used": [
+        "bg-003.jpg"
+      ],
+      "ig_media_id": "18146758318499550",
+      "fb_post_id": "1120701334458496_122106382635301053"
     }
   ]
 }
