@@ -15,6 +15,32 @@
       "bgs_used": [],
       "ig_media_id": "18590866450039789",
       "fb_post_id": "1120701334458496_122106166989301053"
+    },
+    {
+      "timestamp": "2026-05-29T00:17:09Z",
+      "date": "2026-05-29",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "C",
+      "format": "F2",
+      "theme": "「次の四半期、動画始めませんか」",
+      "template": "T_campaign",
+      "heading_image": "中小企業の最初の1本は¥98,000から",
+      "caption_preview": "「動画、そろそろやらなきゃ」\nそう思いながら、また一四半期が過ぎていませんか。\n\n中小企業の現場でよく聞く声があります。\n\n・予算は20万円くらいしか取れない\n・社内に動画担当はいない\n・何から作ればいいか分からない\n・大企業みたいな映像はいらない、でも雑なのは困る\n\nMIREALのONE DAY PROMOTIONは、まさにこの層のためにつくりました。\n\n撮影から編集、納品まで1日で完結。\n料金",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-29.jpg",
+      "bgs_used": [
+        "bg-086.jpg",
+        "bg-072.jpg",
+        "bg-011.jpg",
+        "bg-089.jpg",
+        "bg-090.jpg",
+        "bg-001.jpg",
+        "bg-085.jpg",
+        "bg-074.jpg",
+        "bg-005.jpg"
+      ],
+      "ig_media_id": "17890357083522377",
+      "fb_post_id": "1120701334458496_122106331101301053"
     }
   ]
 }
