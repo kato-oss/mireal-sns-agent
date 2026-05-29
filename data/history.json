@@ -117,6 +117,26 @@
       "fb_post_id": "1120701334458496_122106414135301053",
       "source_url": "https://nofilmschool.com/green-mile-quote",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-05-29T12:47:27Z",
+      "date": "2026-05-29",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Edit on Fire – Deploying the Frantic Energy of Flash Cut",
+      "template": "T_softbg",
+      "heading_image": "編集論：\nフラッシュカット",
+      "caption_preview": "【最新映像制作ニュース】\n\nCineDが編集技法「フラッシュカット」を深掘り。マッチカットの一種で、シームレスな繋ぎを目指す一般的な編集とは真逆に、観客の注意を強引に引きつける激しいスタイリッシュ編集として知られる手法です。\n\n■ 注目ポイント\n・フラッシュカットはマッチカットの極端な発展形。数フレーム単位の超短尺ショットを連打する編集スタイル\n・MV/SNSショート/予告編など、瞬間的に情報密度",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-29.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-29-214700.jpg"
+      ],
+      "ig_media_id": "17969188476118026",
+      "fb_post_id": "1120701334458496_122106435951301053",
+      "source_url": "https://www.cined.com/the-edit-on-fire-deploying-the-frantic-energy-of-flash-cuts/",
+      "source": "CineD"
     }
   ]
 }
