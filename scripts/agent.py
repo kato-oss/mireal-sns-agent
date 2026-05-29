@@ -45,6 +45,9 @@ JST = timezone(timedelta(hours=9))
 CONTENT_MODEL = os.environ.get("CLAUDE_CONTENT_MODEL", "claude-opus-4-7")
 REVIEW_MODEL = os.environ.get("CLAUDE_REVIEW_MODEL", "claude-opus-4-7")
 
+# 週次クリエイター募集用のフォーム
+RECRUIT_FORM_URL = "https://forms.gle/tUJwFQmTdDotYWN49"
+
 
 # ---------- utilities ----------
 
@@ -128,6 +131,19 @@ def pick_backgrounds(history, count: int = 1):
 
 # ---------- core steps ----------
 
+def recruit_theme() -> dict:
+    """週次クリエイター募集投稿のテーマ (CALENDAR を使わない)"""
+    now_jst = datetime.now(JST)
+    return {
+        "date": now_jst.strftime("%Y-%m-%d"),
+        "weekday": ["月", "火", "水", "木", "金", "土", "日"][now_jst.weekday()],
+        "week_num": min(((now_jst.day - 1) // 7) + 1, 4),
+        "pillar": "R",
+        "format": "RECRUIT",
+        "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+    }
+
+
 def pick_todays_theme(playbook, override_pillar=None):
     """CALENDAR.md から今日の柱・フォーマット・テーマを引く"""
     now_jst = datetime.now(JST)
@@ -182,6 +198,10 @@ def generate_post(client, playbook, history, theme):
         for p in recent
     ]
     recent_str = "\n".join(recent_lines) if recent_lines else "  (まだ無し)"
+
+    # クリエイター募集モード (pillar=R) は別プロンプト
+    if theme.get("pillar") == "R":
+        return _generate_recruit_post(client, playbook, recent_str, theme)
 
     system_prompt = f"""あなたはMIREAL株式会社のSNS運用担当エージェントです。
 以下のブランドガイドラインに**完全準拠**して、Instagram / Facebook 用の投稿を生成してください。
@@ -239,6 +259,68 @@ def generate_post(client, playbook, history, theme):
         return json.loads(cleaned)
     except json.JSONDecodeError as e:
         fail(f"生成応答のJSONパース失敗: {e}\n--- raw ---\n{raw}")
+
+
+def _generate_recruit_post(client, playbook, recent_str, theme):
+    """クリエイター募集投稿の Claude プロンプト"""
+    system_prompt = f"""あなたはMIREAL株式会社の採用担当エージェントです。
+週次の「映像クリエイター募集」SNS投稿を生成します。
+
+# BRAND GUIDELINE (トーン参考)
+{playbook['BRAND_GUIDELINE.md']}
+
+# 募集の背景
+- **募集職種**: ディレクター / カメラマン / 動画編集者 / モーショングラファー
+- **働き方**: 案件単位での参加、フルリモート可、副業OK、全国の案件あり
+- **報酬**: 案件ごとに事前提示、相場通り
+- **応募方法**: Google フォーム (URLはagentが本文末尾に自動付加するので、本文中には書かない)
+- **MIREALの魅力**: ONE DAY PROMOTION のような独自プロダクトに関わる、中小企業向けの実需が安定して多い、地方含む全国の現場経験ができる
+
+# 出力ルール (厳守)
+- 出力は **JSON のみ**、説明文・前置き・コードフェンスなし
+- スキーマ:
+  {{
+    "heading_image": "画像中央の大文字。1-2行、合計20字以内。改行は \\n。例: '映像クリエイター\\n募集中'",
+    "subheading_image": "画像中央のサブ文字。1-3行、合計60字以内。",
+    "footer_image": "画像下のフッター。例 'CREATORS WANTED  |  mireal.co.jp'",
+    "caption": "SNS本文。400-700字。応募動機を喚起、改行で読みやすく。フォームURLは本文に含めない。",
+    "hashtags": ["#映像クリエイター募集", ...] // 12-15個、募集系を多めに
+  }}
+
+# 厳守ルール
+- 絵文字は使わない
+- 誇大広告NG（業界No.1、絶対、最高 等）
+- 価格表記なし（ONE DAY PROMO ではない）
+- 文末に応募ハードルを下げる一言を入れる（例：「気になった方はまずフォームから」）
+- ハッシュタグには #映像クリエイター #カメラマン募集 #動画編集者募集 #モーションデザイナー募集 #フリーランス映像 #映像制作 #動画制作 等を含める
+"""
+
+    user_prompt = f"""今週のクリエイター募集投稿を JSON で生成してください。
+
+# 今日のお題
+- 日付: {theme['date']} ({theme['weekday']})
+- 種別: クリエイター募集 (週1回の定期投稿)
+
+# 直近の通常投稿（重複・冗長を避けるため参考）
+{recent_str}
+
+映像業界の人が「これは応募してみたい」と思う、具体的で誠実な投稿を作ってください。
+heading_image は「目に飛び込んでくる強い言葉」にしてください。
+"""
+
+    import re as _re
+    response = client.messages.create(
+        model=CONTENT_MODEL,
+        max_tokens=2500,
+        system=system_prompt,
+        messages=[{"role": "user", "content": user_prompt}],
+    )
+    raw = response.content[0].text
+    cleaned = strip_json_fence(raw)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        fail(f"募集投稿の Claude応答 JSON パース失敗: {e}\n--- raw ---\n{raw}")
 
 
 def self_review(client, playbook, post):
@@ -331,11 +413,16 @@ def main():
             print("🛑 世情NG、投稿中止", flush=True)
             sys.exit(0)
 
-    # 3. テーマ決定
+    # 3. テーマ決定 (MODE=recruit なら募集テーマ、それ以外はカレンダー)
     step("今日のテーマ決定")
     playbook = read_playbook()
     history = load_history()
-    theme = pick_todays_theme(playbook, override_pillar=override_pillar)
+    mode = (os.environ.get("MODE") or "daily").lower()
+    if mode == "recruit":
+        info("MODE=recruit → クリエイター募集投稿")
+        theme = recruit_theme()
+    else:
+        theme = pick_todays_theme(playbook, override_pillar=override_pillar)
     print(json.dumps(theme, ensure_ascii=False, indent=2))
 
     # 4. Anthropic client
@@ -407,9 +494,16 @@ def main():
     image_relative = image_path.relative_to(ROOT).as_posix()
     ok(f"生成: {image_relative}")
 
-    # 7. キャプション組み立て
+    # 7. キャプション組み立て (募集モードはフォームURLを末尾に追加)
     hashtags_str = " ".join(post.get("hashtags", []))
-    full_caption = f"{post['caption']}\n\n{hashtags_str}".strip()
+    if theme.get("pillar") == "R":
+        full_caption = (
+            f"{post['caption']}\n\n"
+            f"▼ 応募はこちらのフォームから（1分で完了）\n{RECRUIT_FORM_URL}\n\n"
+            f"{hashtags_str}"
+        ).strip()
+    else:
+        full_caption = f"{post['caption']}\n\n{hashtags_str}".strip()
 
     if dry_run:
         step("DRY_RUN 完了 — 投稿はスキップ")
