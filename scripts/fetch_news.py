@@ -50,17 +50,33 @@ VIDEO_KEYWORDS = [
 
 # 投稿に向かないトピックを含む記事は除外
 NEGATIVE_KEYWORDS = [
+    # 暴力・恐怖系
     "horror", "slasher", "killer", "murder", "homicide", "killing",
     "violence", "violent", "blood", "gore", "torture",
     "death", "dying", "corpse", "shooting victim", "shootings",
     "war", "weapon", "rifle", "missile", "soldier",
+    # 政治
     "politics", "political", "election", "president", "congress",
     "trump", "biden", "putin",
+    # 犯罪
     "crime", "criminal", "arrested", "indicted", "lawsuit",
     "fraud", "scam", "scandal", "abuse",
+    # 性的コンテンツ
     "porn", "pornography", "sexual", "nude",
+    # 訃報・事故
     "obituary", "funeral", "tragedy",
     "fatal", "fatality", "casualties",
+    # 噂・リーク・未発表 (公式発表でない情報は扱わない)
+    "rumor", "rumour", "rumored", "rumoured", "rumors", "rumours",
+    "leak", "leaked", "leakage",
+    "alleged", "allegedly", "supposedly",
+    "patent", "patent filing", "patent application",
+    "could be", "might be", "may launch", "may release",
+    "expected to launch", "expected to release", "anticipated",
+    "speculation", "speculated",
+    "spotted in the wild", "spotted in",
+    "to be announced", "tba",
+    "concept",  # concept product
 ]
 
 
