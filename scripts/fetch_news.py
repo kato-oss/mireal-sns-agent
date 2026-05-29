@@ -34,9 +34,30 @@ VIDEO_KEYWORDS = [
     "atomos", "dji", "drone", "gimbal", "ronin",
     # 配信・SNS
     "youtube", "tiktok", "reels", "shorts", "streaming",
-    "creator economy", "creator economy",
+    "creator economy",
     # 業界
     "video marketing", "viral video", "video ad",
+]
+
+# 投稿に向かないトピックを含む記事は除外 (ブランド毀損リスク回避)
+NEGATIVE_KEYWORDS = [
+    # 暴力的・恐怖系コンテンツ
+    "horror", "slasher", "killer", "murder", "homicide", "killing",
+    "violence", "violent", "blood", "gore", "torture",
+    "death", "dying", "corpse", "shooting",
+    # 戦争・武器
+    "war", "weapon", "gun", "rifle", "missile", "soldier",
+    # 政治
+    "politics", "political", "election", "president", "congress", "senator",
+    "trump", "biden", "putin", "xi jinping",
+    # 犯罪
+    "crime", "criminal", "arrested", "indicted", "lawsuit",
+    "fraud", "scam", "scandal", "abuse",
+    # 性的コンテンツ
+    "porn", "pornography", "sexual", "nude", "nudity",
+    # 訃報・事故
+    "obituary", "funeral", "tragedy", "tragic",
+    "fatal", "fatality", "casualties",
 ]
 
 
@@ -101,6 +122,9 @@ def fetch_articles(hours: int = 72, max_per_feed: int = 30) -> list[dict]:
             # キーワードフィルタ
             full_text = (title + " " + summary).lower()
             if not any(kw in full_text for kw in VIDEO_KEYWORDS):
+                continue
+            # ネガティブキーワード除外 (ブランド毀損リスク回避)
+            if any(neg in full_text for neg in NEGATIVE_KEYWORDS):
                 continue
 
             articles.append({

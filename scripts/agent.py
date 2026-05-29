@@ -475,9 +475,76 @@ heading_image は「業界の人が思わず立ち止まる」短いキャッチ
         fail(f"ニュース投稿の Claude応答 JSON パース失敗: {e}\n--- raw ---\n{raw}")
 
 
-def self_review(client, playbook, post):
-    """別Claude callでブランド準拠審査"""
-    review_prompt = f"""あなたはMIREAL社のコンプライアンス担当エージェントです。
+def self_review(client, playbook, post, theme=None):
+    """別Claude callでブランド準拠審査。theme.pillar によって審査基準を切り替える"""
+    pillar = (theme or {}).get("pillar", "")
+
+    if pillar == "N":
+        # 海外ニュース用の審査 (ONE DAY要求なし、ニュース純度を保つ)
+        review_prompt = f"""あなたはMIREAL社のコンプライアンス担当エージェントです。
+以下のSNS投稿原稿は**海外映像ニュースの日本語翻案**です。ニュース投稿として適切か審査してください。
+
+# BRAND GUIDELINE (トーン参考のみ)
+{playbook['BRAND_GUIDELINE.md']}
+
+# 投稿原稿
+{json.dumps(post, ensure_ascii=False, indent=2)}
+
+# 審査項目 (ニュース投稿用)
+1. 暴力・差別・政治・宗教・性的内容の主張になっていないか
+2. 誇大広告（業界No.1、絶対、最高、必ず等）に該当しないか
+3. 口語スラング（神、ヤバい、マジ等）が含まれていないか
+4. ハッシュタグ数は12〜15個か
+5. 絵文字を使っていないか
+6. ニュースとして中立的か（賛否両論を煽る扇情的な書き方になっていないか）
+
+# 重要: 以下は ニュース投稿では問題なし
+- ONE DAY PROMOTION の言及は **不要**（これはプロモーションではなくニュース）
+- 価格 ¥98,000 の言及は **不要**
+- 応募フォームURLは不要
+- 報道として中立的に扱われていれば「事件」「映画」「業界」等のニュース固有語彙はOK
+- 著作権が問題になりうる引用が含まれていても、報道の引用範囲なら問題なし
+
+# 出力 (JSON のみ)
+{{
+  "verdict": "PASS" or "FAIL",
+  "issues": ["..."],
+  "advice": "FAILの場合の修正方針"
+}}
+"""
+    elif pillar == "R":
+        # 募集投稿用の審査 (ONE DAY要求なし、求人広告として適切か)
+        review_prompt = f"""あなたはMIREAL社のコンプライアンス担当エージェントです。
+以下のSNS投稿原稿は**クリエイター募集の求人広告**です。適切か審査してください。
+
+# BRAND GUIDELINE (トーン参考)
+{playbook['BRAND_GUIDELINE.md']}
+
+# 投稿原稿
+{json.dumps(post, ensure_ascii=False, indent=2)}
+
+# 審査項目 (募集投稿用)
+1. 募集職種・条件が明示されているか
+2. 誇大広告（業界No.1、絶対、必ず）に該当しないか
+3. 口語スラング含まれていないか
+4. 絵文字なし
+5. ハッシュタグ数は12〜15個か
+6. ブランドトーンから極端に逸脱していないか
+
+# 重要: 以下は 募集投稿では問題なし
+- 価格 ¥98,000 や ONE DAY PROMOTION の言及は **不要**
+- heading は「映像クリエイター 募集」固定で OK
+
+# 出力 (JSON のみ)
+{{
+  "verdict": "PASS" or "FAIL",
+  "issues": ["..."],
+  "advice": "FAILの場合の修正方針"
+}}
+"""
+    else:
+        # 通常のプロモ投稿審査 (既存)
+        review_prompt = f"""あなたはMIREAL社のコンプライアンス担当エージェントです。
 以下のSNS投稿原稿を、ブランドガイドラインに照らして審査してください。
 
 # BRAND GUIDELINE
@@ -600,7 +667,7 @@ def main():
         post = generate_post(client, playbook, history, theme)
         info(f"生成: heading={post.get('heading_image', '?')!r}")
 
-        review = self_review(client, playbook, post)
+        review = self_review(client, playbook, post, theme=theme)
         info(f"レビュー: {review.get('verdict')}")
         if review.get("verdict") == "PASS":
             ok("セルフレビュー通過")
