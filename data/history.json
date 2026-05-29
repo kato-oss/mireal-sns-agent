@@ -59,6 +59,26 @@
       ],
       "ig_media_id": "18146758318499550",
       "fb_post_id": "1120701334458496_122106382635301053"
+    },
+    {
+      "timestamp": "2026-05-29T05:04:16Z",
+      "date": "2026-05-29",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: New Authorized 'Godfather' Novel Will Focus on Connie Corleo",
+      "template": "T_softbg",
+      "heading_image": "ゴッドファーザー、\n新たな章へ",
+      "caption_preview": "【海外映像ニュース】\n\nランダムハウスが、マリオ・プーゾ財団公認の新作『ゴッドファーザー』小説の刊行権を獲得した。タイトルは『Connie』で、2027年秋の発売が予定されている。\n\n■ 何が起きているか\nAP通信の報道によれば、新作小説はコルレオーネ家の長女コニー・コルレオーネを主人公に据えた物語となる。1969年のプーゾ原作とコッポラによる映画化は、サブテキスト、ペーシング、キャラクターアーク",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-29.jpg",
+      "bgs_used": [
+        "bg-060.jpg"
+      ],
+      "ig_media_id": "17988253547812402",
+      "fb_post_id": "1120701334458496_122106385035301053",
+      "source_url": "https://nofilmschool.com/godfather-novel-connie",
+      "source": "NoFilmSchool"
     }
   ]
 }
