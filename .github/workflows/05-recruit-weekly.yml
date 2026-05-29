@@ -2,8 +2,8 @@ name: 05 - Weekly Creator Recruit
 
 on:
   schedule:
-    # JST 日曜 9:00 = UTC 日曜 0:00
-    - cron: "0 0 * * 0"
+    # JST 金曜 13:30 = UTC 金曜 4:30
+    - cron: "30 4 * * 5"
   workflow_dispatch:
     inputs:
       dry_run:
