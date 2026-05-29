@@ -97,6 +97,26 @@
       ],
       "ig_media_id": "17900774547448480",
       "fb_post_id": "1120701334458496_122106400083301053"
+    },
+    {
+      "timestamp": "2026-05-29T09:41:08Z",
+      "date": "2026-05-29",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Film Quote of the Day: 'The Green Mile' Line That Quietly Ex",
+      "template": "T_softbg",
+      "heading_image": "名作の名台詞、\nもう一度。",
+      "caption_preview": "【海外映像ニュース】\n\nNoFilmSchoolが、フランク・ダラボン監督作『グリーンマイル』の終盤の名台詞を取り上げ、その脚本構造と演出意図を読み解く記事を公開した。\n\n■ 何が起きているか\n同記事は、ダラボン監督がスティーヴン・キング原作を映画化した『ショーシャンクの空に』ばかりが語られがちな現状に対し、『グリーンマイル』の脚本的完成度を再評価。トム・ハンクス演じるポール・エッジカムが物語の最",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-29.jpg",
+      "bgs_used": [
+        "bg-093.jpg"
+      ],
+      "ig_media_id": "18073431725662892",
+      "fb_post_id": "1120701334458496_122106414135301053",
+      "source_url": "https://nofilmschool.com/green-mile-quote",
+      "source": "NoFilmSchool"
     }
   ]
 }
