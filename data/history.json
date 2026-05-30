@@ -137,6 +137,24 @@
       "fb_post_id": "1120701334458496_122106435951301053",
       "source_url": "https://www.cined.com/the-edit-on-fire-deploying-the-frantic-energy-of-flash-cuts/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-05-30T00:15:59Z",
+      "date": "2026-05-30",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "B",
+      "format": "F1",
+      "theme": "「動画制作の見積もりで騙されないコツ」",
+      "template": "T_listicle",
+      "heading_image": "見積もりの\n落とし穴",
+      "caption_preview": "「最初は20万円と言われたのに、最終請求が50万円だった」\n\n動画制作の見積もりで、こんな経験はありませんか。\n業界の慣習として、初期見積もりに含まれないオプションが多いのが現実です。\n\n見積書をもらったら、まず確認したい5つのポイントをまとめました。\n\n1. 撮影日数・時間に上限はあるか\n→ 半日撮影で収まらず、追加撮影費が発生するケース\n\n2. 修正回数は何回まで無料か\n→ 「初稿確認後の修正",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-30.jpg",
+      "bgs_used": [
+        "bg-013.jpg"
+      ],
+      "ig_media_id": "18537915775079133",
+      "fb_post_id": "1120701334458496_122106595053301053"
     }
   ]
 }
