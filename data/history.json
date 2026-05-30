@@ -195,6 +195,26 @@
       "fb_post_id": "1120701334458496_122106630723301053",
       "source_url": "https://www.newsshooter.com/2026/05/29/tilta-hydra-electronic-suction-cup-6-inch/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-hydra-electronic-suction-cup-6-inch",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-05-30T11:18:53Z",
+      "date": "2026-05-30",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Press Photographer Releases 30-Year Archive of Iconic Celebr",
+      "template": "T_softbg",
+      "heading_image": "30年の記録が\n一冊の写真集に",
+      "caption_preview": "【最新映像機材ニュース】\n\n英国で最も長く活躍する報道カメラマンの一人が、30年にわたるセレブリティ・エンタメ・主要イベントの撮影アーカイブを新刊として発表。プレスフォトの最前線で記録されてきた瞬間の数々が一冊にまとめられた。\n\n■ 注目ポイント\n・30年にわたるプレスフォトの蓄積を一冊に集約\n・セレブリティ・エンタメ・歴史的イベントを横断\n・現場の最前線で撮られた親密な視点の写真群\n\n■ なぜ注",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-30-201833.jpg"
+      ],
+      "ig_media_id": "18402368518154949",
+      "fb_post_id": "1120701334458496_122106653211301053",
+      "source_url": "https://petapixel.com/2026/05/30/press-photographer-releases-30-year-archive-of-iconic-celebrity-images/",
+      "source": "PetaPixel"
     }
   ]
 }
