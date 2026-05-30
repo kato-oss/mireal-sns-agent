@@ -155,6 +155,26 @@
       ],
       "ig_media_id": "18537915775079133",
       "fb_post_id": "1120701334458496_122106595053301053"
+    },
+    {
+      "timestamp": "2026-05-30T04:55:48Z",
+      "date": "2026-05-30",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Atmos Is a Weather App By Photographers, for Photographers",
+      "template": "T_overlay",
+      "heading_image": "光の質で選ぶ\n撮影日和アプリ",
+      "caption_preview": "【最新映像機材ニュース】\n\n写真家のMatthew Raifman氏が開発した、フォトグラファーのための天気アプリ「Atmos for Weather & Photo」が登場。単なる天気予報ではなく「その日の光が撮影に向いているか」を判定する新発想のツール。\n\n■ 注目ポイント\n・写真家自身が設計した撮影特化型UI\n・ゴールデンアワー/ブルーアワーの光質を予測\n・雲量・霧・大気条件など、撮影に効く",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-30-135532.jpg"
+      ],
+      "ig_media_id": "18095973296273035",
+      "fb_post_id": "1120701334458496_122106614499301053",
+      "source_url": "https://petapixel.com/2026/05/29/atmos-is-a-weather-app-by-photographers-for-photographers/",
+      "source": "PetaPixel"
     }
   ]
 }
