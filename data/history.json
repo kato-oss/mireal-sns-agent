@@ -175,6 +175,26 @@
       "fb_post_id": "1120701334458496_122106614499301053",
       "source_url": "https://petapixel.com/2026/05/29/atmos-is-a-weather-app-by-photographers-for-photographers/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-05-30T08:20:42Z",
+      "date": "2026-05-30",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tilta Hydra Electronic Suction Cup 6 Inch",
+      "template": "T_overlay",
+      "heading_image": "Tiltaが発表\n電動サクションマウント",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiltaが新型「Hydra Electronic Suction Cup 6 Inch」を発表。重量級リグや過酷な撮影環境向けに設計された、インテリジェント電動サクションマウントです。\n\n■ 注目ポイント\n・リアルタイム圧力監視機能を搭載し、吸着力の低下を自動検知\n・圧力が下がると自動で再加圧、安定した固定を維持\n・6インチの大口径設計で従来モデルより高い保持力を実現",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-30-172019.jpg"
+      ],
+      "ig_media_id": "18016651694693117",
+      "fb_post_id": "1120701334458496_122106630723301053",
+      "source_url": "https://www.newsshooter.com/2026/05/29/tilta-hydra-electronic-suction-cup-6-inch/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-hydra-electronic-suction-cup-6-inch",
+      "source": "Newsshooter"
     }
   ]
 }
