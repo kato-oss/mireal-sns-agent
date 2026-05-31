@@ -235,6 +235,26 @@
       "fb_post_id": "1120701334458496_122106792615301053",
       "source_url": "https://www.engadget.com/2184290/msi-next-gen-monitor-can-switch-between-three-resolutions-and-refresh-rates/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-05-31T08:37:47Z",
+      "date": "2026-05-31",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: What to read this weekend: The Dorians and Red Roots",
+      "template": "T_softbg",
+      "heading_image": "感性を磨く\n週末の一冊",
+      "caption_preview": "【最新映像機材ニュース】\n\n今回は機材ではなく、映像クリエイターの感性を刺激する週末の読書ネタ。Engadget編集部が「今週読んで良かった本」として、ホラー作家Nick Cutterの新作『The Dorians』と、Image Comicsから出たグラフィックノベル『Red Roots』を紹介している。\n\n■ 注目ポイント\n・『The Dorians』はNick Cutterによる新作ホラー長",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-31.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-31-173731.jpg"
+      ],
+      "ig_media_id": "18102167348045322",
+      "fb_post_id": "1120701334458496_122106812475301053",
+      "source_url": "https://www.engadget.com/2184277/what-to-read-this-weekend-the-dorians-nick-cutter-red-roots-image-comics/",
+      "source": "Engadget"
     }
   ]
 }
