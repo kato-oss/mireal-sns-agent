@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-31",
+  "ig": {
+    "username": "mireal_inc",
+    "followers": 403,
+    "follows": 5,
+    "media_count": 151,
+    "reach": 17,
+    "profile_views": 1,
+    "website_clicks": 0
+  },
+  "fb": {
+    "name": "MIREAL.Official",
+    "followers": 1,
+    "fan_count": 1
+  },
+  "posts": [
+    {
+      "date": "2026-05-28",
+      "ig_media_id": "18590866450039789",
+      "pillar": "D",
+      "format": "F3",
+      "template": "T_tipcard",
+      "metrics": {
+        "reach": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "17890357083522377",
+      "pillar": "C",
+      "format": "F2",
+      "template": "T_campaign",
+      "metrics": {
+        "reach": 7,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "18146758318499550",
+      "pillar": "R",
+      "format": "RECRUIT",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 10,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "17988253547812402",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "17900774547448480",
+      "pillar": "R",
+      "format": "RECRUIT",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 8,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "18073431725662892",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "ig_media_id": "17969188476118026",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 11,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "ig_media_id": "18537915775079133",
+      "pillar": "B",
+      "format": "F1",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "ig_media_id": "18095973296273035",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "ig_media_id": "18016651694693117",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "ig_media_id": "18402368518154949",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 5,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "ig_media_id": "18081709952438905",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "ig_media_id": "18102167348045322",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    }
+  ]
+}
