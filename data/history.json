@@ -215,6 +215,26 @@
       "fb_post_id": "1120701334458496_122106653211301053",
       "source_url": "https://petapixel.com/2026/05/30/press-photographer-releases-30-year-archive-of-iconic-celebrity-images/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-05-31T05:22:54Z",
+      "date": "2026-05-31",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: MSI's next-gen monitor can switch between three resolutions ",
+      "template": "T_overlay",
+      "heading_image": "MSIが発表\n三段変速モニター",
+      "caption_preview": "【最新映像機材ニュース】\n\nMSIが次世代モニターを発表。1台で3つの解像度/リフレッシュレートを切り替えられるという、これまでにないアプローチのディスプレイ。\n\n■ 注目ポイント\n・4K解像度で『Crimson Desert』のような映像美重視タイトルに対応\n・680Hzの超高リフレッシュレートでCounter-Strike 2など競技シーンに最適化\n・モード切替で1台のモニターを用途別に使い分",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-05-31.jpg",
+      "bgs_used": [
+        "news_bg/2026-05-31-142236.jpg"
+      ],
+      "ig_media_id": "18081709952438905",
+      "fb_post_id": "1120701334458496_122106792615301053",
+      "source_url": "https://www.engadget.com/2184290/msi-next-gen-monitor-can-switch-between-three-resolutions-and-refresh-rates/",
+      "source": "Engadget"
     }
   ]
 }
