@@ -295,6 +295,26 @@
       "fb_post_id": "1120701334458496_122107143693301053",
       "source_url": "https://www.cined.com/zr-ctl-beta-control-app-available-now-for-nikon-zr/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-01T15:54:18Z",
+      "date": "2026-06-02",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Another Electronic Suction Cup is Here for Your Creative Cam",
+      "template": "T_overlay",
+      "heading_image": "Tilta Hydra\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiltaが新型の電動サクションカップ「Hydra Electronic Suction Cup」(6インチモデル)を発表。重量級カメラリグや過酷な環境、プロの映像制作現場のニーズに応える次世代マウントソリューションです。\n\n■ 注目ポイント\n・6インチ大型カップで重量級リグも安定保持\n・電動ポンプ内蔵でワンタッチ吸着、吸引力を常時自動維持\n・気圧センサー搭載で吸着力低",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-01.jpg",
+      "bgs_used": [
+        "bg-083.jpg"
+      ],
+      "ig_media_id": "18134350438560478",
+      "fb_post_id": "1120701334458496_122107179993301053",
+      "source_url": "https://nofilmschool.com/tilta-hydra-electronic-suction-cup",
+      "source": "NoFilmSchool"
     }
   ]
 }
