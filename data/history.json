@@ -275,6 +275,26 @@
       "fb_post_id": "1120701334458496_122107104867301053",
       "source_url": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-01T11:15:02Z",
+      "date": "2026-06-01",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ZR CTL Beta Control App Available Now for Nikon ZR",
+      "template": "T_overlay",
+      "heading_image": "Nikon ZRを\nスマホで完全制御",
+      "caption_preview": "【最新映像機材ニュース】\n\nNikon ZR向けのサードパーティ制御アプリ「ZR CTL」のベータ版が無料公開。iPhone/iPad/Androidからカメラを完全モニタリング&制御できる注目ツールです。\n\n■ 注目ポイント\n・カメラ設定の調整、ライブビュー表示、クリップ再生に対応\n・フォーカス/露出/フレーミングのモニタリングが可能\n・カメラ本体未搭載のREDライクなツール(フォルスカラー等)",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-01-201437.jpg"
+      ],
+      "ig_media_id": "17861563260651262",
+      "fb_post_id": "1120701334458496_122107143693301053",
+      "source_url": "https://www.cined.com/zr-ctl-beta-control-app-available-now-for-nikon-zr/",
+      "source": "CineD"
     }
   ]
 }
