@@ -255,6 +255,26 @@
       "fb_post_id": "1120701334458496_122106812475301053",
       "source_url": "https://www.engadget.com/2184277/what-to-read-this-weekend-the-dorians-nick-cutter-red-roots-image-comics/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-01T06:09:31Z",
+      "date": "2026-06-01",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Surface Laptop Ultra is the most powerful Surface yet, t",
+      "template": "T_overlay",
+      "heading_image": "歴代最強Surface\nクリエイターPC到来",
+      "caption_preview": "【最新映像機材ニュース】\n\nMicrosoftが歴代最強のSurfaceとなる「Surface Laptop Ultra」を発表。NVIDIAの新GPU「RTX Spark」を搭載し、MacBook Proに真っ向勝負を仕掛けるハイエンドクリエイター向けノートPCに仕上がっている。\n\n■ 注目ポイント\n・NVIDIA RTX Spark GPU搭載でAI/映像処理性能を大幅強化\n・MacBook ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-01-150914.jpg"
+      ],
+      "ig_media_id": "18007955558877022",
+      "fb_post_id": "1120701334458496_122107104867301053",
+      "source_url": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
+      "source": "Engadget"
     }
   ]
 }
