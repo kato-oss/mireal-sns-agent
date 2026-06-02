@@ -315,6 +315,24 @@
       "fb_post_id": "1120701334458496_122107179993301053",
       "source_url": "https://nofilmschool.com/tilta-hydra-electronic-suction-cup",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-02T00:20:48Z",
+      "date": "2026-06-02",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画制作で2週間待たされる本当の理由」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で2週間\n待たされる理由",
+      "caption_preview": "「動画を頼んだら納品まで2週間と言われた」\nこれ、業界では普通の話です。\n\nでも、なぜそんなに時間がかかるのか。\n中身を分解すると、実は撮影や編集そのものより、\n「待ち時間」が大半を占めています。\n\n私たちが現場で見てきた、\n動画制作が長引く5つの理由をまとめました。\n\n1. 見積もり往復に3〜5日\n要件ヒアリングから見積もり提示、\n修正、再提示。ここで1週間消える案件も。\n\n2. 撮影日程の調整",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-02.jpg",
+      "bgs_used": [
+        "bg-078.jpg"
+      ],
+      "ig_media_id": "18088365608569244",
+      "fb_post_id": "1120701334458496_122107356267301053"
     }
   ]
 }
