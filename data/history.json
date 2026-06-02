@@ -353,6 +353,26 @@
       "fb_post_id": "1120701334458496_122107378449301053",
       "source_url": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-02T10:10:28Z",
+      "date": "2026-06-02",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ZEISS Horizon Full-Frame 2x Anamorphics with a fully integra",
+      "template": "T_overlay",
+      "heading_image": "ZEISS Horizon\n発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nZEISSがフルフレーム対応の2xアナモルフィックシネマレンズ「Horizon」シリーズを発表。35mmから200mmまで7本のラインナップで、フォーカス/アイリスモーターを内蔵した完全電動制御システムを搭載しています。\n\n■ 注目ポイント\n・フルフレームをカバーする2xスクイーズのアナモルフィック設計\n・フォーカス・アイリス用モーターをレンズ内に統合、外付けFIZモー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-02-191009.jpg"
+      ],
+      "ig_media_id": "17967973800024337",
+      "fb_post_id": "1120701334458496_122107406631301053",
+      "source_url": "https://www.newsshooter.com/2026/06/02/zeiss-horizon-full-frame-2x-anamorphics-with-a-fully-integrated-motorized-system-that-eliminates-the-need-for-external-focus-or-iris-motors/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-horizon-full-frame-2x-anamorphics-with-a-fully-integrated-motorized-system-that-eliminates-the-need-for-external-focus-or-iris-motors",
+      "source": "Newsshooter"
     }
   ]
 }
