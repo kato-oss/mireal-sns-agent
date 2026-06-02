@@ -373,6 +373,26 @@
       "fb_post_id": "1120701334458496_122107406631301053",
       "source_url": "https://www.newsshooter.com/2026/06/02/zeiss-horizon-full-frame-2x-anamorphics-with-a-fully-integrated-motorized-system-that-eliminates-the-need-for-external-focus-or-iris-motors/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-horizon-full-frame-2x-anamorphics-with-a-fully-integrated-motorized-system-that-eliminates-the-need-for-external-focus-or-iris-motors",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-02T13:59:41Z",
+      "date": "2026-06-02",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Setting up Camera Control with Blackmagic Studio Converter",
+      "template": "T_overlay",
+      "heading_image": "BMD カメラ制御を\nまとめて解説",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Design が公式チュートリアルを公開。Blackmagic Studio Converter、Studio Camera 6K Pro、ATEM Television Studio 4K8 を組み合わせたカメラコントロールのセットアップ方法を解説しています。\n\n■ 注目ポイント\n・Studio Converter 1台で Talkback / ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-02-225922.jpg"
+      ],
+      "ig_media_id": "18268770673294065",
+      "fb_post_id": "1120701334458496_122107427409301053",
+      "source_url": "https://www.newsshooter.com/2026/06/02/setting-up-camera-control-with-blackmagic-studio-converter/?utm_source=rss&utm_medium=rss&utm_campaign=setting-up-camera-control-with-blackmagic-studio-converter",
+      "source": "Newsshooter"
     }
   ]
 }
