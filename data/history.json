@@ -333,6 +333,26 @@
       ],
       "ig_media_id": "18088365608569244",
       "fb_post_id": "1120701334458496_122107356267301053"
+    },
+    {
+      "timestamp": "2026-06-02T05:54:28Z",
+      "date": "2026-06-02",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blue Origin CEO says New Glenn will fly again before the yea",
+      "template": "T_overlay",
+      "heading_image": "New Glenn\n年内再打上げへ",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlue Origin の CEO Dave Limp 氏が X 上で、大型ロケット New Glenn の発射台爆発事故に関する調査の進捗を報告。年内の再打ち上げを目指す方針を明らかにした。\n\n■ 注目ポイント\n・CEO Dave Limp 氏が X で直接アップデートを発信\n・New Glenn 発射台爆発の原因調査が継続中\n・年内（2025年内）の再フライト復帰を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-02-145403.jpg"
+      ],
+      "ig_media_id": "18025437755831965",
+      "fb_post_id": "1120701334458496_122107378449301053",
+      "source_url": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
+      "source": "Engadget"
     }
   ]
 }
