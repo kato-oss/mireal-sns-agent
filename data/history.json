@@ -451,6 +451,26 @@
       "fb_post_id": "1120701334458496_122107664091301053",
       "source_url": "https://www.cined.com/eddie-ai-feedback-mode-v2-released-timestamped-edit-notes-for-more-video-types/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-03T14:27:32Z",
+      "date": "2026-06-03",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Slow-Mo Video Captures Shockwaves From the SpaceX Starship M",
+      "template": "T_softbg",
+      "heading_image": "衝撃波を、\n光で捉える。",
+      "caption_preview": "【最新映像機材ニュース】\n\nある写真家が、SpaceXの巨大ロケット「Starship」のテスト発射時に、空気と煙を伝って広がる衝撃波をハイスピード撮影で捉えることに成功しました。肉眼では一瞬で消えてしまう現象も、スローモーションによって明確に可視化されています。\n\n■ 注目ポイント\n・Starship打ち上げ時の衝撃波(ショックウェーブ)を空気の歪みとして記録\n・煙を伝播する波面の様子をスローモ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-03-232713.jpg"
+      ],
+      "ig_media_id": "17954364069140762",
+      "fb_post_id": "1120701334458496_122107692543301053",
+      "source_url": "https://petapixel.com/2026/06/03/slow-mo-video-captures-shockwaves-from-the-spacex-starship-megarocket/",
+      "source": "PetaPixel"
     }
   ]
 }
