@@ -431,6 +431,26 @@
       "fb_post_id": "1120701334458496_122107635567301053",
       "source_url": "https://www.newsshooter.com/2026/06/02/metabones-truepdaf-technology-for-micro-four-thirds/?utm_source=rss&utm_medium=rss&utm_campaign=metabones-truepdaf-technology-for-micro-four-thirds",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-03T10:47:40Z",
+      "date": "2026-06-03",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Eddie AI Feedback Mode v2 Released –  Timestamped Edit Notes",
+      "template": "T_overlay",
+      "heading_image": "Eddie AI v2\n編集AIが進化",
+      "caption_preview": "【最新映像機材ニュース】\n\nエディター向けAIレビューツール「Eddie AI」が、Feedback Mode v2を正式リリース。動画の種類や目的に応じて、より文脈に沿った編集フィードバックを返せるようになりました。\n\n■ 注目ポイント\n・動画タイプ(YouTube解説/ドキュメンタリー/ブランド映像/予告編/社内動画 等)を事前指定可能\n・目的・配信プラットフォーム・編集段階・重点フィードバッ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-03-194717.jpg"
+      ],
+      "ig_media_id": "17898757578452181",
+      "fb_post_id": "1120701334458496_122107664091301053",
+      "source_url": "https://www.cined.com/eddie-ai-feedback-mode-v2-released-timestamped-edit-notes-for-more-video-types/",
+      "source": "CineD"
     }
   ]
 }
