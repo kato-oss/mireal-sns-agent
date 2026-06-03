@@ -393,6 +393,24 @@
       "fb_post_id": "1120701334458496_122107427409301053",
       "source_url": "https://www.newsshooter.com/2026/06/02/setting-up-camera-control-with-blackmagic-studio-converter/?utm_source=rss&utm_medium=rss&utm_campaign=setting-up-camera-control-with-blackmagic-studio-converter",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-03T01:44:22Z",
+      "date": "2026-06-03",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "C",
+      "format": "F3",
+      "theme": "「予算20万円なんだけど…」→ ONE DAYで完結",
+      "template": "T_overlay",
+      "heading_image": "予算20万円で\n動画は作れます",
+      "caption_preview": "「動画を作りたいけど、予算は20万円が限界で…」\n\n中小企業のマーケ担当者から、いちばん多く聞く声です。\n\n見積もりを取ってみると、相場は60〜80万円。\n企画から納品まで2〜4週間。\n結局、見送り。\n\nそんな現場のために、私たちは ONE DAY PROMOTION を作りました。\n\n料金は ¥98,000(税別)。追加なし。\n撮影〜編集〜納品まで、1営業日で完結。\n修正1回無料、全国47都道府",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-03.jpg",
+      "bgs_used": [
+        "bg-048.jpg"
+      ],
+      "ig_media_id": "18102216917023084",
+      "fb_post_id": "1120701334458496_122107606809301053"
     }
   ]
 }
