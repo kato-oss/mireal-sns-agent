@@ -1,0 +1,89 @@
+name: 07 - Press Release Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      press_url:
+        description: "Press release URL (PRTimes等)"
+        type: string
+        required: true
+      dry_run:
+        description: "Dry run mode"
+        type: boolean
+        default: true
+      force_template:
+        description: "Force template (blank = designer picks)"
+        type: choice
+        options:
+          - ""
+          - T_campaign
+          - T_listicle
+          - T_overlay
+          - T_tipcard
+          - T_softbg
+        default: ""
+      skip_world_check:
+        description: "Skip world events safety check"
+        type: boolean
+        default: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  press-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Noto CJK fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
+
+      - name: Install Playwright Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run press agent
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODE: press
+          PRESS_URL: ${{ inputs.press_url }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE_TEMPLATE: ${{ inputs.force_template }}
+          SKIP_WORLD_CHECK: ${{ inputs.skip_world_check }}
+          GH_REPO: ${{ github.repository }}
+        run: python scripts/agent.py
+
+      - name: Upload generated image (dry run preview)
+        if: ${{ inputs.dry_run == true && always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run-press-image-${{ github.run_id }}
+          path: data/images/generated/
+          retention-days: 7
+          if-no-files-found: ignore
