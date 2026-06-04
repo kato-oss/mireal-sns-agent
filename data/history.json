@@ -511,6 +511,26 @@
       "fb_post_id": "1120701334458496_122107875477301053",
       "source_url": "https://www.newsshooter.com/2026/06/04/blackmagic-design-fairlight-live-beta-3/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-fairlight-live-beta-3",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-04T12:43:36Z",
+      "date": "2026-06-04",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallHD announces the new OLED 16 production monitor",
+      "template": "T_overlay",
+      "heading_image": "SmallHD\nOLED 16 発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallHDが新型プロダクションモニター「OLED 16」を発表。DITやDP向けのワークフローに最適化された16インチOLEDパネル搭載で、無限のコントラストと真の黒、ハロー現象ゼロの精密な色再現を実現します。\n\n■ 注目ポイント\n・3840×2160 (UHD) 解像度の16インチOLEDディスプレイ\n・true 10-bit カラー、DCI-P3 99% / R",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-04-214312.jpg"
+      ],
+      "ig_media_id": "18402022288154673",
+      "fb_post_id": "1120701334458496_122107889559301053",
+      "source_url": "https://www.provideocoalition.com/smallhd-announces-the-new-oled-16-production-monitor/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
