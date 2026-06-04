@@ -471,6 +471,26 @@
       "fb_post_id": "1120701334458496_122107692543301053",
       "source_url": "https://petapixel.com/2026/06/03/slow-mo-video-captures-shockwaves-from-the-spacex-starship-megarocket/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-04T06:00:58Z",
+      "date": "2026-06-04",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: HAWK TAKA Spherical Primes",
+      "template": "T_overlay",
+      "heading_image": "HAWK新球面プライム\nTAKA予告公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nアナモルフィックレンズの名門 HAWK が、新たな球面プライムシリーズ「TAKA Spherical Primes」をティザー公開しました。「TAKA」は日本語の「鷹（Hawk）」が由来とのこと。\n\n■ 注目ポイント\n・10本の焦点距離でラインナップを構成する大型シリーズ\n・全レンズがイメージサークル66mmをカバー（ラージフォーマット対応）\n・2027年中頃のリリース",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-04-150041.jpg"
+      ],
+      "ig_media_id": "17982708912007446",
+      "fb_post_id": "1120701334458496_122107857273301053",
+      "source_url": "https://www.newsshooter.com/2026/06/03/hawk-taka-spherical-primes/?utm_source=rss&utm_medium=rss&utm_campaign=hawk-taka-spherical-primes",
+      "source": "Newsshooter"
     }
   ]
 }
