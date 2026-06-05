@@ -607,6 +607,26 @@
       "fb_post_id": "1120701334458496_122108208417301053",
       "source_url": "https://www.cined.com/iodyne-brings-cardless-red-raw-ingest-and-adobe-color-mode-workflows-to-cine-gear-2026/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-05T12:34:57Z",
+      "date": "2026-06-05",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Morning After: NVIDIA thinks its new chip will revolutio",
+      "template": "T_overlay",
+      "heading_image": "NVIDIAが発表\n新型RTXチップ",
+      "caption_preview": "【最新映像機材ニュース】\n\nNVIDIAがAI処理に最適化された新型ノートPC向けチップを発表。ローカルAI推論性能を大幅に強化し、生成AIや映像処理を端末側で完結できる方向に踏み込んだ製品となる。\n\n■ 注目ポイント\n・AI推論に最適化された次世代RTXアーキテクチャ搭載\n・ノートPCでもデスクトップ級のAIワークロード処理を想定\n・生成AI/動画アップスケール/ノイズ除去などローカル処理を強化",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-05-213439.jpg"
+      ],
+      "ig_media_id": "18113029568506984",
+      "fb_post_id": "1120701334458496_122108227509301053",
+      "source_url": "https://www.engadget.com/2188063/engadget-newsletter-nvidia-rtx-spark/",
+      "source": "Engadget"
     }
   ]
 }
