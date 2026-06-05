@@ -587,6 +587,26 @@
       ],
       "ig_media_id": "18073622363318069",
       "fb_post_id": "1120701334458496_122108195739301053"
+    },
+    {
+      "timestamp": "2026-06-05T09:36:22Z",
+      "date": "2026-06-05",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: iodyne Brings Cardless RED RAW Ingest and Adobe Color Mode W",
+      "template": "T_overlay",
+      "heading_image": "カードレスで\nRED RAW収録",
+      "caption_preview": "【最新映像機材ニュース】\n\niodyneがRED Digital Cinema・Adobeと組み、Cine Gear Expo 2026でカメラカードを一切使わないDITワークフローを実演。V-RAPTOR XL XとKOMODO-XからR3D RAWを直接、暗号化・RAID-6保護されたiodyne Pro Dataストレージへ収録するライブDITカートが目玉となる。\n\n■ 注目ポイント\n・RE",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-05-183606.jpg"
+      ],
+      "ig_media_id": "17883826026581614",
+      "fb_post_id": "1120701334458496_122108208417301053",
+      "source_url": "https://www.cined.com/iodyne-brings-cardless-red-raw-ingest-and-adobe-color-mode-workflows-to-cine-gear-2026/",
+      "source": "CineD"
     }
   ]
 }
