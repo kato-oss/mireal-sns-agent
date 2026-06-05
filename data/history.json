@@ -549,6 +549,26 @@
       ],
       "ig_media_id": "17969221812070206",
       "fb_post_id": "1120701334458496_122108161449301053"
+    },
+    {
+      "timestamp": "2026-06-05T05:23:40Z",
+      "date": "2026-06-05",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: B&H Aputure Sale– save up to $685 USD",
+      "template": "T_overlay",
+      "heading_image": "Aputure 主要LED\n最大$685オフ",
+      "caption_preview": "【最新映像機材ニュース】\n\nB&H にて Aputure 製ライティング機材の期間限定セールが開催中。対象モデルは最大 $685 USD の値引きとなっており、映像撮影用LEDライトの導入を検討しているクリエイターには見逃せないタイミング。\n\n■ 注目ポイント\n・対象は Aputure の主要 LED フィクスチャ（COB シリーズや LS シリーズ等）\n・最大値引き額は $685 USD（約10",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-05-142320.jpg"
+      ],
+      "ig_media_id": "17890283631541433",
+      "fb_post_id": "1120701334458496_122108176323301053",
+      "source_url": "https://www.newsshooter.com/2026/06/04/bh-aputure-sale-save-up-to-685-usd/?utm_source=rss&utm_medium=rss&utm_campaign=bh-aputure-sale-save-up-to-685-usd",
+      "source": "Newsshooter"
     }
   ]
 }
