@@ -663,6 +663,26 @@
       "fb_post_id": "1120701334458496_122108546799301053",
       "source_url": "https://www.newsshooter.com/2026/06/05/smallhd-oled-16-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=smallhd-oled-16-first-look-at-cine-gear-2026",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-06T08:27:21Z",
+      "date": "2026-06-06",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: NANLUX Matrix 10,000 First Look at Cine Gear 2026",
+      "template": "T_overlay",
+      "heading_image": "NANLUX Matrix\n10,000 登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nNANLUXがCine Gear 2026で「Matrix 10,000」を披露。先日発表されたMatrix 2500B/2500Cを4台連結し、一つの大型ソフト光源として構成した大出力LEDアレイです。\n\n■ 注目ポイント\n・Matrix 2500B(バイカラー)/2500C(RGBLAC)の4ヘッド一体型フィクスチャを更に4基統合\n・大面積マルチユニットアレイによる",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-06-172705.jpg"
+      ],
+      "ig_media_id": "18013144526887147",
+      "fb_post_id": "1120701334458496_122108567241301053",
+      "source_url": "https://www.newsshooter.com/2026/06/05/nanlux-matrix-10000-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=nanlux-matrix-10000-first-look-at-cine-gear-2026",
+      "source": "Newsshooter"
     }
   ]
 }
