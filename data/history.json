@@ -643,6 +643,26 @@
       "bgs_used": [],
       "ig_media_id": "17949298782177813",
       "fb_post_id": "1120701334458496_122108530089301053"
+    },
+    {
+      "timestamp": "2026-06-06T04:58:16Z",
+      "date": "2026-06-06",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallHD OLED 16 First Look at Cine Gear 2026",
+      "template": "T_overlay",
+      "heading_image": "SmallHD\nOLED 16 登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nロサンゼルスで開催中のCine Gear 2026で、SmallHDが新型16インチOLEDモニター「OLED 16」を実機展示。DITやDPのワークフロー効率化を狙った、軽量かつ堅牢な現場向けプロダクションモニターです。\n\n■ 注目ポイント\n・OLEDパネル採用で無限のコントラストと完全な黒、ハロー無しの精密な色再現\n・DIT/DP用途を想定した軽量・堅牢ボディ設計\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-06-135800.jpg"
+      ],
+      "ig_media_id": "18138640723551981",
+      "fb_post_id": "1120701334458496_122108546799301053",
+      "source_url": "https://www.newsshooter.com/2026/06/05/smallhd-oled-16-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=smallhd-oled-16-first-look-at-cine-gear-2026",
+      "source": "Newsshooter"
     }
   ]
 }
