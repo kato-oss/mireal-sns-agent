@@ -627,6 +627,22 @@
       "fb_post_id": "1120701334458496_122108227509301053",
       "source_url": "https://www.engadget.com/2188063/engadget-newsletter-nvidia-rtx-spark/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-06T00:16:27Z",
+      "date": "2026-06-06",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「1日でなぜ完結できるか、撮影現場お見せします」",
+      "template": "T_tipcard",
+      "heading_image": "1日完結を支える\n現場の段取り術",
+      "caption_preview": "「本当に1日で動画が作れるの?」\nよく聞かれる質問です。\n\n答えは、現場を見ていただくのが一番早い。\n今日は私たちの撮影〜納品フローを、ざっくりお見せします。\n\n【午前9時】機材搬入・打ち合わせ\n事前ヒアリングで構成は決定済み。現場ではカット割りと撮影順だけ最終確認します。ここで迷わないのが、1日完結の第一歩。\n\n【午前10時〜午後1時】撮影\nカメラ・照明・音声を最小構成でセットアップ。社長挨拶、",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-06.jpg",
+      "bgs_used": [],
+      "ig_media_id": "17949298782177813",
+      "fb_post_id": "1120701334458496_122108530089301053"
     }
   ]
 }
