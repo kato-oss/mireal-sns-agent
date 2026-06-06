@@ -683,6 +683,26 @@
       "fb_post_id": "1120701334458496_122108567241301053",
       "source_url": "https://www.newsshooter.com/2026/06/05/nanlux-matrix-10000-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=nanlux-matrix-10000-first-look-at-cine-gear-2026",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-06T11:24:06Z",
+      "date": "2026-06-06",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Beeble SwitchX powers newly launched OpenArt VFX platform",
+      "template": "T_overlay",
+      "heading_image": "OpenArt VFX\n始動",
+      "caption_preview": "【最新映像機材ニュース】\n\nAIリライティング技術で知られるBeebleが、video-to-videoモデル「SwitchX」を新ローンチのOpenArt VFXプラットフォームに提供開始。動画内の特定要素だけをフレーム単位で“外科的に”編集できる、高品質AI動画編集ツールとして公開された。\n\n■ 注目ポイント\n・動画の一部分のみをピンポイント編集、他要素には影響なし\n・フレーム単位での精密なA",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-06-202343.jpg"
+      ],
+      "ig_media_id": "18013386782856122",
+      "fb_post_id": "1120701334458496_122108584191301053",
+      "source_url": "https://www.provideocoalition.com/beeble-switchx-powers-newly-launched-openart-vfx-platform/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
