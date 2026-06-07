@@ -743,6 +743,26 @@
       "fb_post_id": "1120701334458496_122108830425301053",
       "source_url": "https://www.newsshooter.com/2026/06/06/hollyland-c1-pro-air-first-look-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hollyland-c1-pro-air-first-look-cine-gear-2026",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-07T11:46:45Z",
+      "date": "2026-06-07",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Florida Officials Need You to Identify Animals Captured on T",
+      "template": "T_overlay",
+      "heading_image": "市民参加型の\n野生動物識別",
+      "caption_preview": "【最新映像機材ニュース】\n\nフロリダ州当局が、州内各地に設置されたトレイルカメラ（自動撮影カメラ）で捉えられた野生動物の識別に、市民の協力を呼びかけている。広大なエリアをカバーする無人カメラ網が、膨大な画像データを生み出している。\n\n■ 注目ポイント\n・州内全域に設置されたトレイルカメラによる長期モニタリング\n・人感/モーションセンサーで自動撮影、夜間はIR赤外線撮影\n・膨大な画像のうち未識別の動",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-07-204628.jpg"
+      ],
+      "ig_media_id": "17898915045307128",
+      "fb_post_id": "1120701334458496_122108849949301053",
+      "source_url": "https://petapixel.com/2026/06/07/florida-officials-need-you-to-identify-animals-captured-on-trail-cameras/",
+      "source": "PetaPixel"
     }
   ]
 }
