@@ -723,6 +723,26 @@
       "fb_post_id": "1120701334458496_122108816481301053",
       "source_url": "https://www.newsshooter.com/2026/06/06/sony-rialto-65-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sony-rialto-65-first-look-at-cine-gear-2026",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-07T08:48:33Z",
+      "date": "2026-06-07",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Hollyland C1 Pro Air First Look Cine Gear 2026",
+      "template": "T_overlay",
+      "heading_image": "Hollyland\nC1 Pro Air発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nロサンゼルスで開催中のCine Gear 2026にて、HollylandがワイヤレスインカムシステムC1シリーズの新モデル「C1 Pro Air」を披露。既存のC1 Proを大幅に小型軽量化しつつ、機能はフル維持、相互運用も可能。\n\n■ 注目ポイント\n・C1 Proより小型かつ軽量なボディ\n・帽子着用クルーやオーバーイヤーパッドが苦手なスタッフ向けのスリムデザイン\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-07-174809.jpg"
+      ],
+      "ig_media_id": "18020640326677192",
+      "fb_post_id": "1120701334458496_122108830425301053",
+      "source_url": "https://www.newsshooter.com/2026/06/06/hollyland-c1-pro-air-first-look-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hollyland-c1-pro-air-first-look-cine-gear-2026",
+      "source": "Newsshooter"
     }
   ]
 }
