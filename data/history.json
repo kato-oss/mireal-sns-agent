@@ -703,6 +703,26 @@
       "fb_post_id": "1120701334458496_122108584191301053",
       "source_url": "https://www.provideocoalition.com/beeble-switchx-powers-newly-launched-openart-vfx-platform/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-06-07T05:27:23Z",
+      "date": "2026-06-07",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony RIALTO 65 First Look at Cine Gear 2026",
+      "template": "T_softbg",
+      "heading_image": "Sony RIALTO 65\n初公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nCine Gear Expo 2026のSonyブースで最大の注目を集めたのが、デモテーブルに置かれた「RIALTO 65」。VENICE 2用に開発が進む65mmフォーマットのセンサーブロックで、現行RIALTO 2の思想を大判センサーへ拡張する位置付けです。\n\n■ 注目ポイント\n・VENICE 2のボディと接続する65mmセンサー拡張ユニット (開発中)\n・センサー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-07-142700.jpg"
+      ],
+      "ig_media_id": "17868257496686335",
+      "fb_post_id": "1120701334458496_122108816481301053",
+      "source_url": "https://www.newsshooter.com/2026/06/06/sony-rialto-65-first-look-at-cine-gear-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sony-rialto-65-first-look-at-cine-gear-2026",
+      "source": "Newsshooter"
     }
   ]
 }
