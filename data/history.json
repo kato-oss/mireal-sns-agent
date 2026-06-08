@@ -763,6 +763,26 @@
       "fb_post_id": "1120701334458496_122108849949301053",
       "source_url": "https://petapixel.com/2026/06/07/florida-officials-need-you-to-identify-animals-captured-on-trail-cameras/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-08T05:56:47Z",
+      "date": "2026-06-08",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Maxima Spectra",
+      "template": "T_overlay",
+      "heading_image": "Maxima Spectra\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nイタリアの照明メーカー Maxima から、新型シネマライト「Maxima Spectra」が登場。わずか1.4kg・全長19cmという小型シネマカメラのようなフォルムながら、スタジオグレードの映像照明クオリティを謳うバッテリーファースト設計が特徴です。\n\n■ 注目ポイント\n・重量1.4kg / 全長19cmの超軽量コンパクト設計\n・バッテリー駆動を前提としたフィールド",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-08-145629.jpg"
+      ],
+      "ig_media_id": "18098535776133049",
+      "fb_post_id": "1120701334458496_122109023817301053",
+      "source_url": "https://www.newsshooter.com/2026/06/07/maxima-spectra/?utm_source=rss&utm_medium=rss&utm_campaign=maxima-spectra",
+      "source": "Newsshooter"
     }
   ]
 }
