@@ -783,6 +783,26 @@
       "fb_post_id": "1120701334458496_122109023817301053",
       "source_url": "https://www.newsshooter.com/2026/06/07/maxima-spectra/?utm_source=rss&utm_medium=rss&utm_campaign=maxima-spectra",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-08T10:23:20Z",
+      "date": "2026-06-08",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Strada 2 First Look – Local Drives, Remote Editing",
+      "template": "T_softbg",
+      "heading_image": "メディアを動かさず\n遠隔で編集する時代へ",
+      "caption_preview": "【最新映像機材ニュース】\n\nMichael Cioni率いるStradaが、次世代版「Strada 2」をCine Gear 2026で披露。コンセプトは一貫して『メディアを動かさずにアクセスする』。クラウドへのアップロードや複製を介さず、ローカルドライブに置かれた素材へ共同作業者が直接アクセス・閲覧・編集できる仕組みです。\n\n■ 注目ポイント\n・素材を移動・複製せずローカルドライブのまま共有\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-08-192303.jpg"
+      ],
+      "ig_media_id": "18143697964456238",
+      "fb_post_id": "1120701334458496_122109046275301053",
+      "source_url": "https://www.cined.com/strada-2-first-look-local-drives-remote-editing/",
+      "source": "CineD"
     }
   ]
 }
