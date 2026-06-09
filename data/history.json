@@ -829,6 +829,26 @@
       ],
       "ig_media_id": "18094952360264695",
       "fb_post_id": "1120701334458496_122109348975301053"
+    },
+    {
+      "timestamp": "2026-06-09T05:11:46Z",
+      "date": "2026-06-09",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Godox LC500R Air & LR150 Air",
+      "template": "T_overlay",
+      "heading_image": "膨らませて使う\n新型LEDが登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nGodoxが新型LEDフィクスチャ「LC500R Air」と「LR150 Air」を発表。空気で膨らませて使う、超軽量インフレータブル構造を採用した新シリーズです。\n\n■ 注目ポイント\n・LC500R Airは2.5フィートのRGBスティックライト。空気で形状を保つ柔軟構造\n・LR150 Airはリング型のインフレータブルLED。ポータブル性に振った設計\n・どちらも持ち",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-09-141127.jpg"
+      ],
+      "ig_media_id": "18075659918674887",
+      "fb_post_id": "1120701334458496_122109367737301053",
+      "source_url": "https://www.newsshooter.com/2026/06/08/godox-lc500r-air-lr150-air/?utm_source=rss&utm_medium=rss&utm_campaign=godox-lc500r-air-lr150-air",
+      "source": "Newsshooter"
     }
   ]
 }
