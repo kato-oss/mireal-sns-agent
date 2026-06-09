@@ -803,6 +803,32 @@
       "fb_post_id": "1120701334458496_122109046275301053",
       "source_url": "https://www.cined.com/strada-2-first-look-local-drives-remote-editing/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-09T00:12:07Z",
+      "date": "2026-06-09",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "A",
+      "format": "F2",
+      "theme": "「即日納品って、本当に？」",
+      "template": "T_campaign",
+      "heading_image": "撮影から納品まで1日で完結",
+      "caption_preview": "「即日納品って、本当にできるんですか?」\n\nお問い合わせで、いちばん多い質問です。\n答えは、はい、本当です。\n\n通常の動画制作だと、撮影から納品まで2〜4週間。\n企画の打ち合わせ、撮影日の調整、編集、修正、初稿確認…と工程が積み上がるので、どうしてもそれくらいかかります。\n\n私たちの ONE DAY PROMOTION は、ここを1営業日に圧縮しました。\n\n午前に撮影、午後に編集、その日の終わりに",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-09.jpg",
+      "bgs_used": [
+        "bg-087.jpg",
+        "bg-036.jpg",
+        "bg-043.jpg",
+        "bg-033.jpg",
+        "bg-015.jpg",
+        "bg-059.jpg",
+        "bg-057.jpg",
+        "bg-083.jpg",
+        "bg-013.jpg"
+      ],
+      "ig_media_id": "18094952360264695",
+      "fb_post_id": "1120701334458496_122109348975301053"
     }
   ]
 }
