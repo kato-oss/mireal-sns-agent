@@ -869,6 +869,26 @@
       "fb_post_id": "1120701334458496_122109393081301053",
       "source_url": "https://www.provideocoalition.com/additive-keying-in-after-effects-for-hair-and-fine-details/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-06-09T12:34:33Z",
+      "date": "2026-06-09",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Meta Removes Facial Recognition Code from Ray-Ban Smart Glas",
+      "template": "T_overlay",
+      "heading_image": "Metaが顔認識\nコードを削除",
+      "caption_preview": "【最新映像機材ニュース】\n\nMetaが、Ray-Banスマートグラスのコンパニオンアプリ内で発見された顔認識システム「Name Tag」のコードを削除したと報じられています。プライバシー懸念に対応した形です。\n\n■ 注目ポイント\n・社内で「Name Tag」と呼ばれていた顔認識機能のコードがアプリから削除\n・Ray-Ban Meta スマートグラスのコンパニオンアプリ内に存在していた\n・正式な機能",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-09-213413.jpg"
+      ],
+      "ig_media_id": "18127577608621527",
+      "fb_post_id": "1120701334458496_122109420663301053",
+      "source_url": "https://petapixel.com/2026/06/09/meta-removes-facial-recognition-code-from-ray-ban-smart-glasses-app/",
+      "source": "PetaPixel"
     }
   ]
 }
