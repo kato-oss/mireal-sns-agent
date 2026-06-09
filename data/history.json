@@ -849,6 +849,26 @@
       "fb_post_id": "1120701334458496_122109367737301053",
       "source_url": "https://www.newsshooter.com/2026/06/08/godox-lc500r-air-lr150-air/?utm_source=rss&utm_medium=rss&utm_campaign=godox-lc500r-air-lr150-air",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-09T09:29:44Z",
+      "date": "2026-06-09",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Additive Keying in After Effects for hair and fine details",
+      "template": "T_softbg",
+      "heading_image": "髪の毛キーイング\n新時代の合成術",
+      "caption_preview": "【最新映像制作テクニック】\n\nAfter Effectsで髪の毛や煙、ガラスといった半透明・微細なディテールを自然に合成する「Additive Keying（加算キーイング）」の解説記事が公開。従来のKeylightだけでは取りこぼしがちな細部を、加算ブレンドで救済するワークフローです。\n\n■ 注目ポイント\n・髪の毛・繊維・煙など微細なエッジを自然に抜ける\n・グリーンスクリーン素材から輝度差を利用",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-09-182924.jpg"
+      ],
+      "ig_media_id": "18054596801759604",
+      "fb_post_id": "1120701334458496_122109393081301053",
+      "source_url": "https://www.provideocoalition.com/additive-keying-in-after-effects-for-hair-and-fine-details/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
