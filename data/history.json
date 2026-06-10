@@ -947,6 +947,26 @@
       "fb_post_id": "1120701334458496_122109770895301053",
       "source_url": "https://www.newsshooter.com/2026/06/10/tilta-foldable-charging-station-for-l-series-np-f-6-channel/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-foldable-charging-station-for-l-series-np-f-6-channel",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-10T12:54:14Z",
+      "date": "2026-06-10",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Waymo made a virtual human driver to improve its robotaxis",
+      "template": "T_overlay",
+      "heading_image": "Waymoが開発した\n仮想ドライバーReD",
+      "caption_preview": "【最新テックニュース】\n\nWaymoが自社ロボタクシーの事故回避能力を高めるため、「ReD（Reference Driver）」と呼ばれる仮想ドライバーを開発したと発表。実車のAIシステムを訓練・評価するための、シミュレーション上の「お手本ドライバー」として機能する仕組みです。\n\n■ 注目ポイント\n・仮想空間で動作する基準ドライバーモデル「ReD」\n・ロボタクシーAIの判断・運転挙動を評価する比較",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-10-215354.jpg"
+      ],
+      "ig_media_id": "17979419843862059",
+      "fb_post_id": "1120701334458496_122109787365301053",
+      "source_url": "https://www.engadget.com/2191225/waymo-made-a-virtual-human-driver-to-improve-its-robotaxis/",
+      "source": "Engadget"
     }
   ]
 }
