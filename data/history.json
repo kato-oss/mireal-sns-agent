@@ -907,6 +907,26 @@
       ],
       "ig_media_id": "17941658946227828",
       "fb_post_id": "1120701334458496_122109727779301053"
+    },
+    {
+      "timestamp": "2026-06-10T05:24:15Z",
+      "date": "2026-06-10",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 3D FILM PARTS SmartSlate",
+      "template": "T_overlay",
+      "heading_image": "低価格デジタル\nカチンコ登場へ",
+      "caption_preview": "【最新映像機材ニュース】\n\n3D FILM PARTS が、手頃な価格のデジタルクラッパーボード「SmartSlate」をティザー公開。シンプルな伝統的スレートをベースに、テイク切り替えやプロダクション情報の入力を容易にした製品です。\n\n■ 注目ポイント\n・スマホのクロックと無線でジャム同期、電源を切っても時刻保持\n・テイク番号やシーン情報をデジタル入力で素早く更新\n・従来型スレートの形状を踏襲、",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-10-142358.jpg"
+      ],
+      "ig_media_id": "18118500508756909",
+      "fb_post_id": "1120701334458496_122109742347301053",
+      "source_url": "https://www.newsshooter.com/2026/06/09/3d-film-parts-smartslate/?utm_source=rss&utm_medium=rss&utm_campaign=3d-film-parts-smartslate",
+      "source": "Newsshooter"
     }
   ]
 }
