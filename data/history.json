@@ -927,6 +927,26 @@
       "fb_post_id": "1120701334458496_122109742347301053",
       "source_url": "https://www.newsshooter.com/2026/06/09/3d-film-parts-smartslate/?utm_source=rss&utm_medium=rss&utm_campaign=3d-film-parts-smartslate",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-10T09:44:17Z",
+      "date": "2026-06-10",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tilta Foldable Charging Station for L-Series/NP-F (6-Channel",
+      "template": "T_overlay",
+      "heading_image": "Tilta 6連\n充電ステーション",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiltaがL-Series/NP-F対応の折りたたみ式6チャンネル充電ステーションを発表。NP-F970/F750/F570/F550を最大6本同時に充電でき、現場でのバッテリー入れ替え作業を大幅に削減します。\n\n■ 注目ポイント\n・NP-Fシリーズ6本を同時充電可能\n・スタンダードモード(均等充電)とファストチャージモードを切替\n・折りたたみ構造で持ち運びやすい設計",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-10-184400.jpg"
+      ],
+      "ig_media_id": "18112171637505811",
+      "fb_post_id": "1120701334458496_122109770895301053",
+      "source_url": "https://www.newsshooter.com/2026/06/10/tilta-foldable-charging-station-for-l-series-np-f-6-channel/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-foldable-charging-station-for-l-series-np-f-6-channel",
+      "source": "Newsshooter"
     }
   ]
 }
