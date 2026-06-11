@@ -983,6 +983,26 @@
       "bgs_used": [],
       "ig_media_id": "18095242559267910",
       "fb_post_id": "1120701334458496_122110043085301053"
+    },
+    {
+      "timestamp": "2026-06-11T05:55:35Z",
+      "date": "2026-06-11",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Windows 11 sucks slightly less now, thanks to a June update",
+      "template": "T_overlay",
+      "heading_image": "Windows 11 6月更新\n映像制作に朗報",
+      "caption_preview": "【最新映像機材ニュース】\n\nMicrosoftがWindows 11の6月累積アップデートを配信。映像/オーディオ系ワークフローに直結する「低遅延プロファイル」が追加され、検索機能の高速化、さらに数百件のセキュリティ脆弱性パッチが含まれた大型更新となっている。\n\n■ 注目ポイント\n・新たに「低遅延プロファイル」を導入。リアルタイム処理用途向けにOSスケジューリングを最適化\n・スタートメニュー/エク",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-11-145516.jpg"
+      ],
+      "ig_media_id": "18402656818153881",
+      "fb_post_id": "1120701334458496_122110062471301053",
+      "source_url": "https://www.engadget.com/2191909/windows-11-sucks-slightly-less-now-thanks-to-a-june-update/",
+      "source": "Engadget"
     }
   ]
 }
