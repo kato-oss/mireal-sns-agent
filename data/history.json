@@ -1003,6 +1003,26 @@
       "fb_post_id": "1120701334458496_122110062471301053",
       "source_url": "https://www.engadget.com/2191909/windows-11-sucks-slightly-less-now-thanks-to-a-june-update/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-11T10:12:23Z",
+      "date": "2026-06-11",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Insta360 Luna Ultra Launched – Dual-Lens 8K, Leica Summicron",
+      "template": "T_overlay",
+      "heading_image": "Insta360 Luna Ultra\nついに登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nInsta360がコンパクトジンバルカメラ市場に本格参入。Leica共同開発のデュアルレンズを搭載した「Luna Ultra」を発表しました。DJI Osmo Pocketが長年独占してきたセグメントに、初の本格的なライバルが登場します。\n\n■ 注目ポイント\n・1インチ8Kメインセンサー + 1/1.3インチ望遠モジュールのデュアルレンズ構成\n・Leica Summic",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-11-191204.jpg"
+      ],
+      "ig_media_id": "18401694976158719",
+      "fb_post_id": "1120701334458496_122110085025301053",
+      "source_url": "https://www.cined.com/insta360-luna-ultra-launched-dual-lens-8k-leica-summicron-optics-detachable-oled-screen/",
+      "source": "CineD"
     }
   ]
 }
