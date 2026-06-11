@@ -967,6 +967,22 @@
       "fb_post_id": "1120701334458496_122109787365301053",
       "source_url": "https://www.engadget.com/2191225/waymo-made-a-virtual-human-driver-to-improve-its-robotaxis/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-11T00:24:03Z",
+      "date": "2026-06-11",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「編集ソフトちら見せ」",
+      "template": "T_tipcard",
+      "heading_image": "編集画面、\nちら見せ。",
+      "caption_preview": "「1日で動画って、本当にできるの?」\nよく聞かれる質問です。\n\n答えはシンプル。\n撮影前から、編集の設計が終わっているから。\n\n私たちの編集画面には、\nあらかじめ用意したテンプレートが並んでいます。\n\nオープニング、テロップ、\n切り替え、エンディング。\n業種ごとによく使う構成を、\nライブラリ化しています。\n\n撮影現場では、\nこのテンプレートに合わせてカット割りを設計。\n編集段階で「素材が足りない」",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-11.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18095242559267910",
+      "fb_post_id": "1120701334458496_122110043085301053"
     }
   ]
 }
