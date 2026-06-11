@@ -1023,6 +1023,26 @@
       "fb_post_id": "1120701334458496_122110085025301053",
       "source_url": "https://www.cined.com/insta360-luna-ultra-launched-dual-lens-8k-leica-summicron-optics-detachable-oled-screen/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-11T13:57:08Z",
+      "date": "2026-06-11",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: I'm glad Apple isn't hyping up agentic AI (yet)",
+      "template": "T_softbg",
+      "heading_image": "誇大宣伝より\n実用という選択",
+      "caption_preview": "【最新映像機材ニュース】\n\nAppleが他社のように「エージェントAI」を派手に打ち出さず、Siriに実用機能を着実に統合する方針を取っていることをEngadgetが評価。GoogleやOpenAIが自律エージェントを競ってアピールする中、Appleは現状の制約と着地点を見極めている。\n\n■ 注目ポイント\n・他社が推す「自律的にタスクを実行するAI」をAppleは過剰宣伝しない\n・Siri AIは",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-11-225650.jpg"
+      ],
+      "ig_media_id": "17854933356676140",
+      "fb_post_id": "1120701334458496_122110110813301053",
+      "source_url": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
+      "source": "Engadget"
     }
   ]
 }
