@@ -1107,6 +1107,26 @@
       ],
       "ig_media_id": "17877274929610636",
       "fb_post_id": "1120701334458496_122110455885301053"
+    },
+    {
+      "timestamp": "2026-06-12T10:00:40Z",
+      "date": "2026-06-12",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: TERIS TS120CF-Q Fluid Head Tripod Kit Review",
+      "template": "T_overlay",
+      "heading_image": "TERIS TS120CF-Q\n三脚キット登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nNewsshooterが、TERIS（テリス）の三脚キット「TS120CF-Q」のレビューを公開。100mmハーフボール採用の軽量フルードヘッドに、カーボンファイバー製2段レバーロック脚、グラウンドスプレッダーを組み合わせたパッケージで、現場での素早いセットアップ/撤収を狙った設計が特徴です。\n\n■ 注目ポイント\n・100mmハーフボール採用の軽量フルードヘッド\n・スラ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-12-190013.jpg"
+      ],
+      "ig_media_id": "18203346658354496",
+      "fb_post_id": "1120701334458496_122110462233301053",
+      "source_url": "https://www.newsshooter.com/2026/06/12/teris-ts120cf-q-fluid-head-tripod-kit-review/?utm_source=rss&utm_medium=rss&utm_campaign=teris-ts120cf-q-fluid-head-tripod-kit-review",
+      "source": "Newsshooter"
     }
   ]
 }
