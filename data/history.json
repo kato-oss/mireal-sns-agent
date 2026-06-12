@@ -1127,6 +1127,26 @@
       "fb_post_id": "1120701334458496_122110462233301053",
       "source_url": "https://www.newsshooter.com/2026/06/12/teris-ts120cf-q-fluid-head-tripod-kit-review/?utm_source=rss&utm_medium=rss&utm_campaign=teris-ts120cf-q-fluid-head-tripod-kit-review",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-12T12:52:56Z",
+      "date": "2026-06-12",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Self-Made Virtual Production – What Do You Need to Get Start",
+      "template": "T_overlay",
+      "heading_image": "自作で始める\nバーチャルプロダクション",
+      "caption_preview": "【最新映像機材ニュース】\n\nCineDが「自作バーチャルプロダクション (VP) を始めるには何が必要か」を解説。マンダロリアン以降、ハリウッド級の超高額技術と思われがちなLEDボリュームだが、実は小規模スタジオや個人でも構築可能。モバイルVPを含めた現実的な機材構成が紹介されている。\n\n■ 注目ポイント\n・LEDウォール: 高リフレッシュレート(3840Hz以上推奨)・細かいピクセルピッチ(P1",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-12-215235.jpg"
+      ],
+      "ig_media_id": "18129676573612132",
+      "fb_post_id": "1120701334458496_122110483497301053",
+      "source_url": "https://www.cined.com/self-made-virtual-production-what-do-you-need-to-get-started/",
+      "source": "CineD"
     }
   ]
 }
