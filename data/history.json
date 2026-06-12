@@ -1069,6 +1069,26 @@
       ],
       "ig_media_id": "18164988991443454",
       "fb_post_id": "1120701334458496_122110367229301053"
+    },
+    {
+      "timestamp": "2026-06-12T05:53:50Z",
+      "date": "2026-06-12",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Desview OL 16″ OLED Screen High-Bright Multiview Production ",
+      "template": "T_overlay",
+      "heading_image": "Desview OL 16\n4K OLED登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nDesviewが16インチOLEDの高輝度マルチビュー制作モニター「OL 16」を米国で発売。価格は$1,199と、OLED・4K・マルチビュー対応モデルとしては攻めた設定です。\n\n■ 注目ポイント\n・4K UHD解像度、10.7億色表示の16インチOLEDパネル\n・ピーク輝度1500nits、コントラスト比500,000:1で屋外運用も視野\n・100% DCI-P3カ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-12-145330.jpg"
+      ],
+      "ig_media_id": "18108787801741160",
+      "fb_post_id": "1120701334458496_122110440453301053",
+      "source_url": "https://www.newsshooter.com/2026/06/11/desview-ol-16-oled-screen-high-bright-multiview-production-monitor-1199-us/?utm_source=rss&utm_medium=rss&utm_campaign=desview-ol-16-oled-screen-high-bright-multiview-production-monitor-1199-us",
+      "source": "Newsshooter"
     }
   ]
 }
