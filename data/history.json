@@ -1043,6 +1043,32 @@
       "fb_post_id": "1120701334458496_122110110813301053",
       "source_url": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-12T00:23:10Z",
+      "date": "2026-06-12",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "E",
+      "format": "F2",
+      "theme": "「47都道府県、全国対応」",
+      "template": "T_campaign",
+      "heading_image": "全国どこでも、47都道府県",
+      "caption_preview": "「うちは地方だから、東京の制作会社には頼めない」\nそう思って、動画を諦めていませんか。\n\n私たちMIREALは、全国47都道府県に出張撮影で対応しています。\n北海道の小さな宿、四国の整骨院、九州の飲食店。\nこれまで企画から納品まで、地域を問わず伴走してきました。\n\n地方の中小企業ほど、動画の効果は大きいと考えています。\n商圏が限られているからこそ、一本の動画が採用や集客の流れを変える。\nそんな現場",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-12.jpg",
+      "bgs_used": [
+        "bg-016.jpg",
+        "bg-014.jpg",
+        "bg-072.jpg",
+        "bg-026.jpg",
+        "bg-024.jpg",
+        "bg-078.jpg",
+        "bg-031.jpg",
+        "bg-042.jpg",
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18164988991443454",
+      "fb_post_id": "1120701334458496_122110367229301053"
     }
   ]
 }
