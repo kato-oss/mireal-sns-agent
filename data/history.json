@@ -1089,6 +1089,24 @@
       "fb_post_id": "1120701334458496_122110440453301053",
       "source_url": "https://www.newsshooter.com/2026/06/11/desview-ol-16-oled-screen-high-bright-multiview-production-monitor-1199-us/?utm_source=rss&utm_medium=rss&utm_campaign=desview-ol-16-oled-screen-high-bright-multiview-production-monitor-1199-us",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-12T08:46:03Z",
+      "date": "2026-06-12",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "R",
+      "format": "RECRUIT",
+      "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+      "template": "T_overlay",
+      "heading_image": "映像クリエイター\n募集中",
+      "caption_preview": "【映像クリエイター募集】\n\nMIREALでは下記ポジションを募集しています。\n\n■ 今週フォーカス職種\n・カメラマン\n・動画編集者\n（ディレクター、モーショングラファーも通年募集中）\n\n■ 働き方\n・案件単位での参加\n・フルリモートOK\n・副業・複業OK\n・全国の案件あり\n\n■ 報酬\n・案件ごとに事前提示\n\n■ こんな方歓迎\n・実務での制作経験あり\n・連絡、納品のレスポンスが早い\n・地方ロケや出張",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-12.jpg",
+      "bgs_used": [
+        "bg-046.jpg"
+      ],
+      "ig_media_id": "17877274929610636",
+      "fb_post_id": "1120701334458496_122110455885301053"
     }
   ]
 }
