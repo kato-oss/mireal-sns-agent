@@ -1165,6 +1165,26 @@
       ],
       "ig_media_id": "18089554850060871",
       "fb_post_id": "1120701334458496_122110762755301053"
+    },
+    {
+      "timestamp": "2026-06-13T05:24:33Z",
+      "date": "2026-06-13",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ZineControl is now available on the App Store",
+      "template": "T_overlay",
+      "heading_image": "ZineControl\n正式リリース",
+      "caption_preview": "【最新映像機材ニュース】\n\n5,000人超のベータテスターによる数百時間のテストを経て、カメラ制御アプリ「ZineControl」がApp Storeで正式リリースされました。サブスクリプション無し、アプリ内課金無しの買い切り$14.99 USDという明朗な価格設定が特徴です。\n\n■ 注目ポイント\n・iPhone / iPad対応のカメラコントロールアプリ\n・サブスクや追加課金なし、買い切り$14",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-13-142410.jpg"
+      ],
+      "ig_media_id": "18559200241065904",
+      "fb_post_id": "1120701334458496_122110780815301053",
+      "source_url": "https://www.newsshooter.com/2026/06/12/zinecontrol-is-now-available-on-the-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-is-now-available-on-the-app-store",
+      "source": "Newsshooter"
     }
   ]
 }
