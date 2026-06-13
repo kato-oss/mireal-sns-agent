@@ -1147,6 +1147,24 @@
       "fb_post_id": "1120701334458496_122110483497301053",
       "source_url": "https://www.cined.com/self-made-virtual-production-what-do-you-need-to-get-started/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-13T00:23:57Z",
+      "date": "2026-06-13",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「打ち合わせ→即撮影」",
+      "template": "T_overlay",
+      "heading_image": "打ち合わせ\nそのまま撮影",
+      "caption_preview": "「来週イベントなのに、まだ動画ない」\n「打ち合わせ何回もやってる時間がない」\n\nそんな声に、私たちはこう答えます。\n\n──打ち合わせ、そのまま撮影しましょう。\n\nMIREALのONE DAY PROMOTIONは、\n朝のヒアリングがそのまま絵コンテになり、\n午前のうちにカメラが回り始めます。\n\n午後には編集、夕方には初稿。\n通常2〜4週間かかる工程を、1営業日に圧縮。\n\nなぜそれが可能なのか。\n答",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-13.jpg",
+      "bgs_used": [
+        "bg-086.jpg"
+      ],
+      "ig_media_id": "18089554850060871",
+      "fb_post_id": "1120701334458496_122110762755301053"
     }
   ]
 }
