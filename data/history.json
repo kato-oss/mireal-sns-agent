@@ -1185,6 +1185,26 @@
       "fb_post_id": "1120701334458496_122110780815301053",
       "source_url": "https://www.newsshooter.com/2026/06/12/zinecontrol-is-now-available-on-the-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-is-now-available-on-the-app-store",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-13T08:50:20Z",
+      "date": "2026-06-13",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig T99 V-Mount Power Bank (99Wh)",
+      "template": "T_overlay",
+      "heading_image": "SmallRig T99\nV-Mount登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigから新型Vマウントバッテリー「T99 V-Mount Power Bank」が登場。99Wh / 6800mAh容量で、Vマウントバッテリーとしてもモバイルバッテリーとしても使える二刀流設計が特徴です。\n\n■ 注目ポイント\n・14.5V出力、99Wh / 6800mAh の航空機持ち込み可能サイズ\n・D-Tap×3基を搭載し、複数機材への同時給電に対応\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-13-174958.jpg"
+      ],
+      "ig_media_id": "17891949426514375",
+      "fb_post_id": "1120701334458496_122110791633301053",
+      "source_url": "https://www.newsshooter.com/2026/06/12/smallrig-t99-v-mount-power-bank-99wh/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-t99-v-mount-power-bank-99wh",
+      "source": "Newsshooter"
     }
   ]
 }
