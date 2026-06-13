@@ -1205,6 +1205,26 @@
       "fb_post_id": "1120701334458496_122110791633301053",
       "source_url": "https://www.newsshooter.com/2026/06/12/smallrig-t99-v-mount-power-bank-99wh/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-t99-v-mount-power-bank-99wh",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-13T11:53:38Z",
+      "date": "2026-06-13",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 31 Otherworldly New Deep-Sea Species Photographed with Cutti",
+      "template": "T_softbg",
+      "heading_image": "深海31新種を\n高精細で捉える",
+      "caption_preview": "【最新映像機材ニュース】\n\n科学者チームが最新の水中カメラ技術を駆使し、わずか数日で深海の新種31種を発見・撮影することに成功した。これまで「繊細すぎて記録すること自体が困難」とされてきた深海生物を、損傷させずに高精細に捉えた事例として注目を集めている。\n\n■ 注目ポイント\n・繊細な深海生物を傷つけずに撮影できる新世代の水中イメージング機材\n・短期間で31種という発見ペースを支えた高感度・高解像セ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-13-205323.jpg"
+      ],
+      "ig_media_id": "17900425686449989",
+      "fb_post_id": "1120701334458496_122110809339301053",
+      "source_url": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
+      "source": "PetaPixel"
     }
   ]
 }
