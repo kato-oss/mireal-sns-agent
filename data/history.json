@@ -1265,6 +1265,26 @@
       "fb_post_id": "1120701334458496_122111179851301053",
       "source_url": "https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-14T11:55:12Z",
+      "date": "2026-06-14",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nature in Miniature: Advanced Techniques for Macro Compositi",
+      "template": "T_softbg",
+      "heading_image": "極小世界を\n作品に変える光",
+      "caption_preview": "【最新映像機材ニュース】\n\nPetaPixelが、自然界のマクロ撮影における上級テクニックを解説するガイドを公開。「ただ寄るだけ」ではない、経験豊富な写真家が用いる構図・ライティング・深度コントロールの技法を紹介している。\n\n■ 注目ポイント\n・フォーカススタッキングによる被写界深度の拡張と立体感の構築\n・ディフューザーや逆光を使った繊細な光のコントロール\n・背景処理とネガティブスペースを意識した",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-14-205446.jpg"
+      ],
+      "ig_media_id": "17981990550002067",
+      "fb_post_id": "1120701334458496_122111192469301053",
+      "source_url": "https://petapixel.com/2026/06/13/nature-in-miniature-advanced-techniques-for-macro-compositions/",
+      "source": "PetaPixel"
     }
   ]
 }
