@@ -1225,6 +1225,26 @@
       "fb_post_id": "1120701334458496_122110809339301053",
       "source_url": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-14T05:55:16Z",
+      "date": "2026-06-14",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Why your cardiologist might tell you to skip AirPods",
+      "template": "T_overlay",
+      "heading_image": "AirPodsと\n心臓デバイス",
+      "caption_preview": "【最新ガジェットニュース】\n\nAirPodsをはじめとするワイヤレスイヤホンに内蔵された磁石が、ペースメーカーやICD(植込み型除細動器)などのCIED(心臓植込み型電子デバイス)に干渉する可能性があるとして、循環器内科医が注意を促している。\n\n■ 注目ポイント\n・AirPods Pro、Beats、一部Android機などに強力な磁石を内蔵\n・CIEDに近づけると一時的に動作モードが変わるリスク",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-14-145459.jpg"
+      ],
+      "ig_media_id": "18069261791373389",
+      "fb_post_id": "1120701334458496_122111165205301053",
+      "source_url": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
+      "source": "Engadget"
     }
   ]
 }
