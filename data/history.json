@@ -1245,6 +1245,26 @@
       "fb_post_id": "1120701334458496_122111165205301053",
       "source_url": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-14T09:22:50Z",
+      "date": "2026-06-14",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How to use AirPods to control your iPhone camera",
+      "template": "T_overlay",
+      "heading_image": "AirPodsで\niPhone撮影",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、AirPodsをiPhoneカメラのリモートシャッターとして使う方法を紹介。三脚に固定したiPhoneから離れた位置で、AirPodsのステムを操作するだけで写真撮影や動画の録画開始/停止が可能になる。\n\n■ 注目ポイント\n・iOS 18以降のカメラアプリで「カメラリモコン」機能に対応\n・AirPods (第3世代以降) / AirPods Pro ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-14-182233.jpg"
+      ],
+      "ig_media_id": "18104213603089407",
+      "fb_post_id": "1120701334458496_122111179851301053",
+      "source_url": "https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/",
+      "source": "Engadget"
     }
   ]
 }
