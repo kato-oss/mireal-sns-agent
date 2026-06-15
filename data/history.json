@@ -1343,6 +1343,26 @@
       "fb_post_id": "1120701334458496_122111338725301053",
       "source_url": "https://www.cined.com/mrmc-enters-liquidation-weeks-after-nikon-exit-with-asset-sale-agreed-but-not-yet-closed/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-15T15:44:32Z",
+      "date": "2026-06-16",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Adobe Adds More User Control to AI Features Inside Lightroom",
+      "template": "T_overlay",
+      "heading_image": "Lightroomに\nAI選別機能追加",
+      "caption_preview": "【最新映像機材ニュース】\n\nAdobeがCreative Cloudのアップデートで、LightroomとPhotoshopのAI機能を強化。イベントやポートレート撮影で発生する大量カットの選別作業を、AIがアシストする新ツールが追加された。\n\n■ 注目ポイント\n・Lightroomに新たなAI支援セレクト機能を搭載。数千枚から候補を絞り込む工程を短縮\n・PhotoshopのAI機能にもユーザーコ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-16-004408.jpg"
+      ],
+      "ig_media_id": "18076215815291956",
+      "fb_post_id": "1120701334458496_122111497269301053",
+      "source_url": "https://petapixel.com/2026/06/15/adobe-adds-more-user-control-to-ai-features-inside-lightroom-and-photoshop/",
+      "source": "PetaPixel"
     }
   ]
 }
