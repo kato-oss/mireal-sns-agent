@@ -1323,6 +1323,26 @@
       "fb_post_id": "1120701334458496_122111311575301053",
       "source_url": "https://www.newsshooter.com/2026/06/14/smallrig-v-mount-battery-mount-plate-for-arca-type-plate-or-nato-rail/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-v-mount-battery-mount-plate-for-arca-type-plate-or-nato-rail",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-15T11:51:10Z",
+      "date": "2026-06-15",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: MRMC Enters Liquidation Weeks After Nikon Exit, With Asset S",
+      "template": "T_softbg",
+      "heading_image": "名門MRMC、\n清算手続きへ",
+      "caption_preview": "【最新映像機材ニュース】\n\nアカデミー賞も受賞したMiloリグ、高速Bolt Cinebotで知られる英Mark Roberts Motion Control (MRMC) が清算手続きに入りました。Nikonが同事業の売却を発表してからわずか57日後の動きです。\n\n■ 注目ポイント\n・共同清算人が事業・資産すべてを匿名の買い手に売却することで合意\n・買い手は事業継続の意向を示しているが、契約締結",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-15-205052.jpg"
+      ],
+      "ig_media_id": "18078534992556896",
+      "fb_post_id": "1120701334458496_122111338725301053",
+      "source_url": "https://www.cined.com/mrmc-enters-liquidation-weeks-after-nikon-exit-with-asset-sale-agreed-but-not-yet-closed/",
+      "source": "CineD"
     }
   ]
 }
