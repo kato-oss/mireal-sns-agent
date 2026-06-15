@@ -1285,6 +1285,24 @@
       "fb_post_id": "1120701334458496_122111192469301053",
       "source_url": "https://petapixel.com/2026/06/13/nature-in-miniature-advanced-techniques-for-macro-compositions/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-15T00:20:40Z",
+      "date": "2026-06-15",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画を作る前に決めるべき5つ」",
+      "template": "T_listicle",
+      "heading_image": "動画を作る前に\n決めるべきこと",
+      "caption_preview": "「とりあえず動画を作りたい」\nそのまま発注すると、ほぼ確実に作り直しになります。\n\n中小企業の動画制作で、撮影前に必ず決めておきたい5つをまとめました。\n\n\n1. 誰に見せるか\n社長ですか、若手の求職者ですか、近所の主婦層ですか。\nターゲットが1人に絞れていないと、刺さらない動画になります。\n\n2. どこで流すか\nInstagramのリール、自社サイトのトップ、商談での再生。\n再生環境で、尺も縦横",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-15.jpg",
+      "bgs_used": [
+        "bg-034.jpg"
+      ],
+      "ig_media_id": "17892154071538385",
+      "fb_post_id": "1120701334458496_122111286273301053"
     }
   ]
 }
