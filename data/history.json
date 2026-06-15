@@ -1303,6 +1303,26 @@
       ],
       "ig_media_id": "17892154071538385",
       "fb_post_id": "1120701334458496_122111286273301053"
+    },
+    {
+      "timestamp": "2026-06-15T06:31:12Z",
+      "date": "2026-06-15",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig V-Mount Battery Mount Plate for Arca-Type Plate or ",
+      "template": "T_overlay",
+      "heading_image": "SmallRig新\nVマウントプレート",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigから、Arca-typeプレートまたはNATOレールにクランプ可能なV-Mountバッテリープレートが登場。Vマウントバッテリーの向きを素早く切り替えられる設計で、ビューファインダーやLCDモニターへのアクセスを妨げない構造になっている。\n\n■ 注目ポイント\n・Arca-type / NATOレール両対応のデュアルクランプ設計\n・バッテリーの向きを縦横自",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-15-153056.jpg"
+      ],
+      "ig_media_id": "18181331911402926",
+      "fb_post_id": "1120701334458496_122111311575301053",
+      "source_url": "https://www.newsshooter.com/2026/06/14/smallrig-v-mount-battery-mount-plate-for-arca-type-plate-or-nato-rail/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-v-mount-battery-mount-plate-for-arca-type-plate-or-nato-rail",
+      "source": "Newsshooter"
     }
   ]
 }
