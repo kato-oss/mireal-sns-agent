@@ -1363,6 +1363,26 @@
       "fb_post_id": "1120701334458496_122111497269301053",
       "source_url": "https://petapixel.com/2026/06/15/adobe-adds-more-user-control-to-ai-features-inside-lightroom-and-photoshop/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-16T06:37:59Z",
+      "date": "2026-06-16",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Films Robert De Niro Grabbed From the Criterion Closet",
+      "template": "T_softbg",
+      "heading_image": "デ・ニーロが選ぶ\n映画的ルーツ",
+      "caption_preview": "【最新映像機材ニュース】\n\n名優ロバート・デ・ニーロが、映画ファンの聖地「Criterion Closet」を訪問。通常5〜7分の動画に対し1分半と短いながら、彼の映画的ルーツを語る重要作品を厳選していった。\n\n■ 注目ポイント\n・『Big Deal on Madonna Street』(1958) — イタリアン・ケイパー・コメディの金字塔\n・名匠マリオ・モニチェリ監督作で、後のヘイスト映画に多",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-16.jpg",
+      "bgs_used": [
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18045867431572657",
+      "fb_post_id": "1120701334458496_122111684925301053",
+      "source_url": "https://nofilmschool.com/robert-de-niro-criterion-closet-picks",
+      "source": "NoFilmSchool"
     }
   ]
 }
