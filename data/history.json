@@ -1383,6 +1383,26 @@
       "fb_post_id": "1120701334458496_122111684925301053",
       "source_url": "https://nofilmschool.com/robert-de-niro-criterion-closet-picks",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-16T10:58:42Z",
+      "date": "2026-06-16",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Uruguay Soccer Coach Refuses to Look at Camera During World ",
+      "template": "T_softbg",
+      "heading_image": "カメラを見ない\n被写体との対話",
+      "caption_preview": "【最新映像機材ニュース】\n\nW杯公式フォトセッションで、ウルグアイ代表ヘッドコーチのマルセロ・ビエルサ氏がカメラに一切目を向けないまま撮影を終え、現場のフォトグラファーを困らせる事態に。被写体が協力的でない時、撮影者はどう立ち回るべきかが改めて話題となっています。\n\n■ 注目ポイント\n・FIFA公式の選手・スタッフポートレート撮影での出来事\n・ビエルサ監督は終始視線を外し、無表情で対応\n・限られた",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-16-195822.jpg"
+      ],
+      "ig_media_id": "18080769932207132",
+      "fb_post_id": "1120701334458496_122111708109301053",
+      "source_url": "https://petapixel.com/2026/06/16/uruguay-soccer-coach-refuses-to-look-at-camera-during-world-cup-photo-shoot/",
+      "source": "PetaPixel"
     }
   ]
 }
