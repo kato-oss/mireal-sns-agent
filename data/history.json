@@ -1461,6 +1461,26 @@
       "fb_post_id": "1120701334458496_122112118179301053",
       "source_url": "https://petapixel.com/2026/06/17/three-photographers-injured-after-sprint-car-goes-off-track-at-ohio-race/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-17T13:40:31Z",
+      "date": "2026-06-17",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Over Two Years After Launch, the Fujifilm X100VI Atop a Sale",
+      "template": "T_overlay",
+      "heading_image": "X100VIが首位\n発売2年超の異例ヒット",
+      "caption_preview": "【最新映像機材ニュース】\n\nMap Cameraの5月新品デジタルカメラ販売ランキングで、富士フイルムX100VIが首位を獲得。発売から2年以上が経過してもなお品薄・高需要が続く異例のヒットモデルとなっています。\n\n■ 注目ポイント\n・X100VIがトップ5のうち4機種を富士フイルムが占める結果に\n・5ヶ月連続首位だったSony α7 Vがついに王座を明け渡す\n・APS-C 4020万画素X-Tr",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-17-224014.jpg"
+      ],
+      "ig_media_id": "18185990809388883",
+      "fb_post_id": "1120701334458496_122112140049301053",
+      "source_url": "https://petapixel.com/2026/06/17/over-two-years-after-launch-the-fujifilm-x100vi-atop-a-sales-chart-feels-inevitable/",
+      "source": "PetaPixel"
     }
   ]
 }
