@@ -1441,6 +1441,26 @@
       "fb_post_id": "1120701334458496_122112095973301053",
       "source_url": "https://www.newsshooter.com/2026/06/16/nanlux-evoke-600c-v-mount-battery-power-station/?utm_source=rss&utm_medium=rss&utm_campaign=nanlux-evoke-600c-v-mount-battery-power-station",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-17T10:30:31Z",
+      "date": "2026-06-17",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Three Photographers Injured After Sprint Car Goes Off Track ",
+      "template": "T_overlay",
+      "heading_image": "撮影現場の安全\n改めて問われる",
+      "caption_preview": "【最新映像機材ニュース】\n\n米オハイオ州で開催されたスプリントカーレースで、コントロールを失った車両がコース外に飛び出し、撮影中のカメラマン3名が負傷する事故が発生しました。\n\n■ 注目ポイント\n・モータースポーツ撮影中に発生した接触事故\n・コース外で撮影していたフォトグラファー3名が被害\n・現場での安全配置・距離設定が改めて問われる事案\n\n■ なぜ注目すべきか\nモータースポーツや競技撮影では、迫",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-17-193009.jpg"
+      ],
+      "ig_media_id": "18120466498703651",
+      "fb_post_id": "1120701334458496_122112118179301053",
+      "source_url": "https://petapixel.com/2026/06/17/three-photographers-injured-after-sprint-car-goes-off-track-at-ohio-race/",
+      "source": "PetaPixel"
     }
   ]
 }
