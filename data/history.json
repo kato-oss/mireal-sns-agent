@@ -1499,6 +1499,26 @@
       ],
       "ig_media_id": "18054598487589613",
       "fb_post_id": "1120701334458496_122112475557301053"
+    },
+    {
+      "timestamp": "2026-06-18T06:00:20Z",
+      "date": "2026-06-18",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: “They Didn't Want Me”: Al Pacino Thought He Would Be Fired F",
+      "template": "T_softbg",
+      "heading_image": "解雇寸前だった\nアル・パチーノ",
+      "caption_preview": "【映像史トリビア】\n\n1972年の名作『ゴッドファーザー』。マイケル・コルレオーネを演じたアル・パチーノは、撮影初期にパラマウントから解雇寸前だったと語られている。\n\n■ 注目ポイント\n・コッポラ監督がパチーノを強く推したが、スタジオ側は無名の舞台俳優起用に難色\n・初期ラッシュを見たスタジオ幹部は演技を「眠い」「平板」と酷評\n・転機はシシリアン・レストランでのソロッツォ暗殺シーン。この場面の力強さ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-18.jpg",
+      "bgs_used": [
+        "bg-065.jpg"
+      ],
+      "ig_media_id": "17886703821568281",
+      "fb_post_id": "1120701334458496_122112492447301053",
+      "source_url": "https://nofilmschool.com/the-godfather-al-pacino-almost-fired",
+      "source": "NoFilmSchool"
     }
   ]
 }
