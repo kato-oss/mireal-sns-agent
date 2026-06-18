@@ -1539,6 +1539,26 @@
       "fb_post_id": "1120701334458496_122112508155301053",
       "source_url": "https://www.engadget.com/2196333/sennheiser-debuts-open-ear-accentum-clip-earbuds-with-nine-hours-of-battery-life/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-18T12:50:00Z",
+      "date": "2026-06-18",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Poll: What Would You Want from a DJI Ronin 4D Successor?",
+      "template": "T_overlay",
+      "heading_image": "Ronin 4D 後継機\nに何を望む？",
+      "caption_preview": "【最新映像機材ニュース】\n\nDJIが2021年10月に発表したRonin 4Dは、フルサイズセンサー・4軸ジンバル(垂直方向の能動的スタビライズ)・LiDARフォーカス・長距離ワイヤレス伝送を一体化した「4軸シネマカメラ」という新カテゴリを切り開いた製品。発売から約5年、未だ後継機の気配はなく、CineDが読者に「次世代4Dに何を求めるか」を問う投票を実施しています。\n\n■ 注目ポイント\n・初代は",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-18-214934.jpg"
+      ],
+      "ig_media_id": "17930746353336521",
+      "fb_post_id": "1120701334458496_122112522981301053",
+      "source_url": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
+      "source": "CineD"
     }
   ]
 }
