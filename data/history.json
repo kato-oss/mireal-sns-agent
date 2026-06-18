@@ -1481,6 +1481,24 @@
       "fb_post_id": "1120701334458496_122112140049301053",
       "source_url": "https://petapixel.com/2026/06/17/over-two-years-after-launch-the-fujifilm-x100vi-atop-a-sales-chart-feels-inevitable/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-06-18T00:22:02Z",
+      "date": "2026-06-18",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「明日撮影に来てください」",
+      "template": "T_overlay",
+      "heading_image": "明日、撮影。\nその依頼、受けます",
+      "caption_preview": "「明日、撮影に来てもらえますか?」\n\nこの一言、私たちは普通に受けています。\n\n動画制作の常識では、問い合わせから納品まで2〜4週間。\n企画書、絵コンテ、撮影日調整、編集確認、修正…と進むうちに、本来動画を使いたかったイベントやキャンペーンが終わってしまう。\n\nそんな経験をした中小企業の担当者さんから、私たちへの依頼が増えています。\n\nMIREALの ONE DAY PROMOTION は、撮影〜",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-18.jpg",
+      "bgs_used": [
+        "bg-071.jpg"
+      ],
+      "ig_media_id": "18054598487589613",
+      "fb_post_id": "1120701334458496_122112475557301053"
     }
   ]
 }
