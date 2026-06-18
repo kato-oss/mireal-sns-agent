@@ -1519,6 +1519,26 @@
       "fb_post_id": "1120701334458496_122112492447301053",
       "source_url": "https://nofilmschool.com/the-godfather-al-pacino-almost-fired",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-18T10:10:52Z",
+      "date": "2026-06-18",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sennheiser debuts open-ear Accentum Clip earbuds with nine h",
+      "template": "T_overlay",
+      "heading_image": "Sennheiser新型\nオープンイヤー登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSennheiserが初のクリップ式オープンイヤー型イヤホン「Accentum Clip」を発表。耳を塞がない装着スタイルで、撮影現場のモニタリングや屋外ロケでの周囲音確認との両立に使える設計。\n\n■ 注目ポイント\n・耳を塞がないオープンイヤー型クリップデザイン\n・本体単体で最大9時間の連続再生\n・Sennheiserのオーディオチューニングを継承\n\n■ なぜ注目すべき",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-18-191036.jpg"
+      ],
+      "ig_media_id": "18219369925325142",
+      "fb_post_id": "1120701334458496_122112508155301053",
+      "source_url": "https://www.engadget.com/2196333/sennheiser-debuts-open-ear-accentum-clip-earbuds-with-nine-hours-of-battery-life/",
+      "source": "Engadget"
     }
   ]
 }
