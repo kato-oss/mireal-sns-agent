@@ -1559,6 +1559,22 @@
       "fb_post_id": "1120701334458496_122112522981301053",
       "source_url": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-19T01:48:23Z",
+      "date": "2026-06-19",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「機材紹介」",
+      "template": "T_tipcard",
+      "heading_image": "即日納品を支える\n機材構成の正体",
+      "caption_preview": "「1日で動画って、本当に大丈夫？」\nよくいただく質問です。\n\n答えは、機材とフローの設計にあります。\n\n私たちが現場に持ち込むのは、\n大きく3つ。\n\n1. ミラーレスシネマカメラ\n4K収録対応で、撮って出しでも色が整う機種を選定。編集での補正時間を最小化します。\n\n2. ワイヤレスピンマイク2本体制\nインタビューも対談も、音声トラブルでの撮り直しをゼロに近づけます。動画の8割は音で決まる、というの",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-19.jpg",
+      "bgs_used": [],
+      "ig_media_id": "17994283841795310",
+      "fb_post_id": "1120701334458496_122112960201301053"
     }
   ]
 }
