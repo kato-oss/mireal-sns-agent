@@ -1613,6 +1613,26 @@
       ],
       "ig_media_id": "18078467912434565",
       "fb_post_id": "1120701334458496_122113044819301053"
+    },
+    {
+      "timestamp": "2026-06-19T10:16:51Z",
+      "date": "2026-06-19",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Are you prepared to wait until 2027 for a Steam Controller?",
+      "template": "T_overlay",
+      "heading_image": "Steam Controller\n出荷は2027年へ",
+      "caption_preview": "【最新ガジェットニュース】\n\nValveが新型「Steam Controller」の出荷スケジュールについて続報を発表。一部の注文分は2026年内に届かず、2027年までずれ込む可能性があると公式にアナウンスした。\n\n■ 注目ポイント\n・Valveが公式アップデートで出荷遅延を認める\n・一部のオーダーは2027年出荷となる見込み\n・予約状況と生産ペースを踏まえた現実的な納期見通し\n\n■ なぜ注目す",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-19-191633.jpg"
+      ],
+      "ig_media_id": "17999848949771016",
+      "fb_post_id": "1120701334458496_122113050927301053",
+      "source_url": "https://www.engadget.com/2197972/valve-steam-controller-2027-shipping/",
+      "source": "Engadget"
     }
   ]
 }
