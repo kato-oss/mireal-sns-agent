@@ -1633,6 +1633,26 @@
       "fb_post_id": "1120701334458496_122113050927301053",
       "source_url": "https://www.engadget.com/2197972/valve-steam-controller-2027-shipping/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-19T13:33:56Z",
+      "date": "2026-06-19",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Toy Story 5 is a surprisingly thoughtful critique of technol",
+      "template": "T_softbg",
+      "heading_image": "タブレットは\n本当に“悪役”か",
+      "caption_preview": "【最新映像機材ニュース】\n\nピクサー最新作『トイ・ストーリー5』が、シリーズで初めて“タブレット”を敵役に据えた作品として話題に。単なるテクノロジー否定ではなく、子どもとデバイスの関係性、そして親の役割を問う、思いがけず思慮深い一作と評されています。\n\n■ 注目ポイント\n・新キャラクターとしてタブレット型デバイスが“ヴィラン”として登場\n・テクノロジーを一方的に悪と描かないバランス感覚\n・ピクサー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-19-223336.jpg"
+      ],
+      "ig_media_id": "18598045114048745",
+      "fb_post_id": "1120701334458496_122113065939301053",
+      "source_url": "https://www.engadget.com/2197271/toy-story-5-is-a-surprisingly-thoughtful-critique-of-technology/",
+      "source": "Engadget"
     }
   ]
 }
