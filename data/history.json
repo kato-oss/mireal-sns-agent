@@ -1575,6 +1575,26 @@
       "bgs_used": [],
       "ig_media_id": "17994283841795310",
       "fb_post_id": "1120701334458496_122112960201301053"
+    },
+    {
+      "timestamp": "2026-06-19T06:25:25Z",
+      "date": "2026-06-19",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Lexar 128GB Professional 1800x UHS-II SDXC Memory Card (GOLD",
+      "template": "T_overlay",
+      "heading_image": "Lexar 1800x\n128GB 2枚組セール",
+      "caption_preview": "【最新映像機材ニュース】\n\nLexar Professional 1800x UHS-II SDXC 128GB GOLDシリーズの2枚パックが$109.99 USDでセール中。世界的にメモリ価格が高騰している中、貴重な値下がり情報です。\n\n■ 注目ポイント\n・容量128GB×2枚、UHS-II対応のGOLDシリーズ\n・最大読み出し1800x(約270MB/s)、書き込み最大180MB/s\n・V6",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-19-152501.jpg"
+      ],
+      "ig_media_id": "18125043250640988",
+      "fb_post_id": "1120701334458496_122113035453301053",
+      "source_url": "https://www.newsshooter.com/2026/06/18/lexar-128gb-professional-1800x-uhs-ii-sdxc-memory-card-gold-series-2-pack-on-sale-for-109-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=lexar-128gb-professional-1800x-uhs-ii-sdxc-memory-card-gold-series-2-pack-on-sale-for-109-99-usd",
+      "source": "Newsshooter"
     }
   ]
 }
