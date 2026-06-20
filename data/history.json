@@ -1671,6 +1671,26 @@
       ],
       "ig_media_id": "18048366860716439",
       "fb_post_id": "1120701334458496_122113302855301053"
+    },
+    {
+      "timestamp": "2026-06-20T05:20:54Z",
+      "date": "2026-06-20",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Upgrade Your Filmmaking Workflow With These iPad Deals",
+      "template": "T_overlay",
+      "heading_image": "iPadが変える\n映像制作の現場",
+      "caption_preview": "【最新映像機材ニュース】\n\nNoFilmSchoolが、映像制作ワークフローに使えるiPadのセール情報をピックアップ。今やiPadはギミックではなく、プリプロ・撮影・ポストの各工程で実用的なツールとして定着しつつあります。\n\n■ 注目ポイント\n・絵コンテ/ショットリスト/ロケハン資料などプリプロ作業に最適\n・外部モニターやワイヤレスフォローフォーカス、照明卓のコントローラーとして活用可能\n・Lu",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-20.jpg",
+      "bgs_used": [
+        "bg-078.jpg"
+      ],
+      "ig_media_id": "18321302761274844",
+      "fb_post_id": "1120701334458496_122113430751301053",
+      "source_url": "https://nofilmschool.com/apple-ipads-sale",
+      "source": "NoFilmSchool"
     }
   ]
 }
