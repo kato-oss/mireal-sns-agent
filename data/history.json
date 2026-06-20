@@ -1691,6 +1691,26 @@
       "fb_post_id": "1120701334458496_122113430751301053",
       "source_url": "https://nofilmschool.com/apple-ipads-sale",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-20T08:44:53Z",
+      "date": "2026-06-20",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Your First Move on Any Script Is to Find the Dilemma",
+      "template": "T_softbg",
+      "heading_image": "脚本の核は\nジレンマにある",
+      "caption_preview": "【最新映像制作ニュース】\n\n脚本コンサルタントJeff Kitchenが、Film Courageの動画内で実際の脚本ピッチを40分かけて解体。物語の中に既に潜んでいる「ドラマの駆動装置=ジレンマ」をいかに見つけ、最大化するかを実演している。\n\n題材は、退屈したFortune500企業のITセキュリティ責任者Derekが、競合企業に雇われ機密窃取を狙うSkylerに惚れてしまうスリラー。\n\n■ 注",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-20.jpg",
+      "bgs_used": [
+        "bg-042.jpg"
+      ],
+      "ig_media_id": "17986951329006351",
+      "fb_post_id": "1120701334458496_122113448265301053",
+      "source_url": "https://nofilmschool.com/screenwriting-find-dilemma",
+      "source": "NoFilmSchool"
     }
   ]
 }
