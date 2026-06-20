@@ -1711,6 +1711,26 @@
       "fb_post_id": "1120701334458496_122113448265301053",
       "source_url": "https://nofilmschool.com/screenwriting-find-dilemma",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-20T11:54:44Z",
+      "date": "2026-06-20",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Steam Next Fest demos, a Virtual Boy-inspired shooter and ot",
+      "template": "T_overlay",
+      "heading_image": "Steam Next Fest\n注目デモ続々",
+      "caption_preview": "【最新ガジェットニュース】\n\nSteamの大型デモ祭典「Steam Next Fest」が開催中。Engadgetが、今回注目すべきインディーゲームのデモをピックアップしている。中でも任天堂のVirtual Boyを彷彿とさせる赤黒2色のレトロ風シューターが話題。\n\n■ 注目ポイント\n・Virtual Boy風のモノクロ赤デザインを採用したシューター\n・多数のインディータイトルが期間限定で無料デモ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-20-205425.jpg"
+      ],
+      "ig_media_id": "18116865790839066",
+      "fb_post_id": "1120701334458496_122113462815301053",
+      "source_url": "https://www.engadget.com/2198112/steam-next-fest-demos-a-virtual-boy-inspired-shooter-and-other-new-indie-games-worth-checking-out/",
+      "source": "Engadget"
     }
   ]
 }
