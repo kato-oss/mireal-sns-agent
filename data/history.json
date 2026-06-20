@@ -1653,6 +1653,24 @@
       "fb_post_id": "1120701334458496_122113065939301053",
       "source_url": "https://www.engadget.com/2197271/toy-story-5-is-a-surprisingly-thoughtful-critique-of-technology/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-20T00:17:18Z",
+      "date": "2026-06-20",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画の効果が出ない3つの理由」",
+      "template": "T_listicle",
+      "heading_image": "動画の効果が\n出ない本当の理由",
+      "caption_preview": "「動画を作ったのに、問い合わせが増えない」\nそんな声を、現場でよく聞きます。\n\n私たちMIREALが、全国の中小企業の動画制作に伴走してきて見えてきた、効果が出ない動画の共通点は3つあります。\n\n\n理由1. 誰に向けて作ったか曖昧\n\n「とりあえず会社紹介」「とりあえず商品紹介」では、誰の心にも刺さりません。\n動画は1本につき、ターゲット1人・伝えたいこと1つ。これが鉄則です。\n\n\n理由2. 公開し",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-20.jpg",
+      "bgs_used": [
+        "bg-082.jpg"
+      ],
+      "ig_media_id": "18048366860716439",
+      "fb_post_id": "1120701334458496_122113302855301053"
     }
   ]
 }
