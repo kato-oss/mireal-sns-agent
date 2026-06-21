@@ -1751,6 +1751,26 @@
       "fb_post_id": "1120701334458496_122113810479301053",
       "source_url": "https://www.engadget.com/2198367/nasa-is-testing-ernest-rover-that-can-drive-faster-and-lift-its-wheels-to-climb-obstacles/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-21T09:40:20Z",
+      "date": "2026-06-21",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: enlaps Tikee 4X Outdoor Time-Lapse Camera Pack",
+      "template": "T_overlay",
+      "heading_image": "6Kで挑む\n長期定点撮影",
+      "caption_preview": "【最新映像機材ニュース】\n\nenlapsが、建設現場やロケ地での長期定点撮影に特化したタイムラプスカメラ「Tikee 4X Outdoor Time-Lapse Camera Pack」を発表。本体に加え、ハードケース・256GB microSDカード・ステンレス製アームまで同梱したオールインワン仕様です。\n\n■ 注目ポイント\n・6K解像度対応のイメージセンサーを搭載\n・屋外長期運用を想定したタフ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-21-183959.jpg"
+      ],
+      "ig_media_id": "18013353362857595",
+      "fb_post_id": "1120701334458496_122113824609301053",
+      "source_url": "https://www.newsshooter.com/2026/06/21/enlaps-tikee-4x-outdoor-time-lapse-camera-pack/?utm_source=rss&utm_medium=rss&utm_campaign=enlaps-tikee-4x-outdoor-time-lapse-camera-pack",
+      "source": "Newsshooter"
     }
   ]
 }
