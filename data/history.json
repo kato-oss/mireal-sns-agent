@@ -1731,6 +1731,26 @@
       "fb_post_id": "1120701334458496_122113462815301053",
       "source_url": "https://www.engadget.com/2198112/steam-next-fest-demos-a-virtual-boy-inspired-shooter-and-other-new-indie-games-worth-checking-out/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-21T06:08:36Z",
+      "date": "2026-06-21",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: NASA is testing a rover that can drive faster and lift its w",
+      "template": "T_overlay",
+      "heading_image": "NASA新型ローバー\n「Ernest」試験中",
+      "caption_preview": "【最新映像機材ニュース】\n\nNASAが開発中の新型プロトタイプローバー「Ernest」のテスト映像が公開。従来機より高速で走行でき、さらに車輪を個別に持ち上げて岩や段差を乗り越える独自機構を備える。\n\n■ 注目ポイント\n・従来の惑星探査ローバーより高い走行速度を実現\n・各車輪を独立して持ち上げ、障害物をまたぐ動作が可能\n・荒地や不整地での走破性を大幅に向上させる設計\n\n■ なぜ注目すべきか\n惑星探",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-21-150812.jpg"
+      ],
+      "ig_media_id": "17918404833389310",
+      "fb_post_id": "1120701334458496_122113810479301053",
+      "source_url": "https://www.engadget.com/2198367/nasa-is-testing-ernest-rover-that-can-drive-faster-and-lift-its-wheels-to-climb-obstacles/",
+      "source": "Engadget"
     }
   ]
 }
