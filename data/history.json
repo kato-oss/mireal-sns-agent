@@ -1771,6 +1771,26 @@
       "fb_post_id": "1120701334458496_122113824609301053",
       "source_url": "https://www.newsshooter.com/2026/06/21/enlaps-tikee-4x-outdoor-time-lapse-camera-pack/?utm_source=rss&utm_medium=rss&utm_campaign=enlaps-tikee-4x-outdoor-time-lapse-camera-pack",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-21T12:10:14Z",
+      "date": "2026-06-21",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $350 USD on the Falcam TreeRoot Quick Lock Pro Carbon F",
+      "template": "T_overlay",
+      "heading_image": "Falcam三脚が\n$350オフでセール",
+      "caption_preview": "【最新映像機材ニュース】\n\nFalcamのフラッグシップ・トラベル三脚「TreeRoot Quick Lock Pro Carbon Fiber Tripod」が$349 USDにセール。通常価格から$350 USDオフという大幅値引きです。\n\n■ 注目ポイント\n・カーボンファイバー製の軽量ボディながら耐荷重約50kg (110 lb)\n・作業高は約17cmから152cm (6.7〜60インチ) ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-21-210951.jpg"
+      ],
+      "ig_media_id": "18014539067856364",
+      "fb_post_id": "1120701334458496_122113839453301053",
+      "source_url": "https://www.newsshooter.com/2026/06/21/save-350-usd-on-the-falcam-treeroot-quick-lock-pro-carbon-fiber-tripod/?utm_source=rss&utm_medium=rss&utm_campaign=save-350-usd-on-the-falcam-treeroot-quick-lock-pro-carbon-fiber-tripod",
+      "source": "Newsshooter"
     }
   ]
 }
