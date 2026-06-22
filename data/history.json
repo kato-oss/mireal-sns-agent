@@ -1837,6 +1837,26 @@
       "fb_post_id": "1120701334458496_122114161263301053",
       "source_url": "https://www.newsshooter.com/2026/06/21/save-100-usd-on-the-smallrig-vb99-pro-mini-v-mount-battery-vb99-pro-mini-battery-kit-with-folding-v-lock-plate/?utm_source=rss&utm_medium=rss&utm_campaign=save-100-usd-on-the-smallrig-vb99-pro-mini-v-mount-battery-vb99-pro-mini-battery-kit-with-folding-v-lock-plate",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-22T11:39:47Z",
+      "date": "2026-06-22",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Mavis Studio Update Adds NDI Preview, PTZ Camera Control, an",
+      "template": "T_overlay",
+      "heading_image": "Mavis Studio\n大型アップデート",
+      "caption_preview": "【最新映像機材ニュース】\n\nInfoComm 2026にて、iPad向けタッチ操作型ライブプロダクションアプリ「Mavis Studio」の大型アップデートが発表。NABでの初登場からわずか数ヶ月での進化となります。\n\n■ 注目ポイント\n・NDI Previewモード搭載 (サブスク前に5分間フルアクセス可能)\n・対応NDIカメラのPTZ制御に対応\n・USBオーディオインターフェース最大4ch入力",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-22-203928.jpg"
+      ],
+      "ig_media_id": "18073770236678916",
+      "fb_post_id": "1120701334458496_122114184993301053",
+      "source_url": "https://www.cined.com/mavis-studio-update-adds-ndi-preview-ptz-camera-control-and-usb-audio-to-the-ipad/",
+      "source": "CineD"
     }
   ]
 }
