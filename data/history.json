@@ -1817,6 +1817,26 @@
       ],
       "ig_media_id": "18192392854327648",
       "fb_post_id": "1120701334458496_122114141589301053"
+    },
+    {
+      "timestamp": "2026-06-22T06:33:38Z",
+      "date": "2026-06-22",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $100 USD on the SmallRig VB99 Pro Mini V-Mount Battery ",
+      "template": "T_overlay",
+      "heading_image": "SmallRig VB99 Pro\n$100オフでセール中",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigの超小型V-Mountバッテリー「VB99 Pro Mini」が$100オフのセール中。単体$149.99、折りたたみV-Lockプレート付きキットは$189.99で販売されている。\n\n■ 注目ポイント\n・99Whの大容量ながら超コンパクト・軽量設計（飛行機内持ち込み可能なサイズ）\n・公称14.8V、最大14A（約207W）の高出力ドロー対応\n・D-Ta",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-22-153316.jpg"
+      ],
+      "ig_media_id": "18003342197943185",
+      "fb_post_id": "1120701334458496_122114161263301053",
+      "source_url": "https://www.newsshooter.com/2026/06/21/save-100-usd-on-the-smallrig-vb99-pro-mini-v-mount-battery-vb99-pro-mini-battery-kit-with-folding-v-lock-plate/?utm_source=rss&utm_medium=rss&utm_campaign=save-100-usd-on-the-smallrig-vb99-pro-mini-v-mount-battery-vb99-pro-mini-battery-kit-with-folding-v-lock-plate",
+      "source": "Newsshooter"
     }
   ]
 }
