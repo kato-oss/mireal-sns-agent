@@ -1857,6 +1857,26 @@
       "fb_post_id": "1120701334458496_122114184993301053",
       "source_url": "https://www.cined.com/mavis-studio-update-adds-ndi-preview-ptz-camera-control-and-usb-audio-to-the-ipad/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-22T15:22:47Z",
+      "date": "2026-06-23",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Inside “Debut at the BBC Proms”: Director Ian Russell on Fil",
+      "template": "T_overlay",
+      "heading_image": "Vision Proで\nクラシック撮影",
+      "caption_preview": "【最新映像機材ニュース】\n\nApple Immersive Video作品『Debut at the BBC Proms』が今年3月に公開。Apple Vision Pro向けに制作された初のクラシック音楽コンサート作品の一つで、現時点でApple Immersive最長尺タイトル。監督Ian Russell氏が制作の舞台裏を語った。\n\n■ 注目ポイント\n・撮影機材はBlackmagic URSA",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-23-002225.jpg"
+      ],
+      "ig_media_id": "18342782017175003",
+      "fb_post_id": "1120701334458496_122114213307301053",
+      "source_url": "https://www.cined.com/inside-debut-at-the-bbc-proms-director-ian-russell-on-filming-classical-music-for-apple-vision-pro/",
+      "source": "CineD"
     }
   ]
 }
