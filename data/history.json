@@ -1877,6 +1877,24 @@
       "fb_post_id": "1120701334458496_122114213307301053",
       "source_url": "https://www.cined.com/inside-debut-at-the-bbc-proms-director-ian-russell-on-filming-classical-music-for-apple-vision-pro/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-23T00:16:42Z",
+      "date": "2026-06-23",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "E",
+      "format": "F5",
+      "theme": "「地方の小売店、地域訴求動画」",
+      "template": "T_overlay",
+      "heading_image": "地方の小売店に\n全国出張で動画を",
+      "caption_preview": "「うちは地方の小さなお店だから、動画なんて遠い話」\nそう思っていませんか。\n\n今回ご紹介するのは、地方都市の小売店向け「地域訴求動画」のケースです。\n\n【業種】\n地方都市の食料品・雑貨を扱う小売店\n\n【課題】\n・観光客にも地元客にも、店の雰囲気が伝わっていない\n・SNSはやっているが、写真だけでは魅力が伝わりきらない\n・東京の制作会社に頼むと出張費だけで数十万円\n\n【ONE DAYでの解決】\n私た",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-23.jpg",
+      "bgs_used": [
+        "bg-027.jpg"
+      ],
+      "ig_media_id": "18086568590116964",
+      "fb_post_id": "1120701334458496_122114449509301053"
     }
   ]
 }
