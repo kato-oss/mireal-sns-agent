@@ -1915,6 +1915,26 @@
       "fb_post_id": "1120701334458496_122114464251301053",
       "source_url": "https://www.newsshooter.com/2026/06/22/smallrig-camera-cage-kit-for-sony-fx6/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-camera-cage-kit-for-sony-fx6",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-23T09:26:26Z",
+      "date": "2026-06-23",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: OpenAI's new Daybreak⁠ initiative will help open-source proj",
+      "template": "T_overlay",
+      "heading_image": "OpenAI Daybreak\n本格始動",
+      "caption_preview": "【最新テックニュース】\n\nOpenAIが、サイバーセキュリティプログラム「Daybreak」の新イニシアチブとして「Patch the Planet」を発表。AIを活用してオープンソースプロジェクトの脆弱性を発見・修正するための取り組み。\n\n■ 注目ポイント\n・Daybreakプログラムの一環として始動\n・OSSの脆弱性をAIで自動検出・パッチ提案\n・世界中の開発者コミュニティを保護対象に\n\n■ ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-23-182603.jpg"
+      ],
+      "ig_media_id": "18087181463630681",
+      "fb_post_id": "1120701334458496_122114485005301053",
+      "source_url": "https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/",
+      "source": "Engadget"
     }
   ]
 }
