@@ -1895,6 +1895,26 @@
       ],
       "ig_media_id": "18086568590116964",
       "fb_post_id": "1120701334458496_122114449509301053"
+    },
+    {
+      "timestamp": "2026-06-23T05:07:34Z",
+      "date": "2026-06-23",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig Camera Cage Kit for Sony FX6",
+      "template": "T_overlay",
+      "heading_image": "FX6専用ケージ\n刷新登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRig が Sony FX6 向けの新しい Camera Cage Kit を発表。FX6 は発売から間もなく6年が経つベテラン機ながら、現場での採用率は依然として高く、今回のキットは旧 Cage Kit のアップデート版という位置づけ。\n\n■ 注目ポイント\n・Sony FX6 専用設計のフルケージ構成\n・旧モデルからのリプレース版として刷新\n・1/4-20 ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-23-140711.jpg"
+      ],
+      "ig_media_id": "18013141742714082",
+      "fb_post_id": "1120701334458496_122114464251301053",
+      "source_url": "https://www.newsshooter.com/2026/06/22/smallrig-camera-cage-kit-for-sony-fx6/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-camera-cage-kit-for-sony-fx6",
+      "source": "Newsshooter"
     }
   ]
 }
