@@ -1935,6 +1935,24 @@
       "fb_post_id": "1120701334458496_122114485005301053",
       "source_url": "https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-24T00:05:22Z",
+      "date": "2026-06-24",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画依頼の流れ全部見せ」",
+      "template": "T_listicle",
+      "heading_image": "動画依頼から納品まで\n全部見せます",
+      "caption_preview": "「動画って、依頼してから何日かかるんですか？」\n\nこれ、私たちが一番多く受ける質問です。\n通常の動画制作だと、企画書のやり取りから撮影、編集、修正で2〜4週間。下手すると1ヶ月以上。\n\nMIREALのONE DAY PROMOTIONは、ここを1営業日に圧縮しました。\n今日は、その全工程を順番に公開します。\n\n【STEP1】問い合わせ・ヒアリング(所要30分)\nフォームから連絡→電話orオンライン",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-24.jpg",
+      "bgs_used": [
+        "bg-012.jpg"
+      ],
+      "ig_media_id": "18369971284225666",
+      "fb_post_id": "1120701334458496_122114765649301053"
     }
   ]
 }
