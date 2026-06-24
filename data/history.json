@@ -1993,6 +1993,26 @@
       "fb_post_id": "1120701334458496_122114798859301053",
       "source_url": "https://nofilmschool.com/editor-2677065250",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-06-24T12:17:26Z",
+      "date": "2026-06-24",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: US government reportedly urging Meta to share its AI models",
+      "template": "T_overlay",
+      "heading_image": "米政府 Metaに\nAIモデル開示要求か",
+      "caption_preview": "【最新映像機材ニュース】\n\n米政府がMetaに対し、同社のAIモデルを審査用に共有するよう求めていると報じられた。背景には、生成AI技術に対するセキュリティおよび安全性への懸念の高まりがある。\n\n■ 注目ポイント\n・対象はMetaが開発するAIモデル(Llama系を含むと見られる)\n・米政府はレビュー目的での開示を要請との報道\n・オープンモデルの安全性・悪用リスクが論点に\n\n■ なぜ注目すべきか\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-24-211706.jpg"
+      ],
+      "ig_media_id": "18431631049132825",
+      "fb_post_id": "1120701334458496_122114810883301053",
+      "source_url": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
+      "source": "Engadget"
     }
   ]
 }
