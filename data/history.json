@@ -1953,6 +1953,26 @@
       ],
       "ig_media_id": "18369971284225666",
       "fb_post_id": "1120701334458496_122114765649301053"
+    },
+    {
+      "timestamp": "2026-06-24T05:05:40Z",
+      "date": "2026-06-24",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nikon and Canon's APS-C cameras are getting a versatile new ",
+      "template": "T_overlay",
+      "heading_image": "Tamron 17-70\nRF/Z対応へ",
+      "caption_preview": "【最新映像機材ニュース】\n\nTamronがAPS-C向け標準ズーム「17-70mm F2.8 Di III-A VC RXD」をCanon RFマウントとNikon Zマウント向けに展開すると発表。これまでソニーE / 富士Xマウントで好評だったレンズが、ついにキヤノン・ニコンユーザーにも届きます。\n\n■ 注目ポイント\n・全域F2.8通しの大口径標準ズーム\n・35mm換算でNikon Z:26-1",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-24.jpg",
+      "bgs_used": [
+        "bg-078.jpg"
+      ],
+      "ig_media_id": "18136074595565739",
+      "fb_post_id": "1120701334458496_122114781447301053",
+      "source_url": "https://www.dpreview.com/news/6760897095/tamron-17-70mm-f2p8-rf-z-mount-canon-nikon",
+      "source": "DPReview"
     }
   ]
 }
