@@ -2013,6 +2013,26 @@
       "fb_post_id": "1120701334458496_122114810883301053",
       "source_url": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-25T08:51:17Z",
+      "date": "2026-06-25",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Fusion Studio 21.0.1 Update",
+      "template": "T_overlay",
+      "heading_image": "Fusion Studio\n21.0.1 公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Designが Fusion Studio 21.0.1 アップデートをリリース。Fairlight Live パブリックベータ向けの改良とバグ修正が中心で、ライブ音響運用の実用性がさらに高まる内容となっています。\n\n■ 注目ポイント\n・新しいフェーダーフリップ機能：フェーダーを Aux / Matrix / Mix Minus センドレベルにマッ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-25-175101.jpg"
+      ],
+      "ig_media_id": "18079469495245579",
+      "fb_post_id": "1120701334458496_122115023739301053",
+      "source_url": "https://www.newsshooter.com/2026/06/25/fusion-studio-21-0-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-studio-21-0-1-update",
+      "source": "Newsshooter"
     }
   ]
 }
