@@ -2033,6 +2033,26 @@
       "fb_post_id": "1120701334458496_122115023739301053",
       "source_url": "https://www.newsshooter.com/2026/06/25/fusion-studio-21-0-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-studio-21-0-1-update",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-25T12:15:02Z",
+      "date": "2026-06-25",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Samyang's AF 60-180mm F2.8 completes a lightweight zoom trin",
+      "template": "T_overlay",
+      "heading_image": "Samyang 60-180mm\nF2.8 FE 登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nLK SamyangがSony Eマウント用フルサイズ対応の中望遠ズーム「AF 60-180mm F2.8 FE」を発表。Schneider-Kreuznachとの共同設計による軽量ズーム三兄弟（14-24mm / 24-60mm / 60-180mm）がついに完結しました。\n\n■ 注目ポイント\n・全域F2.8通しで重量わずか730g、クラス最軽量級を謳う\n・14-24",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-25.jpg",
+      "bgs_used": [
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18083946353440805",
+      "fb_post_id": "1120701334458496_122115038115301053",
+      "source_url": "https://www.dpreview.com/news/3753144366/lk-samyang-af-60-180mm-f2p8-lens-announcement",
+      "source": "DPReview"
     }
   ]
 }
