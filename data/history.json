@@ -2117,6 +2117,26 @@
       ],
       "ig_media_id": "18438541183187772",
       "fb_post_id": "1120701334458496_122115279249301053"
+    },
+    {
+      "timestamp": "2026-06-26T08:53:28Z",
+      "date": "2026-06-26",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: iFootage Shark Slider Pico Pro Released with a Higher Payloa",
+      "template": "T_overlay",
+      "heading_image": "iFootage 新型\nスライダー登場",
+      "caption_preview": "【最新映像機材ニュース】\n\niFootage が小型電動スライダーの新モデル「Shark Slider Pico Pro」を正式発表。スマホ・アクションカム・DJI Pocket・軽量ミラーレスまで対応する、モーションコントロール対応の携帯型スライダーです。\n\n■ 注目ポイント\n・フレーム長 400mm / 移動距離 255mm のコンパクト設計は従来機を踏襲\n・先代 Shark Slider P",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-26-175311.jpg"
+      ],
+      "ig_media_id": "18077469947287044",
+      "fb_post_id": "1120701334458496_122115281925301053",
+      "source_url": "https://www.cined.com/ifootage-shark-slider-pico-pro-released-with-a-higher-payload/",
+      "source": "CineD"
     }
   ]
 }
