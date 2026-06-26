@@ -2053,6 +2053,32 @@
       "fb_post_id": "1120701334458496_122115038115301053",
       "source_url": "https://www.dpreview.com/news/3753144366/lk-samyang-af-60-180mm-f2p8-lens-announcement",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-06-26T00:17:51Z",
+      "date": "2026-06-26",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "C",
+      "format": "F2",
+      "theme": "「次の四半期、動画始めませんか」",
+      "template": "T_campaign",
+      "heading_image": "Q3、動画は¥98,000から",
+      "caption_preview": "「次の四半期こそ、動画を始めたい」\nそう考えている中小企業の経営者・マーケ担当者の方へ。\n\n7月から始まる新しい四半期。\n年度の折り返しでもあり、下期の集客や採用を仕込むタイミングです。\n\nただ、こんな声をよく聞きます。\n\n・予算が20万円しかない\n・社内に動画を作れる人がいない\n・見積もりを取ったら60万円超で諦めた\n・どこから始めたらいいか分からない\n\n私たちMIREALのONE DAY PR",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-26.jpg",
+      "bgs_used": [
+        "bg-076.jpg",
+        "bg-044.jpg",
+        "bg-045.jpg",
+        "bg-043.jpg",
+        "bg-028.jpg",
+        "bg-030.jpg",
+        "bg-057.jpg",
+        "bg-034.jpg",
+        "bg-059.jpg"
+      ],
+      "ig_media_id": "18379004809203988",
+      "fb_post_id": "1120701334458496_122115249393301053"
     }
   ]
 }
