@@ -2079,6 +2079,26 @@
       ],
       "ig_media_id": "18379004809203988",
       "fb_post_id": "1120701334458496_122115249393301053"
+    },
+    {
+      "timestamp": "2026-06-26T05:13:18Z",
+      "date": "2026-06-26",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Tiny World of Bees",
+      "template": "T_softbg",
+      "heading_image": "ミツバチの世界を\n極小レンズで撮る",
+      "caption_preview": "【最新映像機材ニュース】\n\nNational Geographic新シリーズ『Secrets of the Bees』のBTS映像が公開。Explorer Bertie Gregoryとシリーズプロデューサー Huw Cordeyが、ミツバチの巣の内部を捉えるために用いた革新的な撮影技法を解説しています。\n\n■ 注目ポイント\n・ミツバチの巣内部を捉えるマクロ/プローブレンズ撮影\n・ハチの行動を妨げ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-26-141258.jpg"
+      ],
+      "ig_media_id": "18077572715463580",
+      "fb_post_id": "1120701334458496_122115270939301053",
+      "source_url": "https://www.newsshooter.com/2026/06/25/the-tiny-world-of-bees/?utm_source=rss&utm_medium=rss&utm_campaign=the-tiny-world-of-bees",
+      "source": "Newsshooter"
     }
   ]
 }
