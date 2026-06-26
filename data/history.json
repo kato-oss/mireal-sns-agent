@@ -2099,6 +2099,24 @@
       "fb_post_id": "1120701334458496_122115270939301053",
       "source_url": "https://www.newsshooter.com/2026/06/25/the-tiny-world-of-bees/?utm_source=rss&utm_medium=rss&utm_campaign=the-tiny-world-of-bees",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-26T08:07:09Z",
+      "date": "2026-06-26",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "R",
+      "format": "RECRUIT",
+      "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+      "template": "T_overlay",
+      "heading_image": "映像クリエイター\n募集",
+      "caption_preview": "【映像クリエイター募集】\n\nMIREALでは下記ポジションを募集しています。\n\n■ 今週フォーカス\n・カメラマン\n・動画編集者\n\n■ その他募集中\n・ディレクター\n・モーショングラファー\n\n■ 働き方\n・案件単位での参加\n・フルリモートOK\n・副業OK\n・全国の案件あり\n\n■ こんな方歓迎\n・現場で1本以上の制作経験\n・納期を守れる方\n・地方案件にも対応可能な方\n\n報酬は案件ごとに事前提示。フォー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-26.jpg",
+      "bgs_used": [
+        "bg-015.jpg"
+      ],
+      "ig_media_id": "18438541183187772",
+      "fb_post_id": "1120701334458496_122115279249301053"
     }
   ]
 }
