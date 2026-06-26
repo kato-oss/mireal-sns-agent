@@ -2137,6 +2137,26 @@
       "fb_post_id": "1120701334458496_122115281925301053",
       "source_url": "https://www.cined.com/ifootage-shark-slider-pico-pro-released-with-a-higher-payload/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-26T12:09:43Z",
+      "date": "2026-06-26",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Australia's social media ban may not be that effective, stud",
+      "template": "T_overlay",
+      "heading_image": "豪SNS禁止\n効果薄の指摘",
+      "caption_preview": "【最新映像機材ニュース】\n\nオーストラリアが世界に先駆けて導入した「16歳未満のSNS利用禁止」法について、その実効性に疑問を投げかける研究結果が発表されました。原因は、各プラットフォームが採用する「自己申告型」の年齢確認の脆弱さにあります。\n\n■ 注目ポイント\n・豪政府は16歳未満のSNS利用を法的に禁止\n・対象はMeta系・TikTok・YouTube等の主要SNS\n・年齢確認の多くが自己申告",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-26-210927.jpg"
+      ],
+      "ig_media_id": "18071351039366919",
+      "fb_post_id": "1120701334458496_122115328461301053",
+      "source_url": "https://www.engadget.com/2202255/australia-social-media-ban-still-not-effective/",
+      "source": "Engadget"
     }
   ]
 }
