@@ -2157,6 +2157,26 @@
       "fb_post_id": "1120701334458496_122115328461301053",
       "source_url": "https://www.engadget.com/2202255/australia-social-media-ban-still-not-effective/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-27T11:25:58Z",
+      "date": "2026-06-27",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: OpenAI launches a limited preview of GPT-5.6 for a 'small gr",
+      "template": "T_softbg",
+      "heading_image": "GPT-5.6、\n静かに幕開け",
+      "caption_preview": "【最新映像機材ニュース】\n\nOpenAIが次世代モデル「GPT-5.6」を一部の信頼するパートナー向けに限定プレビュー公開。3つのバリアントで構成され、過去最強の性能モデルと、過去最も低価格なモデルが同時に投入される点が話題になっています。\n\n■ 注目ポイント\n・「small group of trusted partners」向けの限定プレビュー段階\n・3バリアント構成 (フラッグシップ / 標",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-27-202526.jpg"
+      ],
+      "ig_media_id": "18396069397091921",
+      "fb_post_id": "1120701334458496_122115479139301053",
+      "source_url": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
+      "source": "Engadget"
     }
   ]
 }
