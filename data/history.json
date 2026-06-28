@@ -2177,6 +2177,26 @@
       "fb_post_id": "1120701334458496_122115479139301053",
       "source_url": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-06-28T05:21:21Z",
+      "date": "2026-06-28",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Angelbird 512GB AV PRO CFexpress 4.0 Type A Memory Card on s",
+      "template": "T_overlay",
+      "heading_image": "Angelbird CFe-A\n$100オフでセール",
+      "caption_preview": "【最新映像機材ニュース】\n\nAngelbirdの512GB AV PRO CFexpress 4.0 Type Aメモリーカードが$349.99 USD（約100ドル引き）でセール中。Sony FXシリーズやα1などCFexpress Type A対応機を使うシューターには見逃せない価格帯。\n\n■ 注目ポイント\n・最大読込速度 1800 MB/s、最大書込速度 1650 MB/s\n・持続読込 17",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-28-142101.jpg"
+      ],
+      "ig_media_id": "18124456609635342",
+      "fb_post_id": "1120701334458496_122115637311301053",
+      "source_url": "https://www.newsshooter.com/2026/06/27/angelbird-512gb-av-pro-cfexpress-4-0-type-a-memory-card-on-sale-for-349-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=angelbird-512gb-av-pro-cfexpress-4-0-type-a-memory-card-on-sale-for-349-99-usd",
+      "source": "Newsshooter"
     }
   ]
 }
