@@ -2217,6 +2217,26 @@
       "fb_post_id": "1120701334458496_122115786831301053",
       "source_url": "https://www.newsshooter.com/2026/06/27/chimera-covered-wagon-with-frame/?utm_source=rss&utm_medium=rss&utm_campaign=chimera-covered-wagon-with-frame",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-28T11:46:06Z",
+      "date": "2026-06-28",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Review: KSUN ZL35 network walkie talkie radio with wifi/4G &",
+      "template": "T_overlay",
+      "heading_image": "KSUN ZL35\nレビュー速報",
+      "caption_preview": "【最新映像機材ニュース】\n\nProVideoCoalitionが、KSUN ZL35 ネットワーク型ウォーキートーキーをレビュー。スマホ全盛の時代でも、撮影現場やイベント運営では片方向ずつ通話するシンプレックスPTT(プッシュトゥトーク)機がいまだ重宝される。本機はWiFi/4G回線を使い、従来の電波到達範囲の制約を超えて広域通信を実現するタイプ。\n\n■ 注目ポイント\n・WiFi/4G通信対応で実",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-28-204536.jpg"
+      ],
+      "ig_media_id": "17994061295983138",
+      "fb_post_id": "1120701334458496_122115803457301053",
+      "source_url": "https://www.provideocoalition.com/review-ksun-zl35-network-walkie-talkie-radio-with-wifi-4g-zello/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
