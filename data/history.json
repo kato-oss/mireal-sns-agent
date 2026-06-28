@@ -2197,6 +2197,26 @@
       "fb_post_id": "1120701334458496_122115637311301053",
       "source_url": "https://www.newsshooter.com/2026/06/27/angelbird-512gb-av-pro-cfexpress-4-0-type-a-memory-card-on-sale-for-349-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=angelbird-512gb-av-pro-cfexpress-4-0-type-a-memory-card-on-sale-for-349-99-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-28T08:43:56Z",
+      "date": "2026-06-28",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Chimera Covered Wagon with Frame",
+      "template": "T_overlay",
+      "heading_image": "Chimera 新作\nハーフドーム登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nライティング機材で知られるChimeraから、新製品「Covered Wagon with Frame」が登場。四隅のレシーバーにChimera製アークポールを差し込み、クリーンなハーフドーム構造を作り、Chimera Clothや任意のディフュージョンで覆える設計です。\n\n■ 注目ポイント\n・四隅コーナーレシーバー＋アークポールでハーフドームを形成\n・Chimera ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-28-174339.jpg"
+      ],
+      "ig_media_id": "17981872883993599",
+      "fb_post_id": "1120701334458496_122115786831301053",
+      "source_url": "https://www.newsshooter.com/2026/06/27/chimera-covered-wagon-with-frame/?utm_source=rss&utm_medium=rss&utm_campaign=chimera-covered-wagon-with-frame",
+      "source": "Newsshooter"
     }
   ]
 }
