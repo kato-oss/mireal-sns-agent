@@ -2303,6 +2303,26 @@
       "fb_post_id": "1120701334458496_122116330929301053",
       "source_url": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-29T14:02:43Z",
+      "date": "2026-06-29",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: DJI Osmo Pocket 4P: Industry's worst-kept secret finally rev",
+      "template": "T_overlay",
+      "heading_image": "Osmo Pocket 4P\n中国先行公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nDJIが新型ポケットジンバルカメラ「Osmo Pocket 4P」を中国および東南アジア市場で正式公開しました。5月のカンヌ映画祭でのティザー、6月初旬のメディア向けハンズオンを経て、ついに製品の全貌が明らかに。中国国内ではすでに販売がスタートしており、レビュー解禁もされている一方、欧米メディアにはまだ詳細公開のタイミングが伝えられていない異例の展開です。\n\n■ 注目ポ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-29.jpg",
+      "bgs_used": [
+        "bg-066.jpg"
+      ],
+      "ig_media_id": "17948335437017868",
+      "fb_post_id": "1120701334458496_122116412379301053",
+      "source_url": "https://www.dpreview.com/news/8014959474/dji-osmo-pocket-4p-industrys-worst-kept-secret-finally-revealed-in-china",
+      "source": "DPReview"
     }
   ]
 }
