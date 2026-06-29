@@ -2263,6 +2263,26 @@
       ],
       "ig_media_id": "18066326480468951",
       "fb_post_id": "1120701334458496_122116242213301053"
+    },
+    {
+      "timestamp": "2026-06-29T05:55:27Z",
+      "date": "2026-06-29",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: MID49 Folding TWIST Mount EVF System & 8-inch NATO Rail",
+      "template": "T_overlay",
+      "heading_image": "MID49が新EVF\n折畳機構を搭載",
+      "caption_preview": "【最新映像機材ニュース】\n\nMID49が新製品「Folding TWIST Mount EVF System」と「TWIST Mount Double Sided NATO Rail (8インチ)」を発表。ショルダーリグ運用のカメラマンにとって、収納性とポジショニングの自由度を大きく高める設計が話題に。\n\n■ 注目ポイント\n・既存のTWIST Mountにピボット式の折り畳み機構を追加。モニター/",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-29.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-29-145502.jpg"
+      ],
+      "ig_media_id": "17951434233267370",
+      "fb_post_id": "1120701334458496_122116311093301053",
+      "source_url": "https://www.newsshooter.com/2026/06/28/mid49-folding-twist-mount-evf-system-8-inch-nato-rail/?utm_source=rss&utm_medium=rss&utm_campaign=mid49-folding-twist-mount-evf-system-8-inch-nato-rail",
+      "source": "Newsshooter"
     }
   ]
 }
