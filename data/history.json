@@ -2283,6 +2283,26 @@
       "fb_post_id": "1120701334458496_122116311093301053",
       "source_url": "https://www.newsshooter.com/2026/06/28/mid49-folding-twist-mount-evf-system-8-inch-nato-rail/?utm_source=rss&utm_medium=rss&utm_campaign=mid49-folding-twist-mount-evf-system-8-inch-nato-rail",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-29T10:28:36Z",
+      "date": "2026-06-29",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Adobe to Acquire Topaz Labs – AI Upscaling and Image Enhance",
+      "template": "T_overlay",
+      "heading_image": "AdobeがTopaz Labs\n買収で正式合意",
+      "caption_preview": "【最新映像機材ニュース】\n\nAdobeがTopaz Labsの買収で正式合意。Topaz Photo / Topaz Video / Gigapixelで知られるAI画質補正ツール群が、Adobeのエコシステムに統合される見通しです。\n\n■ 注目ポイント\n・Topazのアップスケール/ノイズ除去/シャープニング/スタビライズ/復元モデルが、Firefly・Firefly Services・Phot",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-29.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-29-192817.jpg"
+      ],
+      "ig_media_id": "18203224630347999",
+      "fb_post_id": "1120701334458496_122116330929301053",
+      "source_url": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
+      "source": "CineD"
     }
   ]
 }
