@@ -2381,6 +2381,26 @@
       "fb_post_id": "1120701334458496_122116724847301053",
       "source_url": "https://www.cined.com/tamron-17-70mm-f-2-8-di-iii-a-vc-rxd-for-nikon-z-and-canon-rf-mount-announced/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-06-30T12:07:10Z",
+      "date": "2026-06-30",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Drive a Thousand Elements From One Control: Procedural Cinem",
+      "template": "T_overlay",
+      "heading_image": "C4Dで激変する\nAE制作の常識",
+      "caption_preview": "【最新映像機材ニュース】\n\nProVideoCoalitionが、After EffectsアーティストのためのCinema 4Dプロシージャル制作術を解説。90レイヤーを手作業でオフセットしてキーフレーム調整する時代から、1つのコントロールで全体を動かす設計思想への転換を提案する内容。\n\n■ 注目ポイント\n・大量レイヤーの段階的アニメーション(スタッガー/オーバーシュート)をプロシージャルで制御",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-30-210641.jpg"
+      ],
+      "ig_media_id": "18103684163031014",
+      "fb_post_id": "1120701334458496_122116742475301053",
+      "source_url": "https://www.provideocoalition.com/drive-a-thousand-elements-from-one-control-procedural-cinema-4d-for-after-effects-artists/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
