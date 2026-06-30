@@ -2341,6 +2341,26 @@
       ],
       "ig_media_id": "17934569028293612",
       "fb_post_id": "1120701334458496_122116636485301053"
+    },
+    {
+      "timestamp": "2026-06-30T05:09:25Z",
+      "date": "2026-06-30",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sirui VP-1 Vision Prime Full-Frame 15mm T1.6, 75mm T1.4 & 15",
+      "template": "T_overlay",
+      "heading_image": "Sirui VP-1\n3本セット予約開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nSiruiのフルフレーム対応シネプライム「VP-1 Vision Prime」シリーズに、超広角15mm T1.6、中望遠75mm T1.4、望遠150mm T4の3本セットが追加され、予約受付が開始されました。2025年4月発表の24/35/50mm T1.4に続く拡張で、これでシリーズは合計6本のラインアップに。\n\n■ 注目ポイント\n・フルフレーム対応のシネプライム",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-30-140906.jpg"
+      ],
+      "ig_media_id": "18593734201038277",
+      "fb_post_id": "1120701334458496_122116697373301053",
+      "source_url": "https://www.newsshooter.com/2026/06/29/sirui-vp-1-vision-prime-full-frame-15mm-t1-6-75mm-t1-4-150mm-t4-cine-3-lens-set/?utm_source=rss&utm_medium=rss&utm_campaign=sirui-vp-1-vision-prime-full-frame-15mm-t1-6-75mm-t1-4-150mm-t4-cine-3-lens-set",
+      "source": "Newsshooter"
     }
   ]
 }
