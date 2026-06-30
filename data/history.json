@@ -2361,6 +2361,26 @@
       "fb_post_id": "1120701334458496_122116697373301053",
       "source_url": "https://www.newsshooter.com/2026/06/29/sirui-vp-1-vision-prime-full-frame-15mm-t1-6-75mm-t1-4-150mm-t4-cine-3-lens-set/?utm_source=rss&utm_medium=rss&utm_campaign=sirui-vp-1-vision-prime-full-frame-15mm-t1-6-75mm-t1-4-150mm-t4-cine-3-lens-set",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-06-30T09:00:24Z",
+      "date": "2026-06-30",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tamron 17-70mm F/2.8 Di III-A VC RXD for Nikon Z and Canon R",
+      "template": "T_overlay",
+      "heading_image": "Tamron 17-70mm\nF2.8 主要4マウントへ",
+      "caption_preview": "【最新映像機材ニュース】\n\nTamronがAPS-C用標準ズーム「17-70mm F/2.8 Di III-A VC RXD」のNikon Zマウント版とCanon RFマウント版を発表。すでにソニーE/富士Xで人気の高い同レンズが、ついに主要4マウント体制となる。価格は$749で予約受付中。\n\n■ 注目ポイント\n・35mm判換算で約25.5-105mm相当をカバーする高倍率標準ズーム\n・全域開放",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-06-30-175958.jpg"
+      ],
+      "ig_media_id": "18106850210069059",
+      "fb_post_id": "1120701334458496_122116724847301053",
+      "source_url": "https://www.cined.com/tamron-17-70mm-f-2-8-di-iii-a-vc-rxd-for-nikon-z-and-canon-rf-mount-announced/",
+      "source": "CineD"
     }
   ]
 }
