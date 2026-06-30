@@ -2323,6 +2323,24 @@
       "fb_post_id": "1120701334458496_122116412379301053",
       "source_url": "https://www.dpreview.com/news/8014959474/dji-osmo-pocket-4p-industrys-worst-kept-secret-finally-revealed-in-china",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-06-30T00:13:50Z",
+      "date": "2026-06-30",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "E",
+      "format": "F5",
+      "theme": "「地方の小売店、地域訴求動画」",
+      "template": "T_overlay",
+      "heading_image": "地方の小売店こそ\n動画で変わる",
+      "caption_preview": "「うちは地方の小さなお店だから、動画なんて頼めない」\nそう思っていませんか。\n\nある地方都市の食料品店から、こんな相談がありました。\n\n課題は3つ。\n1. 県外から来る観光客に、店の存在を知ってもらえない\n2. 地域の特産品を扱っているのに、写真だけでは魅力が伝わらない\n3. 大手のように高い動画費は出せない\n\nMIREALのONE DAY PROMOTIONなら、出張撮影で全国どこへでも伺います",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-06-30.jpg",
+      "bgs_used": [
+        "bg-074.jpg"
+      ],
+      "ig_media_id": "17934569028293612",
+      "fb_post_id": "1120701334458496_122116636485301053"
     }
   ]
 }
