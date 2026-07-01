@@ -2421,6 +2421,26 @@
       "fb_post_id": "1120701334458496_122116886835301053",
       "source_url": "https://www.newsshooter.com/2026/06/30/lexar-128gb-professional-2000x-uhs-ii-sdxc-memory-card-2-pack-on-sale-for-219-99-usd-2/?utm_source=rss&utm_medium=rss&utm_campaign=lexar-128gb-professional-2000x-uhs-ii-sdxc-memory-card-2-pack-on-sale-for-219-99-usd-2",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-01T09:33:35Z",
+      "date": "2026-07-01",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 7Artisans DREAM Series Announced – MF 35mm/50mm/75mm T1.5 Fu",
+      "template": "T_overlay",
+      "heading_image": "7Artisans\nDREAM発表",
+      "caption_preview": "【最新映像機材ニュース】\n\n7Artisansが新シネレンズシリーズ「DREAM」を発表。35mm/50mm/75mm T1.5のマニュアルフォーカス フルサイズ対応シネプライム3本で、Sony E / Nikon Z / Leica L / Canon RFの4マウントに対応します。\n\n■ 注目ポイント\n・全レンズ T1.5の統一絞り、フルサイズイメージサークル\n・0.8 MODシネギア、300",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-01-183314.jpg"
+      ],
+      "ig_media_id": "17880117456609784",
+      "fb_post_id": "1120701334458496_122116902135301053",
+      "source_url": "https://www.cined.com/7artisans-dream-series-announced-mf-35mm-50mm-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf-mounts/",
+      "source": "CineD"
     }
   ]
 }
