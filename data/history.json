@@ -2441,6 +2441,32 @@
       "fb_post_id": "1120701334458496_122116902135301053",
       "source_url": "https://www.cined.com/7artisans-dream-series-announced-mf-35mm-50mm-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf-mounts/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-02T00:17:31Z",
+      "date": "2026-07-02",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「¥98,000に含まれるもの全部」",
+      "template": "T_campaign",
+      "heading_image": "この1本に全部込み¥98,000税別",
+      "caption_preview": "「動画の見積もり、蓋を開けたら倍になっていた」\n\nそんな経験、ありませんか。\n\nMIREALのONE DAY PROMOTIONは、¥98,000(税別)に以下がすべて含まれます。\n\n・企画打ち合わせ（オンライン可）\n・撮影当日のディレクション\n・カメラマン1名の出張費（全国47都道府県）\n・4K撮影・基本機材一式\n・編集作業（最大3分尺）\n・BGM・テロップ・簡易カラー調整\n・修正1回無料\n・納",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-02.jpg",
+      "bgs_used": [
+        "bg-065.jpg",
+        "bg-090.jpg",
+        "bg-081.jpg",
+        "bg-004.jpg",
+        "bg-069.jpg",
+        "bg-086.jpg",
+        "bg-031.jpg",
+        "bg-018.jpg",
+        "bg-028.jpg"
+      ],
+      "ig_media_id": "18101064212124974",
+      "fb_post_id": "1120701334458496_122116971075301053"
     }
   ]
 }
