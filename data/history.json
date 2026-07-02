@@ -2507,6 +2507,26 @@
       "fb_post_id": "1120701334458496_122117006613301053",
       "source_url": "https://www.cined.com/vimeo-and-filmic-pro-owner-bending-spoons-surges-in-1-68-billion-nasdaq-ipo-debut/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-02T12:07:32Z",
+      "date": "2026-07-02",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Why Capture One is Finally Supporting Hasselblad, and What I",
+      "template": "T_overlay",
+      "heading_image": "Capture Oneが\nHasselblad対応",
+      "caption_preview": "【最新映像機材ニュース】\n\nCapture Oneが長年のユーザー要望に応え、ついにHasselbladの.3RF RAWファイル読み込みに対応した。現時点では1億画素の中判モデルに限定されるが、両陣営のワークフローに大きな変化をもたらす動きとなる。\n\n■ 注目ポイント\n・Capture OneがHasselblad .3RF RAWを正式サポート\n・対応機種は現状100MPの中判モデルのみ\n・純",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-02-210716.jpg"
+      ],
+      "ig_media_id": "18129925951549454",
+      "fb_post_id": "1120701334458496_122117023149301053",
+      "source_url": "https://petapixel.com/2026/07/02/why-capture-one-is-finally-supporting-hasselblad-and-what-it-means-for-phocus/",
+      "source": "PetaPixel"
     }
   ]
 }
