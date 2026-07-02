@@ -2467,6 +2467,26 @@
       ],
       "ig_media_id": "18101064212124974",
       "fb_post_id": "1120701334458496_122116971075301053"
+    },
+    {
+      "timestamp": "2026-07-02T05:02:41Z",
+      "date": "2026-07-02",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: DaVinci Resolve 21.0.2 Update",
+      "template": "T_overlay",
+      "heading_image": "Resolve 21.0.2\n公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Designが「DaVinci Resolve 21.0.2」アップデートを公開。再生性能とUI応答性の改善を中心とした、実用性重視のマイナーアップデート。\n\n■ 注目ポイント\n・NVIDIA GPUでのH.264/H.265デコード性能を改善\n・カラー/Fusionページのバイパス切替時のサムネイルプレビュー修正\n・インスペクター内のテキスト表示",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-02-140223.jpg"
+      ],
+      "ig_media_id": "18210119833344520",
+      "fb_post_id": "1120701334458496_122116991763301053",
+      "source_url": "https://www.newsshooter.com/2026/07/01/davinci-resolve-21-0-2-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-2-update",
+      "source": "Newsshooter"
     }
   ]
 }
