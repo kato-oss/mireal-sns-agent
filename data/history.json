@@ -2487,6 +2487,26 @@
       "fb_post_id": "1120701334458496_122116991763301053",
       "source_url": "https://www.newsshooter.com/2026/07/01/davinci-resolve-21-0-2-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-2-update",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-02T08:45:24Z",
+      "date": "2026-07-02",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Vimeo and FiLMiC Pro Owner Bending Spoons Surges in $1.68 Bi",
+      "template": "T_softbg",
+      "heading_image": "Bending Spoons\nNasdaq上場",
+      "caption_preview": "【最新映像機材ニュース】\n\nVimeo、WeTransfer、Splice、FiLMiC Proを傘下に持つイタリア・ミラノ拠点のテック企業Bending SpoonsがNasdaqに上場。公募価格は仮条件レンジ(26〜28ドル)を上回る29ドルで約5,800万株を売り出し、調達額は約16.8億ドル(約2,500億円規模)。上場初日は約40%急騰した。\n\n■ 注目ポイント\n・傘下にVimeo/Fi",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-02-174500.jpg"
+      ],
+      "ig_media_id": "18132229996587701",
+      "fb_post_id": "1120701334458496_122117006613301053",
+      "source_url": "https://www.cined.com/vimeo-and-filmic-pro-owner-bending-spoons-surges-in-1-68-billion-nasdaq-ipo-debut/",
+      "source": "CineD"
     }
   ]
 }
