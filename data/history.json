@@ -2603,6 +2603,26 @@
       "fb_post_id": "1120701334458496_122117111595301053",
       "source_url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-03T12:07:08Z",
+      "date": "2026-07-03",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony already invested $34 million to repurpose its EU PlaySt",
+      "template": "T_overlay",
+      "heading_image": "Sony 旧PS工場を\n光学拠点へ転用",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyがオーストリアにあるPlayStation用ディスク製造工場を、光学マイクロレンズの生産拠点へ転用することが明らかに。すでに約3,400万ドル(約34億円相当)の投資が実施済みと報じられている。\n\n■ 注目ポイント\n・欧州のPS用光ディスク工場を光学部品拠点へ再編\n・生産対象はマイクロレンズ(微小光学素子)\n・Sonyの光学/イメージセンサー事業へのリソース集中",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-03-210652.jpg"
+      ],
+      "ig_media_id": "18216157516336151",
+      "fb_post_id": "1120701334458496_122117129739301053",
+      "source_url": "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/",
+      "source": "Engadget"
     }
   ]
 }
