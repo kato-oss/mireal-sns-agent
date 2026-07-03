@@ -2545,6 +2545,26 @@
       ],
       "ig_media_id": "18129779626621205",
       "fb_post_id": "1120701334458496_122117085117301053"
+    },
+    {
+      "timestamp": "2026-07-03T04:47:06Z",
+      "date": "2026-07-03",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: LCcineND now available to order",
+      "template": "T_overlay",
+      "heading_image": "可変NDの新基準\nLCcineND登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nKipperTieの可変ND「LCcineND」がついに受注開始。標準的な4×5.65インチのマットボックス単一スロットに収まり、1.5〜5段の無段階かつ超高精度なNDを遠隔制御できるプロダクトです。\n\n■ 注目ポイント\n・1.5〜5段の無段階可変ND、極めて高い精度\n・4×5.65インチ シングルスロットに収納、追加スロット不要\n・偏光issueなし、ケーブルや外部ボ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-03-134645.jpg"
+      ],
+      "ig_media_id": "18157607038466380",
+      "fb_post_id": "1120701334458496_122117099037301053",
+      "source_url": "https://www.newsshooter.com/2026/07/02/lccinend-now-available-to-order/?utm_source=rss&utm_medium=rss&utm_campaign=lccinend-now-available-to-order",
+      "source": "Newsshooter"
     }
   ]
 }
