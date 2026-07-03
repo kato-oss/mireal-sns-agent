@@ -2583,6 +2583,26 @@
       ],
       "ig_media_id": "18085743653447033",
       "fb_post_id": "1120701334458496_122117106345301053"
+    },
+    {
+      "timestamp": "2026-07-03T08:52:57Z",
+      "date": "2026-07-03",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Beat App Introduced – Free Mac Tool for Story Development an",
+      "template": "T_overlay",
+      "heading_image": "無料Macアプリ\n「Beat」登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nフィルムメイカー João Lutz 氏が開発した無料Macアプリ「Beat」が登場。ストーリー開発、リファレンス、キャラクター、ロケーション、撮影計画までを1つのビジュアルキャンバス上で管理できる、プリプロダクション特化型ツール。\n\n■ 注目ポイント\n・ノードベースのワークスペースで、ストーリービートやビジュアルリファレンスを自由に配置\n・シーンごとのルック設計を視覚",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-03-175241.jpg"
+      ],
+      "ig_media_id": "17971634817117950",
+      "fb_post_id": "1120701334458496_122117111595301053",
+      "source_url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
+      "source": "CineD"
     }
   ]
 }
