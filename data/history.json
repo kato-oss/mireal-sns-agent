@@ -2639,6 +2639,26 @@
       "bgs_used": [],
       "ig_media_id": "18108520238052589",
       "fb_post_id": "1120701334458496_122117210157301053"
+    },
+    {
+      "timestamp": "2026-07-04T04:39:59Z",
+      "date": "2026-07-04",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Hedge Shared Licenses",
+      "template": "T_overlay",
+      "heading_image": "キーを渡さず\nライセンス共有",
+      "caption_preview": "【最新映像機材ニュース】\n\nバックアップ/データ管理ソフトの定番「Hedge」に、ライセンスを他者と共有できる新機能「Shared Licenses」が追加された。オリジナルのライセンスキーを渡すことなく、必要な期間だけアクティベーションを他ユーザーに共有できる仕組みだ。\n\n■ 注目ポイント\n・オリジナルキーを開示せずにアクティベーションを共有可能\n・共有先・期間をライセンス保有者側でコントロール",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-04-133934.jpg"
+      ],
+      "ig_media_id": "18086820785641955",
+      "fb_post_id": "1120701334458496_122117224623301053",
+      "source_url": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
+      "source": "Newsshooter"
     }
   ]
 }
