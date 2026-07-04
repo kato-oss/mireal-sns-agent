@@ -2679,6 +2679,26 @@
       "fb_post_id": "1120701334458496_122117236863301053",
       "source_url": "https://www.newsshooter.com/2026/07/03/alvins-cables-lemo-dust-cap/?utm_source=rss&utm_medium=rss&utm_campaign=alvins-cables-lemo-dust-cap",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-04T11:24:23Z",
+      "date": "2026-07-04",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: X-Ray Telescope Celebrates America’s 250th Birthday With Cos",
+      "template": "T_softbg",
+      "heading_image": "X線が描く\n宇宙という映像",
+      "caption_preview": "【最新映像機材ニュース】\n\nNASAが、X線天文衛星「Chandra X-ray Observatory」で撮影した4枚の新規画像を公開。米国建国250周年を祝う意図で、赤・白・青を基調にした宇宙の姿を魅せる構成となっている。\n\n■ 注目ポイント\n・Chandra X線望遠鏡による最新の宇宙観測画像4枚を新規公開\n・可視光では捉えられない高エネルギー現象をX線データで可視化\n・赤・白・青のカラーマ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-04-202358.jpg"
+      ],
+      "ig_media_id": "17933243868341352",
+      "fb_post_id": "1120701334458496_122117247429301053",
+      "source_url": "https://petapixel.com/2026/07/04/x-ray-telescope-celebrates-americas-250th-birthday-with-cosmic-fireworks/",
+      "source": "PetaPixel"
     }
   ]
 }
