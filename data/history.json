@@ -2623,6 +2623,22 @@
       "fb_post_id": "1120701334458496_122117129739301053",
       "source_url": "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-04T00:13:26Z",
+      "date": "2026-07-04",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「1日でなぜ完結できるか、撮影現場お見せします」",
+      "template": "T_tipcard",
+      "heading_image": "1日で完結する\n仕組みの正体",
+      "caption_preview": "「本当に1日で動画が作れるの?」\nよく聞かれる質問です。\n\n答えは、仕組みで作っているから。\n今日は撮影現場の裏側を少しだけお見せします。\n\n【朝9時 現地入り・機材セッティング】\n事前のヒアリングで撮影内容は確定済み。到着後15分で照明・カメラ・音声のセッティングが完了します。\n\n【10時〜12時 撮影】\n絵コンテに沿って淡々と回します。カット割りは事前設計、リテイクの基準も共有済み。迷いがない",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-04.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18108520238052589",
+      "fb_post_id": "1120701334458496_122117210157301053"
     }
   ]
 }
