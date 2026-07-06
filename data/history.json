@@ -2759,6 +2759,26 @@
       "fb_post_id": "1120701334458496_122117445981301053",
       "source_url": "https://www.newsshooter.com/2026/07/05/blackmagic-camera-for-ios-3-3-features-overview/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-ios-3-3-features-overview",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-06T10:01:09Z",
+      "date": "2026-07-06",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Godox KNOWLED PL600RF & PL1200RF Flagship Fixtures",
+      "template": "T_overlay",
+      "heading_image": "Godox新フラッグシップ\nPL600RF/PL1200RF",
+      "caption_preview": "【最新映像機材ニュース】\n\nGodoxのKNOWLEDシリーズに、新フラッグシップとなるPL600RF/PL1200RFの2機種が登場。ハイエンド映画制作、CM、スタジオ用途を想定した大出力ポイントソースLEDで、新開発の「PaletteLab」フルスペクトラム・カラーエンジンを搭載する。\n\n■ 注目ポイント\n・新PaletteLabカラーエンジンによる高精度な色再現とスペクトラル一貫性\n・肌トー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-06-190051.jpg"
+      ],
+      "ig_media_id": "18095316647261234",
+      "fb_post_id": "1120701334458496_122117461935301053",
+      "source_url": "https://www.newsshooter.com/2026/07/06/godox-knowled-pl600rf-pl1200rf-flagship-fixtures/?utm_source=rss&utm_medium=rss&utm_campaign=godox-knowled-pl600rf-pl1200rf-flagship-fixtures",
+      "source": "Newsshooter"
     }
   ]
 }
