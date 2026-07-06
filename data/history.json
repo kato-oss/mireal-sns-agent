@@ -2779,6 +2779,26 @@
       "fb_post_id": "1120701334458496_122117461935301053",
       "source_url": "https://www.newsshooter.com/2026/07/06/godox-knowled-pl600rf-pl1200rf-flagship-fixtures/?utm_source=rss&utm_medium=rss&utm_campaign=godox-knowled-pl600rf-pl1200rf-flagship-fixtures",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-06T13:42:20Z",
+      "date": "2026-07-06",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony Teases a New RX10 – First Bridge Camera Update in Nearl",
+      "template": "T_overlay",
+      "heading_image": "Sony RX10後継\n7月9日ティザー公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyが公式Instagram (Sony Alpha) で新型RX10のティザーを公開。「The wait is over」のタグラインとともにボディと伸びるズームレンズのシルエットのみを提示し、正式発表は7月9日に予定されています。RX10シリーズの更新は約9年ぶりで、ブリッジカメラ市場では極めて久しぶりの動きです。\n\n■ 注目ポイント\n・約9年ぶりのRX10ライ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-06-224206.jpg"
+      ],
+      "ig_media_id": "17925080865145179",
+      "fb_post_id": "1120701334458496_122117485083301053",
+      "source_url": "https://www.cined.com/sony-teases-a-new-rx10-first-bridge-camera-update-in-nearly-a-decade/",
+      "source": "CineD"
     }
   ]
 }
