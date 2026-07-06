@@ -2739,6 +2739,26 @@
       "fb_post_id": "1120701334458496_122117377173301053",
       "source_url": "https://petapixel.com/2026/07/05/fishermans-mysterious-photographs-capture-essence-of-selkie-folklore/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-06T05:16:52Z",
+      "date": "2026-07-06",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blackmagic Camera for iOS 3.3 Features Overview",
+      "template": "T_overlay",
+      "heading_image": "BMD Camera 3.3\niOS版が大幅進化",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Design が iOS向けカメラアプリ「Blackmagic Camera」のバージョン3.3を公開。Apple Watch連携やATEM制御など、プロ現場での運用を意識した拡張が加わりました。\n\n■ 注目ポイント\n・コンパニオンアプリ経由で Apple Watch からカメラ制御・モニタリングが可能に\n・Blackmagic Camera Pr",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-06-141636.jpg"
+      ],
+      "ig_media_id": "18009704732925904",
+      "fb_post_id": "1120701334458496_122117445981301053",
+      "source_url": "https://www.newsshooter.com/2026/07/05/blackmagic-camera-for-ios-3-3-features-overview/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-ios-3-3-features-overview",
+      "source": "Newsshooter"
     }
   ]
 }
