@@ -2817,6 +2817,26 @@
       ],
       "ig_media_id": "17947517019210775",
       "fb_post_id": "1120701334458496_122117535423301053"
+    },
+    {
+      "timestamp": "2026-07-07T09:28:59Z",
+      "date": "2026-07-07",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sachtler Eargonizer Audio Bag (Large) on sale for $121.65 US",
+      "template": "T_overlay",
+      "heading_image": "Sachtler 音声バッグ\n$360オフの大幅値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\nSachtler の音声収録用バッグ「Eargonizer Audio Bag (Large)」が $121.65 に大幅値下げ。通常価格から $360 オフというサウンドエンジニア注目のセールです。\n\n■ 注目ポイント\n・スタジオ/現場/ロケ対応のプロ向け設計\n・レコーダーの表示を確認できる透明トップウィンドウ\n・ワイヤレスマイクやミキサーを整理しやすい大容量レイアウ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-07-182840.jpg"
+      ],
+      "ig_media_id": "18108103583059277",
+      "fb_post_id": "1120701334458496_122117581245301053",
+      "source_url": "https://www.newsshooter.com/2026/07/06/sachtler-eargonizer-audio-bag-large-on-sale-for-121-65-usd/?utm_source=rss&utm_medium=rss&utm_campaign=sachtler-eargonizer-audio-bag-large-on-sale-for-121-65-usd",
+      "source": "Newsshooter"
     }
   ]
 }
