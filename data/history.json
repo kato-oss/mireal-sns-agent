@@ -2799,6 +2799,24 @@
       "fb_post_id": "1120701334458496_122117485083301053",
       "source_url": "https://www.cined.com/sony-teases-a-new-rx10-first-bridge-camera-update-in-nearly-a-decade/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-07T00:16:26Z",
+      "date": "2026-07-07",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画制作で2週間待たされる本当の理由」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で2週間\n待たされる理由",
+      "caption_preview": "「動画作りたいんですけど」\nそう問い合わせて、返ってくる納期は2週間〜1ヶ月。\n\n決して制作会社がサボっているわけではありません。\nでも、その2週間の中身を分解すると、実は「作業していない時間」がほとんどだったりします。\n\n今回のカルーセルでは、動画制作が長引く7つの理由を現場目線で解説します。\n\n1. ヒアリングと企画書のやり取りに5日\n2. 見積もり修正で3日\n3. 撮影日程の調整で4日\n4.",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-07.jpg",
+      "bgs_used": [
+        "bg-063.jpg"
+      ],
+      "ig_media_id": "17947517019210775",
+      "fb_post_id": "1120701334458496_122117535423301053"
     }
   ]
 }
