@@ -2855,6 +2855,26 @@
       ],
       "ig_media_id": "18107600780083133",
       "fb_post_id": "1120701334458496_122117677245301053"
+    },
+    {
+      "timestamp": "2026-07-08T04:18:25Z",
+      "date": "2026-07-08",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: QTAKE Pro 2.5",
+      "template": "T_overlay",
+      "heading_image": "QTAKE Pro 2.5\n公開",
+      "caption_preview": "【最新映像機材ニュース】\n\n映像現場のビデオアシスト定番ソフト「QTAKE」が Pro 2.5 にアップデート。低予算プロダクションでもオールインワンで運用できる方向に舵を切った内容です。\n\n■ 注目ポイント\n・Elgato Stream Deck とのネイティブ統合。ボタン一発でレック・マーク・レビュー等を操作可能\n・撮影からデイリーズ書き出しまでを QTAKE 内で完結できる新ワークフロー\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-08-131803.jpg"
+      ],
+      "ig_media_id": "17977967990886302",
+      "fb_post_id": "1120701334458496_122117715801301053",
+      "source_url": "https://www.newsshooter.com/2026/07/07/qtake-pro-2-5/?utm_source=rss&utm_medium=rss&utm_campaign=qtake-pro-2-5",
+      "source": "Newsshooter"
     }
   ]
 }
