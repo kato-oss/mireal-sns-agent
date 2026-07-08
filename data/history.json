@@ -2895,6 +2895,26 @@
       "fb_post_id": "1120701334458496_122117731947301053",
       "source_url": "https://www.cined.com/clip-sweeper-v2-now-available-free-mac-app-for-cleaning-video-project-drives/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-08T11:45:10Z",
+      "date": "2026-07-08",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: AulGo Pocket Camera Hits Kickstarter – 4K Sony Sensor, 6-Axi",
+      "template": "T_overlay",
+      "heading_image": "56gで4K撮影\nAulGo登場",
+      "caption_preview": "【最新映像機材ニュース】\n\n香港の新興スタートアップTriLifeが、超小型ポケットカメラ「AulGo」をKickstarterで公開。わずか56gのボディにSony IMX486センサーを搭載し、4K撮影と6軸電子式手ブレ補正を実現するとしています。既に目標金額は大きく超過。\n\n■ 注目ポイント\n・Sony IMX486センサー搭載で4K収録対応\n・6軸EIS (電子式手ブレ補正) を実装\n・重",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-08-204444.jpg"
+      ],
+      "ig_media_id": "18054042539685502",
+      "fb_post_id": "1120701334458496_122117750637301053",
+      "source_url": "https://www.cined.com/aulgo-pocket-camera-hits-kickstarter-4k-sony-sensor-6-axis-eis-56g-body/",
+      "source": "CineD"
     }
   ]
 }
