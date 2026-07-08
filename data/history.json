@@ -2875,6 +2875,26 @@
       "fb_post_id": "1120701334458496_122117715801301053",
       "source_url": "https://www.newsshooter.com/2026/07/07/qtake-pro-2-5/?utm_source=rss&utm_medium=rss&utm_campaign=qtake-pro-2-5",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-08T08:13:05Z",
+      "date": "2026-07-08",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Clip Sweeper v2 Now Available – Free Mac App for Cleaning Vi",
+      "template": "T_overlay",
+      "heading_image": "Clip Sweeper v2\n無料Macアプリ公開",
+      "caption_preview": "【最新映像機材ニュース】\n\n編集プロジェクトのドライブ整理に特化した無料Macアプリ「Clip Sweeper v2」が公開されました。開発者Leland Dutcher氏によるネイティブアプリで、Premiere/After Effects/DaVinci Resolveの参照チェーンを解析し、未使用メディアを可視化・削除できます。\n\n■ 注目ポイント\n・DaVinci Resolve の CS",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-08-171243.jpg"
+      ],
+      "ig_media_id": "18115884511810264",
+      "fb_post_id": "1120701334458496_122117731947301053",
+      "source_url": "https://www.cined.com/clip-sweeper-v2-now-available-free-mac-app-for-cleaning-video-project-drives/",
+      "source": "CineD"
     }
   ]
 }
