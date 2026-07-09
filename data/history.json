@@ -2915,6 +2915,26 @@
       "fb_post_id": "1120701334458496_122117750637301053",
       "source_url": "https://www.cined.com/aulgo-pocket-camera-hits-kickstarter-4k-sony-sensor-6-axis-eis-56g-body/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-09T04:58:46Z",
+      "date": "2026-07-09",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Ricoh to Release Special GR IV Celebrating 30th Anniversary ",
+      "template": "T_overlay",
+      "heading_image": "GR1誕生から30年\n記念のGR IV登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nリコーが、高級コンパクトカメラシリーズの原点である「GR1」の発売30周年を記念した特別仕様の GR IV をリリースすると発表。スナップシューター文化を築いた名機の系譜を継ぐ、記念モデルとなる。\n\n■ 注目ポイント\n・GR1(1996年発売)の30周年を祝う特別エディション\n・現行フラッグシップ GR IV をベースにした限定仕様\n・スナップ/ストリート撮影界隈で根強",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-09-135830.jpg"
+      ],
+      "ig_media_id": "17921287920388684",
+      "fb_post_id": "1120701334458496_122117863371301053",
+      "source_url": "https://petapixel.com/2026/07/08/ricoh-to-release-special-gr-iv-celebrating-30th-anniversary-of-gr1/",
+      "source": "PetaPixel"
     }
   ]
 }
