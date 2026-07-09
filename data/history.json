@@ -2935,6 +2935,26 @@
       "fb_post_id": "1120701334458496_122117863371301053",
       "source_url": "https://petapixel.com/2026/07/08/ricoh-to-release-special-gr-iv-celebrating-30th-anniversary-of-gr1/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-09T09:30:56Z",
+      "date": "2026-07-09",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: FUJINON GF19-35mmT3.5 PZ OIS WR Announced – Widest GF Cinema",
+      "template": "T_overlay",
+      "heading_image": "GF19-35mm PZ\n発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nFUJIFILMがGFXシステム向けシネマズームレンズ「FUJINON GF19-35mmT3.5 PZ OIS WR」を発表。GFシネマズーム2本目にして、シリーズ最広角となる中判ラージフォーマット対応ズームです。\n\n■ 注目ポイント\n・焦点距離19-35mm(フルサイズ換算15-28mm相当)、定T3.5の明るさを維持\n・光学式手ブレ補正(OIS)を内蔵、電動サーボ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-09-183037.jpg"
+      ],
+      "ig_media_id": "17957789091177041",
+      "fb_post_id": "1120701334458496_122117879199301053",
+      "source_url": "https://www.cined.com/fujinon-gf19-35mm-t3-5-pz-ois-wr-announced-widest-gf-cinema-zoom-constant-t3-5-built-in-ois/",
+      "source": "CineD"
     }
   ]
 }
