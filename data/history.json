@@ -2955,6 +2955,32 @@
       "fb_post_id": "1120701334458496_122117879199301053",
       "source_url": "https://www.cined.com/fujinon-gf19-35mm-t3-5-pz-ois-wr-announced-widest-gf-cinema-zoom-constant-t3-5-built-in-ois/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-10T00:13:00Z",
+      "date": "2026-07-10",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "E",
+      "format": "F2",
+      "theme": "「47都道府県、全国対応」",
+      "template": "T_campaign",
+      "heading_image": "全国どこでも47都道府県",
+      "caption_preview": "「うちは地方だから、動画制作は難しいよね」\nそんな声を、私たちは何度も聞いてきました。\n\nMIREALのONE DAY PROMOTIONは、全国47都道府県すべてが対応エリアです。\n北海道の牧場でも、沖縄の海辺のカフェでも、山あいの町工場でも、スタッフが機材を持って現地に伺います。\n\n「東京の会社に頼むと、交通費や宿泊費で結局高くつくのでは?」\nそんな不安を持たれる方が多いのですが、ONE DA",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-10.jpg",
+      "bgs_used": [
+        "bg-081.jpg",
+        "bg-063.jpg",
+        "bg-059.jpg",
+        "bg-082.jpg",
+        "bg-065.jpg",
+        "bg-024.jpg",
+        "bg-004.jpg",
+        "bg-023.jpg",
+        "bg-027.jpg"
+      ],
+      "ig_media_id": "18086741663143916",
+      "fb_post_id": "1120701334458496_122117978325301053"
     }
   ]
 }
