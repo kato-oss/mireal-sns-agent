@@ -3039,6 +3039,26 @@
       "fb_post_id": "1120701334458496_122118012207301053",
       "source_url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-10T12:23:47Z",
+      "date": "2026-07-10",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Insane IMAX Camera Used in ‘The Odyssey’ Made Tom Hollan",
+      "template": "T_softbg",
+      "heading_image": "IMAX 70mmの\n圧倒的な存在感",
+      "caption_preview": "【最新映像機材ニュース】\n\nクリストファー・ノーラン監督の新作『The Odyssey』で全面採用されたIMAX 65mm(70mm)フィルムカメラ。その巨大さと独特な稼働音は、初日に撮影に臨んだトム・ホランドを「自分の演技が失敗しているのでは」と錯覚させるほどだったという。\n\n■ 注目ポイント\n・IMAX 15perf/65mmは現存する最大級のフィルムフォーマット\n・カメラ本体は非常に重く、稼",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-10-212326.jpg"
+      ],
+      "ig_media_id": "18420199411178768",
+      "fb_post_id": "1120701334458496_122118027591301053",
+      "source_url": "https://petapixel.com/2026/07/10/the-insane-imax-camera-used-in-the-odyssey-made-tom-holland-think-he-was-bombing/",
+      "source": "PetaPixel"
     }
   ]
 }
