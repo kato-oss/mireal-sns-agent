@@ -3019,6 +3019,26 @@
       ],
       "ig_media_id": "18110960881981198",
       "fb_post_id": "1120701334458496_122118006753301053"
+    },
+    {
+      "timestamp": "2026-07-10T09:22:38Z",
+      "date": "2026-07-10",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced ",
+      "template": "T_overlay",
+      "heading_image": "Pocket 4P用\nフィルターキット",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigが、デュアルレンズ構造のDJI Osmo Pocket 4P専用「Split Filter Kit」を発表。ワイドと望遠の両レンズを1つのスナップオンユニットでカバーする2ピース設計が特徴です。\n\n■ 注目ポイント\n・マグネット式スナップオンでワンタッチ装着、広角/望遠レンズを同時にカバー\n・固定ND、可変ND(VND)、CPL、1/4 Black Di",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-10-182221.jpg"
+      ],
+      "ig_media_id": "18118542590485091",
+      "fb_post_id": "1120701334458496_122118012207301053",
+      "source_url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
+      "source": "CineD"
     }
   ]
 }
