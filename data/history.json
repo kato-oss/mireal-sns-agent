@@ -2981,6 +2981,26 @@
       ],
       "ig_media_id": "18086741663143916",
       "fb_post_id": "1120701334458496_122117978325301053"
+    },
+    {
+      "timestamp": "2026-07-10T04:57:17Z",
+      "date": "2026-07-10",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SanDisk 4TB Extreme Portable SSD V2 (Monterey) on sale for $",
+      "template": "T_overlay",
+      "heading_image": "SanDisk 4TB SSD\nセール価格で登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSanDisk 4TB Extreme Portable SSD V2 (Monterey) がセール価格 $419.99 USD で販売中。通常価格から $480 USD の大幅ディスカウント。映像現場で酷使される前提で設計された、大容量ポータブルSSDの定番モデル。\n\n■ 注目ポイント\n・容量4TB、読込最大1050MB/s / 書込最大1000MB/s\n・USB-",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-10-135700.jpg"
+      ],
+      "ig_media_id": "18112193719934159",
+      "fb_post_id": "1120701334458496_122117993835301053",
+      "source_url": "https://www.newsshooter.com/2026/07/09/sandisk-4tb-extreme-portable-ssd-v2-monterey-on-sale-for-419-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=sandisk-4tb-extreme-portable-ssd-v2-monterey-on-sale-for-419-99-usd",
+      "source": "Newsshooter"
     }
   ]
 }
