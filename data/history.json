@@ -3059,6 +3059,26 @@
       "fb_post_id": "1120701334458496_122118027591301053",
       "source_url": "https://petapixel.com/2026/07/10/the-insane-imax-camera-used-in-the-odyssey-made-tom-holland-think-he-was-bombing/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-11T04:17:30Z",
+      "date": "2026-07-11",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tentacle Sync Tentacle to USB-C Audio Interface for DJI – Ti",
+      "template": "T_overlay",
+      "heading_image": "DJIに直接\nタイムコード",
+      "caption_preview": "【最新映像機材ニュース】\n\nTentacle Sync が、DJI Osmo Pocket 4/4P や DJI Osmo Action 向けの新アクセサリー「Tentacle to USB-C Audio Interface for DJI – Timecode Cable」を発表。USB-C 端子経由でタイムコードを音声トラックに直接エンベッドできる仕組みです。\n\n■ 注目ポイント\n・DJI ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-11-131712.jpg"
+      ],
+      "ig_media_id": "18078432812668551",
+      "fb_post_id": "1120701334458496_122118139125301053",
+      "source_url": "https://www.newsshooter.com/2026/07/10/tentacle-sync-tentacle-to-usb-c-audio-interface-for-dji-timecode-cable/?utm_source=rss&utm_medium=rss&utm_campaign=tentacle-sync-tentacle-to-usb-c-audio-interface-for-dji-timecode-cable",
+      "source": "Newsshooter"
     }
   ]
 }
