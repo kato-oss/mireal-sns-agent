@@ -3119,6 +3119,26 @@
       "fb_post_id": "1120701334458496_122118173091301053",
       "source_url": "https://nofilmschool.com/lexar-sd-cards-sale",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-12T04:28:18Z",
+      "date": "2026-07-12",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Philips offers free replacements after update bricked smart ",
+      "template": "T_overlay",
+      "heading_image": "Philips Hue\n無償交換を発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nPhilips が、スマート照明「Hue」のHub (Bridge Pro) を無償交換すると発表。先日配信されたファームウェアアップデートにより、一部のHubが起動不能 (いわゆる文鎮化) する不具合が発生していた。同社は該当ユーザーに対して無償で代替機を提供するとともに、問題を回避する新しいアップデートも順次配信中としている。\n\n■ 注目ポイント\n・ファームウェア更",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-12-132801.jpg"
+      ],
+      "ig_media_id": "18102333602135342",
+      "fb_post_id": "1120701334458496_122118282705301053",
+      "source_url": "https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/",
+      "source": "Engadget"
     }
   ]
 }
