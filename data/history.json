@@ -3139,6 +3139,26 @@
       "fb_post_id": "1120701334458496_122118282705301053",
       "source_url": "https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-12T08:04:37Z",
+      "date": "2026-07-12",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Film Quote of the Day: The Doc Hudson Line From Pixar's Cars",
+      "template": "T_softbg",
+      "heading_image": "名台詞が語る、\nキャラクターの深み",
+      "caption_preview": "【映像制作コラム】\n\nNoFilmSchoolが、ピクサー『カーズ』(2006)のドック・ハドソン(ポール・ニューマン)の名台詞を掘り下げる記事を公開。喋る車の物語という体裁でありながら、実は深い人間ドラマとして構築された脚本の妙に光を当てる。\n\n■ 注目ポイント\n・オーウェン・ウィルソン×ポール・ニューマンという豪華キャスティング\n・「You've got a lot of stuff, kid",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-12.jpg",
+      "bgs_used": [
+        "bg-063.jpg"
+      ],
+      "ig_media_id": "18329988709283729",
+      "fb_post_id": "1120701334458496_122118303705301053",
+      "source_url": "https://nofilmschool.com/you-got-a-lot-of-stuff-kid",
+      "source": "NoFilmSchool"
     }
   ]
 }
