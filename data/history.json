@@ -3159,6 +3159,26 @@
       "fb_post_id": "1120701334458496_122118303705301053",
       "source_url": "https://nofilmschool.com/you-got-a-lot-of-stuff-kid",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-12T11:09:46Z",
+      "date": "2026-07-12",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: DJI ‘Front Companies’ Fined by the FCC – A Selective Crackdo",
+      "template": "T_overlay",
+      "heading_image": "FCC制裁\nDJI迂回8社に",
+      "caption_preview": "【最新映像機材ニュース】\n\n米FCCが、DJI製カメラ・ドローンを別ブランド名で米国市場に流通させていた疑いのある8社に対し、それぞれ25,000ドルの罰金と10日以内の回答を要求。さらに中国の試験ラボの認定剥奪にも動いており、米国流通中のDJI派生機材の認証が一斉に無効化される可能性が浮上している。\n\n■ 注目ポイント\n・DJIの「フロント企業」疑惑で8社にFCC制裁\n・中国試験機関のTCB認定",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-12-200926.jpg"
+      ],
+      "ig_media_id": "18070839983703628",
+      "fb_post_id": "1120701334458496_122118325851301053",
+      "source_url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
+      "source": "CineD"
     }
   ]
 }
