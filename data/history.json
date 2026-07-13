@@ -3179,6 +3179,24 @@
       "fb_post_id": "1120701334458496_122118325851301053",
       "source_url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-13T00:02:22Z",
+      "date": "2026-07-13",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F1",
+      "theme": "「失敗する動画の3パターン」",
+      "template": "T_listicle",
+      "heading_image": "再生されない動画に\n共通する落とし穴",
+      "caption_preview": "「動画を作ったのに、まったく反応がない」\nそんな相談を、私たちは毎月のように受けます。\n\n実は、失敗する動画には共通する3つのパターンがあります。\n今日はその中身を、現場目線でお伝えします。\n\n\n▼ パターン1:「誰に見せたいか」が曖昧\n\n社長も、若手も、既存客も、新規客も、全部に届けたい。\nその欲張りが、結局誰の心にも刺さらない動画を生みます。\n最初の30秒で「これは自分向けだ」と思わせる設計が",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-13.jpg",
+      "bgs_used": [
+        "bg-052.jpg"
+      ],
+      "ig_media_id": "18107584070095168",
+      "fb_post_id": "1120701334458496_122118407229301053"
     }
   ]
 }
