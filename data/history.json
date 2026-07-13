@@ -3237,6 +3237,26 @@
       "fb_post_id": "1120701334458496_122118436599301053",
       "source_url": "https://www.newsshooter.com/2026/07/12/portkeys-micro-hdmi-usb-c-to-hdmi-video-control-cable-for-lh7c-monitor-11-8/?utm_source=rss&utm_medium=rss&utm_campaign=portkeys-micro-hdmi-usb-c-to-hdmi-video-control-cable-for-lh7c-monitor-11-8",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-13T12:29:11Z",
+      "date": "2026-07-13",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Oppo Watch X3 review: Come for the battery, stay for the ver",
+      "template": "T_overlay",
+      "heading_image": "Oppo Watch X3\nレビュー速報",
+      "caption_preview": "【最新ガジェットニュース】\n\nEngadgetがOppoの最新スマートウォッチ「Watch X3」をレビュー。Wear OS搭載機の中でも際立つ長時間バッテリーと、多用途性の両立を高く評価しています。\n\n■ 注目ポイント\n・ライバルのWear OSウォッチを上回るバッテリー持続時間\n・Google Wear OSベースで豊富なアプリ互換性\n・健康トラッキング/通知/決済など多機能をカバー\n\n■ な",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-13-212854.jpg"
+      ],
+      "ig_media_id": "17903447244457052",
+      "fb_post_id": "1120701334458496_122118449811301053",
+      "source_url": "https://www.engadget.com/2211331/oppo-watch-x3-review/",
+      "source": "Engadget"
     }
   ]
 }
