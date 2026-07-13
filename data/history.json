@@ -3197,6 +3197,26 @@
       ],
       "ig_media_id": "18107584070095168",
       "fb_post_id": "1120701334458496_122118407229301053"
+    },
+    {
+      "timestamp": "2026-07-13T04:33:49Z",
+      "date": "2026-07-13",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: MK-V Level",
+      "template": "T_overlay",
+      "heading_image": "MK-V Level\n水平維持の新解",
+      "caption_preview": "【最新映像機材ニュース】\n\nMK-Vが新たな水平維持デバイス「Level」を発表。あらゆるSteadicamおよびハンドヘルドモードで使用でき、水平線を自動で保つソリューションです。\n\n■ 注目ポイント\n・AR Omegaのスタビライゼーション技術を採用\n・Steadicamに追加装着可能、ハンドヘルドでも動作\n・「そこに存在しないかのような」自然な使用感を追求した設計\n・プロトタイプ段階から改良",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-13-133331.jpg"
+      ],
+      "ig_media_id": "17960486924964857",
+      "fb_post_id": "1120701334458496_122118420579301053",
+      "source_url": "https://www.newsshooter.com/2026/07/12/mk-v-level/?utm_source=rss&utm_medium=rss&utm_campaign=mk-v-level",
+      "source": "Newsshooter"
     }
   ]
 }
