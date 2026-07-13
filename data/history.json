@@ -3217,6 +3217,26 @@
       "fb_post_id": "1120701334458496_122118420579301053",
       "source_url": "https://www.newsshooter.com/2026/07/12/mk-v-level/?utm_source=rss&utm_medium=rss&utm_campaign=mk-v-level",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-13T08:55:15Z",
+      "date": "2026-07-13",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: PORTKEYS Micro-HDMI/USB-C to HDMI Video Control Cable for LH",
+      "template": "T_overlay",
+      "heading_image": "モニターから\nカメラを直接操作",
+      "caption_preview": "【最新映像機材ニュース】\n\nPORTKEYSが、LH7Cモニター用の新しいカメラコントロールケーブル「Micro-HDMI/USB-C to HDMI Video Control Cable」を発表。長さ11.8インチ（約30cm）で、対応ミラーレスカメラをモニター側から直接コントロールできる。\n\n■ 注目ポイント\n・片側HDMI、もう片側にUSB-Cとmicro-HDMIを一体化したハイブリッド",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-13-175455.jpg"
+      ],
+      "ig_media_id": "18159555997414264",
+      "fb_post_id": "1120701334458496_122118436599301053",
+      "source_url": "https://www.newsshooter.com/2026/07/12/portkeys-micro-hdmi-usb-c-to-hdmi-video-control-cable-for-lh7c-monitor-11-8/?utm_source=rss&utm_medium=rss&utm_campaign=portkeys-micro-hdmi-usb-c-to-hdmi-video-control-cable-for-lh7c-monitor-11-8",
+      "source": "Newsshooter"
     }
   ]
 }
