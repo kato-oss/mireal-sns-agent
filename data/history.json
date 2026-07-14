@@ -3257,6 +3257,26 @@
       "fb_post_id": "1120701334458496_122118449811301053",
       "source_url": "https://www.engadget.com/2211331/oppo-watch-x3-review/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-14T07:51:12Z",
+      "date": "2026-07-14",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: PixelTools HDR Toolkit",
+      "template": "T_overlay",
+      "heading_image": "SDR承認済みルックを\nHDRへ自動移植",
+      "caption_preview": "【最新映像機材ニュース】\n\nPixelToolsが「HDR Toolkit」をリリース。SDRとHDRのデュアル納品や、アーカイブSDRマスターからのHDRリマスターにおいて、承認済みルックを高輝度コンテナへ移す作業は、これまで手作業のトリムと追加承認プロセスを要していた。この課題を解決するために開発されたのが本ツールだ。\n\n■ 注目ポイント\n・SDR→HDR変換のワークフロー効率化に特化\n・承認",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-14-165053.jpg"
+      ],
+      "ig_media_id": "18119493988737167",
+      "fb_post_id": "1120701334458496_122118524289301053",
+      "source_url": "https://www.newsshooter.com/2026/07/13/pixeltools-hdr-toolkit/?utm_source=rss&utm_medium=rss&utm_campaign=pixeltools-hdr-toolkit",
+      "source": "Newsshooter"
     }
   ]
 }
