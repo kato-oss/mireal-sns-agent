@@ -3277,6 +3277,26 @@
       "fb_post_id": "1120701334458496_122118524289301053",
       "source_url": "https://www.newsshooter.com/2026/07/13/pixeltools-hdr-toolkit/?utm_source=rss&utm_medium=rss&utm_campaign=pixeltools-hdr-toolkit",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-14T11:24:03Z",
+      "date": "2026-07-14",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Laia t-Joy Touch: a new PTZ controller with a touchscreen",
+      "template": "T_overlay",
+      "heading_image": "Laia t-Joy Touch\n発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nLaiaが新型PTZコントローラー「t-Joy Touch」を発表。10.1インチのタッチスクリーンを搭載し、PC不要で最大2,048台のPTZカメラを制御・配信・録画までスタンドアロンで完結できる据置型コントローラーです。\n\n■ 注目ポイント\n・10.1インチタッチスクリーンとジョイスティックを一体化\n・最大2,048台のPTZカメラを管理可能\n・配信・録画・カメラ制",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-14-202347.jpg"
+      ],
+      "ig_media_id": "17862864222620124",
+      "fb_post_id": "1120701334458496_122118536523301053",
+      "source_url": "https://www.provideocoalition.com/laia-t-joy-touch-a-new-ptz-controller-with-a-touch-screen/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
