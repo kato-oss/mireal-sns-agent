@@ -3315,6 +3315,26 @@
       ],
       "ig_media_id": "18397976674095967",
       "fb_post_id": "1120701334458496_122118634293301053"
+    },
+    {
+      "timestamp": "2026-07-15T04:09:56Z",
+      "date": "2026-07-15",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tamron 12-20mm f/2.8 Review: A Whole New Direction",
+      "template": "T_overlay",
+      "heading_image": "タムロン新章\n12-20mm F2.8",
+      "caption_preview": "【最新映像機材ニュース】\n\nタムロンがAPS-C向け新レンズ「12-20mm F/2.8 Di III-A RXD」をリリース。ソニーEマウント/富士Xマウント対応で、超広角ズームながらF2.8通しを実現した意欲作です。PetaPixelがそのレビューを公開しました。\n\n■ 注目ポイント\n・35mm換算 約18-30mm相当をカバーする超広角ズーム\n・全域F2.8通しで暗所・星景・室内撮影に強い\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-15-130932.jpg"
+      ],
+      "ig_media_id": "18014490191868690",
+      "fb_post_id": "1120701334458496_122118648897301053",
+      "source_url": "https://petapixel.com/2026/07/14/tamron-12-20mm-f-2-8-review-a-whole-new-direction/",
+      "source": "PetaPixel"
     }
   ]
 }
