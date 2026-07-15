@@ -3335,6 +3335,26 @@
       "fb_post_id": "1120701334458496_122118648897301053",
       "source_url": "https://petapixel.com/2026/07/14/tamron-12-20mm-f-2-8-review-a-whole-new-direction/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-15T07:54:43Z",
+      "date": "2026-07-15",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig Micro-HDMI to HDMI Type A Adapter Cable for Camera/",
+      "template": "T_overlay",
+      "heading_image": "SmallRig新作\nHDMI変換ケーブル",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigが新たにリリースしたのは、Micro-HDMI to HDMI Type A アダプターケーブル(14インチ)。Micro-HDMI出力を持つカメラと、フルサイズHDMI入力の外部モニターを繋ぐための実用アクセサリーです。\n\n■ 注目ポイント\n・片側がHDMI Type A(メス)、もう片側がMicro-HDMI Type D(オス)の構成\n・14インチ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-15-165426.jpg"
+      ],
+      "ig_media_id": "18181303018407757",
+      "fb_post_id": "1120701334458496_122118664935301053",
+      "source_url": "https://www.newsshooter.com/2026/07/15/smallrig-micro-hdmi-to-hdmi-type-a-adapter-cable-for-camera-monitor-14/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-micro-hdmi-to-hdmi-type-a-adapter-cable-for-camera-monitor-14",
+      "source": "Newsshooter"
     }
   ]
 }
