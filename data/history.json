@@ -3355,6 +3355,26 @@
       "fb_post_id": "1120701334458496_122118664935301053",
       "source_url": "https://www.newsshooter.com/2026/07/15/smallrig-micro-hdmi-to-hdmi-type-a-adapter-cable-for-camera-monitor-14/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-micro-hdmi-to-hdmi-type-a-adapter-cable-for-camera-monitor-14",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-15T11:27:07Z",
+      "date": "2026-07-15",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Withings' new ultra-premium scale goes on sale today",
+      "template": "T_overlay",
+      "heading_image": "$600の\nスマート体重計",
+      "caption_preview": "【最新ガジェットニュース】\n\nWithings が新型スマート体重計「Body Scan 2」を本日発売。価格は$600(約9万円)と、家庭用体重計としては超プレミアム帯に位置する製品で、臨床グレード(clinical-grade)のヘルスモニタリングを謳う。\n\n■ 注目ポイント\n・体組成に加え、心血管・神経系の指標まで測定可能とされる多機能設計\n・ハンドル付きで手足のセグメント別計測に対応\n・W",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-15-202647.jpg"
+      ],
+      "ig_media_id": "18399216784089410",
+      "fb_post_id": "1120701334458496_122118681411301053",
+      "source_url": "https://www.engadget.com/2214526/withings-new-ultra-premium-body-scan-2-scale-on-sale-today/",
+      "source": "Engadget"
     }
   ]
 }
