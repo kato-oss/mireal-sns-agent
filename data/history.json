@@ -3375,6 +3375,32 @@
       "fb_post_id": "1120701334458496_122118681411301053",
       "source_url": "https://www.engadget.com/2214526/withings-new-ultra-premium-body-scan-2-scale-on-sale-today/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-16T00:05:21Z",
+      "date": "2026-07-16",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「明日撮影に来てください」",
+      "template": "T_campaign",
+      "heading_image": "撮影依頼、翌営業日対応",
+      "caption_preview": "「明日撮影に来てください」\nそんな連絡が、私たちには珍しくありません。\n\n通常、動画制作は企画から納品まで2〜4週間。\nでも、来週のイベント、来月の展示会、急な採用募集。\n「今すぐ動画が要る」場面は、待ってくれません。\n\nMIREALのONE DAY PROMOTIONは、\n撮影から編集、納品までを1営業日で完結する仕組み。\n\nリールの流れはシンプルです。\n\n0〜3秒：「来週の展示会、動画間に合わ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-16.jpg",
+      "bgs_used": [
+        "bg-068.jpg",
+        "bg-085.jpg",
+        "bg-083.jpg",
+        "bg-024.jpg",
+        "bg-008.jpg",
+        "bg-017.jpg",
+        "bg-091.jpg",
+        "bg-013.jpg",
+        "bg-007.jpg"
+      ],
+      "ig_media_id": "18369161173230196",
+      "fb_post_id": "1120701334458496_122118781515301053"
     }
   ]
 }
