@@ -3401,6 +3401,26 @@
       ],
       "ig_media_id": "18369161173230196",
       "fb_post_id": "1120701334458496_122118781515301053"
+    },
+    {
+      "timestamp": "2026-07-16T04:13:10Z",
+      "date": "2026-07-16",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: HD Air Studio HALO Modular-3-axis-gimbal",
+      "template": "T_overlay",
+      "heading_image": "HALO ジンバル\nティザー発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nHD Air Studioが、新型3軸ジンバル「HALO」をティザー発表。ハンドヘルド運用を主軸としつつ、リモートヘッドとしても完全に機能するモジュラー設計が特徴で、DJI Ronin 2やMOVCAM HELM 360°を意識したフォームファクターを採用しています。\n\n■ 注目ポイント\n・ハンドヘルド/リモートヘッドの両対応するモジュラー構造\n・プロのカメラオペレータ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-16-131246.jpg"
+      ],
+      "ig_media_id": "18100019732229496",
+      "fb_post_id": "1120701334458496_122118794949301053",
+      "source_url": "https://www.newsshooter.com/2026/07/15/hd-air-studio-halo-modular-3-axis-gimbal/?utm_source=rss&utm_medium=rss&utm_campaign=hd-air-studio-halo-modular-3-axis-gimbal",
+      "source": "Newsshooter"
     }
   ]
 }
