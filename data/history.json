@@ -3441,6 +3441,26 @@
       "fb_post_id": "1120701334458496_122118807441301053",
       "source_url": "https://www.newsshooter.com/2026/07/15/blackmagic-camera-for-android-3-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-android-3-4-update",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-16T11:37:25Z",
+      "date": "2026-07-16",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tamron 12-20mm F2.8 for astrophotography and interior shooti",
+      "template": "T_overlay",
+      "heading_image": "Tamron 12-20mm\nF2.8 新登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nTamronがフルサイズミラーレス向け超広角ズーム「12-20mm F2.8 (Model A084)」を発表。14mmや16mmを超える12mm始まりという広角域と、全域F2.8の明るさを両立し、天体写真や狭い室内撮影のプロユースを想定した設計となっている。\n\n■ 注目ポイント\n・焦点距離12mmスタートの超広角ズーム\n・全域開放F2.8、天体撮影に十分な集光性能\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-16-203703.jpg"
+      ],
+      "ig_media_id": "18097432871192443",
+      "fb_post_id": "1120701334458496_122118826383301053",
+      "source_url": "https://www.provideocoalition.com/tamron-12-20mm-f2-8-for-astrophotography-and-interior-shooting/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
