@@ -3421,6 +3421,26 @@
       "fb_post_id": "1120701334458496_122118794949301053",
       "source_url": "https://www.newsshooter.com/2026/07/15/hd-air-studio-halo-modular-3-axis-gimbal/?utm_source=rss&utm_medium=rss&utm_campaign=hd-air-studio-halo-modular-3-axis-gimbal",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-16T08:00:20Z",
+      "date": "2026-07-16",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blackmagic Camera for Android 3.4 Update",
+      "template": "T_overlay",
+      "heading_image": "BMD Cameraが\n本気の大型進化",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Designが「Blackmagic Camera for Android」v3.4を公開。スマホ撮影ワークフローを一気にプロ寄りに引き上げる大型アップデートとなっています。\n\n■ 注目ポイント\n・4K HDMI出力に対応 (音声付き)、外部モニター/レコーダー接続が実用レベルに\n・WearOSスマートウォッチからのカメラコントロールに対応\n・RE",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-16-170004.jpg"
+      ],
+      "ig_media_id": "18128451475712279",
+      "fb_post_id": "1120701334458496_122118807441301053",
+      "source_url": "https://www.newsshooter.com/2026/07/15/blackmagic-camera-for-android-3-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-android-3-4-update",
+      "source": "Newsshooter"
     }
   ]
 }
