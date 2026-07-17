@@ -3519,6 +3519,26 @@
       "fb_post_id": "1120701334458496_122118958533301053",
       "source_url": "https://nofilmschool.com/color-and-contrast-controls-in-color-mode-why-zones-work-better-than-lift-gamma-gain",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-17T11:20:01Z",
+      "date": "2026-07-17",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: HD Air Studio HALO Modular Gimbal Debuts – 15kg Payload, 360",
+      "template": "T_overlay",
+      "heading_image": "積載15kg対応\nHALO登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nポーランドのHD Air Studio (CycloやElitで知られる) が、新型3軸ジンバル『HALO』を発表。ハンドヘルド運用を軸にしつつ、リモートヘッドとしても完全動作するモジュラー設計が特徴です。\n\n■ 注目ポイント\n・最大積載15kg (33lb)、ARRI ALEXA 35 / Mini LF / Sony VENICE 2 クラスのシネマパッケージを想定",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-17-201937.jpg"
+      ],
+      "ig_media_id": "17969426043065646",
+      "fb_post_id": "1120701334458496_122118975093301053",
+      "source_url": "https://www.cined.com/hd-air-studio-halo-modular-gimbal-debuts-15kg-payload-360-roll-and-pan-handheld-to-remote-head/",
+      "source": "CineD"
     }
   ]
 }
