@@ -3499,6 +3499,26 @@
       ],
       "ig_media_id": "18045824027592485",
       "fb_post_id": "1120701334458496_122118952881301053"
+    },
+    {
+      "timestamp": "2026-07-17T07:56:51Z",
+      "date": "2026-07-17",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Color and Contrast Controls in Color Mode: Why Zones Work Be",
+      "template": "T_softbg",
+      "heading_image": "ゾーンで整える\n色の設計思想",
+      "caption_preview": "【最新映像機材ニュース】\n\nAdobe Premiere (ベータ版) に搭載された新機能「Color Mode」が話題。従来のLift/Gamma/Gain (シャドウ/ミッド/ハイライト) 方式に代わり、ゾーンベースの階調制御を導入している。\n\n■ 注目ポイント\n・トーンレンジの「どこ」を「どこまで」調整するかを精密に指定できるゾーン方式\n・ハイライトを持ち上げた際にミッドが引っ張られる等の副",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-17.jpg",
+      "bgs_used": [
+        "bg-045.jpg"
+      ],
+      "ig_media_id": "17898391116513673",
+      "fb_post_id": "1120701334458496_122118958533301053",
+      "source_url": "https://nofilmschool.com/color-and-contrast-controls-in-color-mode-why-zones-work-better-than-lift-gamma-gain",
+      "source": "NoFilmSchool"
     }
   ]
 }
