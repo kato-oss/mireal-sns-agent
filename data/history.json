@@ -3461,6 +3461,26 @@
       "fb_post_id": "1120701334458496_122118826383301053",
       "source_url": "https://www.provideocoalition.com/tamron-12-20mm-f2-8-for-astrophotography-and-interior-shooting/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-07-17T04:11:52Z",
+      "date": "2026-07-17",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 4 Lies About Famous Movies Everybody Fell For",
+      "template": "T_listicle",
+      "heading_image": "信じられてきた\n映画制作の都市伝説",
+      "caption_preview": "【映像制作コラム】\n\nNoFilmSchoolが、長年信じられてきた「名作映画の制作秘話」に潜むウソ・脚色・都市伝説を4つ検証。制作の現場で語り継がれる逸話が、実は事実と異なるケースは意外に多い。\n\n■ 記事で取り上げられているトピック\n・『ポルターガイスト』(1982) を実質的に監督したのはスピルバーグ？→ 名義はトビー・フーパーだが、当時マーケ的にスピルバーグ名が前面に。実際の演出関与の度合",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-17.jpg",
+      "bgs_used": [
+        "bg-056.jpg"
+      ],
+      "ig_media_id": "17947257504248538",
+      "fb_post_id": "1120701334458496_122118943701301053",
+      "source_url": "https://nofilmschool.com/famous-movie-lies-everybody-believed",
+      "source": "NoFilmSchool"
     }
   ]
 }
