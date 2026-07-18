@@ -3557,6 +3557,26 @@
       ],
       "ig_media_id": "18148526314522793",
       "fb_post_id": "1120701334458496_122119036221301053"
+    },
+    {
+      "timestamp": "2026-07-18T03:58:12Z",
+      "date": "2026-07-18",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Streamline Your Production Workflows With These Belkin USB-C",
+      "template": "T_overlay",
+      "heading_image": "Belkin USB-Cハブ\nセール開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nNoFilmSchoolのDeals of the Weekで、Belkinの複数のUSB-Cハブがセール対象に。撮影現場でのファイル転送・バックアップ・共有を高速化するアクセサリとして紹介されている。\n\n■ 注目ポイント\n・4ポートUSB-Cハブなど、現場ワークフロー向けのラインナップが対象\n・SSDやカードリーダー、モニターなど複数デバイスを同時接続可能\n・ノートP",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-18.jpg",
+      "bgs_used": [
+        "bg-065.jpg"
+      ],
+      "ig_media_id": "17935236486093642",
+      "fb_post_id": "1120701334458496_122119073037301053",
+      "source_url": "https://nofilmschool.com/belkin-usb-c-hubs",
+      "source": "NoFilmSchool"
     }
   ]
 }
