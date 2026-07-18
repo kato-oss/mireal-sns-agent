@@ -3597,6 +3597,26 @@
       "fb_post_id": "1120701334458496_122119089585301053",
       "source_url": "https://nofilmschool.com/isolate-thief-lighting",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-18T10:59:38Z",
+      "date": "2026-07-18",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Choosing multiregion DVD/Blu-ray players for framerate puris",
+      "template": "T_overlay",
+      "heading_image": "マルチリージョン\n再生機の選び方",
+      "caption_preview": "【最新映像機材ニュース】\n\nProVideoCoalitionが、米国および南北アメリカの旧NTSC圏在住のフレームレート厳格派向けに、マルチリージョン対応DVD/Blu-rayプレーヤーの選び方を詳しく解説。海外盤ソフトを本来のフレームレートで再生するための実践的ガイドです。\n\n■ 注目ポイント\n・リージョンフリー化(DVDリージョン1-6、Blu-rayリージョンA/B/C)への対応可否\n・P",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-18-195923.jpg"
+      ],
+      "ig_media_id": "18113723668898744",
+      "fb_post_id": "1120701334458496_122119106331301053",
+      "source_url": "https://www.provideocoalition.com/choosing-multiregion-dvd-blu-ray-players-for-framerate-purists-in-the-us-and-ex-ntsc-countries-in-the-americas/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
