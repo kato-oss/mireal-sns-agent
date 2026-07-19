@@ -3637,6 +3637,26 @@
       "fb_post_id": "1120701334458496_122119193919301053",
       "source_url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-19T08:04:13Z",
+      "date": "2026-07-19",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ZA/UM announces layoffs two months after the launch of Zero ",
+      "template": "T_overlay",
+      "heading_image": "ZA/UM\n最大32名を削減",
+      "caption_preview": "【最新業界ニュース】\n\n『Disco Elysium』で知られるゲームスタジオ ZA/UM が、新作『Zero Parades』の発表からわずか2ヶ月後に人員削減を実施。最大32名の従業員が影響を受けたと報じられています。\n\n■ 注目ポイント\n・カルト的人気を誇る『Disco Elysium』の開発元\n・新作スパイスリラー『Zero Parades』を2025年に発表したばかり\n・削減規模は最大3",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-19-170350.jpg"
+      ],
+      "ig_media_id": "17900406297327500",
+      "fb_post_id": "1120701334458496_122119204665301053",
+      "source_url": "https://www.engadget.com/2218116/disco-elysium-studio-za-um-layoffs-after-launch-zero-parades/",
+      "source": "Engadget"
     }
   ]
 }
