@@ -3657,6 +3657,26 @@
       "fb_post_id": "1120701334458496_122119204665301053",
       "source_url": "https://www.engadget.com/2218116/disco-elysium-studio-za-um-layoffs-after-launch-zero-parades/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-19T11:08:13Z",
+      "date": "2026-07-19",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Film Quote of the Day: The 'Star Trek' Line That Offered a T",
+      "template": "T_softbg",
+      "heading_image": "必要なことは\n決して愚かではない",
+      "caption_preview": "【映像制作コラム】\n\nNoFilmSchoolが、2009年版『Star Trek』のVulcanのセリフ「What is necessary is never unwise（必要なことは決して愚かではない）」を、映像制作における意思決定の指針として紹介している。\n\n■ 注目ポイント\n・映画制作は絶え間ない問題解決の連続、脚本・現場・予算・クルーで常に選択を迫られる\n・「やりたいこと」と「やるべき",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-19.jpg",
+      "bgs_used": [
+        "bg-079.jpg"
+      ],
+      "ig_media_id": "17971299551914730",
+      "fb_post_id": "1120701334458496_122119222005301053",
+      "source_url": "https://nofilmschool.com/what-is-necessary-is-never-unwise",
+      "source": "NoFilmSchool"
     }
   ]
 }
