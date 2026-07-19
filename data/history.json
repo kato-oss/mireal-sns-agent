@@ -3617,6 +3617,26 @@
       "fb_post_id": "1120701334458496_122119106331301053",
       "source_url": "https://www.provideocoalition.com/choosing-multiregion-dvd-blu-ray-players-for-framerate-purists-in-the-us-and-ex-ntsc-countries-in-the-americas/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-07-19T04:24:33Z",
+      "date": "2026-07-19",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: France doubles down on restricting access to Polymarket",
+      "template": "T_overlay",
+      "heading_image": "仏当局が\nPolymarket遮断",
+      "caption_preview": "【最新テックニュース】\n\nフランスのギャンブル規制当局ANJが、予測市場プラットフォーム「Polymarket」へのアクセス遮断をISPに命令。国内からの接続制限を一段と強化する動きとなっている。\n\n■ 注目ポイント\n・ANJが仏国内ISPにPolymarketサイトのブロックを指示\n・Polymarketは暗号資産ベースの予測市場で、選挙やイベントの結果に賭ける仕組み\n・仏当局はこれを無認可のギ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-19-132408.jpg"
+      ],
+      "ig_media_id": "18206983762357827",
+      "fb_post_id": "1120701334458496_122119193919301053",
+      "source_url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
+      "source": "Engadget"
     }
   ]
 }
