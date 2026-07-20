@@ -3677,6 +3677,26 @@
       "fb_post_id": "1120701334458496_122119222005301053",
       "source_url": "https://nofilmschool.com/what-is-necessary-is-never-unwise",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-20T04:40:09Z",
+      "date": "2026-07-20",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Godox KNOWLED AM800R",
+      "template": "T_overlay",
+      "heading_image": "Godox AM800R\n正式発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nGodoxがKNOWLEDシリーズの新製品「AM800R」を正式発表。4x4フィート(約122x122cm)のインフレータブル(空気注入式)フレームを採用したRGB LEDライトマットで、既存のAM1600Rを一回り小さくしたモデルとなる。NAB 2026でプロトタイプが披露されていた製品の製品化。\n\n■ 注目ポイント\n・空気で膨らむエアフレーム構造により軽量かつ収納性",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-20-133942.jpg"
+      ],
+      "ig_media_id": "18028818455658735",
+      "fb_post_id": "1120701334458496_122119331241301053",
+      "source_url": "https://www.newsshooter.com/2026/07/19/godox-knowled-am800r/?utm_source=rss&utm_medium=rss&utm_campaign=godox-knowled-am800r",
+      "source": "Newsshooter"
     }
   ]
 }
