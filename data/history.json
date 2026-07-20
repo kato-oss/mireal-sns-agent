@@ -3717,6 +3717,26 @@
       "fb_post_id": "1120701334458496_122119345065301053",
       "source_url": "https://www.cined.com/viltrox-af-26mm-f-2-8-evo-full-frame-pancake-lens-announced-for-sony-e-and-nikon-z/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-20T12:14:25Z",
+      "date": "2026-07-20",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blush– a free lighting diagram tool that runs in your browse",
+      "template": "T_overlay",
+      "heading_image": "Blush無料公開\nブラウザで光を可視化",
+      "caption_preview": "【最新映像機材ニュース】\n\nライティング図面作成ツール「Blush」が無料公開。ブラウザ上で動作し、デスクトップ・ノートPC・iPadから利用可能。部屋を描き、ライトを配置すれば、実際のビームの広がり、バウンス、ディフュージョン越しの柔らかさまでシミュレーションできる。\n\n■ 注目ポイント\n・完全無料、インストール不要でブラウザ動作\n・各メーカーのフォトメトリックデータを内蔵し、実機に近い光の挙動",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-20.jpg",
+      "bgs_used": [
+        "bg-076.jpg"
+      ],
+      "ig_media_id": "17908674546441814",
+      "fb_post_id": "1120701334458496_122119366545301053",
+      "source_url": "https://www.newsshooter.com/2026/07/20/blush-a-free-lighting-diagram-tool-that-runs-in-your-browser/?utm_source=rss&utm_medium=rss&utm_campaign=blush-a-free-lighting-diagram-tool-that-runs-in-your-browser",
+      "source": "Newsshooter"
     }
   ]
 }
