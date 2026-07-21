@@ -3737,6 +3737,32 @@
       "fb_post_id": "1120701334458496_122119366545301053",
       "source_url": "https://www.newsshooter.com/2026/07/20/blush-a-free-lighting-diagram-tool-that-runs-in-your-browser/?utm_source=rss&utm_medium=rss&utm_campaign=blush-a-free-lighting-diagram-tool-that-runs-in-your-browser",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-21T00:04:14Z",
+      "date": "2026-07-21",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「税別¥98,000、追加料金なし」",
+      "template": "T_campaign",
+      "heading_image": "全部コミコミで¥98,000税別",
+      "caption_preview": "「動画って、結局いくらかかるんですか?」\n\n私たちが一番よく聞かれる質問です。\n\n見積もりを出したら、あとから\n・出張費\n・素材費\n・修正費\n・BGM使用料\nと積み上がっていく。気づけば当初の1.5倍。\nそんな経験、ありませんか。\n\nMIREALの ONE DAY PROMOTION は、税別¥98,000。追加料金はありません。\n\nこの金額に含まれるもの、全部書き出します。\n\n・企画打ち合わせ(",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-21.jpg",
+      "bgs_used": [
+        "bg-023.jpg",
+        "bg-004.jpg",
+        "bg-032.jpg",
+        "bg-025.jpg",
+        "bg-091.jpg",
+        "bg-058.jpg",
+        "bg-068.jpg",
+        "bg-017.jpg",
+        "bg-029.jpg"
+      ],
+      "ig_media_id": "18083187458242405",
+      "fb_post_id": "1120701334458496_122119464339301053"
     }
   ]
 }
