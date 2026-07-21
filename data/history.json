@@ -3763,6 +3763,26 @@
       ],
       "ig_media_id": "18083187458242405",
       "fb_post_id": "1120701334458496_122119464339301053"
+    },
+    {
+      "timestamp": "2026-07-21T04:18:39Z",
+      "date": "2026-07-21",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Composition Is the Cake, Everything Else Is Frosting",
+      "template": "T_softbg",
+      "heading_image": "構図こそが\n映像の本質",
+      "caption_preview": "【最新映像制作ニュース】\n\n20歳で長編デビュー作『Our Final Days in Paradise』を撮った映像作家Avery Dohrmannが、visual literacy(視覚的リテラシー)についてのビデオエッセイを公開。「構図がケーキで、それ以外はフロスティング(飾り)」という主張が話題に。\n\n■ 注目ポイント\n・視覚的リテラシーは2段階で構成されるという考察\n・多くのクリエイター",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-21.jpg",
+      "bgs_used": [
+        "bg-094.jpg"
+      ],
+      "ig_media_id": "18055043186529504",
+      "fb_post_id": "1120701334458496_122119477701301053",
+      "source_url": "https://nofilmschool.com/visual-literacy-in-film",
+      "source": "NoFilmSchool"
     }
   ]
 }
