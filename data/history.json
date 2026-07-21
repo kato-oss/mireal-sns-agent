@@ -3783,6 +3783,26 @@
       "fb_post_id": "1120701334458496_122119477701301053",
       "source_url": "https://nofilmschool.com/visual-literacy-in-film",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-21T08:12:47Z",
+      "date": "2026-07-21",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: CAME-TV VOLTRABLE 30W Foldable Solar Panel",
+      "template": "T_overlay",
+      "heading_image": "961gで30W出力\nロケ電源を救う",
+      "caption_preview": "【最新映像機材ニュース】\n\nCAME-TVから、コンパクトに折り畳める30W出力のポータブルソーラーパネル「VOLTRABLE 30W」が登場。屋外ロケでのバッテリー切れ対策として注目の一台です。\n\n■ 注目ポイント\n・重量わずか961.5g、折畳時21.3×30.3×2.2cmでバックパック収納可能\n・USB-C PD / USB-A / DC出力の3系統に対応、スマホ・モニター・小型ライトまで",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-21-171225.jpg"
+      ],
+      "ig_media_id": "18130360843729319",
+      "fb_post_id": "1120701334458496_122119500753301053",
+      "source_url": "https://www.newsshooter.com/2026/07/21/came-tv-voltrable-30w-foldable-solar-panel/?utm_source=rss&utm_medium=rss&utm_campaign=came-tv-voltrable-30w-foldable-solar-panel",
+      "source": "Newsshooter"
     }
   ]
 }
