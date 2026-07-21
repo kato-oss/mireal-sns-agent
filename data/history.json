@@ -3803,6 +3803,26 @@
       "fb_post_id": "1120701334458496_122119500753301053",
       "source_url": "https://www.newsshooter.com/2026/07/21/came-tv-voltrable-30w-foldable-solar-panel/?utm_source=rss&utm_medium=rss&utm_campaign=came-tv-voltrable-30w-foldable-solar-panel",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-21T11:45:14Z",
+      "date": "2026-07-21",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Companies Selling DJI Products in Disguise Facing FCC Ban",
+      "template": "T_overlay",
+      "heading_image": "DJI偽装販売に\nFCCが警告",
+      "caption_preview": "【最新映像機材ニュース】\n\n米連邦通信委員会 (FCC) が、DJI製ドローンを別ブランド名義で偽装販売している疑いのある企業に対して、製品の販売禁止措置を検討していることが明らかになった。米国におけるDJI規制強化の流れの中で、迂回販売への監視が本格化している。\n\n■ 注目ポイント\n・FCCが「DJI製品を別ブランドとして販売している」と疑われる企業を調査対象に\n・対象企業の製品は米国内で認証取",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-21-204457.jpg"
+      ],
+      "ig_media_id": "18384063862166189",
+      "fb_post_id": "1120701334458496_122119515393301053",
+      "source_url": "https://petapixel.com/2026/07/21/companies-selling-dji-products-in-disguise-facing-fcc-ban/",
+      "source": "PetaPixel"
     }
   ]
 }
