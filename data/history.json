@@ -3823,6 +3823,24 @@
       "fb_post_id": "1120701334458496_122119515393301053",
       "source_url": "https://petapixel.com/2026/07/21/companies-selling-dji-products-in-disguise-facing-fcc-ban/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-22T00:00:42Z",
+      "date": "2026-07-22",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画依頼の流れ全部見せ」",
+      "template": "T_listicle",
+      "heading_image": "問い合わせから納品まで\n全工程を時系列公開",
+      "caption_preview": "「動画って、どうやって頼むの？」\n\n初めての方が一番不安なのが、この一点。\n見積もり、打ち合わせ、撮影日調整、修正、納品…\n通常なら2〜4週間かかる工程です。\n\nMIREALのONE DAY PROMOTIONは、これを1営業日に圧縮しました。\n今日はその全工程を、時系列で全部お見せします。\n\n【STEP1】問い合わせ（所要5分）\nフォームから業種・用途・希望日を送るだけ。\n\n【STEP2】ヒアリ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-22.jpg",
+      "bgs_used": [
+        "bg-020.jpg"
+      ],
+      "ig_media_id": "17957732393980357",
+      "fb_post_id": "1120701334458496_122119568763301053"
     }
   ]
 }
