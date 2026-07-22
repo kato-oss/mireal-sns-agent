@@ -3861,6 +3861,26 @@
       "fb_post_id": "1120701334458496_122119581147301053",
       "source_url": "https://nofilmschool.com/indie-film-financing-now",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-22T08:13:46Z",
+      "date": "2026-07-22",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: DaVinci Resolve 21.0.3 Update",
+      "template": "T_overlay",
+      "heading_image": "Resolve 21.0.3\n配信開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Design が DaVinci Resolve 21.0.3 アップデートを配信。リタイム機能やインターレース素材の扱い、旧世代Intel環境でのエンコード最適化など、地味だが実務で効く改善が中心の内容。\n\n■ 注目ポイント\n・リタイム速度/フレームカーブに新しいイージーモードを追加。レガシー速度モードのリタイムカーブオプションも復活\n・インター",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-22-171328.jpg"
+      ],
+      "ig_media_id": "18126361336670126",
+      "fb_post_id": "1120701334458496_122119592097301053",
+      "source_url": "https://www.newsshooter.com/2026/07/21/davinci-resolve-21-0-3-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-3-update",
+      "source": "Newsshooter"
     }
   ]
 }
