@@ -3841,6 +3841,26 @@
       ],
       "ig_media_id": "17957732393980357",
       "fb_post_id": "1120701334458496_122119568763301053"
+    },
+    {
+      "timestamp": "2026-07-22T04:21:27Z",
+      "date": "2026-07-22",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Film-Buying Market Has Changed... But Make Your Movie An",
+      "template": "T_softbg",
+      "heading_image": "配給市場は\n変わった",
+      "caption_preview": "【最新映像業界ニュース】\n\nインディペンデント映画の資金調達と配給市場が、この数年で大きく変化。WGA所属の脚本家/監督Jason Eric Perlman氏が、SFスリラー『Site』を低予算インディー方式で完成させた経験をFilm Courageで語っています。\n\n■ 注目ポイント\n・買い手市場の縮小: ストリーミング各社の買い付け減速で、従来のセールス経路が機能しにくい状況\n・パッケージング",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-22.jpg",
+      "bgs_used": [
+        "bg-014.jpg"
+      ],
+      "ig_media_id": "18096226568097151",
+      "fb_post_id": "1120701334458496_122119581147301053",
+      "source_url": "https://nofilmschool.com/indie-film-financing-now",
+      "source": "NoFilmSchool"
     }
   ]
 }
