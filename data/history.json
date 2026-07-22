@@ -3881,6 +3881,26 @@
       "fb_post_id": "1120701334458496_122119592097301053",
       "source_url": "https://www.newsshooter.com/2026/07/21/davinci-resolve-21-0-3-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-3-update",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-22T11:45:46Z",
+      "date": "2026-07-22",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: This Image Led to a Photographer Being Sentenced to 74 Lashe",
+      "template": "T_overlay",
+      "heading_image": "1枚の写真で\n鞭打ち74回の判決",
+      "caption_preview": "【最新映像機材ニュース】\n\nイランで、黒いドレスを着たヘアカバー無しの女性歌手を撮影したポートレート写真家に、鞭打ち74回・出国禁止・芸術活動禁止という重い判決が下されました。1枚の写真が写真家の人生を大きく変えた事例です。\n\n■ 注目ポイント\n・被写体はスカーフを着用せず黒いドレス姿のイラン人歌手\n・写真家に鞭打ち74回の身体刑\n・出国禁止および一切の芸術活動禁止の付加刑\n\n■ なぜ注目すべきか",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-22-204524.jpg"
+      ],
+      "ig_media_id": "18114701446902324",
+      "fb_post_id": "1120701334458496_122119604121301053",
+      "source_url": "https://petapixel.com/2026/07/22/this-image-led-to-a-photographer-being-sentenced-to-74-lashes-in-iran/",
+      "source": "PetaPixel"
     }
   ]
 }
