@@ -3959,6 +3959,26 @@
       "fb_post_id": "1120701334458496_122119693347301053",
       "source_url": "https://www.newsshooter.com/2026/07/22/sony-monitor-control-app-how-to-connect-multi-camera-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=sony-monitor-control-app-how-to-connect-multi-camera-monitoring",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-23T11:49:15Z",
+      "date": "2026-07-23",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony's FX5 cinema camera finally offers open gate and RAW 5K",
+      "template": "T_overlay",
+      "heading_image": "Sony FX5\n正式発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyがCinema Lineの新モデル「FX5」を正式発表。待望のオープンゲート収録とRAW 5K内部記録に対応し、今後のミラーレス機にも波及しそうな機能が盛り込まれた注目の一台です。\n\n■ 注目ポイント\n・センサー全域を使うオープンゲート収録に対応 (縦横トリミング自由度が大幅UP)\n・RAW 5K内部記録をサポートしポスト耐性が向上\n・FXシリーズの系譜を継ぐシ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-23-204856.jpg"
+      ],
+      "ig_media_id": "18574146169067072",
+      "fb_post_id": "1120701334458496_122119705815301053",
+      "source_url": "https://www.engadget.com/2221526/sony-fx5-cinema-camera/",
+      "source": "Engadget"
     }
   ]
 }
