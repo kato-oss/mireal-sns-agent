@@ -3901,6 +3901,24 @@
       "fb_post_id": "1120701334458496_122119604121301053",
       "source_url": "https://petapixel.com/2026/07/22/this-image-led-to-a-photographer-being-sentenced-to-74-lashes-in-iran/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-23T00:08:29Z",
+      "date": "2026-07-23",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "D",
+      "format": "F3",
+      "theme": "「撮影〜納品早回し」",
+      "template": "T_overlay",
+      "heading_image": "1日の裏側\n全部見せます",
+      "caption_preview": "「本当に1日で動画が仕上がるの?」\nよく聞かれる質問です。\n\n今回はMIREALの1日の流れを、早回しでお見せするリール企画。\n\n【朝9:00】現地入り、機材セッティング\n事前ヒアリングで撮影構成は固まっているので、到着後は迷わずカメラを立てる。\n\n【10:00〜12:00】撮影\nシーンごとに区切って一気に収録。カット割りは事前設計済みなので、撮り直しも最小限。\n\n【13:00〜16:00】その場",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-23.jpg",
+      "bgs_used": [
+        "bg-051.jpg"
+      ],
+      "ig_media_id": "18126244225676220",
+      "fb_post_id": "1120701334458496_122119667253301053"
     }
   ]
 }
