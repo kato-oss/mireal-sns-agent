@@ -3939,6 +3939,26 @@
       "fb_post_id": "1120701334458496_122119681011301053",
       "source_url": "https://www.newsshooter.com/2026/07/22/vintage-visual-frank-develop-super-8-double-8-16mm-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=vintage-visual-frank-develop-super-8-double-8-16mm-at-home",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-23T08:16:26Z",
+      "date": "2026-07-23",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony Monitor & Control App–How to Connect Multi-Camera Monit",
+      "template": "T_overlay",
+      "heading_image": "Sonyが公開\n多カメラ同時制御",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyが「Monitor & Control」アプリのマルチカメラモニタリング機能について、接続方法と安定運用のコツを解説する新動画を公開。ワンオペで複数台のカメラを同時制御・監視できるモバイルアプリで、対応するSony製カメラ群を1台のスマホ/タブレットから操作可能。\n\n■ 注目ポイント\n・複数の対応Sonyカメラを同時にモニタリング・制御\n・スマホ/タブレット用ア",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-23-171609.jpg"
+      ],
+      "ig_media_id": "17977268522895617",
+      "fb_post_id": "1120701334458496_122119693347301053",
+      "source_url": "https://www.newsshooter.com/2026/07/22/sony-monitor-control-app-how-to-connect-multi-camera-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=sony-monitor-control-app-how-to-connect-multi-camera-monitoring",
+      "source": "Newsshooter"
     }
   ]
 }
