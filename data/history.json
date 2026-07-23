@@ -3919,6 +3919,26 @@
       ],
       "ig_media_id": "18126244225676220",
       "fb_post_id": "1120701334458496_122119667253301053"
+    },
+    {
+      "timestamp": "2026-07-23T04:19:00Z",
+      "date": "2026-07-23",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Vintage Visual Frank– develop Super 8, Double 8, & 16mm at h",
+      "template": "T_overlay",
+      "heading_image": "自宅で小型フィルム\nを現像する時代へ",
+      "caption_preview": "【最新映像機材ニュース】\n\nVintage Visualが、自宅でSuper 8、Double 8、16mmフィルムを現像できる半自動現像機「Frank」を発表。これまで選択肢の少なかった小型フィルム現像に、専用機として登場した注目のプロダクト。\n\n■ 注目ポイント\n・Super 8 / Double 8 / 16mmの3フォーマットに対応\n・アジテーション（攪拌）とタイミングを自動制御\n・温度補",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-23-131843.jpg"
+      ],
+      "ig_media_id": "18431988748123226",
+      "fb_post_id": "1120701334458496_122119681011301053",
+      "source_url": "https://www.newsshooter.com/2026/07/22/vintage-visual-frank-develop-super-8-double-8-16mm-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=vintage-visual-frank-develop-super-8-double-8-16mm-at-home",
+      "source": "Newsshooter"
     }
   ]
 }
