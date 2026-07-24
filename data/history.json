@@ -3979,6 +3979,32 @@
       "fb_post_id": "1120701334458496_122119705815301053",
       "source_url": "https://www.engadget.com/2221526/sony-fx5-cinema-camera/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-24T00:06:19Z",
+      "date": "2026-07-24",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "C",
+      "format": "F2",
+      "theme": "「次の四半期、動画始めませんか」",
+      "template": "T_campaign",
+      "heading_image": "次のQ3、動画は¥98,000から",
+      "caption_preview": "「今期こそ動画をやろう」\nそう言いながら、また四半期が終わる。\n\nそんな中小企業の方に、私たちからひとつ提案があります。\n\n次のQ3、動画を始めませんか。\n\n動画を後回しにしてしまう理由は、だいたい3つに集約されます。\n\n1. 予算が読めない\n2. 時間がかかりそう\n3. 何から作ればいいか分からない\n\nMIREALのONE DAY PROMOTIONは、この3つを正面から解決するために設計されて",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-24.jpg",
+      "bgs_used": [
+        "bg-040.jpg",
+        "bg-072.jpg",
+        "bg-023.jpg",
+        "bg-087.jpg",
+        "bg-092.jpg",
+        "bg-083.jpg",
+        "bg-094.jpg",
+        "bg-093.jpg",
+        "bg-053.jpg"
+      ],
+      "ig_media_id": "18105276454871725",
+      "fb_post_id": "1120701334458496_122119780725301053"
     }
   ]
 }
