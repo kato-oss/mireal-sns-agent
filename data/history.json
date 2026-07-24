@@ -4043,6 +4043,26 @@
       ],
       "ig_media_id": "18116044841510599",
       "fb_post_id": "1120701334458496_122119805751301053"
+    },
+    {
+      "timestamp": "2026-07-24T08:12:43Z",
+      "date": "2026-07-24",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $250 USD on the Angelbird 1TB AV PRO CFexpress 4.0 Type",
+      "template": "T_overlay",
+      "heading_image": "Angelbird 1TB\n$250オフでセール",
+      "caption_preview": "【最新映像機材ニュース】\n\nAngelbirdの1TB AV PRO CFexpress 4.0 Type Aメモリーカードが$250オフの$449 USDでセール中。Sony FX5でX-OCN収録を狙うユーザーには見逃せない価格帯まで下がってきました。\n\n■ 注目ポイント\n・CFexpress 4.0 Type A規格対応の大容量1TBモデル\n・FX5/FX3/FX30などSony Cinem",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-24-171229.jpg"
+      ],
+      "ig_media_id": "17910979446451170",
+      "fb_post_id": "1120701334458496_122119812303301053",
+      "source_url": "https://www.newsshooter.com/2026/07/23/save-250-usd-on-the-angelbird-1tb-av-pro-cfexpress-4-0-type-a-memory-card/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-the-angelbird-1tb-av-pro-cfexpress-4-0-type-a-memory-card",
+      "source": "Newsshooter"
     }
   ]
 }
