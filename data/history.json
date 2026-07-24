@@ -4005,6 +4005,26 @@
       ],
       "ig_media_id": "18105276454871725",
       "fb_post_id": "1120701334458496_122119780725301053"
+    },
+    {
+      "timestamp": "2026-07-24T04:19:52Z",
+      "date": "2026-07-24",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony’s Monitor & Control App now includes EL Zone",
+      "template": "T_overlay",
+      "heading_image": "Sony M&C v3.0\nEL Zone に対応",
+      "caption_preview": "【最新映像機材ニュース】\n\nSony が Monitor & Control アプリを ver.3.0 にアップデート。露出/ライティング比の判断を助ける EL Zone に対応し、対応機種も拡大されました。\n\n■ 注目ポイント\n・EL Zone System サポート追加 (Ed Lachman ASC 考案の露出可視化ツール、ステップごとに色分け表示)\n・α7R VI と FX5 のサポートを",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-24-131934.jpg"
+      ],
+      "ig_media_id": "18159441556472253",
+      "fb_post_id": "1120701334458496_122119799481301053",
+      "source_url": "https://www.newsshooter.com/2026/07/23/sonys-monitor-control-app-now-includes-el-zone/?utm_source=rss&utm_medium=rss&utm_campaign=sonys-monitor-control-app-now-includes-el-zone",
+      "source": "Newsshooter"
     }
   ]
 }
