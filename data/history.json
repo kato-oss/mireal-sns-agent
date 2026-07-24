@@ -4063,6 +4063,26 @@
       "fb_post_id": "1120701334458496_122119812303301053",
       "source_url": "https://www.newsshooter.com/2026/07/23/save-250-usd-on-the-angelbird-1tb-av-pro-cfexpress-4-0-type-a-memory-card/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-the-angelbird-1tb-av-pro-cfexpress-4-0-type-a-memory-card",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-24T11:40:04Z",
+      "date": "2026-07-24",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: LG promises to stop McAfee spam ads following pressure from ",
+      "template": "T_overlay",
+      "heading_image": "LGモニターの\n広告表示問題",
+      "caption_preview": "【最新映像機材ニュース】\n\nLGが、自社モニターに表示していたMcAfeeのポップアップ広告を停止することを発表。ユーザーからの強い反発と、Microsoftからの圧力を受けての方針転換となる。\n\n■ 注目ポイント\n・LGモニターの一部モデルでMcAfeeのスパム的なポップアップ広告が表示されていた問題\n・Windows側からダウンロードされる形で広告が出現し、ユーザーの不満が噴出\n・Micros",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-24-203934.jpg"
+      ],
+      "ig_media_id": "17995367045990406",
+      "fb_post_id": "1120701334458496_122119826565301053",
+      "source_url": "https://www.engadget.com/2222348/lg-monitor-mcafee-spam-ads-microsoft/",
+      "source": "Engadget"
     }
   ]
 }
