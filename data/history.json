@@ -4083,6 +4083,24 @@
       "fb_post_id": "1120701334458496_122119826565301053",
       "source_url": "https://www.engadget.com/2222348/lg-monitor-mcafee-spam-ads-microsoft/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-07-25T00:11:30Z",
+      "date": "2026-07-25",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "B",
+      "format": "F1",
+      "theme": "「動画制作の見積もりで騙されないコツ」",
+      "template": "T_listicle",
+      "heading_image": "見積もりで損しない\nチェックポイント",
+      "caption_preview": "「動画1本、60万円です」\nそう言われて、あなたは適正価格かどうか判断できますか。\n\n動画制作の見積もりは、業界の相場が見えにくく、後から追加費用が発生するケースも少なくありません。今日は、見積もりで損をしないための5つのチェックポイントをまとめました。\n\n1. 「一式」表記に注意\n企画・撮影・編集の内訳が書かれていない見積もりは要注意。何にいくらかかっているか、必ず分解してもらいましょう。\n\n2",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-25.jpg",
+      "bgs_used": [
+        "bg-008.jpg"
+      ],
+      "ig_media_id": "18218581972326496",
+      "fb_post_id": "1120701334458496_122119935291301053"
     }
   ]
 }
