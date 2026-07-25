@@ -4101,6 +4101,26 @@
       ],
       "ig_media_id": "18218581972326496",
       "fb_post_id": "1120701334458496_122119935291301053"
+    },
+    {
+      "timestamp": "2026-07-25T04:16:00Z",
+      "date": "2026-07-25",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tilta teases its upcoming EVF Extension Kit for the Sony FX5",
+      "template": "T_overlay",
+      "heading_image": "Tilta EVF拡張キット\nFX5用がティザー公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nTilta が Sony FX5 向けの EVF Extension Kit をティザー公開。FX5 と同時発表された着脱式ビューファインダー DVF-EL1 を、カメラ本体から離れた位置に自由にマウントできるアクセサリキットです。\n\n■ 注目ポイント\n・DVF-EL1 を MI ホットシューから延長ケーブルでオフセット配置\n・ショルダーリグやジンバル運用時の覗き位置を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-25-131542.jpg"
+      ],
+      "ig_media_id": "18210708172346242",
+      "fb_post_id": "1120701334458496_122119958151301053",
+      "source_url": "https://www.newsshooter.com/2026/07/24/tilta-teases-its-upcoming-evf-extension-kit-for-the-sony-fx5/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-teases-its-upcoming-evf-extension-kit-for-the-sony-fx5",
+      "source": "Newsshooter"
     }
   ]
 }
