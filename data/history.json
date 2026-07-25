@@ -4121,6 +4121,26 @@
       "fb_post_id": "1120701334458496_122119958151301053",
       "source_url": "https://www.newsshooter.com/2026/07/24/tilta-teases-its-upcoming-evf-extension-kit-for-the-sony-fx5/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-teases-its-upcoming-evf-extension-kit-for-the-sony-fx5",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-25T11:07:32Z",
+      "date": "2026-07-25",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Texas Legacy in Lights film captured with URSA Cine 12K LF",
+      "template": "T_softbg",
+      "heading_image": "光で描く\nテキサスの記憶",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic の URSA Cine 12K LF と PYXIS 6K を使用したライブアクション・プロジェクションマッピング作品「Texas Legacy in Lights」が公開。テキサス州ゴンザレス記念博物館の外壁に投影される大型映像で、John監督が制作を手掛けた。\n\n■ 注目ポイント\n・URSA Cine 12K LF のラージフォーマットセンサー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-25-200714.jpg"
+      ],
+      "ig_media_id": "18155897743494395",
+      "fb_post_id": "1120701334458496_122119988061301053",
+      "source_url": "https://www.provideocoalition.com/texas-legacy-in-lights-film-captured-with-ursa-cine-12k-lf/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
