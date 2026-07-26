@@ -4161,6 +4161,26 @@
       "fb_post_id": "1120701334458496_122120091675301053",
       "source_url": "https://www.newsshooter.com/2026/07/25/nanlux-evoke-600c-150c-training-series-with-jem-schofield/?utm_source=rss&utm_medium=rss&utm_campaign=nanlux-evoke-600c-150c-training-series-with-jem-schofield",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-26T08:13:11Z",
+      "date": "2026-07-26",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: First Amendment Auditors are Taking Their Right to Film in P",
+      "template": "T_softbg",
+      "heading_image": "撮影の権利を巡る\n議論が拡大する",
+      "caption_preview": "【最新映像機材ニュース】\n\n米国では公共空間での撮影は合法であり、報道関係者を中心に修正第1条による権利として広く認識されている。しかし近年、この権利を極端な形で行使する「First Amendment Auditor（憲法修正第1条オーディター）」と呼ばれる撮影者たちが議論を呼んでいる。\n\n■ 注目ポイント\n・警察署や政府施設の外から意図的に撮影し、当局の対応を検証・記録する活動\n・YouTub",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-26-171254.jpg"
+      ],
+      "ig_media_id": "18107011349522105",
+      "fb_post_id": "1120701334458496_122120103885301053",
+      "source_url": "https://petapixel.com/2026/07/25/first-amendment-auditors-are-taking-their-right-to-film-in-public-to-the-extreme/",
+      "source": "PetaPixel"
     }
   ]
 }
