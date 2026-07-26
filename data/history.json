@@ -4181,6 +4181,26 @@
       "fb_post_id": "1120701334458496_122120103885301053",
       "source_url": "https://petapixel.com/2026/07/25/first-amendment-auditors-are-taking-their-right-to-film-in-public-to-the-extreme/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-26T11:17:31Z",
+      "date": "2026-07-26",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Photographer Captures Rare Shot of Venus and the ISS Togethe",
+      "template": "T_softbg",
+      "heading_image": "金星とISSを\n一枚に収める奇跡",
+      "caption_preview": "【最新映像機材ニュース】\n\n天体写真家 AJ Smadi 氏が、金星と国際宇宙ステーション(ISS)を1フレームに収めた史上2例目の写真を撮影。1例目を撮ったのも同氏で、超高難度の撮影を再び成功させた形です。\n\n■ 注目ポイント\n・地球低軌道を高速で通過するISSと、惑星である金星を同フレームに捉えた極めて稀な作例\n・トランジット(通過)撮影は秒単位のタイミング計算が必須で、位置予測と機材セッティ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-26-201707.jpg"
+      ],
+      "ig_media_id": "17980667151027023",
+      "fb_post_id": "1120701334458496_122120119311301053",
+      "source_url": "https://petapixel.com/2026/07/26/photographer-captures-rare-shot-of-venus-and-the-iss-together-in-one-frame/",
+      "source": "PetaPixel"
     }
   ]
 }
