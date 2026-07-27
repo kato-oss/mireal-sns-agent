@@ -4247,6 +4247,26 @@
       "fb_post_id": "1120701334458496_122120179143301053",
       "source_url": "https://www.newsshooter.com/2026/07/26/ziess-unreal-engine-plugin-ue-connect-for-cincraft-scenario-now-supports-the-latest-5-8-release/?utm_source=rss&utm_medium=rss&utm_campaign=ziess-unreal-engine-plugin-ue-connect-for-cincraft-scenario-now-supports-the-latest-5-8-release",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-27T09:36:45Z",
+      "date": "2026-07-27",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tilta Full Camera Cage for Sony FX5 Announced",
+      "template": "T_overlay",
+      "heading_image": "Tilta FX5用\nフルケージ発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiltaがSony FX5対応のフルカメラケージを正式発表。必要に応じてハーフケージへ変換可能なミニマル設計で、FX5本体の発売前にサードパーティのリギング展開が加速しています。\n\n■ 注目ポイント\n・独立したトッププレート/NATOレールを搭載し、用途に応じて着脱可能\n・1/4\"-20および3/8\"-16ネジ穴を多数配置、ロケーティングポイントも各所に\n・コールドシ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-27-183627.jpg"
+      ],
+      "ig_media_id": "18062026697742142",
+      "fb_post_id": "1120701334458496_122120195283301053",
+      "source_url": "https://www.cined.com/tilta-full-camera-cage-for-sony-fx5-announced/",
+      "source": "CineD"
     }
   ]
 }
