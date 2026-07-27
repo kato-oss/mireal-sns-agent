@@ -4201,6 +4201,32 @@
       "fb_post_id": "1120701334458496_122120119311301053",
       "source_url": "https://petapixel.com/2026/07/26/photographer-captures-rare-shot-of-venus-and-the-iss-together-in-one-frame/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-27T00:09:09Z",
+      "date": "2026-07-27",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「他社見積もりと比べてください」",
+      "template": "T_campaign",
+      "heading_image": "まず、比べて\nください¥98,000税別",
+      "caption_preview": "「動画って、いくらが適正なんだろう？」\n\n見積もりを取ったことがある方なら、一度は感じたはず。\n\nA社:60万円\nB社:120万円\nC社:35万円(オプション別)\n\n同じ「動画1本」なのに、なぜここまで開くのか。\n理由は、含まれる工程・修正回数・素材使用範囲・出張費が各社バラバラだからです。\n\n私たちMIREALのONE DAY PROMOTIONは、\n¥98,000(税別)ぽっきり。\n\n含まれる",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-27.jpg",
+      "bgs_used": [
+        "bg-054.jpg",
+        "bg-052.jpg",
+        "bg-001.jpg",
+        "bg-060.jpg",
+        "bg-087.jpg",
+        "bg-010.jpg",
+        "bg-071.jpg",
+        "bg-070.jpg",
+        "bg-031.jpg"
+      ],
+      "ig_media_id": "17998578419992499",
+      "fb_post_id": "1120701334458496_122120166645301053"
     }
   ]
 }
