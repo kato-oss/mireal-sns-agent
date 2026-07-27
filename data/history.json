@@ -4267,6 +4267,26 @@
       "fb_post_id": "1120701334458496_122120195283301053",
       "source_url": "https://www.cined.com/tilta-full-camera-cage-for-sony-fx5-announced/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-07-27T12:54:36Z",
+      "date": "2026-07-27",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Photographer Calls Close Encounter With Grizzly Bear ‘Peacef",
+      "template": "T_softbg",
+      "heading_image": "数センチの距離で\n捉えた野生の静寂",
+      "caption_preview": "【最新映像機材ニュース】\n\n草を食むグリズリーベアが野生動物写真家のわずか数センチ手前まで近づいた瞬間を捉えた作品が話題に。撮影者は「これほどの至近距離にもかかわらず、恐怖は一切なかった」と語っています。\n\n■ 注目ポイント\n・被写体との距離はわずか数インチ、通常のワイルドライフ撮影では考えられない近さ\n・グリズリーが警戒行動を見せず、草を食み続けた穏やかな環境\n・撮影者は長年の経験から「動物の状",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-27-215421.jpg"
+      ],
+      "ig_media_id": "18055798868530375",
+      "fb_post_id": "1120701334458496_122120211777301053",
+      "source_url": "https://petapixel.com/2026/07/27/photographer-calls-close-encounter-with-grizzly-bear-peaceful/",
+      "source": "PetaPixel"
     }
   ]
 }
