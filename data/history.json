@@ -4305,6 +4305,26 @@
       ],
       "ig_media_id": "17985760809034837",
       "fb_post_id": "1120701334458496_122120264031301053"
+    },
+    {
+      "timestamp": "2026-07-28T04:14:55Z",
+      "date": "2026-07-28",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: XTRA Muse 2 Pro Pre-Orders removed in the US",
+      "template": "T_overlay",
+      "heading_image": "XTRA Muse 2 Pro\n米国で予約停止",
+      "caption_preview": "【最新映像機材ニュース】\n\nDJI Osmo Pocket 4 の代替として注目されていた XTRA Muse 2 Pro が、米国での予約受付を停止したと報じられた。米政府による中国系ドローン・映像機器メーカーへの規制強化の影響とみられる。\n\n■ 注目ポイント\n・Osmo Pocket 系に対抗する小型ポケットジンバルカメラ\n・米国でのプリオーダーが取り下げ\n・DJI 規制の波が周辺の中国メーカ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-28-131438.jpg"
+      ],
+      "ig_media_id": "18105007666867870",
+      "fb_post_id": "1120701334458496_122120281311301053",
+      "source_url": "https://www.newsshooter.com/2026/07/27/xtra-muse-2-pro-pre-orders-removed-in-the-us/?utm_source=rss&utm_medium=rss&utm_campaign=xtra-muse-2-pro-pre-orders-removed-in-the-us",
+      "source": "Newsshooter"
     }
   ]
 }
