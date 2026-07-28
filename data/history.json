@@ -4287,6 +4287,24 @@
       "fb_post_id": "1120701334458496_122120211777301053",
       "source_url": "https://petapixel.com/2026/07/27/photographer-calls-close-encounter-with-grizzly-bear-peaceful/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-07-28T00:08:11Z",
+      "date": "2026-07-28",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "E",
+      "format": "F5",
+      "theme": "「地方の小売店、地域訴求動画」",
+      "template": "T_overlay",
+      "heading_image": "地域のお客様に\n届く動画を1日で",
+      "caption_preview": "「うちの店、地元の人にもっと知ってもらいたい」\nそう話してくれる地方の小売店オーナーは、本当に多いです。\n\nチラシは撒いた。看板も出した。\nでも、若い世代はスマホの中にいる。\nInstagramやYouTubeで見つけてもらえないと、店の存在すら知られない時代です。\n\n私たちMIREALがよく相談を受けるのが、こんなケース。\n\n【業種】地方都市の食品小売店（仮想ケース）\n【課題】観光客ではなく、地",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-28.jpg",
+      "bgs_used": [
+        "bg-058.jpg"
+      ],
+      "ig_media_id": "17985760809034837",
+      "fb_post_id": "1120701334458496_122120264031301053"
     }
   ]
 }
