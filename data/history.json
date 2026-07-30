@@ -4325,6 +4325,26 @@
       "fb_post_id": "1120701334458496_122120281311301053",
       "source_url": "https://www.newsshooter.com/2026/07/27/xtra-muse-2-pro-pre-orders-removed-in-the-us/?utm_source=rss&utm_medium=rss&utm_campaign=xtra-muse-2-pro-pre-orders-removed-in-the-us",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-30T04:10:20Z",
+      "date": "2026-07-30",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tamron releases official statement about proposed Sony takeo",
+      "template": "T_overlay",
+      "heading_image": "ソニーがタムロンに\n買収提案",
+      "caption_preview": "【最新映像機材ニュース】\n\nタムロンが、ソニーから非拘束的（non-binding）な買収提案を受領したことを公式に開示しました。実現すればレンズ業界の勢力図を大きく塗り替える可能性のあるニュースです。\n\n■ 注目ポイント\n・タムロンがソニーからの提案受領を公式に認めた\n・「一連の取引実施に関する非拘束的提案」との表現\n・現時点では拘束力のない初期段階、正式な合意ではない\n・タムロンは既にソニーE",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-07-30-131004.jpg"
+      ],
+      "ig_media_id": "18024665546682125",
+      "fb_post_id": "1120701334458496_122120556045301053",
+      "source_url": "https://www.newsshooter.com/2026/07/29/tamron-releases-official-statement-about-proposed-sony-takeover-bid/?utm_source=rss&utm_medium=rss&utm_campaign=tamron-releases-official-statement-about-proposed-sony-takeover-bid",
+      "source": "Newsshooter"
     }
   ]
 }
