@@ -4345,6 +4345,26 @@
       "fb_post_id": "1120701334458496_122120556045301053",
       "source_url": "https://www.newsshooter.com/2026/07/29/tamron-releases-official-statement-about-proposed-sony-takeover-bid/?utm_source=rss&utm_medium=rss&utm_campaign=tamron-releases-official-statement-about-proposed-sony-takeover-bid",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-07-31T04:26:55Z",
+      "date": "2026-07-31",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 40 Years Later, This Alfred Hitchcock Sequel Remains Undefea",
+      "template": "T_softbg",
+      "heading_image": "『サイコ3』\n40年目の再評価",
+      "caption_preview": "【最新映像ニュース】\n\nNoFilmSchoolが、アンソニー・パーキンス自身が監督を務めた1986年公開『サイコ3』の40周年を前に、同作を再評価する記事を公開。ヒッチコックの遺産を継ぐ続編・リメイクの中でも異色の存在として位置付けている。\n\n■ 注目ポイント\n・パーキンスが主演と監督を兼任した唯一の『サイコ』作品\n・ヒッチコックの様式美をなぞらず、80年代スラッシャー的表現とネオノワールを融合",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-31.jpg",
+      "bgs_used": [
+        "bg-016.jpg"
+      ],
+      "ig_media_id": "18149805769512134",
+      "fb_post_id": "1120701334458496_122120661393301053",
+      "source_url": "https://nofilmschool.com/psycho-iii-40th-anniversary",
+      "source": "NoFilmSchool"
     }
   ]
 }
