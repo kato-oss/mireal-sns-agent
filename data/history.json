@@ -4365,6 +4365,24 @@
       "fb_post_id": "1120701334458496_122120661393301053",
       "source_url": "https://nofilmschool.com/psycho-iii-40th-anniversary",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-07-31T07:20:53Z",
+      "date": "2026-07-31",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "R",
+      "format": "RECRUIT",
+      "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+      "template": "T_overlay",
+      "heading_image": "映像クリエイター\n募集",
+      "caption_preview": "【動画編集者・モーショングラファー募集】\n\nMIREALでは現在、下記ポジションを募集しています。\n\n■ 募集職種\n・動画編集者\n・モーショングラファー\n（ディレクター/カメラマンも通年募集中）\n\n■ 働き方\n・案件単位での参加\n・フルリモートOK\n・副業・兼業OK\n・全国の案件あり\n\n■ 報酬\n・案件ごとに事前提示\n\n■ こんな方を歓迎\n・実務での編集経験1年以上\n・Premiere Pro /",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-07-31.jpg",
+      "bgs_used": [
+        "bg-012.jpg"
+      ],
+      "ig_media_id": "18107753234046689",
+      "fb_post_id": "1120701334458496_122120672709301053"
     }
   ]
 }
