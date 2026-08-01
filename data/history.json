@@ -4383,6 +4383,26 @@
       ],
       "ig_media_id": "18107753234046689",
       "fb_post_id": "1120701334458496_122120672709301053"
+    },
+    {
+      "timestamp": "2026-08-01T04:24:16Z",
+      "date": "2026-08-01",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ARRI CPO Summer Sale",
+      "template": "T_overlay",
+      "heading_image": "ARRI 認定中古\nサマーセール開幕",
+      "caption_preview": "【最新映像機材ニュース】\n\nARRIが恒例のCPO(Certified Pre-Owned=認定中古)サマーセールを開始。2026年7月31日から9月14日まで、CPO・デモ機・オープンボックス在庫が特別価格で提供される。\n\n■ 注目ポイント\n・対象はALEXA/AMIRA系ボディやレンズ、照明機材など幅広いARRI製品\n・ARRI認定の点検・整備済みで保証付き、状態グレードも明示\n・全アイテム数",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-01-132357.jpg"
+      ],
+      "ig_media_id": "18106136960329391",
+      "fb_post_id": "1120701334458496_122120766219301053",
+      "source_url": "https://www.newsshooter.com/2026/07/31/arri-cpo-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=arri-cpo-summer-sale",
+      "source": "Newsshooter"
     }
   ]
 }
