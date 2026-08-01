@@ -4403,6 +4403,26 @@
       "fb_post_id": "1120701334458496_122120766219301053",
       "source_url": "https://www.newsshooter.com/2026/07/31/arri-cpo-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=arri-cpo-summer-sale",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-01T08:08:00Z",
+      "date": "2026-08-01",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: These Old Nikon DSLRs Might Quietly Be Some of the Best Came",
+      "template": "T_overlay",
+      "heading_image": "Nikon DSLRが今\n再評価される理由",
+      "caption_preview": "【最新映像機材ニュース】\n\nミラーレス全盛の時代に、あえてNikonのDSLRが「隠れた買い得機材」として注目されています。NoFilmSchoolのDeals of the Weekで、現行販売中の3機種のセール情報が紹介されました。\n\n■ 注目ポイント\n・Nikon D7500: $696.95 / APS-C・20.9MP、4K30p収録対応のハイブリッド機\n・Nikon D780: $1,",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-01.jpg",
+      "bgs_used": [
+        "bg-073.jpg"
+      ],
+      "ig_media_id": "18088142246159083",
+      "fb_post_id": "1120701334458496_122120786637301053",
+      "source_url": "https://nofilmschool.com/nikon-dslr-deals",
+      "source": "NoFilmSchool"
     }
   ]
 }
