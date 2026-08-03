@@ -4423,6 +4423,26 @@
       "fb_post_id": "1120701334458496_122120786637301053",
       "source_url": "https://nofilmschool.com/nikon-dslr-deals",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-08-03T12:53:32Z",
+      "date": "2026-08-03",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Laowa Aksen Ultra Macro Lens Series Released – 1-5x and 5-10",
+      "template": "T_overlay",
+      "heading_image": "Laowa Aksen\n超マクロズーム発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nLaowaがフルサイズ対応の超マクロズームレンズ「Aksen」シリーズを発表。1-5x倍率の45mm f/2.8と、5-10x倍率の17.5mm f/1.7の2本構成で、それぞれフォト版とシネ版を用意する意欲的なラインナップです。\n\n■ 注目ポイント\n・パーフォーカルズーム設計。倍率を変えてもフォーカスが維持される\n・ワーキングディスタンスが固定、完全内部ズーム機構\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-03-215311.jpg"
+      ],
+      "ig_media_id": "18102701762463715",
+      "fb_post_id": "1120701334458496_122121026685301053",
+      "source_url": "https://www.cined.com/laowa-aksen-ultra-macro-lens-series-released-1-5x-and-5-10x-magnification-parfocal-zoom-optional-coaxial-light/",
+      "source": "CineD"
     }
   ]
 }
