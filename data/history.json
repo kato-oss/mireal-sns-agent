@@ -4481,6 +4481,26 @@
       "fb_post_id": "1120701334458496_122121097953301053",
       "source_url": "https://www.newsshooter.com/2026/08/03/hoverair-versa/?utm_source=rss&utm_medium=rss&utm_campaign=hoverair-versa",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-04T08:25:51Z",
+      "date": "2026-08-04",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Engin Box– a global platform for cinema & photo engineers",
+      "template": "T_softbg",
+      "heading_image": "世界の整備士が\n集うプラットフォーム",
+      "caption_preview": "【最新映像機材ニュース】\n\nARRI、Zeiss、Cooke、RED、Leicaの元エンジニアたちが立ち上げたシネマ・フォト機材の整備エンジニア向けグローバルプラットフォーム「Engin Box」が登場。希少なサービスマニュアルから修理動画、専門家コミュニティまでを一元化する野心的な試み。\n\n■ 注目ポイント\n・レアなサービスマニュアルをAIフィルタで検索可能\n・週次で更新される修理ビデオガイド\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-04-172533.jpg"
+      ],
+      "ig_media_id": "18153664624496973",
+      "fb_post_id": "1120701334458496_122121120423301053",
+      "source_url": "https://www.newsshooter.com/2026/08/04/engin-box-a-global-platform-for-cinema-photo-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=engin-box-a-global-platform-for-cinema-photo-engineers",
+      "source": "Newsshooter"
     }
   ]
 }
