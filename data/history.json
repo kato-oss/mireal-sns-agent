@@ -4443,6 +4443,24 @@
       "fb_post_id": "1120701334458496_122121026685301053",
       "source_url": "https://www.cined.com/laowa-aksen-ultra-macro-lens-series-released-1-5x-and-5-10x-magnification-parfocal-zoom-optional-coaxial-light/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-08-04T00:13:40Z",
+      "date": "2026-08-04",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画制作で2週間待たされる本当の理由」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で2週間\n待たされる理由",
+      "caption_preview": "「動画作りたいんですが、納期どれくらいですか?」\n「そうですね、2〜3週間ほど…」\n\nこのやり取り、動画発注あるあるです。\nでも、なぜそんなに時間がかかるのか、理由をご存知でしょうか。\n\n私たちが現場で見てきた「2週間待たされる本当の理由」は、この5つです。\n\n1. 企画会議に1週間\n担当者の予定を合わせるだけで数日消える。会議のための会議まで発生することも。\n\n2. 撮影日調整に数日\nカメラマン",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-04.jpg",
+      "bgs_used": [
+        "bg-037.jpg"
+      ],
+      "ig_media_id": "18112456303962724",
+      "fb_post_id": "1120701334458496_122121074943301053"
     }
   ]
 }
