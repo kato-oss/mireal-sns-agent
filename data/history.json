@@ -4519,6 +4519,26 @@
       ],
       "ig_media_id": "18078206423700647",
       "fb_post_id": "1120701334458496_122121203241301053"
+    },
+    {
+      "timestamp": "2026-08-05T04:15:25Z",
+      "date": "2026-08-05",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Light Lens Lab Unveils 35mm f/2 Apochromatic, Its First ‘Hig",
+      "template": "T_softbg",
+      "heading_image": "LLL初の高性能\nアポクロマート35mm",
+      "caption_preview": "【最新映像機材ニュース】\n\nオールドレンズの復刻で知られる中国のLight Lens Lab (LLL) が、新たに「35mm f/2 Apochromatic」を発表。同社が新設した「High-Performance Optical Research Project」の第1弾であり、新シリーズ『High Performance Series』の第1号レンズとなります。\n\n■ 注目ポイント\n・LL",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-05-131511.jpg"
+      ],
+      "ig_media_id": "18094317518304718",
+      "fb_post_id": "1120701334458496_122121219201301053",
+      "source_url": "https://petapixel.com/2026/08/04/light-lens-lab-unveils-35mm-f-2-apochromatic-its-first-high-performance-series-lens/",
+      "source": "PetaPixel"
     }
   ]
 }
