@@ -4501,6 +4501,24 @@
       "fb_post_id": "1120701334458496_122121120423301053",
       "source_url": "https://www.newsshooter.com/2026/08/04/engin-box-a-global-platform-for-cinema-photo-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=engin-box-a-global-platform-for-cinema-photo-engineers",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-05T00:11:12Z",
+      "date": "2026-08-05",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "C",
+      "format": "F3",
+      "theme": "「予算20万円なんだけど…」→ ONE DAYで完結",
+      "template": "T_overlay",
+      "heading_image": "予算20万円でも\n動画は作れる",
+      "caption_preview": "「動画は作りたい。でも予算は20万円しかない」\n\nそんな相談を、私たちは全国から毎月受けています。\n\n動画制作の相場は、企画から納品まで60〜80万円。\n中小企業にとっては、決して気軽に出せる金額ではありません。\n\n「大企業向けのサービスだよね」\n「見積もりを取ったら、想像の3倍だった」\n「結局、諦めてチラシに戻した」\n\nそんな声を、私たちはずっと聞いてきました。\n\nだから MIREAL は、ON",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-05.jpg",
+      "bgs_used": [
+        "bg-068.jpg"
+      ],
+      "ig_media_id": "18078206423700647",
+      "fb_post_id": "1120701334458496_122121203241301053"
     }
   ]
 }
