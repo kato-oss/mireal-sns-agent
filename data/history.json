@@ -4539,6 +4539,26 @@
       "fb_post_id": "1120701334458496_122121219201301053",
       "source_url": "https://petapixel.com/2026/08/04/light-lens-lab-unveils-35mm-f-2-apochromatic-its-first-high-performance-series-lens/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-08-05T08:23:35Z",
+      "date": "2026-08-05",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: DaVinci Resolve 21.0.4 update",
+      "template": "T_overlay",
+      "heading_image": "Resolve 21.0.4\n実用アップデート",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Designが編集ソフト DaVinci Resolve 21.0.4 アップデートをリリース。ワークフロー改善と新フォーマット対応が中心の実用的なアップデート内容です。\n\n■ 注目ポイント\n・異なるフォーマット間でのプロキシクリップ再リンクに対応 (例: ProRes プロキシからカメラオリジナルへ、コーデックが違ってもOK)\n・Sony FX3",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-05-172319.jpg"
+      ],
+      "ig_media_id": "18082109717677887",
+      "fb_post_id": "1120701334458496_122121238557301053",
+      "source_url": "https://www.newsshooter.com/2026/08/05/davinci-resolve-21-0-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-4-update",
+      "source": "Newsshooter"
     }
   ]
 }
