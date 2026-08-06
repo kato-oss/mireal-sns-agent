@@ -4605,6 +4605,26 @@
       ],
       "ig_media_id": "17966426862135195",
       "fb_post_id": "1120701334458496_122121326823301053"
+    },
+    {
+      "timestamp": "2026-08-06T04:16:56Z",
+      "date": "2026-08-06",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The $299 Viture Pro 2 are the company's lightest and most co",
+      "template": "T_overlay",
+      "heading_image": "Viture Pro 2\n$299で登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nVitureが新型スマートグラス「Viture Pro 2」を$299で発表。同社史上最軽量かつ最も快適な装着感を実現し、コンパクト版「Mobile Dock Mini」($99)も同時リリースされました。\n\n■ 注目ポイント\n・同社史上最軽量・最も快適な装着感を実現\n・Micro-OLEDディスプレイ搭載で高輝度・高コントラスト表示\n・$99の新Mobile Dock",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-06-131641.jpg"
+      ],
+      "ig_media_id": "18137741284532345",
+      "fb_post_id": "1120701334458496_122121345183301053",
+      "source_url": "https://www.engadget.com/2231156/virtue-pro-2-are-the-companys-lightest-and-most-comfortable-smartglasses-yet/",
+      "source": "Engadget"
     }
   ]
 }
