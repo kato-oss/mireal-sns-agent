@@ -4579,6 +4579,32 @@
       "fb_post_id": "1120701334458496_122121257667301053",
       "source_url": "https://petapixel.com/2026/08/05/astronaut-snaps-photo-of-super-typhoon-on-his-iphone/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-08-06T00:05:56Z",
+      "date": "2026-08-06",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「¥98,000に含まれるもの全部」",
+      "template": "T_campaign",
+      "heading_image": "動画制作は¥98,000に全部込み",
+      "caption_preview": "「動画って、見積もり出したら結局30万でした」\n\nそんな話、よく聞きます。\n\n最初の提示は安くても、\n・企画構成費\n・出張交通費\n・BGM使用料\n・ナレーション\n・修正対応費\n\nこれらが後から積み上がって、気づけば当初の2〜3倍。\n\nMIREAL の ONE DAY PROMOTION は、¥98,000(税別)に以下すべてを含みます。\n\n・事前ヒアリングと企画構成\n・撮影1日(機材・スタッフ込み",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-06.jpg",
+      "bgs_used": [
+        "bg-019.jpg",
+        "bg-008.jpg",
+        "bg-039.jpg",
+        "bg-028.jpg",
+        "bg-042.jpg",
+        "bg-070.jpg",
+        "bg-026.jpg",
+        "bg-095.jpg",
+        "bg-084.jpg"
+      ],
+      "ig_media_id": "17966426862135195",
+      "fb_post_id": "1120701334458496_122121326823301053"
     }
   ]
 }
