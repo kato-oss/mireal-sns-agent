@@ -4681,6 +4681,26 @@
       ],
       "ig_media_id": "18092038028086660",
       "fb_post_id": "1120701334458496_122121483273301053"
+    },
+    {
+      "timestamp": "2026-08-07T07:03:10Z",
+      "date": "2026-08-07",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Atomos StudioSonic Over-Ear Headphones on sale for $79 USD",
+      "template": "T_overlay",
+      "heading_image": "Atomos新ヘッドホン\n$79セール開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nAtomosのオーバーイヤー型モニターヘッドホン「StudioSonic」が$79 USDでセール中。通常価格から$120 OFFの大幅値引きとなっています。\n\n■ 注目ポイント\n・50mm大口径ドライバー搭載\n・10Hz〜40kHzのワイドな周波数特性\n・オーバーイヤー設計によるパッシブノイズアイソレーション\n\n■ なぜ注目すべきか\nモニターやレコーダーで知られるAt",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-07-160254.jpg"
+      ],
+      "ig_media_id": "18146742910521627",
+      "fb_post_id": "1120701334458496_122121487359301053",
+      "source_url": "https://www.newsshooter.com/2026/08/06/atomos-studiosonic-over-ear-headphones-on-sale-for-79-usd/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-studiosonic-over-ear-headphones-on-sale-for-79-usd",
+      "source": "Newsshooter"
     }
   ]
 }
