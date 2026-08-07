@@ -4625,6 +4625,24 @@
       "fb_post_id": "1120701334458496_122121345183301053",
       "source_url": "https://www.engadget.com/2231156/virtue-pro-2-are-the-companys-lightest-and-most-comfortable-smartglasses-yet/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-08-07T01:43:51Z",
+      "date": "2026-08-07",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「町の整骨院、Instagram用動画を作った話」",
+      "template": "T_overlay",
+      "heading_image": "町の整骨院が\n1日で動画を作った話",
+      "caption_preview": "「予約がSNSから来るようにしたい」\nそう相談してくれたのは、地元で20年続く整骨院の院長でした。\n\nこれまで折込チラシと口コミが中心。\nでも新規のお客様はどんどんスマホで探す時代。\nInstagramに動画を載せたいけれど、制作会社に見積もりを取ったら60万円。\n「そんな予算、うちにはない」と諦めかけていたそうです。\n\nそこでMIREALの ONE DAY PROMOTION。\n¥98,000(",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-07.jpg",
+      "bgs_used": [
+        "bg-088.jpg"
+      ],
+      "ig_media_id": "18122592325832563",
+      "fb_post_id": "1120701334458496_122121466851301053"
     }
   ]
 }
