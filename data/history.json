@@ -4701,6 +4701,26 @@
       "fb_post_id": "1120701334458496_122121487359301053",
       "source_url": "https://www.newsshooter.com/2026/08/06/atomos-studiosonic-over-ear-headphones-on-sale-for-79-usd/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-studiosonic-over-ear-headphones-on-sale-for-79-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-07T10:48:46Z",
+      "date": "2026-08-07",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Atlas Mercury Anamorphic Lens Price Drop – New Lower Pricing",
+      "template": "T_overlay",
+      "heading_image": "Atlas Mercury\n大幅値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\nAtlas Lens Co. がフルフレーム対応 1.5x アナモルフィックプライム「Mercury シリーズ」の常時価格を大幅値下げ。全9本のラインナップで1本あたり最大 $3,996 のプライスダウンとなりました。\n\n■ 注目ポイント\n・36/42/54/72/95/138mm: $7,995 → $4,499\n・広角の24/27/32mm: $9,995 → $5",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-07-194828.jpg"
+      ],
+      "ig_media_id": "18099854333245270",
+      "fb_post_id": "1120701334458496_122121510945301053",
+      "source_url": "https://www.cined.com/atlas-mercury-anamorphic-lens-price-drop-new-lower-pricing-across-all-nine-focal-lengths/",
+      "source": "CineD"
     }
   ]
 }
