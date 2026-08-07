@@ -4643,6 +4643,26 @@
       ],
       "ig_media_id": "18122592325832563",
       "fb_post_id": "1120701334458496_122121466851301053"
+    },
+    {
+      "timestamp": "2026-08-07T03:53:44Z",
+      "date": "2026-08-07",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: STEADICAM Elite",
+      "template": "T_overlay",
+      "heading_image": "STEADICAM Elite\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiffen傘下のSTEADICAMから、中型クラスの新型スタビライザー「STEADICAM Elite」が発表されました。フルサイズリグまでは不要だが、本格的な運用を求めるオペレーター向けの一台です。\n\n■ 注目ポイント\n・最大30lb / 14kgのペイロード容量\n・剛性の高いユニボディ・トップステージ設計\n・3軸のVoltジンバルによる電子スタビライズを統合\n\n■",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-07-125328.jpg"
+      ],
+      "ig_media_id": "17973413133104060",
+      "fb_post_id": "1120701334458496_122121475653301053",
+      "source_url": "https://www.newsshooter.com/2026/08/06/steadicam-elite/?utm_source=rss&utm_medium=rss&utm_campaign=steadicam-elite",
+      "source": "Newsshooter"
     }
   ]
 }
