@@ -4721,6 +4721,26 @@
       "fb_post_id": "1120701334458496_122121510945301053",
       "source_url": "https://www.cined.com/atlas-mercury-anamorphic-lens-price-drop-new-lower-pricing-across-all-nine-focal-lengths/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-08-08T10:27:58Z",
+      "date": "2026-08-08",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Desview T5 11″ Foldable Smartphone Teleprompter",
+      "template": "T_overlay",
+      "heading_image": "Desview T5\n11インチで登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nDesviewが11インチのデュアルスクリーン式スマホ用テレプロンプター「T5」を発表。折りたたみ可能な軽量設計で、横撮り・縦撮り双方に対応する汎用性の高いモデル。\n\n■ 注目ポイント\n・11インチ大型ビームスプリッター搭載、最大約4m(13.1ft)先からも文字が読み取れると謳う視認性\n・折りたたみ式でコンパクトに収納でき、持ち運びやすい軽量ボディ\n・スナップオン式の",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-08-192741.jpg"
+      ],
+      "ig_media_id": "17916051039429430",
+      "fb_post_id": "1120701334458496_122121628137301053",
+      "source_url": "https://www.newsshooter.com/2026/08/07/desview-t5-11-foldable-smartphone-teleprompter/?utm_source=rss&utm_medium=rss&utm_campaign=desview-t5-11-foldable-smartphone-teleprompter",
+      "source": "Newsshooter"
     }
   ]
 }
