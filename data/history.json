@@ -4761,6 +4761,26 @@
       "fb_post_id": "1120701334458496_122121718059301053",
       "source_url": "https://www.newsshooter.com/2026/08/08/ifootage-shark-slider-nano-ii-860-24-9/?utm_source=rss&utm_medium=rss&utm_campaign=ifootage-shark-slider-nano-ii-860-24-9",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-09T06:42:33Z",
+      "date": "2026-08-09",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nanuk 910 Hard Case with Foam (Yellow) on sale for $39.95 US",
+      "template": "T_overlay",
+      "heading_image": "Nanuk 910\nセール開催中",
+      "caption_preview": "【最新映像機材ニュース】\n\nカナダ発の頑丈系ハードケースブランド Nanuk の小型モデル「910 Hard Case with Foam (Yellow)」が$39.95で販売中。通常価格から$45オフのセール。\n\n■ 注目ポイント\n・耐衝撃/防塵/防水(IP67)対応の軽量NK-7ポリプロピレン樹脂ボディ\n・カスタム可能なプリカットフォーム(プラックフォーム)標準付属で機材に合わせて成形可能\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-09-154219.jpg"
+      ],
+      "ig_media_id": "18152015230506485",
+      "fb_post_id": "1120701334458496_122121729873301053",
+      "source_url": "https://www.newsshooter.com/2026/08/08/nanuk-910-hard-case-with-foam-yellow-on-sale-for-39-95-usd/?utm_source=rss&utm_medium=rss&utm_campaign=nanuk-910-hard-case-with-foam-yellow-on-sale-for-39-95-usd",
+      "source": "Newsshooter"
     }
   ]
 }
