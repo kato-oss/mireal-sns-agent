@@ -4741,6 +4741,26 @@
       "fb_post_id": "1120701334458496_122121628137301053",
       "source_url": "https://www.newsshooter.com/2026/08/07/desview-t5-11-foldable-smartphone-teleprompter/?utm_source=rss&utm_medium=rss&utm_campaign=desview-t5-11-foldable-smartphone-teleprompter",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-09T03:04:32Z",
+      "date": "2026-08-09",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: iFootage Shark Slider Nano II 860 (24.9″)",
+      "template": "T_overlay",
+      "heading_image": "iFootage新作\nスライダー発表",
+      "caption_preview": "【最新映像機材ニュース】\n\niFootageが電動スライダー「Shark Slider Nano II 860」を発表。既存のShark Slider Nano IIをやや延長したロングバージョンで、24.9インチ(約63cm)の有効可動域を持つコンパクトモデル。\n\n■ 注目ポイント\n・24.9インチ(約63cm)の使用可能トラック長\n・AI技術による多軸コーディネーション対応(ジンバル等との連携",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-09-120417.jpg"
+      ],
+      "ig_media_id": "18085367243205088",
+      "fb_post_id": "1120701334458496_122121718059301053",
+      "source_url": "https://www.newsshooter.com/2026/08/08/ifootage-shark-slider-nano-ii-860-24-9/?utm_source=rss&utm_medium=rss&utm_campaign=ifootage-shark-slider-nano-ii-860-24-9",
+      "source": "Newsshooter"
     }
   ]
 }
