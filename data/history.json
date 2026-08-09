@@ -4781,6 +4781,26 @@
       "fb_post_id": "1120701334458496_122121729873301053",
       "source_url": "https://www.newsshooter.com/2026/08/08/nanuk-910-hard-case-with-foam-yellow-on-sale-for-39-95-usd/?utm_source=rss&utm_medium=rss&utm_campaign=nanuk-910-hard-case-with-foam-yellow-on-sale-for-39-95-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-09T10:29:35Z",
+      "date": "2026-08-09",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: RED DIGITAL CINEMA REDVOLT NANO-V 49Wh Battery for KOMODO-X ",
+      "template": "T_overlay",
+      "heading_image": "KOMODO-X用\n新型バッテリー登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nRED DIGITAL CINEMAの「REDVOLT NANO-V」49Wh V-MountバッテリーがKOMODO-X向けに$125 USDでセール中。通常価格から$150 USDオフの大幅値下げです。\n\n■ 注目ポイント\n・KOMODO-X 6KとRED Touch 7.0インチLCD対応の専用電源\n・49Whの容量をコンパクト・軽量ボディに凝縮\n・V-Mount",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-09-192920.jpg"
+      ],
+      "ig_media_id": "17900999835516440",
+      "fb_post_id": "1120701334458496_122121749127301053",
+      "source_url": "https://www.newsshooter.com/2026/08/08/red-digital-cinema-redvolt-nano-v-49wh-battery-for-komodo-x-v-mount-on-sale-for-125-usd/?utm_source=rss&utm_medium=rss&utm_campaign=red-digital-cinema-redvolt-nano-v-49wh-battery-for-komodo-x-v-mount-on-sale-for-125-usd",
+      "source": "Newsshooter"
     }
   ]
 }
