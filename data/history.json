@@ -4819,6 +4819,26 @@
       ],
       "ig_media_id": "17979914661114440",
       "fb_post_id": "1120701334458496_122121802857301053"
+    },
+    {
+      "timestamp": "2026-08-10T03:13:48Z",
+      "date": "2026-08-10",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig CT-22 Portable Carbon Fiber Tripod System for Mirro",
+      "template": "T_overlay",
+      "heading_image": "SmallRig CT-22\n軽量カーボン三脚",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigからミラーレス・アクションカム向けの軽量カーボンファイバー三脚システム「CT-22」が登場。1.14kgの軽量ボディながら4.99kgの積載に対応し、ロケや旅撮影に使える機動性の高い一台です。\n\n■ 注目ポイント\n・重量2.51 lb（1.14kg）の軽量設計\n・耐荷重11 lb（4.99kg）でミラーレスクラスに余裕対応\n・4段カーボンファイバーレッグ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-10-121331.jpg"
+      ],
+      "ig_media_id": "18100931777248855",
+      "fb_post_id": "1120701334458496_122121814965301053",
+      "source_url": "https://www.newsshooter.com/2026/08/09/smallrig-ct-22-portable-carbon-fiber-tripod-system-for-mirrorless-action-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-ct-22-portable-carbon-fiber-tripod-system-for-mirrorless-action-cameras",
+      "source": "Newsshooter"
     }
   ]
 }
