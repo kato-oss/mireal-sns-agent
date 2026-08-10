@@ -4859,6 +4859,26 @@
       "fb_post_id": "1120701334458496_122121830973301053",
       "source_url": "https://www.newsshooter.com/2026/08/09/save-up-to-120-usd-on-tiffen-variable-nd-filters/?utm_source=rss&utm_medium=rss&utm_campaign=save-up-to-120-usd-on-tiffen-variable-nd-filters",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-10T11:04:23Z",
+      "date": "2026-08-10",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Review: The Saramonic K9 Wireless Mic System",
+      "template": "T_overlay",
+      "heading_image": "Saramonic K9\nプロが選んだ理由",
+      "caption_preview": "【最新映像機材ニュース】\n\nProVideoCoalitionが、Saramonicの新型ワイヤレスマイクシステム「K9」の実機レビューを公開。ShureやSennheiserを長年使ってきたベテランが「理想のワイヤレスを追い求める旅の答え」と評した注目の1台です。\n\n■ 注目ポイント\n・2ch同時収録対応のトランスミッター&レシーバー構成\n・32bit float録音による録音レベル調整不要の余",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-10-200408.jpg"
+      ],
+      "ig_media_id": "17964965961137719",
+      "fb_post_id": "1120701334458496_122121847755301053",
+      "source_url": "https://www.provideocoalition.com/review-the-saramonic-k9-wireless-mic-system/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
