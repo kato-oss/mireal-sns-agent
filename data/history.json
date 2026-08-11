@@ -4905,6 +4905,26 @@
       ],
       "ig_media_id": "18554584117074741",
       "fb_post_id": "1120701334458496_122121903927301053"
+    },
+    {
+      "timestamp": "2026-08-11T03:06:52Z",
+      "date": "2026-08-11",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: YA-INTA Quick Dock–  a lightweight, low-profile, & rigid doc",
+      "template": "T_overlay",
+      "heading_image": "YA-INTA Quick Dock\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nYA-INTAが、Steadicamオペレーター向けの新しいドッキングソリューション「Quick Dock」を発表。従来のフルサイズドッキングブラケットの嵩張りを排除し、軽量・低背・高剛性を実現した設計です。\n\n■ 注目ポイント\n・軽量かつロープロファイル設計で、機材の取り回しがスマート\n・剛性を確保しつつ、確実にドッキング可能\n・ライブイベント、コンパクトなカメラカー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-11-120634.jpg"
+      ],
+      "ig_media_id": "18145124278553358",
+      "fb_post_id": "1120701334458496_122121921027301053",
+      "source_url": "https://www.newsshooter.com/2026/08/10/ya-inta-quick-dock-a-lightweight-low-profile-rigid-docking-solution-for-steadicam-operators/?utm_source=rss&utm_medium=rss&utm_campaign=ya-inta-quick-dock-a-lightweight-low-profile-rigid-docking-solution-for-steadicam-operators",
+      "source": "Newsshooter"
     }
   ]
 }
