@@ -4965,6 +4965,24 @@
       "fb_post_id": "1120701334458496_122121950907301053",
       "source_url": "https://www.cined.com/openmoon-crew-gear-box-camera-assistant-bags-launched-on-kickstarter/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-08-11T23:51:29Z",
+      "date": "2026-08-12",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「採用動画、応募率が変わった話」",
+      "template": "T_overlay",
+      "heading_image": "応募数が\n3倍に増えた話",
+      "caption_preview": "「求人サイトに載せても、応募が来ない」\n\n地方の建設会社さん(社員20名)から、そんな相談をいただいた想定ケースです。\n\n募集要項は整っている。\n給与も相場並み。\nでも、応募がほぼゼロ。\n\n理由はシンプルでした。\n求職者から見て、「そこで働く自分」がイメージできない。\n\n\n私たちがONE DAY PROMOTIONで提案したのは、60秒の採用動画1本。\n\n・朝礼の様子\n・現場での先輩社員の一言\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-11.jpg",
+      "bgs_used": [
+        "bg-070.jpg"
+      ],
+      "ig_media_id": "17955035907204671",
+      "fb_post_id": "1120701334458496_122122013877301053"
     }
   ]
 }
