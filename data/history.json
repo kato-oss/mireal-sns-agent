@@ -4945,6 +4945,26 @@
       "fb_post_id": "1120701334458496_122121935139301053",
       "source_url": "https://www.newsshooter.com/2026/08/10/angler-boombox-octagonal-softbox-with-bowens-mount-v2-48-on-sale-for-74-usd/?utm_source=rss&utm_medium=rss&utm_campaign=angler-boombox-octagonal-softbox-with-bowens-mount-v2-48-on-sale-for-74-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-11T10:47:12Z",
+      "date": "2026-08-11",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: OPENMOON Crew Gear Box Camera Assistant Bags Launched on Kic",
+      "template": "T_overlay",
+      "heading_image": "OPENMOONが\nカメアシ用ギア発表",
+      "caption_preview": "【最新映像機材ニュース】\n\n中国の映像機材メーカー OPENMOON が、カメラアシスタント向けの新シリーズ「Crew Gear Box」をKickstarterで発表。量産化に向けたクラウドファンディングが終盤を迎えており、早割価格での支援が可能です。\n\n■ 注目ポイント\n・撮影現場のカメアシ業務に特化したギアボックス設計\n・スレート、フィルタータグ、モニターフード、ワーキングベルト等を製造して",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-11-194655.jpg"
+      ],
+      "ig_media_id": "18087524681170887",
+      "fb_post_id": "1120701334458496_122121950907301053",
+      "source_url": "https://www.cined.com/openmoon-crew-gear-box-camera-assistant-bags-launched-on-kickstarter/",
+      "source": "CineD"
     }
   ]
 }
