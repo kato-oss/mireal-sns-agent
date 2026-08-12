@@ -5003,6 +5003,26 @@
       "fb_post_id": "1120701334458496_122122027533301053",
       "source_url": "https://www.newsshooter.com/2026/08/11/desview-a5-pro-5-5-full-hd-hdmi-touchscreen-monitor/?utm_source=rss&utm_medium=rss&utm_campaign=desview-a5-pro-5-5-full-hd-hdmi-touchscreen-monitor",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-12T07:13:48Z",
+      "date": "2026-08-12",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sonos Ace Ultra over-ear headphones show up in FCC filing",
+      "template": "T_overlay",
+      "heading_image": "Sonos Ace Ultra\nFCC登録で浮上",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonosの新型ヘッドホン「Ace Ultra」と思われる製品がFCC (米連邦通信委員会) に登録されたとの情報。9月開催予定のイベントで発表される可能性が浮上しています。※現時点で公式発表はなく、リーク段階の情報です。\n\n■ 注目ポイント\n・既存モデル「Sonos Ace」(2024年発売) の上位版と目される\n・FCC登録により、近い時期のリリースが示唆される\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-12-161329.jpg"
+      ],
+      "ig_media_id": "18221198017329667",
+      "fb_post_id": "1120701334458496_122122042701301053",
+      "source_url": "https://www.engadget.com/2235171/sonos-ace-ultra-over-ear-headphones-fcc-filing/",
+      "source": "Engadget"
     }
   ]
 }
