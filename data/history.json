@@ -5023,6 +5023,26 @@
       "fb_post_id": "1120701334458496_122122042701301053",
       "source_url": "https://www.engadget.com/2235171/sonos-ace-ultra-over-ear-headphones-fcc-filing/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-08-12T10:58:04Z",
+      "date": "2026-08-12",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Influential San Francisco Photography Gallery to Close After",
+      "template": "T_softbg",
+      "heading_image": "SFカメラワーク\n52年で閉館",
+      "caption_preview": "【最新映像機材ニュース】\n\nサンフランシスコの老舗写真ギャラリー「SF Camerawork」が、52年の歴史に幕を下ろすことが発表されました。Sally Mann や Robert Mapplethorpe など、後に写真史に名を刻む作家たちの作品を早い段階で紹介してきた、写真表現の重要拠点のひとつです。\n\n■ 注目ポイント\n・1974年設立、非営利の写真ギャラリーとして52年間運営\n・Sall",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-12-195744.jpg"
+      ],
+      "ig_media_id": "18104866822891728",
+      "fb_post_id": "1120701334458496_122122060011301053",
+      "source_url": "https://petapixel.com/2026/08/12/influential-san-francisco-photography-gallery-to-close-after-52-years/",
+      "source": "PetaPixel"
     }
   ]
 }
