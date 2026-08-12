@@ -4983,6 +4983,26 @@
       ],
       "ig_media_id": "17955035907204671",
       "fb_post_id": "1120701334458496_122122013877301053"
+    },
+    {
+      "timestamp": "2026-08-12T03:25:59Z",
+      "date": "2026-08-12",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Desview A5 Pro 5.5″ Full HD HDMI Touchscreen Monitor",
+      "template": "T_overlay",
+      "heading_image": "Desview A5 Pro\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nDesviewから新型オンカメラモニター「A5 Pro」が登場。5.5インチ フルHD(1920×1080)のタッチスクリーンを搭載し、HDMI入出力に対応したコンパクトモデル。\n\n■ 注目ポイント\n・5.5インチ フルHD IPSパネルでピクセル密度が高く、フォーカス確認に有利\n・タッチ操作対応でメニュー/波形/ピーキング等の切替が直感的\n・HDMI入出力搭載でスルー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-12-122544.jpg"
+      ],
+      "ig_media_id": "18109217048276903",
+      "fb_post_id": "1120701334458496_122122027533301053",
+      "source_url": "https://www.newsshooter.com/2026/08/11/desview-a5-pro-5-5-full-hd-hdmi-touchscreen-monitor/?utm_source=rss&utm_medium=rss&utm_campaign=desview-a5-pro-5-5-full-hd-hdmi-touchscreen-monitor",
+      "source": "Newsshooter"
     }
   ]
 }
