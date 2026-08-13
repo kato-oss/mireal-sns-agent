@@ -5059,6 +5059,26 @@
       "bgs_used": [],
       "ig_media_id": "18116509930723981",
       "fb_post_id": "1120701334458496_122122144161301053"
+    },
+    {
+      "timestamp": "2026-08-13T03:29:10Z",
+      "date": "2026-08-13",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Lectrosonics S1 Supercardioid Shotgun Mic",
+      "template": "T_overlay",
+      "heading_image": "Lectrosonics S1\nショットガン登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nワイヤレスマイクの名門Lectrosonicsから、初のショットガンマイク「S1」が予約開始。価格は$1,490 USD、出荷は2026年12月2日から。NAB 2026で初披露されたモデルで、映画・TVのロケ収録やスタジオ、スポーツ中継、報道など、ハイエンドな音声収録用途に設計されています。\n\n■ 注目ポイント\n・スーパーカーディオイド指向性で正面の音を的確に捉える\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-13-122856.jpg"
+      ],
+      "ig_media_id": "18089908103655178",
+      "fb_post_id": "1120701334458496_122122157007301053",
+      "source_url": "https://www.newsshooter.com/2026/08/12/lectrosonics-s1-supercardioid-shotgun-mic/?utm_source=rss&utm_medium=rss&utm_campaign=lectrosonics-s1-supercardioid-shotgun-mic",
+      "source": "Newsshooter"
     }
   ]
 }
