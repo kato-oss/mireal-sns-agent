@@ -5079,6 +5079,26 @@
       "fb_post_id": "1120701334458496_122122157007301053",
       "source_url": "https://www.newsshooter.com/2026/08/12/lectrosonics-s1-supercardioid-shotgun-mic/?utm_source=rss&utm_medium=rss&utm_campaign=lectrosonics-s1-supercardioid-shotgun-mic",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-13T07:15:56Z",
+      "date": "2026-08-13",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $140 USD on Core SWX NANO X V150 Micro 150Wh Li-Ion Bat",
+      "template": "T_overlay",
+      "heading_image": "NANO X V150\n$140オフで$255",
+      "caption_preview": "【最新映像機材ニュース】\n\nCore SWX の超小型バッテリー「NANO X V150 Micro 150Wh Li-Ion」が$140 OFFのセール中。VマウントとAB Gold Mountの両モデルが$255 USDで購入可能に。\n\n■ 注目ポイント\n・14.8V出力／150Wh容量のコンパクト設計\n・連続10Aドロー対応でシネマカメラの給電に十分\n・軽量・超小型ボディでジンバル/ハンドヘ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-13-161538.jpg"
+      ],
+      "ig_media_id": "18173082454428049",
+      "fb_post_id": "1120701334458496_122122173531301053",
+      "source_url": "https://www.newsshooter.com/2026/08/12/save-140-usd-on-core-swx-nano-x-v150-micro-150wh-li-ion-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=save-140-usd-on-core-swx-nano-x-v150-micro-150wh-li-ion-batteries",
+      "source": "Newsshooter"
     }
   ]
 }
