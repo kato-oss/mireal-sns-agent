@@ -5099,6 +5099,26 @@
       "fb_post_id": "1120701334458496_122122173531301053",
       "source_url": "https://www.newsshooter.com/2026/08/12/save-140-usd-on-core-swx-nano-x-v150-micro-150wh-li-ion-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=save-140-usd-on-core-swx-nano-x-v150-micro-150wh-li-ion-batteries",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-13T10:58:42Z",
+      "date": "2026-08-13",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Meta is giving away 15,000 AI glasses to blind and visually ",
+      "template": "T_overlay",
+      "heading_image": "Ray-Ban Meta\n1.5万台寄贈",
+      "caption_preview": "【最新映像機材ニュース】\n\nMetaが、視覚障害者を支援するアイルランドの慈善団体「Vision Ireland」にRay-Ban Meta スマートグラス15,000台を寄贈することを発表。AIグラスがアクセシビリティ用途で本格活用される事例となる。\n\n■ 注目ポイント\n・Ray-Ban Meta スマートグラス15,000台を無償提供\n・内蔵カメラとAIによる周囲の情景説明・テキスト読み上げが",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-13-195824.jpg"
+      ],
+      "ig_media_id": "18021647783906227",
+      "fb_post_id": "1120701334458496_122122195311301053",
+      "source_url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
+      "source": "Engadget"
     }
   ]
 }
