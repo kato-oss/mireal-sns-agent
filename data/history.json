@@ -5119,6 +5119,32 @@
       "fb_post_id": "1120701334458496_122122195311301053",
       "source_url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-08-13T23:51:04Z",
+      "date": "2026-08-14",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "E",
+      "format": "F2",
+      "theme": "「47都道府県、全国対応」",
+      "template": "T_campaign",
+      "heading_image": "北海道から沖縄まで47都道府県",
+      "caption_preview": "「東京の会社でしょ?うちの地方まで来てくれるの?」\n\nよくいただくご質問です。\n答えは、全国47都道府県、どこへでも伺います。\n\nMIREALのONE DAY PROMOTIONは、出張撮影費を含めて¥98,000(税別)。\n交通費や宿泊費で見積もりが膨らむ、という心配は不要です。料金は最初から透明に。追加請求はありません。\n\n地方の中小企業こそ、動画で伝えられる価値がたくさんあります。\n\n・地元",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-13.jpg",
+      "bgs_used": [
+        "bg-088.jpg",
+        "bg-049.jpg",
+        "bg-013.jpg",
+        "bg-054.jpg",
+        "bg-084.jpg",
+        "bg-073.jpg",
+        "bg-079.jpg",
+        "bg-063.jpg",
+        "bg-069.jpg"
+      ],
+      "ig_media_id": "17899363158354988",
+      "fb_post_id": "1120701334458496_122122312137301053"
     }
   ]
 }
