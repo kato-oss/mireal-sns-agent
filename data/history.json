@@ -5203,6 +5203,26 @@
       "fb_post_id": "1120701334458496_122122341447301053",
       "source_url": "https://www.dpreview.com/news/new-25-tariffs-on-foreign-drones-make-a-bad-situation-worse-for-us-buyers/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-08-14T10:55:44Z",
+      "date": "2026-08-14",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Artlist Sold a Year of Unlimited Seedance 2.5 for $500 and D",
+      "template": "T_overlay",
+      "heading_image": "AI動画サブスク\n炎上騒動",
+      "caption_preview": "【最新映像機材ニュース】\n\nArtlistがAI Creator年間サブスク（約500ドル）で「ByteDance製Seedance 2.5の無制限生成」を売り出したものの、わずか数日で全プランからUnlimited対象を外し、購入者には支払額のごく一部に相当するクレジット配布に切り替えた。\n\n■ 注目ポイント\n・年500ドルでSeedance 2.5無制限を謳って販売\n・競合の「1週間トライアル",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-14-195525.jpg"
+      ],
+      "ig_media_id": "17956019222995196",
+      "fb_post_id": "1120701334458496_122122428567301053",
+      "source_url": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+      "source": "CineD"
     }
   ]
 }
