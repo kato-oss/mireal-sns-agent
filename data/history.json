@@ -5183,6 +5183,26 @@
       ],
       "ig_media_id": "18123480217884142",
       "fb_post_id": "1120701334458496_122122336527301053"
+    },
+    {
+      "timestamp": "2026-08-14T07:14:02Z",
+      "date": "2026-08-14",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: New 25% tariffs on foreign drones make a bad situation worse",
+      "template": "T_overlay",
+      "heading_image": "米国ドローン\n新関税25%",
+      "caption_preview": "【最新映像機材ニュース】\n\n米国が海外製ドローンに対して新たに25%の関税を課すことが判明。DJIをはじめとする海外メーカーの新モデルは既に事実上輸入禁止状態にあったが、市場に残る既存機体もさらに高額化する見通し。\n\n■ 注目ポイント\n・海外製ドローンに追加25%の関税\n・DJIなど新型機は既に米国流通が制限されていた状況\n・在庫として残る既存モデルも価格上昇へ\n・米国クリエイターの機材調達コスト",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-14-161344.jpg"
+      ],
+      "ig_media_id": "18110962900811000",
+      "fb_post_id": "1120701334458496_122122341447301053",
+      "source_url": "https://www.dpreview.com/news/new-25-tariffs-on-foreign-drones-make-a-bad-situation-worse-for-us-buyers/",
+      "source": "DPReview"
     }
   ]
 }
