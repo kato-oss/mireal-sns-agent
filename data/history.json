@@ -5145,6 +5145,26 @@
       ],
       "ig_media_id": "17899363158354988",
       "fb_post_id": "1120701334458496_122122312137301053"
+    },
+    {
+      "timestamp": "2026-08-14T03:26:19Z",
+      "date": "2026-08-14",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: amaran Mic wireless desktop microphone",
+      "template": "T_overlay",
+      "heading_image": "$99の卓上\nワイヤレスマイク",
+      "caption_preview": "【最新映像機材ニュース】\n\nAputureの照明ブランドamaranから、$99の卓上ワイヤレスマイク「amaran Mic」が登場。ライブ配信・ポッドキャスト・デスクワーク型コンテンツ制作をターゲットにした新機軸のUSBマイクです。\n\n■ 注目ポイント\n・USB-Cケーブル直挿しでの有線接続と、ペアリング済みUSB-Cレシーバーによるワイヤレス接続を両対応\n・デスクトップ用途に最適化された設計で",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-14-122606.jpg"
+      ],
+      "ig_media_id": "18196679050327678",
+      "fb_post_id": "1120701334458496_122122325001301053",
+      "source_url": "https://www.newsshooter.com/2026/08/13/amaran-mic-wireless-desktop-microphone/?utm_source=rss&utm_medium=rss&utm_campaign=amaran-mic-wireless-desktop-microphone",
+      "source": "Newsshooter"
     }
   ]
 }
