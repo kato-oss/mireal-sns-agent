@@ -5241,6 +5241,26 @@
       ],
       "ig_media_id": "17946273585051220",
       "fb_post_id": "1120701334458496_122122483785301053"
+    },
+    {
+      "timestamp": "2026-08-15T02:15:31Z",
+      "date": "2026-08-15",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Bright Tangerine Unity Drop-In Lock",
+      "template": "T_overlay",
+      "heading_image": "リグのどこでも\nクイックリリース化",
+      "caption_preview": "【最新映像機材ニュース】\n\nBright Tangerineが新しいクイックリリース機構「Unity Drop-In Lock」を発表。リグ上の任意の位置にコンパクトな脱着システムを追加できる新設計で、モニター/送信機/チーズプレート等の着脱を効率化する。\n\n■ 注目ポイント\n・標準NATOレールとしてスライド装着、または上から「ドロップイン」で装着の2wayに対応\n・モニター、ワイヤレス送信機、",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-15-111515.jpg"
+      ],
+      "ig_media_id": "17973578339914462",
+      "fb_post_id": "1120701334458496_122122491753301053",
+      "source_url": "https://www.newsshooter.com/2026/08/14/bright-tangerine-unity-drop-in-lock/?utm_source=rss&utm_medium=rss&utm_campaign=bright-tangerine-unity-drop-in-lock",
+      "source": "Newsshooter"
     }
   ]
 }
