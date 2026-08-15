@@ -5281,6 +5281,26 @@
       "fb_post_id": "1120701334458496_122122508607301053",
       "source_url": "https://www.newsshooter.com/2026/08/14/zinecontrol-android-version-1-1-0-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-android-version-1-1-0-now-available",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-15T10:18:19Z",
+      "date": "2026-08-15",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Stripe is reportedly in talks to buy PayPal",
+      "template": "T_softbg",
+      "heading_image": "Stripeが\nPayPal買収交渉",
+      "caption_preview": "【最新業界ニュース】\n\nWall Street Journalの報道によると、決済プラットフォーム大手Stripeが、プライベートエクイティ企業Adventと共にPayPalの買収交渉を進めているとのこと。以前にも一度オファーを出したがPayPalが応じず、現在は新たな価格で再交渉中と報じられています。\n\n■ 注目ポイント\n・Stripe + Advent 連合による大型買収案\n・過去のオファーは",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-15-191801.jpg"
+      ],
+      "ig_media_id": "18098742884201107",
+      "fb_post_id": "1120701334458496_122122548399301053",
+      "source_url": "https://www.engadget.com/2237637/stripe-reportedly-to-buy-paypal/",
+      "source": "Engadget"
     }
   ]
 }
