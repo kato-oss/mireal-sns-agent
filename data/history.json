@@ -5341,6 +5341,26 @@
       "fb_post_id": "1120701334458496_122122636731301053",
       "source_url": "https://www.newsshooter.com/2026/08/15/savage-muslin-background-chroma-key-green-5-x-7-on-sale-for-17-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=savage-muslin-background-chroma-key-green-5-x-7-on-sale-for-17-99-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-16T10:18:53Z",
+      "date": "2026-08-16",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $450 USD on the Lexar 2TB Professional GOLD CFexpress 4",
+      "template": "T_overlay",
+      "heading_image": "Lexar 2TB CFexpress\n$450 OFF セール",
+      "caption_preview": "【最新映像機材ニュース】\n\nLexar の 2TB Professional GOLD CFexpress 4.0 Type B メモリーカードが $599.99 USD に値下げ。通常価格から $450 OFF の大幅ディスカウントです。\n\n■ 注目ポイント\n・最大読込速度 3600 MB/s (公称値)\n・最大書込速度 3000 MB/s (公称値)\n・大容量 2TB で 8K RAW / P",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-16-191835.jpg"
+      ],
+      "ig_media_id": "18065254595742660",
+      "fb_post_id": "1120701334458496_122122653453301053",
+      "source_url": "https://www.newsshooter.com/2026/08/15/save-450-usd-on-the-lexar-2tb-professional-gold-cfexpress-4-0-type-b-memory-card/?utm_source=rss&utm_medium=rss&utm_campaign=save-450-usd-on-the-lexar-2tb-professional-gold-cfexpress-4-0-type-b-memory-card",
+      "source": "Newsshooter"
     }
   ]
 }
