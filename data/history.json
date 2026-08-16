@@ -5301,6 +5301,26 @@
       "fb_post_id": "1120701334458496_122122548399301053",
       "source_url": "https://www.engadget.com/2237637/stripe-reportedly-to-buy-paypal/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-08-16T02:23:05Z",
+      "date": "2026-08-16",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: What is a Bluetooth codec and which one offers the best audi",
+      "template": "T_listicle",
+      "heading_image": "Bluetoothの音質を\n決めるコーデック",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetがBluetoothコーデックの解説記事を公開。ワイヤレスイヤホン/ヘッドホンの音質を根本的に左右する「コーデック」について、種類ごとの特性と設定の見直しポイントを整理している。\n\n■ 注目ポイント\n・SBC：全機器対応の標準。ビットレート最大328kbpsで無難だが情報量は控えめ\n・AAC：Apple系で最適化。iPhoneユーザーの実質的デフォルト\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-16-112246.jpg"
+      ],
+      "ig_media_id": "18108505586118469",
+      "fb_post_id": "1120701334458496_122122615851301053",
+      "source_url": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
+      "source": "Engadget"
     }
   ]
 }
