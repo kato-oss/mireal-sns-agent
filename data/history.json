@@ -5361,6 +5361,24 @@
       "fb_post_id": "1120701334458496_122122653453301053",
       "source_url": "https://www.newsshooter.com/2026/08/15/save-450-usd-on-the-lexar-2tb-professional-gold-cfexpress-4-0-type-b-memory-card/?utm_source=rss&utm_medium=rss&utm_campaign=save-450-usd-on-the-lexar-2tb-professional-gold-cfexpress-4-0-type-b-memory-card",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-16T23:27:09Z",
+      "date": "2026-08-17",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画を作る前に決めるべき5つ」",
+      "template": "T_listicle",
+      "heading_image": "動画を作る前に\n決めるべきこと",
+      "caption_preview": "「動画を作りたい」\nそう思ったとき、まず何から手をつけますか。\n\n中小企業の現場でよくあるのが、機材や撮影日から考えてしまうケース。\nでも、順番が逆です。\n\n動画を作る前に決めるべきは、この5つ。\n\n1. 誰に見せる動画か\n新規顧客か、既存客か、採用候補者か。ターゲットが変わればトーンも長さも変わります。\n\n2. どこで流す動画か\nInstagram、YouTube、店頭サイネージ、営業資料。掲載",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-16.jpg",
+      "bgs_used": [
+        "bg-062.jpg"
+      ],
+      "ig_media_id": "18608221981024162",
+      "fb_post_id": "1120701334458496_122122762917301053"
     }
   ]
 }
