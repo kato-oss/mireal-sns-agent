@@ -5379,6 +5379,26 @@
       ],
       "ig_media_id": "18608221981024162",
       "fb_post_id": "1120701334458496_122122762917301053"
+    },
+    {
+      "timestamp": "2026-08-17T02:21:44Z",
+      "date": "2026-08-17",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: WaveXML– Auto-sync for cameras & audio",
+      "template": "T_overlay",
+      "heading_image": "映像と音声を\n自動で同期する新技術",
+      "caption_preview": "【最新映像機材ニュース】\n\nカメラ映像とZoom/Sound Devices等の外部レコーダー音声を自動で同期させる新アプリ「WaveXML」のベータ版が公開。同期済みプロジェクトをXMLで書き出し、そのままNLEで編集を続行できる。\n\n■ 注目ポイント\n・カメラ映像と外部録音トラックを自動でアライメント\n・複数カメラのフッテージも同期対応\n・XMLエクスポートでDaVinci Resolve/P",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-17-112122.jpg"
+      ],
+      "ig_media_id": "18162895786464687",
+      "fb_post_id": "1120701334458496_122122770693301053",
+      "source_url": "https://www.newsshooter.com/2026/08/16/wavexml-auto-sync-for-cameras-audio/?utm_source=rss&utm_medium=rss&utm_campaign=wavexml-auto-sync-for-cameras-audio",
+      "source": "Newsshooter"
     }
   ]
 }
