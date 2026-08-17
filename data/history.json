@@ -5399,6 +5399,26 @@
       "fb_post_id": "1120701334458496_122122770693301053",
       "source_url": "https://www.newsshooter.com/2026/08/16/wavexml-auto-sync-for-cameras-audio/?utm_source=rss&utm_medium=rss&utm_campaign=wavexml-auto-sync-for-cameras-audio",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-08-17T06:38:11Z",
+      "date": "2026-08-17",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $400 USD on the SmallRig MD5991 36″ Video Production Ca",
+      "template": "T_overlay",
+      "heading_image": "SmallRig新カート\n$400オフで登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigのプロ向けモバイルワークステーション「MD5991 36″ Video Production Camera Cart Lite」が$400オフの$899.99でセール中。撮影現場での頻繁な機材移動と迅速な展開を想定した、フィルムメーカー/コンテンツクリエイター向けのカメラカートです。\n\n■ 注目ポイント\n・36インチ幅のプロフェッショナルグレード設計\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-08-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-08-17-153755.jpg"
+      ],
+      "ig_media_id": "18080386103695631",
+      "fb_post_id": "1120701334458496_122122789155301053",
+      "source_url": "https://www.newsshooter.com/2026/08/16/save-400-usd-on-the-smallrig-md5991-36-video-production-camera-cart-lite/?utm_source=rss&utm_medium=rss&utm_campaign=save-400-usd-on-the-smallrig-md5991-36-video-production-camera-cart-lite",
+      "source": "Newsshooter"
     }
   ]
 }
