@@ -1,12 +1,12 @@
 # MIREAL SNS — Insights Summary
 
-_Last updated: 2026-09-09 UTC_
+_Last updated: 2026-09-10 UTC_
 
 ## Account
 
 | Platform | Followers | Reach (1d) | Profile views (1d) | Website clicks (1d) |
 |---|---|---|---|---|
-| **Instagram** @mireal_inc | 415 | 35 | 4 | 0 |
+| **Instagram** @mireal_inc | 415 | 32 | 3 | 0 |
 | **Facebook** MIREAL.Official | 2 | — | — | — |
 
 ## Recent Posts (last 30d)
@@ -34,15 +34,11 @@ _Last updated: 2026-09-09 UTC_
 | 2026-08-13 | D | T_tipcard | 24 | 1 | 0 | 0 | 0 |
 | 2026-08-13 | N | T_overlay | 5 | 1 | 0 | 0 | 0 |
 | 2026-08-13 | N | T_overlay | 12 | 1 | 0 | 0 | 0 |
-| 2026-08-13 | N | T_overlay | 15 | 2 | 0 | 0 | 0 |
+| 2026-08-13 | N | T_overlay | 16 | 2 | 0 | 0 | 0 |
 | 2026-08-12 | C | T_overlay | 10 | 1 | 0 | 0 | 0 |
 | 2026-08-12 | N | T_overlay | 7 | 1 | 0 | 0 | 0 |
 | 2026-08-12 | N | T_overlay | 5 | 1 | 0 | 0 | 0 |
 | 2026-08-12 | N | T_softbg | 12 | 1 | 0 | 0 | 0 |
-| 2026-08-11 | A | T_campaign | 22 | 2 | 0 | 0 | 0 |
-| 2026-08-11 | N | T_overlay | 13 | 2 | 0 | 0 | 0 |
-| 2026-08-11 | N | T_overlay | 7 | 2 | 0 | 0 | 0 |
-| 2026-08-11 | N | T_overlay | 11 | 3 | 0 | 0 | 0 |
 
 ### 🏆 Top 3 by reach
 
