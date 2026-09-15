@@ -1,12 +1,12 @@
 # MIREAL SNS — Insights Summary
 
-_Last updated: 2026-09-14 UTC_
+_Last updated: 2026-09-15 UTC_
 
 ## Account
 
 | Platform | Followers | Reach (1d) | Profile views (1d) | Website clicks (1d) |
 |---|---|---|---|---|
-| **Instagram** @mireal_inc | 413 | 38 | 3 | 1 |
+| **Instagram** @mireal_inc | 413 | 34 | 2 | 1 |
 | **Facebook** MIREAL.Official | 2 | — | — | — |
 
 ## Recent Posts (last 30d)
@@ -19,9 +19,6 @@ _Last updated: 2026-09-14 UTC_
 | 2026-08-17 | N | T_overlay | 10 | 2 | 0 | 0 | 0 |
 | 2026-08-17 | N | T_overlay | 16 | 2 | 0 | 0 | 0 |
 | 2026-08-17 | N | T_softbg | 8 | 2 | 0 | 0 | 0 |
-| 2026-08-16 | N | T_listicle | 6 | 2 | 0 | 0 | 0 |
-| 2026-08-16 | N | T_overlay | 5 | 2 | 0 | 0 | 0 |
-| 2026-08-16 | N | T_overlay | 7 | 1 | 0 | 0 | 0 |
 
 ### 🏆 Top 3 by reach
 
