@@ -5479,6 +5479,26 @@
       "fb_post_id": "1120701334458496_122123052603301053",
       "source_url": "https://www.newsshooter.com/2026/08/17/lg-50ul3j-m-50-uhd-4k-commercial-monitor-on-sale-for-329-99-usd/?utm_source=rss&utm_medium=rss&utm_campaign=lg-50ul3j-m-50-uhd-4k-commercial-monitor-on-sale-for-329-99-usd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-01T17:05:22Z",
+      "date": "2026-10-02",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony brings AI upscaling to the base PS5",
+      "template": "T_overlay",
+      "heading_image": "PS5にAI超解像\n技術が解禁",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyが通常版PS5に対してAIアップスケーリング技術「Quick Spectral Super Resolution (Quick SSR)」を提供開始。これまでPS5 Proのみの機能だったAI超解像が、ベースモデルにも展開される。\n\n■ 注目ポイント\n・PS5 Pro専用だった機械学習ベースの超解像をベースPS5に拡張\n・低解像度レンダリングからAIで高解像度画",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-02-020502.jpg"
+      ],
+      "ig_media_id": "18125956960881317",
+      "fb_post_id": "1120701334458496_122128477353301053",
+      "source_url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/",
+      "source": "Engadget"
     }
   ]
 }
