@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-01",
+  "ig": {
+    "username": "mireal_inc",
+    "followers": 414,
+    "follows": 5,
+    "media_count": 420,
+    "reach": 33,
+    "profile_views": 3,
+    "website_clicks": 0
+  },
+  "fb": {
+    "name": "MIREAL.Official",
+    "followers": 2,
+    "fan_count": 2
+  },
+  "posts": [
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "18125956960881317",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    }
+  ]
+}
