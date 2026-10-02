@@ -5499,6 +5499,24 @@
       "fb_post_id": "1120701334458496_122128477353301053",
       "source_url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-02T02:06:50Z",
+      "date": "2026-10-02",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「町の整骨院、Instagram用動画を作った話」",
+      "template": "T_overlay",
+      "heading_image": "町の整骨院が\n動画を手にした日",
+      "caption_preview": "「ホームページはあるけど、動きのある見せ方ができていない」\n\n地域で20年続く町の整骨院の院長さんから、そんなご相談をいただいた想定ケースをご紹介します。\n\n【課題】\n・Instagramを始めたが、写真だけでは施術の雰囲気が伝わらない\n・若い世代の新規患者を増やしたい\n・でも動画制作は数十万円すると聞いて、ずっと保留にしていた\n\n【ONE DAYでの進め方】\n朝9時、院長・スタッフ・施術シーン・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-02.jpg",
+      "bgs_used": [
+        "bg-096.jpg"
+      ],
+      "ig_media_id": "18106931348625267",
+      "fb_post_id": "1120701334458496_122128522071301053"
     }
   ]
 }
