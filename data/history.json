@@ -5555,6 +5555,26 @@
       ],
       "ig_media_id": "17873972121587325",
       "fb_post_id": "1120701334458496_122128565913301053"
+    },
+    {
+      "timestamp": "2026-10-02T11:40:15Z",
+      "date": "2026-10-02",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Court Orders Man to Be Resentenced After Judge Was Affected ",
+      "template": "T_softbg",
+      "heading_image": "AI動画が\n司法を揺らす",
+      "caption_preview": "【最新映像機材ニュース】\n\n米国の控訴裁判所が、過失致死で有罪判決を受けた男性の再量刑を命じた。原判決の裁判官が、被害者を再現したAI生成動画に影響を受けたと判断されたためだ。\n\n■ 注目ポイント\n・故人の姿・声をAIで再現した「被害者陳述動画」が法廷で使用された\n・原審の裁判官が量刑判断時にこの動画の影響を受けたと控訴審が認定\n・生成AI動画が司法手続きに与える影響をめぐる初期の重要判例\n\n■ ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-02-204002.jpg"
+      ],
+      "ig_media_id": "18638121088050930",
+      "fb_post_id": "1120701334458496_122128570137301053",
+      "source_url": "https://petapixel.com/2026/10/02/court-orders-man-to-be-resentenced-after-judge-was-affected-by-ai-video/",
+      "source": "PetaPixel"
     }
   ]
 }
