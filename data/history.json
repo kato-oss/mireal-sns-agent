@@ -5575,6 +5575,26 @@
       "fb_post_id": "1120701334458496_122128570137301053",
       "source_url": "https://petapixel.com/2026/10/02/court-orders-man-to-be-resentenced-after-judge-was-affected-by-ai-video/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-02T16:04:40Z",
+      "date": "2026-10-03",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Halide Camera App Takes Apple’s New Variable Aperture Even F",
+      "template": "T_overlay",
+      "heading_image": "Halide が対応\n可変絞りを手動制御",
+      "caption_preview": "【最新映像機材ニュース】\n\n人気のiPhoneカメラアプリ「Halide」が、iPhone 18 Pro / Pro Max の目玉機能である可変絞りメインカメラにいち早く対応。純正カメラアプリ以上の自由度で絞りをマニュアル制御できるようになった。\n\n■ 注目ポイント\n・iPhone 18 Pro / Pro Maxの可変絞りに正式対応\n・絞りをマニュアルで細かくコントロール可能\n・被写界深度・ボ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-03-010425.jpg"
+      ],
+      "ig_media_id": "18191494042392912",
+      "fb_post_id": "1120701334458496_122128610043301053",
+      "source_url": "https://petapixel.com/2026/10/02/halide-camera-app-takes-apples-new-variable-aperture-even-further/",
+      "source": "PetaPixel"
     }
   ]
 }
