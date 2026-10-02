@@ -5517,6 +5517,26 @@
       ],
       "ig_media_id": "18106931348625267",
       "fb_post_id": "1120701334458496_122128522071301053"
+    },
+    {
+      "timestamp": "2026-10-02T06:51:38Z",
+      "date": "2026-10-02",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: FUJIFILM increases its prices",
+      "template": "T_overlay",
+      "heading_image": "富士フイルム\n値上げを発表",
+      "caption_preview": "【最新映像機材ニュース】\n\n富士フイルムが、一部のデジタルカメラおよび交換レンズの価格改定(値上げ)を正式発表。原材料費、製造コスト、輸送コストの上昇を理由として挙げている。公式プレスリリースはFujifilm Imaging Systems Co., Ltd.名義で発信された。\n\n■ 注目ポイント\n・対象は一部のデジタルカメラと交換レンズ\n・値上げ理由は資材・製造・輸送コストの高騰\n・公式リリー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-02-155124.jpg"
+      ],
+      "ig_media_id": "17871790164602325",
+      "fb_post_id": "1120701334458496_122128542435301053",
+      "source_url": "https://www.newsshooter.com/2026/10/01/fujifilm-increases-its-prices/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-increases-its-prices",
+      "source": "Newsshooter"
     }
   ]
 }
