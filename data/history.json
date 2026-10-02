@@ -5537,6 +5537,24 @@
       "fb_post_id": "1120701334458496_122128542435301053",
       "source_url": "https://www.newsshooter.com/2026/10/01/fujifilm-increases-its-prices/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-increases-its-prices",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-02T10:37:57Z",
+      "date": "2026-10-02",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "R",
+      "format": "RECRUIT",
+      "theme": "クリエイター募集 - ディレクター/カメラマン/編集者/モーショングラファー",
+      "template": "T_overlay",
+      "heading_image": "映像クリエイター\n募集",
+      "caption_preview": "【映像クリエイター募集】\n\nMIREALでは下記ポジションを募集しています。\n\n■ 今週のフォーカス職種\n・カメラマン\n・動画編集者\n\n■ その他募集中の職種\n・ディレクター\n・モーショングラファー\n\n■ 働き方\n・案件単位での参加\n・フルリモートOK（撮影は現地）\n・副業OK\n・全国の案件あり\n\n■ 条件\n・現場で1本以上の制作経験\n・連絡と納期のレスポンスが早い方\n・報酬は案件ごとに事前提示\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-02.jpg",
+      "bgs_used": [
+        "bg-036.jpg"
+      ],
+      "ig_media_id": "17873972121587325",
+      "fb_post_id": "1120701334458496_122128565913301053"
     }
   ]
 }
