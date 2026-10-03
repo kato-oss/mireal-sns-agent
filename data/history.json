@@ -5651,6 +5651,26 @@
       "fb_post_id": "1120701334458496_122128724655301053",
       "source_url": "https://www.provideocoalition.com/matthews-introduces-40-sliding-leg-c-stand-2-pack/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-10-03T14:33:04Z",
+      "date": "2026-10-03",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nikon Z5II vs Z5IIC: what are you giving up to save some mon",
+      "template": "T_overlay",
+      "heading_image": "Z5II vs Z5IIC\n廉価版の実力は？",
+      "caption_preview": "【最新映像機材ニュース】\n\nNikonのフルサイズミラーレス「Z5II」と、その廉価版として位置付けられる「Z5IIC」の違いをDPReviewが比較検証。価格を抑えた分、実際に何が削られているのか、そして本当にお得なのかを掘り下げている。\n\n■ 注目ポイント\n・両機ともZ5IIをベースにした24MPフルサイズセンサー搭載モデル\n・Z5IICはコスト削減のため一部機能・仕様が省略されている\n・実売",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-03.jpg",
+      "bgs_used": [
+        "bg-019.jpg"
+      ],
+      "ig_media_id": "18435161929179471",
+      "fb_post_id": "1120701334458496_122128752237301053",
+      "source_url": "https://www.dpreview.com/articles/nikon-z5ii-vs-z5iic-what-are-you-giving-up-to-save-some-money/",
+      "source": "DPReview"
     }
   ]
 }
