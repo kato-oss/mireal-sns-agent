@@ -5671,6 +5671,26 @@
       "fb_post_id": "1120701334458496_122128752237301053",
       "source_url": "https://www.dpreview.com/articles/nikon-z5ii-vs-z5iic-what-are-you-giving-up-to-save-some-money/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-10-04T06:42:15Z",
+      "date": "2026-10-04",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Director Mode– an iOS app for multicamera productions",
+      "template": "T_overlay",
+      "heading_image": "iOSで実現する\nマルチカム制作",
+      "caption_preview": "【最新映像機材ニュース】\n\nイタリア・フィレンツェ拠点の映像作家 Claudio Ripalti 氏とそのチームが、マルチカメラ制作向けのiOSアプリ「Director Mode」を発表。近日リリース予定で、複数カメラのモニタリングとカメラ制御を1つのインターフェースに統合する。\n\n■ 注目ポイント\n・iOS (iPad/iPhone) 上で動作するマルチカム統合アプリ\n・Canon をはじめとす",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-04-154201.jpg"
+      ],
+      "ig_media_id": "17950928814274344",
+      "fb_post_id": "1120701334458496_122128828515301053",
+      "source_url": "https://www.newsshooter.com/2026/10/03/director-mode-an-ios-app-for-multicamera-productions/?utm_source=rss&utm_medium=rss&utm_campaign=director-mode-an-ios-app-for-multicamera-productions",
+      "source": "Newsshooter"
     }
   ]
 }
