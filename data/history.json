@@ -5691,6 +5691,26 @@
       "fb_post_id": "1120701334458496_122128828515301053",
       "source_url": "https://www.newsshooter.com/2026/10/03/director-mode-an-ios-app-for-multicamera-productions/?utm_source=rss&utm_medium=rss&utm_campaign=director-mode-an-ios-app-for-multicamera-productions",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-04T11:36:51Z",
+      "date": "2026-10-04",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: MoviePro 10 for iPhone",
+      "template": "T_softbg",
+      "heading_image": "MoviePro 10\n老舗の意地",
+      "caption_preview": "【最新映像機材ニュース】\n\n2012年から続く老舗iPhoneカメラアプリ「MoviePro」が、バージョン10にアップデート。Blackmagic CameraやFinal Cut Cameraといった強力な無料アプリが台頭する中、独立系アプリとして機能面でどう差別化するかが問われる新バージョンです。\n\n■ 注目ポイント\n・マニュアル制御(ISO/シャッター/WB/フォーカス)に加え、オーディオ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-04-203632.jpg"
+      ],
+      "ig_media_id": "18089326640692745",
+      "fb_post_id": "1120701334458496_122128859589301053",
+      "source_url": "https://www.newsshooter.com/2026/10/03/moviepro-10-for-iphone/?utm_source=rss&utm_medium=rss&utm_campaign=moviepro-10-for-iphone",
+      "source": "Newsshooter"
     }
   ]
 }
