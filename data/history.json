@@ -5711,6 +5711,26 @@
       "fb_post_id": "1120701334458496_122128859589301053",
       "source_url": "https://www.newsshooter.com/2026/10/03/moviepro-10-for-iphone/?utm_source=rss&utm_medium=rss&utm_campaign=moviepro-10-for-iphone",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-04T15:07:07Z",
+      "date": "2026-10-05",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The pros and cons of enabling Wi-Fi calling",
+      "template": "T_overlay",
+      "heading_image": "Wi-Fi通話の\n是非を知る",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、スマートフォンのWi-Fi Calling(Wi-Fi通話)機能のメリット・デメリットを整理した解説記事を公開。ロケ現場や地下スタジオなど、セルラー電波が弱い環境で作業するクリエイターにとって知っておきたい機能。\n\n■ 注目ポイント\n・セルラー圏外でもWi-Fi経由で通常の電話番号で発着信が可能\n・地下・山間部・鉄筋構造物の屋内など、電波が届かない撮",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-05-000655.jpg"
+      ],
+      "ig_media_id": "18094774406148349",
+      "fb_post_id": "1120701334458496_122128889289301053",
+      "source_url": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
+      "source": "Engadget"
     }
   ]
 }
