@@ -5731,6 +5731,26 @@
       "fb_post_id": "1120701334458496_122128889289301053",
       "source_url": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-05T06:55:20Z",
+      "date": "2026-10-05",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Litepanels adds new kits & accessories to the Astra IP Range",
+      "template": "T_overlay",
+      "heading_image": "Astra IPに\n新キット登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nLitepanelsが放送・ロケ現場向けLEDライト「Astra IP」シリーズに、新キットとスタジオアクセサリー群を追加。リギング・運搬・光コントロールの効率化を狙ったラインナップ拡充です。\n\n■ 注目ポイント\n・Weather-Resistant Kits（防水対応キット）で屋外ロケに対応\n・Soft Case Kitsで機動性と運搬性を両立\n・Pole Opera",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-05-155504.jpg"
+      ],
+      "ig_media_id": "18106830263364707",
+      "fb_post_id": "1120701334458496_122128967385301053",
+      "source_url": "https://www.newsshooter.com/2026/10/04/litepanels-adds-new-kits-accessories-to-the-astra-ip-range/?utm_source=rss&utm_medium=rss&utm_campaign=litepanels-adds-new-kits-accessories-to-the-astra-ip-range",
+      "source": "Newsshooter"
     }
   ]
 }
