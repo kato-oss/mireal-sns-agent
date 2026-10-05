@@ -5771,6 +5771,26 @@
       "fb_post_id": "1120701334458496_122129011785301053",
       "source_url": "https://www.dpreview.com/videos/dji-osmo-360-ii-video-state-of-360/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-10-05T19:02:21Z",
+      "date": "2026-10-06",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Film Quote of the Day: The James Bond Line That Delivered a ",
+      "template": "T_softbg",
+      "heading_image": "短い一言が\n64年を定義する",
+      "caption_preview": "【映像制作コラム】\n\nNoFilmSchoolが、1962年公開のジェームズ・ボンド第1作『Dr. No』から、以降64年続くシリーズのキャラクター像を決定づけた名セリフを分析。\n\n■ 注目ポイント\n・「Bond. James Bond.」と並ぶ、皮肉で乾いたウィットの原型となったライン\n・無駄のない短い台詞で人物の冷静さ・優越性を一瞬で提示する脚本術\n・64年にわたり続くフランチャイズのトーンが",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-06-040204.jpg"
+      ],
+      "ig_media_id": "18105606569578566",
+      "fb_post_id": "1120701334458496_122129061897301053",
+      "source_url": "https://nofilmschool.com/dr-no-quote",
+      "source": "NoFilmSchool"
     }
   ]
 }
