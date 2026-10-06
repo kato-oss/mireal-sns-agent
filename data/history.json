@@ -5809,6 +5809,26 @@
       ],
       "ig_media_id": "18122942434915489",
       "fb_post_id": "1120701334458496_122129095497301053"
+    },
+    {
+      "timestamp": "2026-10-06T07:23:03Z",
+      "date": "2026-10-06",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $1,000 USD on the Nikon Z8 Mirrorless Camera",
+      "template": "T_overlay",
+      "heading_image": "Nikon Z8が\n$1,000値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\nNikon Z8が期間限定で$1,000 USDの値引きとなり、$3,296.25 USDで購入可能に。Z9のテクノロジーをコンパクト・軽量ボディに凝縮した「究極のハイブリッド機」として知られるモデルです。\n\n■ 注目ポイント\n・Z9と同じ積層型CMOSセンサー＆EXPEED 7プロセッサを搭載\n・8K30p RAW内部収録、4K120p対応で動画性能も強力\n・メカシャ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-06-162248.jpg"
+      ],
+      "ig_media_id": "18153683285634274",
+      "fb_post_id": "1120701334458496_122129139807301053",
+      "source_url": "https://www.newsshooter.com/2026/10/05/save-1000-usd-on-the-nikon-z8-mirrorless-camera/?utm_source=rss&utm_medium=rss&utm_campaign=save-1000-usd-on-the-nikon-z8-mirrorless-camera",
+      "source": "Newsshooter"
     }
   ]
 }
