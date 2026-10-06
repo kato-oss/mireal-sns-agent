@@ -5829,6 +5829,26 @@
       "fb_post_id": "1120701334458496_122129139807301053",
       "source_url": "https://www.newsshooter.com/2026/10/05/save-1000-usd-on-the-nikon-z8-mirrorless-camera/?utm_source=rss&utm_medium=rss&utm_campaign=save-1000-usd-on-the-nikon-z8-mirrorless-camera",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-06T12:32:00Z",
+      "date": "2026-10-06",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: What does the shield icon mean on your Samsung Galaxy?",
+      "template": "T_overlay",
+      "heading_image": "Galaxyの\n盾アイコンの意味",
+      "caption_preview": "【最新ガジェットニュース】\n\nSamsung Galaxyの画面上部に時折表示される「盾アイコン」。これはバッテリー保護機能が作動していることを示すサインで、長期的なバッテリー寿命を守るための仕組みです。\n\n■ 注目ポイント\n・盾アイコン = バッテリー保護モード作動中の表示\n・満充電を80%または85%で制限し劣化を抑制\n・設定 → バッテリー → バッテリー保護 から有効化可能\n・「基本」「ア",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-06-213142.jpg"
+      ],
+      "ig_media_id": "17967509997176361",
+      "fb_post_id": "1120701334458496_122129165379301053",
+      "source_url": "https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/",
+      "source": "Engadget"
     }
   ]
 }
