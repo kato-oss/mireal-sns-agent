@@ -5791,6 +5791,24 @@
       "fb_post_id": "1120701334458496_122129061897301053",
       "source_url": "https://nofilmschool.com/dr-no-quote",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-10-06T02:51:38Z",
+      "date": "2026-10-06",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画制作で2週間待たされる本当の理由」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で2週間\n待たされる理由",
+      "caption_preview": "「動画お願いしたら、納期2週間って言われた…」\n中小企業のマーケ担当者から、よく聞く声です。\n\n実は、2週間待たされるのには理由があります。\nそして、その理由の多くは「仕組みの問題」であって、品質のためではありません。\n\n今回は、動画制作が長引く本当の理由を5つに分けて解説します。\n\n1. 企画打ち合わせを3回に分けている\n→ 1回で決めきれる構成なのに、確認工程が多い\n\n2. 撮影日と編集担当の",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-06.jpg",
+      "bgs_used": [
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18122942434915489",
+      "fb_post_id": "1120701334458496_122129095497301053"
     }
   ]
 }
