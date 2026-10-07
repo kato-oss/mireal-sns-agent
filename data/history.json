@@ -5935,6 +5935,26 @@
       "fb_post_id": "1120701334458496_122129332881301053",
       "source_url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-07T17:12:04Z",
+      "date": "2026-10-08",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Why New Digicams Fail to Capture the Magic of the Originals ",
+      "template": "T_softbg",
+      "heading_image": "なぜ新型機は\nあの魔法を失ったのか",
+      "caption_preview": "【最新映像機材ニュース】\n\nPetaPixel Podcastで、Chris Niccolls、Jaron Schneider、Gordon Laing、Sarah Tengが「デジカメ(コンデジ)ブーム」について議論。Z世代を中心に10年以上前のポイント&シュート機が爆発的人気となっているが、なぜ現代メーカーの新型機ではその「マジック」を再現できないのかを掘り下げている。\n\n■ 注目ポイント\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-08-021147.jpg"
+      ],
+      "ig_media_id": "18013589336956294",
+      "fb_post_id": "1120701334458496_122129362149301053",
+      "source_url": "https://petapixel.com/2026/10/07/why-new-digicams-fail-to-capture-the-magic-of-the-originals-the-petapixel-podcast/",
+      "source": "PetaPixel"
     }
   ]
 }
