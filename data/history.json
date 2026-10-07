@@ -5895,6 +5895,26 @@
       ],
       "ig_media_id": "18072076688571394",
       "fb_post_id": "1120701334458496_122129276223301053"
+    },
+    {
+      "timestamp": "2026-10-07T07:02:48Z",
+      "date": "2026-10-07",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How Greig Fraser Brought ‘Project Hail Mary’ to Life: Camera",
+      "template": "T_softbg",
+      "heading_image": "宇宙を撮るという\n選択の思想",
+      "caption_preview": "【最新映像機材ニュース】\n\n『DUNE』『THE BATMAN』で知られる撮影監督Greig Fraser ASC, ACSが、Phil Lord & Christopher Miller監督作『Project Hail Mary』での撮影アプローチを公開。従来のグリーンバックに頼らない「インカメラVFX」で、独自の宇宙描写を実現している。\n\n■ 注目ポイント\n・使用カメラとレンズ選定の思想、宇宙",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-07-160234.jpg"
+      ],
+      "ig_media_id": "18119570093472360",
+      "fb_post_id": "1120701334458496_122129299407301053",
+      "source_url": "https://nofilmschool.com/project-hail-mary-cinematography",
+      "source": "NoFilmSchool"
     }
   ]
 }
