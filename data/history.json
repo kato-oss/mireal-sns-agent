@@ -5915,6 +5915,26 @@
       "fb_post_id": "1120701334458496_122129299407301053",
       "source_url": "https://nofilmschool.com/project-hail-mary-cinematography",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-10-07T12:25:10Z",
+      "date": "2026-10-07",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Xreal's Aura Android XR smartglasses will cost you at least ",
+      "template": "T_overlay",
+      "heading_image": "Xreal Aura\n$1,279から",
+      "caption_preview": "【最新映像機材ニュース】\n\nXrealがAndroid XRプラットフォーム搭載のスマートグラス「Aura」の価格を発表。最低$1,279(約19万円)からのプライシングで、Google / Samsung陣営のXRエコシステムに本格参入する。\n\n■ 注目ポイント\n・Qualcomm「Snapdragon XR Elite」チップ搭載で、オンデバイスAI処理と空間コンピューティングに対応\n・Goo",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-07-212455.jpg"
+      ],
+      "ig_media_id": "18007526943002432",
+      "fb_post_id": "1120701334458496_122129332881301053",
+      "source_url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
+      "source": "Engadget"
     }
   ]
 }
