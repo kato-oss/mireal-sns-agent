@@ -6011,6 +6011,26 @@
       "fb_post_id": "1120701334458496_122129462187301053",
       "source_url": "https://petapixel.com/2026/10/08/nasa-releases-artemis-ii-crews-handwritten-notes-of-moon-meteors/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-08T17:09:12Z",
+      "date": "2026-10-09",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony’s Omnidirectional Mic Captures Spatial Audio Into Your ",
+      "template": "T_overlay",
+      "heading_image": "Sonyが発表\nスマホで空間音声",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyがコンテンツクリエイター向け空間音声マイク「ECM-AX10」を発表。Google主導の次世代空間音声フォーマット「Eclipsa Audio」の世界初認証製品となる。\n\n■ 注目ポイント\n・無指向性カプセルで全方位の音場を収録\n・Eclipsa Audio世界初認証、YouTube等の空間音声配信に対応\n・スマートフォン直挿しで空間音声撮影が完結\n・Sony曰",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-09-020856.jpg"
+      ],
+      "ig_media_id": "17963309877212072",
+      "fb_post_id": "1120701334458496_122129490201301053",
+      "source_url": "https://petapixel.com/2026/10/08/sonys-omnidirectional-mic-captures-spatial-audio-into-your-smartphone/",
+      "source": "PetaPixel"
     }
   ]
 }
