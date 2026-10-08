@@ -5971,6 +5971,26 @@
       "bgs_used": [],
       "ig_media_id": "18090429866201899",
       "fb_post_id": "1120701334458496_122129408847301053"
+    },
+    {
+      "timestamp": "2026-10-08T07:10:44Z",
+      "date": "2026-10-08",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Sigma 50-120mm f/2.8 Completes Its Ultra-Compact APS-C T",
+      "template": "T_overlay",
+      "heading_image": "Sigma 50-120mm\nF2.8 発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nSigmaがAPS-C向け望遠ズーム「50-120mm F2.8 DG OS | Contemporary」を正式発表。既発売の広角18-50mm F2.8、標準17-40mm F2.8に続く、APS-C大三元ズームの最後の1本が揃いました。\n\n■ 注目ポイント\n・フルサイズ換算 約75-180mm相当のF2.8通し望遠ズーム\n・クラス最小級のコンパクト設計で動画撮影に",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-08-161025.jpg"
+      ],
+      "ig_media_id": "18092417591661594",
+      "fb_post_id": "1120701334458496_122129428989301053",
+      "source_url": "https://petapixel.com/2026/10/08/the-sigma-50-120mm-f-2-8-completes-its-ultra-compact-aps-c-trinity/",
+      "source": "PetaPixel"
     }
   ]
 }
