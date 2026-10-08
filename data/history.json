@@ -5991,6 +5991,26 @@
       "fb_post_id": "1120701334458496_122129428989301053",
       "source_url": "https://petapixel.com/2026/10/08/the-sigma-50-120mm-f-2-8-completes-its-ultra-compact-aps-c-trinity/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-08T12:34:57Z",
+      "date": "2026-10-08",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: NASA Releases Artemis II Crew’s Handwritten Notes of Moon Me",
+      "template": "T_softbg",
+      "heading_image": "月の裏側に\n人の手が触れた",
+      "caption_preview": "【最新映像機材ニュース】\n\nNASAが、Artemis IIクルーによって手書きの注釈が加えられた「月の裏側」の画像を公開。クルーが観測中にリアルタイムで記録した月面流星衝突の位置が、画像上に直接書き込まれているという貴重な資料。\n\n■ 注目ポイント\n・月の裏側を捉えた希少な撮影画像\n・Artemis IIクルーによる手書き注釈入り\n・月面に衝突する流星(ルナ・メテオ)の観測記録を視覚化\n\n■ な",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-08-213440.jpg"
+      ],
+      "ig_media_id": "18112415927160241",
+      "fb_post_id": "1120701334458496_122129462187301053",
+      "source_url": "https://petapixel.com/2026/10/08/nasa-releases-artemis-ii-crews-handwritten-notes-of-moon-meteors/",
+      "source": "PetaPixel"
     }
   ]
 }
