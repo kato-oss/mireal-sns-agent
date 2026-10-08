@@ -5955,6 +5955,22 @@
       "fb_post_id": "1120701334458496_122129362149301053",
       "source_url": "https://petapixel.com/2026/10/07/why-new-digicams-fail-to-capture-the-magic-of-the-originals-the-petapixel-podcast/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-08T02:38:37Z",
+      "date": "2026-10-08",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「編集ソフトちら見せ」",
+      "template": "T_tipcard",
+      "heading_image": "1日納品を支える\n編集の土台",
+      "caption_preview": "「本当に1日で動画が仕上がるの?」\nよく聞かれる質問です。\n\n今日は普段あまり出さない、編集画面の裏側を少しだけお見せします。\n\n私たちの編集タイムラインには、あらかじめ用意された土台があります。\n\n・オープニングのロゴアニメーション\n・テロップのデザインテンプレート(3種類)\n・BGMライブラリ(業種別に約200曲)\n・トランジションのプリセット\n・カラーグレーディングのLUT\n\nこれらを撮影前",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-08.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18090429866201899",
+      "fb_post_id": "1120701334458496_122129408847301053"
     }
   ]
 }
