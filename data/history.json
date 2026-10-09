@@ -6115,6 +6115,26 @@
       "fb_post_id": "1120701334458496_122129588391301053",
       "source_url": "https://petapixel.com/2026/10/09/curiosity-rover-snaps-another-banger-photo-a-martian-mountain-at-dawn/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-09T16:47:31Z",
+      "date": "2026-10-10",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Godox Launches New Full-Color Ring Light for Content Creator",
+      "template": "T_overlay",
+      "heading_image": "Godox SR20R\n新型リングライト発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nGodoxがモバイルコンテンツクリエイター向けの新型フルカラーLEDパネルライト「Litemons SR20R」を発表。スマートフォンやDJI Osmo Pocket、Insta360 Lunaシリーズといったジンバルカメラでの撮影を想定した設計。\n\n■ 注目ポイント\n・リング形状のフルカラーRGB LEDパネル\n・スマホ/ポケットジンバルへのマウントに最適化\n・Vlo",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-10-014716.jpg"
+      ],
+      "ig_media_id": "18001454730008122",
+      "fb_post_id": "1120701334458496_122129634243301053",
+      "source_url": "https://petapixel.com/2026/10/09/godox-launches-new-full-color-ring-light-for-content-creators/",
+      "source": "PetaPixel"
     }
   ]
 }
