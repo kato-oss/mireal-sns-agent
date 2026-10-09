@@ -6057,6 +6057,26 @@
       ],
       "ig_media_id": "17877424950566422",
       "fb_post_id": "1120701334458496_122129538087301053"
+    },
+    {
+      "timestamp": "2026-10-09T07:15:33Z",
+      "date": "2026-10-09",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony ECM-AX10 Spatial Audio Microphone for Smartphones",
+      "template": "T_overlay",
+      "heading_image": "Sonyが発表\nスマホで空間オーディオ",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyがスマートフォン向け空間オーディオマイク「ECM-AX10」を発表。USB-C直結で、4基の無指向性エレクトレットコンデンサーカプセルを搭載し、ステレオ/バイノーラルからAmbisonicsによるフルスペイシャルオーディオまで収録可能。YouTubeのEclipsa Audio対応で没入感のある再生にも使える。\n\n■ 注目ポイント\n・無指向性エレクトレットコンデ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-09-161519.jpg"
+      ],
+      "ig_media_id": "17920839021443334",
+      "fb_post_id": "1120701334458496_122129555973301053",
+      "source_url": "https://www.newsshooter.com/2026/10/08/sony-ecm-ax10-spatial-audio-microphone-for-smartphones/?utm_source=rss&utm_medium=rss&utm_campaign=sony-ecm-ax10-spatial-audio-microphone-for-smartphones",
+      "source": "Newsshooter"
     }
   ]
 }
