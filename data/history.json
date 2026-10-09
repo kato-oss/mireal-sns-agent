@@ -6095,6 +6095,26 @@
       ],
       "ig_media_id": "18625076827009191",
       "fb_post_id": "1120701334458496_122129582277301053"
+    },
+    {
+      "timestamp": "2026-10-09T12:22:16Z",
+      "date": "2026-10-09",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Curiosity Rover Snaps Another Banger Photo: A Martian Mounta",
+      "template": "T_softbg",
+      "heading_image": "火星の夜明けを\nカメラが語る",
+      "caption_preview": "【最新映像機材ニュース】\n\nNASAの火星探査機Curiosityが、新たな絶景パノラマを地球へ送信。数十億年にわたり風に削られてきた遠方の崖を、夜明けの光で捉えた一枚で、火星表面撮影の新たな代表作となりそうです。\n\n■ 注目ポイント\n・Mastcam(マストカメラ)による広角パノラマ合成\n・夜明けの斜光が地形の立体感を強調\n・風化による数十億年スケールの地質構造を記録\n\n■ なぜ注目すべきか\n2",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-09-212201.jpg"
+      ],
+      "ig_media_id": "18072692804739543",
+      "fb_post_id": "1120701334458496_122129588391301053",
+      "source_url": "https://petapixel.com/2026/10/09/curiosity-rover-snaps-another-banger-photo-a-martian-mountain-at-dawn/",
+      "source": "PetaPixel"
     }
   ]
 }
