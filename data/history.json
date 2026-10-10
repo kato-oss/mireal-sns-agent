@@ -6153,6 +6153,26 @@
       ],
       "ig_media_id": "18346457563250974",
       "fb_post_id": "1120701334458496_122129681703301053"
+    },
+    {
+      "timestamp": "2026-10-10T06:51:37Z",
+      "date": "2026-10-10",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ALPHAGVRD ARRI Alexa Mini LF Skin",
+      "template": "T_overlay",
+      "heading_image": "Alexa Miniに\n純正風スキン登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nカーラッピングならぬ「カメララッピング」。ALPHAGVRDがARRI Alexa Mini LF専用の保護スキンをティザー公開しました。3M製ビニールを採用し、精密カットで本体にジャストフィットする仕様です。\n\n■ 注目ポイント\n・素材は3M製ビニール、日常使用の擦り傷からボディを保護\n・Alexa Mini LFの筐体に合わせた精密プリカット\n・剥がす際に糊残りが発",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-10.jpg",
+      "bgs_used": [
+        "bg-094.jpg"
+      ],
+      "ig_media_id": "18093362114167143",
+      "fb_post_id": "1120701334458496_122129701167301053",
+      "source_url": "https://www.newsshooter.com/2026/10/09/alphagvrd-arri-alexa-mini-lf-skin/?utm_source=rss&utm_medium=rss&utm_campaign=alphagvrd-arri-alexa-mini-lf-skin",
+      "source": "Newsshooter"
     }
   ]
 }
