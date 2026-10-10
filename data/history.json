@@ -6135,6 +6135,24 @@
       "fb_post_id": "1120701334458496_122129634243301053",
       "source_url": "https://petapixel.com/2026/10/09/godox-launches-new-full-color-ring-light-for-content-creators/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-10T02:14:18Z",
+      "date": "2026-10-10",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「打ち合わせ→即撮影」",
+      "template": "T_overlay",
+      "heading_image": "打合せ即撮影\n翌営業日に納品",
+      "caption_preview": "「来週イベントで動画を流したい。でも、まだ発注先も決まってない」\n\nそんなご相談、月に何件もいただきます。\n\n通常の動画制作は、打ち合わせから納品まで2〜4週間。\n見積もり、構成案、絵コンテ、撮影日の調整、編集、修正……\nどれも大事な工程ですが、その間に「使いたかった日」が過ぎてしまう。\n\nMIREALのONE DAY PROMOTIONは、\n「打ち合わせ→即撮影」をひとつの流れにまとめました。\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-10.jpg",
+      "bgs_used": [
+        "bg-083.jpg"
+      ],
+      "ig_media_id": "18346457563250974",
+      "fb_post_id": "1120701334458496_122129681703301053"
     }
   ]
 }
