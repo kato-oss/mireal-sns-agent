@@ -6193,6 +6193,26 @@
       "fb_post_id": "1120701334458496_122129727471301053",
       "source_url": "https://www.dpreview.com/articles/canon-camera-connect-app-how-well-does-it-work/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-10-10T15:40:47Z",
+      "date": "2026-10-11",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 5 Samsung Galaxy features you should be using after updating",
+      "template": "T_listicle",
+      "heading_image": "Galaxy ユーザーが\n今すぐ試すべき",
+      "caption_preview": "【最新ガジェットニュース】\n\nSamsung Galaxy シリーズに Android 17 ベースの One UI 9 アップデートが到着。多数の新機能が追加されたが、Engadget が実用度の高い5つの機能をピックアップして紹介している。\n\n■ 注目ポイント\n・UI デザインの刷新と通知周りの改善\n・ロック画面・ホーム画面のカスタマイズ性向上\n・Galaxy AI 関連機能の拡張\n・マルチタ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-11-004031.jpg"
+      ],
+      "ig_media_id": "17929814496453462",
+      "fb_post_id": "1120701334458496_122129759397301053",
+      "source_url": "https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/",
+      "source": "Engadget"
     }
   ]
 }
