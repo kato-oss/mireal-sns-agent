@@ -6173,6 +6173,26 @@
       "fb_post_id": "1120701334458496_122129701167301053",
       "source_url": "https://www.newsshooter.com/2026/10/09/alphagvrd-arri-alexa-mini-lf-skin/?utm_source=rss&utm_medium=rss&utm_campaign=alphagvrd-arri-alexa-mini-lf-skin",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-10T11:41:17Z",
+      "date": "2026-10-10",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Canon Camera Connect app: how well does it work?",
+      "template": "T_overlay",
+      "heading_image": "Canon純正アプリ\n実機検証レポート",
+      "caption_preview": "【最新映像機材ニュース】\n\nDPReviewがカメラ各社のスマホ連携アプリを比較検証する企画をスタート。第1弾としてキヤノンの「Camera Connect」アプリの実力をレポートした。結論から言えば、いくつかの不満点はあるものの、現行機種との組み合わせでは各社アプリの中でも上位の使いやすさとのこと。\n\n■ 注目ポイント\n・Wi-Fi/Bluetoothによるカメラとスマホのペアリング手順を実機検",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-10.jpg",
+      "bgs_used": [
+        "bg-072.jpg"
+      ],
+      "ig_media_id": "18127832222307514",
+      "fb_post_id": "1120701334458496_122129727471301053",
+      "source_url": "https://www.dpreview.com/articles/canon-camera-connect-app-how-well-does-it-work/",
+      "source": "DPReview"
     }
   ]
 }
