@@ -6233,6 +6233,26 @@
       "fb_post_id": "1120701334458496_122129837991301053",
       "source_url": "https://www.newsshooter.com/2026/10/10/lighting-a-half-mile-highway-at-night-arri-alexa-35-es-mode-skypanel-x/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-a-half-mile-highway-at-night-arri-alexa-35-es-mode-skypanel-x",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-11T11:54:12Z",
+      "date": "2026-10-11",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Ignite Digi KEYSTONE & Accessories for PIXBOOM Spark",
+      "template": "T_overlay",
+      "heading_image": "PIXBOOM Spark用\nKEYSTONEケージ",
+      "caption_preview": "【最新映像機材ニュース】\n\nIgnite DigiがPIXBOOM Spark向けの新しいKEYSTONEケージとアクセサリー群を発表。RED KOMODO用KEYSTONEで培った設計思想を踏襲し、超高剛性かつ軽量なケージに仕上げている。\n\n■ 注目ポイント\n・PIXBOOM Spark専用設計のフルケージ\n・パワーブレイクアウト/サイドプレート/レンズサポート等のアクセサリーをシームレスに統合",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-11-205357.jpg"
+      ],
+      "ig_media_id": "18109596539352235",
+      "fb_post_id": "1120701334458496_122129867307301053",
+      "source_url": "https://www.newsshooter.com/2026/10/10/ignite-digi-keystone-accessories-for-pixboom-spark/?utm_source=rss&utm_medium=rss&utm_campaign=ignite-digi-keystone-accessories-for-pixboom-spark",
+      "source": "Newsshooter"
     }
   ]
 }
