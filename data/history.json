@@ -6253,6 +6253,26 @@
       "fb_post_id": "1120701334458496_122129867307301053",
       "source_url": "https://www.newsshooter.com/2026/10/10/ignite-digi-keystone-accessories-for-pixboom-spark/?utm_source=rss&utm_medium=rss&utm_campaign=ignite-digi-keystone-accessories-for-pixboom-spark",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-11T16:07:39Z",
+      "date": "2026-10-12",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The hidden features every Waze user should know about",
+      "template": "T_listicle",
+      "heading_image": "Waze隠し機能\nロケハンで効く",
+      "caption_preview": "【最新ガジェットニュース】\n\nEngadgetが、Google傘下のナビアプリ「Waze」に隠された便利機能を特集。ロケハンや機材車移動が多い映像制作者にも役立つTipsがまとまっている。\n\n■ 注目ポイント\n・ユーザー投稿型の渋滞・取締・事故情報をリアルタイム共有\n・音声ナビをキャラクターボイスに変更可能\n・経由地の追加、到着時刻の共有、駐車場検索などロケ現場で使える機能\n\n■ なぜ注目すべきか",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-12-010726.jpg"
+      ],
+      "ig_media_id": "18012260513970409",
+      "fb_post_id": "1120701334458496_122129897025301053",
+      "source_url": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
+      "source": "Engadget"
     }
   ]
 }
