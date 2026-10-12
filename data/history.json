@@ -6331,6 +6331,26 @@
       "fb_post_id": "1120701334458496_122130018327301053",
       "source_url": "https://www.engadget.com/2281470/tech-behind-adaptive-cruise-control/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-12T19:36:08Z",
+      "date": "2026-10-13",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Inside Chicago’s First Black-Owned Building Is Like Scenes f",
+      "template": "T_softbg",
+      "heading_image": "シャイニングの様な\n唯一無二の空間",
+      "caption_preview": "【最新映像機材ニュース】\n\nシカゴを拠点に建築・インテリア撮影を手掛ける写真家 Barbara Karant が、公民権運動期にメディア王 John H. Johnson が創設した Johnson Publishing Company (JPC) 本社ビルの内部を撮影。映画『シャイニング』を思わせる独特の空間美が話題に。\n\n■ 注目ポイント\n・シカゴで初めて黒人が所有・設計した高層ビルの内部記録",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-13-043551.jpg"
+      ],
+      "ig_media_id": "17864157372689508",
+      "fb_post_id": "1120701334458496_122130049773301053",
+      "source_url": "https://petapixel.com/2026/10/12/inside-chicagos-first-black-owned-building-is-like-scenes-from-the-shining/",
+      "source": "PetaPixel"
     }
   ]
 }
