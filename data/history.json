@@ -6291,6 +6291,26 @@
       ],
       "ig_media_id": "17910152094559070",
       "fb_post_id": "1120701334458496_122129944707301053"
+    },
+    {
+      "timestamp": "2026-10-12T07:08:23Z",
+      "date": "2026-10-12",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save up to $200 USD on SmallRig Mini V-Mount Batteries",
+      "template": "T_overlay",
+      "heading_image": "SmallRig Vバッテリー\n最大200ドルOFF",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigのMini V-Mountバッテリーが大幅値下げ中。コンパクトなVマウント電源として人気のシリーズが、最大200ドルOFFで提供されている。\n\n■ 注目ポイント\n・50Whモデル: $77 USD(-$52)\n・155Whモデル: $179 USD(-$160)\n・212EHモデル: $239 USD(-$200)\n・小型軽量なMini V-Mount規",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-12-160810.jpg"
+      ],
+      "ig_media_id": "17913704313496467",
+      "fb_post_id": "1120701334458496_122129974947301053",
+      "source_url": "https://www.newsshooter.com/2026/10/11/save-up-to-200-usd-on-smallrig-mini-v-mount-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=save-up-to-200-usd-on-smallrig-mini-v-mount-batteries",
+      "source": "Newsshooter"
     }
   ]
 }
