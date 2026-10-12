@@ -6273,6 +6273,24 @@
       "fb_post_id": "1120701334458496_122129897025301053",
       "source_url": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-12T02:13:56Z",
+      "date": "2026-10-12",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F1",
+      "theme": "「失敗する動画の3パターン」",
+      "template": "T_listicle",
+      "heading_image": "成果が出ない動画の\n共通パターン",
+      "caption_preview": "「動画を作ったのに、問い合わせが1件も増えない」\n\nそんな相談を、私たちは毎月のように受けます。\n\n現場で見てきた「失敗する動画」には、共通するパターンが3つあります。\n\n―――\n\n【1】誰に向けた動画か決まっていない\n\n「とりあえず会社紹介」「とりあえず商品紹介」。\nターゲットが曖昧だと、メッセージも曖昧になり、誰の心にも届きません。\n\n【2】最初の3秒で離脱される\n\nSNSでは最初の3秒が勝負",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-12.jpg",
+      "bgs_used": [
+        "bg-015.jpg"
+      ],
+      "ig_media_id": "17910152094559070",
+      "fb_post_id": "1120701334458496_122129944707301053"
     }
   ]
 }
