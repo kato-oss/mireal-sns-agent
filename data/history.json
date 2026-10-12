@@ -6311,6 +6311,26 @@
       "fb_post_id": "1120701334458496_122129974947301053",
       "source_url": "https://www.newsshooter.com/2026/10/11/save-up-to-200-usd-on-smallrig-mini-v-mount-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=save-up-to-200-usd-on-smallrig-mini-v-mount-batteries",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-12T14:02:37Z",
+      "date": "2026-10-12",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The tech behind your car's adaptive cruise control",
+      "template": "T_softbg",
+      "heading_image": "カメラとレーダーが\n運転を書き換える",
+      "caption_preview": "【最新テックニュース】\n\nEngadgetが、クルマのアダプティブクルーズコントロール(ACC)を支える技術を解説。意外にもシンプルな「カメラ+レーダー」の組み合わせだが、ドライバーの運転習慣に大きな影響を与えていることが指摘されている。\n\n■ 注目ポイント\n・前方車両の距離・速度をミリ波レーダーで検知\n・車線や標識はフロントガラス上部のカメラで認識\n・両者をセンサーフュージョンで統合し、加減速を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-12-230223.jpg"
+      ],
+      "ig_media_id": "18439772485180367",
+      "fb_post_id": "1120701334458496_122130018327301053",
+      "source_url": "https://www.engadget.com/2281470/tech-behind-adaptive-cruise-control/",
+      "source": "Engadget"
     }
   ]
 }
