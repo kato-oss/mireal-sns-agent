@@ -6417,6 +6417,26 @@
       "fb_post_id": "1120701334458496_122130145365301053",
       "source_url": "https://petapixel.com/2026/10/13/gopros-mission-1-series-updated-to-make-them-better-photo-cameras/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-13T17:20:17Z",
+      "date": "2026-10-14",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Here's why your phone's proximity sensors are so important",
+      "template": "T_overlay",
+      "heading_image": "近接センサーが\nスマホを支える",
+      "caption_preview": "【最新ガジェットニュース】\n\nEngadgetが「スマートフォンの近接センサー(proximity sensor)がなぜ重要か」を解説する記事を公開。普段意識しない小さな部品が、実は多くの機能を支えている。\n\n■ 注目ポイント\n・通話時に顔が近づくと画面を自動オフにし、誤タッチと電池消耗を防ぐ\n・ポケット内での誤操作防止、ジェスチャー検知、AR/顔認証の補助にも活用\n・赤外線式・超音波式・ToF式",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-14-022002.jpg"
+      ],
+      "ig_media_id": "17952735918269332",
+      "fb_post_id": "1120701334458496_122130166911301053",
+      "source_url": "https://www.engadget.com/2282192/why-phone-proximity-sensor-important/",
+      "source": "Engadget"
     }
   ]
 }
