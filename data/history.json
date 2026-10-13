@@ -6397,6 +6397,26 @@
       "fb_post_id": "1120701334458496_122130102471301053",
       "source_url": "https://www.newsshooter.com/2026/10/12/save-250-usd-on-the-blackmagic-design-hyperdeck-shuttle-hd/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-the-blackmagic-design-hyperdeck-shuttle-hd",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-13T13:18:10Z",
+      "date": "2026-10-13",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: GoPro’s Mission 1 Series Updated to Make Them Better Photo C",
+      "template": "T_overlay",
+      "heading_image": "GoPro Mission 1\n写真性能が進化",
+      "caption_preview": "【最新映像機材ニュース】\n\nGoProがMission 1シリーズ全機種を対象とした無償ファームウェアアップデートを発表。アクションカム然とした動画性能だけでなく、スチル撮影能力を大幅に強化する内容となっている。\n\n■ 注目ポイント\n・シャッターラグをゼロ化し、決定的瞬間の取り逃しを低減\n・50MP連写撮影に対応、バーストでの高解像度キャプチャが可能\n・既存Mission 1ユーザー全員が無料で適",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-13-221751.jpg"
+      ],
+      "ig_media_id": "18145173127569519",
+      "fb_post_id": "1120701334458496_122130145365301053",
+      "source_url": "https://petapixel.com/2026/10/13/gopros-mission-1-series-updated-to-make-them-better-photo-cameras/",
+      "source": "PetaPixel"
     }
   ]
 }
