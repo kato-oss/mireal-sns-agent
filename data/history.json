@@ -6377,6 +6377,26 @@
       ],
       "ig_media_id": "18636776290005154",
       "fb_post_id": "1120701334458496_122130089415301053"
+    },
+    {
+      "timestamp": "2026-10-13T07:32:26Z",
+      "date": "2026-10-13",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $250 USD on the Blackmagic Design HyperDeck Shuttle HD",
+      "template": "T_overlay",
+      "heading_image": "HyperDeck HD\n$250 OFF セール",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Design の「HyperDeck Shuttle HD」が $250 OFF の $295 USD でセール中。コンパクト筐体ながら HDMI 入出力と ATEM スイッチャー連携に対応する収録/再生デッキです。\n\n■ 注目ポイント\n・HDMI 入出力搭載でシンプルに映像を収録・再生可能\n・大型サーチダイヤルによる直感的なメディア操作\n・ATE",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-13-163211.jpg"
+      ],
+      "ig_media_id": "18113661764464659",
+      "fb_post_id": "1120701334458496_122130102471301053",
+      "source_url": "https://www.newsshooter.com/2026/10/12/save-250-usd-on-the-blackmagic-design-hyperdeck-shuttle-hd/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-the-blackmagic-design-hyperdeck-shuttle-hd",
+      "source": "Newsshooter"
     }
   ]
 }
