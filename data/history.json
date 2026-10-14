@@ -6455,6 +6455,26 @@
       ],
       "ig_media_id": "18202873918376795",
       "fb_post_id": "1120701334458496_122130220251301053"
+    },
+    {
+      "timestamp": "2026-10-14T05:57:34Z",
+      "date": "2026-10-14",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $250 USD on Core SWX Fleet Q4 Mini Chargers",
+      "template": "T_overlay",
+      "heading_image": "Core SWX Q4 Mini\n$250 OFFセール",
+      "caption_preview": "【最新映像機材ニュース】\n\nCore SWXの4ベイ同時充電器「Fleet Q4 Mini Charger」が$250 OFFの$549 USDで販売中。V-MountとGold Mountの両バージョンが対象で、現場バッテリー運用のコスパが大幅に向上します。\n\n■ 注目ポイント\n・4つの独立充電ベイで同時に4本充電可能\n・各ベイ3Aの高速充電に対応\n・V-Mount / AB Gold Moun",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-14.jpg",
+      "bgs_used": [
+        "bg-038.jpg"
+      ],
+      "ig_media_id": "17972540694175708",
+      "fb_post_id": "1120701334458496_122130236883301053",
+      "source_url": "https://www.newsshooter.com/2026/10/13/save-250-usd-on-core-swx-fleet-q4-mini-chargers/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-core-swx-fleet-q4-mini-chargers",
+      "source": "Newsshooter"
     }
   ]
 }
