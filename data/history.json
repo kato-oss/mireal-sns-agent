@@ -6437,6 +6437,24 @@
       "fb_post_id": "1120701334458496_122130166911301053",
       "source_url": "https://www.engadget.com/2282192/why-phone-proximity-sensor-important/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-14T01:46:16Z",
+      "date": "2026-10-14",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「採用動画、応募率が変わった話」",
+      "template": "T_overlay",
+      "heading_image": "応募3名→17名\n採用動画1本の力",
+      "caption_preview": "「求人広告を出しても、応募がほとんど来ない」\n\n地方の工務店さま（従業員15名）から、そんなご相談をいただいたことがありました。\n\n求人媒体は複数掲載、文章も練り直し済み。\nそれでも応募は月に2〜3名。しかも面接前の辞退が多い。\n\n私たちがご提案したのは、採用動画を1本だけ加えること。\n\n柱としたのは3つ。\n\n1. 社長が自分の言葉で、会社の歴史と想いを語る\n2. 若手社員が、入社理由と1日のスケ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-14.jpg",
+      "bgs_used": [
+        "bg-032.jpg"
+      ],
+      "ig_media_id": "18202873918376795",
+      "fb_post_id": "1120701334458496_122130220251301053"
     }
   ]
 }
