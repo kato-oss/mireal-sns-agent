@@ -6475,6 +6475,26 @@
       "fb_post_id": "1120701334458496_122130236883301053",
       "source_url": "https://www.newsshooter.com/2026/10/13/save-250-usd-on-core-swx-fleet-q4-mini-chargers/?utm_source=rss&utm_medium=rss&utm_campaign=save-250-usd-on-core-swx-fleet-q4-mini-chargers",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-14T10:57:14Z",
+      "date": "2026-10-14",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: People are hating on Apple Music's redesigned black-and-whit",
+      "template": "T_softbg",
+      "heading_image": "Apple Music\nロゴ刷新の噂",
+      "caption_preview": "【最新映像機材ニュース】\n\nApple Music が、象徴的なカラフルロゴを刷新し、よりシンプルな白黒デザインへ変更する可能性があるとの情報が出ています。現時点では公式発表ではなく、噂・リーク段階の情報です。\n\n■ 注目ポイント\n・従来のピンク/パープル系グラデーションから、モノクロベースへ移行の兆し\n・SNS上ではユーザーから否定的な反応が目立つ\n・Apple の近年のアイコンデザイン簡素化ト",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-14-195658.jpg"
+      ],
+      "ig_media_id": "18111682262607883",
+      "fb_post_id": "1120701334458496_122130255015301053",
+      "source_url": "https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/",
+      "source": "Engadget"
     }
   ]
 }
