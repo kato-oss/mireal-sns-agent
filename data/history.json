@@ -6533,6 +6533,26 @@
       ],
       "ig_media_id": "18102233141058531",
       "fb_post_id": "1120701334458496_122130319839301053"
+    },
+    {
+      "timestamp": "2026-10-15T05:43:27Z",
+      "date": "2026-10-15",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 10 Times Different Movies Used the Same Locations",
+      "template": "T_listicle",
+      "heading_image": "別作品で別の土地\n映画の同じロケ地",
+      "caption_preview": "【最新映像機材ニュース】\n\nNoFilmSchoolが、複数の有名作品で撮影地として使われた「同じロケーション10選」を特集。別作品では全く違う土地として登場する興味深いケースを紹介している。\n\n■ 注目ポイント\n・ハリウッド周辺の「サーティマイルゾーン」(TMZの語源) 内に集中するロケ地事情\n・1つの場所が複数作品で別々の設定として使い回される演出テクニック\n・世界各地に存在する、映画ファンな",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-15-144314.jpg"
+      ],
+      "ig_media_id": "18040845476837771",
+      "fb_post_id": "1120701334458496_122130337335301053",
+      "source_url": "https://nofilmschool.com/10-times-movies-used-the-same-locations",
+      "source": "NoFilmSchool"
     }
   ]
 }
