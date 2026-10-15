@@ -6515,6 +6515,24 @@
       "fb_post_id": "1120701334458496_122130279621301053",
       "source_url": "https://www.newsshooter.com/2026/10/14/wooden-camera-cage-accessory-system-for-sony-fx5/?utm_source=rss&utm_medium=rss&utm_campaign=wooden-camera-cage-accessory-system-for-sony-fx5",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-15T01:22:19Z",
+      "date": "2026-10-15",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「明日撮影に来てください」",
+      "template": "T_overlay",
+      "heading_image": "明日、撮りに\n行きます",
+      "caption_preview": "「明日撮影に来てください」\n\nこの一言から始まる依頼が、私たちMIREALには毎週届きます。\n\n来週のイベント。急に決まった採用説明会。社長が明日しか時間を取れない。\n現場の事情は、いつもスケジュール通りには進みません。\n\n一般的な動画制作では、問い合わせから納品まで2〜4週間。\n企画書、絵コンテ、見積もり往復、撮影日程調整、編集、修正。\n工程を丁寧に積み上げるほど、時間は後ろに伸びていきます。\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-15.jpg",
+      "bgs_used": [
+        "bg-005.jpg"
+      ],
+      "ig_media_id": "18102233141058531",
+      "fb_post_id": "1120701334458496_122130319839301053"
     }
   ]
 }
