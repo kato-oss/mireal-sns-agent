@@ -6609,6 +6609,26 @@
       "bgs_used": [],
       "ig_media_id": "18076863548559031",
       "fb_post_id": "1120701334458496_122130408435301053"
+    },
+    {
+      "timestamp": "2026-10-16T05:39:02Z",
+      "date": "2026-10-16",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tesla's redesigned Roadster has a cold-gas thruster option, ",
+      "template": "T_overlay",
+      "heading_image": "新型Roadster\nついに公開",
+      "caption_preview": "【最新ガジェットニュース】\n\nTeslaが次世代Roadsterをついに正式発表。SpaceXパッケージとしてコールドガス スラスター搭載オプションも用意され、予約には25万ドル (約3,750万円) が必要という異例の内容。\n\n■ 注目ポイント\n・次世代Roadsterが正式ベール脱ぎ\n・SpaceX Packageでコールドガス スラスターを搭載可能\n・予約金は全額25万ドル (約3,750万",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-16-143848.jpg"
+      ],
+      "ig_media_id": "18129579616877009",
+      "fb_post_id": "1120701334458496_122130422799301053",
+      "source_url": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/",
+      "source": "Engadget"
     }
   ]
 }
