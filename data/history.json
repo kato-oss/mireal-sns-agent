@@ -6725,6 +6725,26 @@
       "fb_post_id": "1120701334458496_122130528273301053",
       "source_url": "https://www.newsshooter.com/2026/10/16/voxsplit-pro-offline-dialogue-separation-tool-update/?utm_source=rss&utm_medium=rss&utm_campaign=voxsplit-pro-offline-dialogue-separation-tool-update",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-17T09:57:49Z",
+      "date": "2026-10-17",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: AstrHori MF 8mm F2.4 Circular Fisheye Lens for Fujifilm GFX ",
+      "template": "T_overlay",
+      "heading_image": "中判GFXで撮る\n220°円周魚眼",
+      "caption_preview": "【最新映像機材ニュース】\n\nAstrHoriが中判ミラーレス向けの円周魚眼レンズ「MF 8mm F2.4 Circular Fisheye」を発表。富士フイルムGFXマウントとハッセルブラッドXCDマウントに対応し、220°という超広角の円周魚眼像を描き出す意欲作です。\n\n■ 注目ポイント\n・画角220°の円周魚眼で誇張されたパースと独特な歪曲を実現\n・光学設計は7群10枚構成、開放F2.4のマニ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-17-185731.jpg"
+      ],
+      "ig_media_id": "18057104123564768",
+      "fb_post_id": "1120701334458496_122130544611301053",
+      "source_url": "https://www.newsshooter.com/2026/10/17/astrhori-mf-8mm-f2-4-circular-fisheye-lens-for-fujifilm-gfx-hasselblad-xcd/",
+      "source": "Newsshooter"
     }
   ]
 }
