@@ -6705,6 +6705,26 @@
       ],
       "ig_media_id": "18120194528056324",
       "fb_post_id": "1120701334458496_122130515745301053"
+    },
+    {
+      "timestamp": "2026-10-17T05:25:42Z",
+      "date": "2026-10-17",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: VoxSplit Pro offline dialogue-separation tool update",
+      "template": "T_softbg",
+      "heading_image": "セリフの輪郭が\nより鮮明に",
+      "caption_preview": "【最新映像機材ニュース】\n\nLimited Edition Audioのオフライン対話分離ツール「VoxSplit Pro」がVersion 1.9.0にアップデート。映画・TV・ドキュメンタリー制作現場で使われる本ツールが、音質面で大きく進化しました。\n\n■ 注目ポイント\n・歯擦音(シビランス)の処理精度を大幅改善\n・子音の明瞭度が向上し、セリフの輪郭がクリアに\n・高域レンダリングの自然さを強化",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-17-142525.jpg"
+      ],
+      "ig_media_id": "18025254671873513",
+      "fb_post_id": "1120701334458496_122130528273301053",
+      "source_url": "https://www.newsshooter.com/2026/10/16/voxsplit-pro-offline-dialogue-separation-tool-update/?utm_source=rss&utm_medium=rss&utm_campaign=voxsplit-pro-offline-dialogue-separation-tool-update",
+      "source": "Newsshooter"
     }
   ]
 }
