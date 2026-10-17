@@ -6687,6 +6687,24 @@
       "fb_post_id": "1120701334458496_122130461973301053",
       "source_url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-17T01:13:35Z",
+      "date": "2026-10-17",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画の効果が出ない3つの理由」",
+      "template": "T_listicle",
+      "heading_image": "動画の効果が\n出ない理由",
+      "caption_preview": "「動画を作ったのに、全然効果が出ない」\n\n中小企業の現場で、よく聞くお悩みです。\n\n私たちMIREALが見てきた限り、効果が出ない動画には共通点があります。今日はその3つを整理します。\n\n\n理由1. 誰に向けた動画か決めていない\n\n「とりあえず会社紹介」「とりあえず商品紹介」。この“とりあえず”が一番の落とし穴。見る人を1人に絞らないと、誰にも刺さらない動画になります。\n\n\n理由2. 動画の役割を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-17.jpg",
+      "bgs_used": [
+        "bg-025.jpg"
+      ],
+      "ig_media_id": "18120194528056324",
+      "fb_post_id": "1120701334458496_122130515745301053"
     }
   ]
 }
