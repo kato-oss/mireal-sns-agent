@@ -6745,6 +6745,26 @@
       "fb_post_id": "1120701334458496_122130544611301053",
       "source_url": "https://www.newsshooter.com/2026/10/17/astrhori-mf-8mm-f2-4-circular-fisheye-lens-for-fujifilm-gfx-hasselblad-xcd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-17T13:26:20Z",
+      "date": "2026-10-17",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Apple updates App Store rules to ensure it doesn't offer AI ",
+      "template": "T_overlay",
+      "heading_image": "App Store規約強化\nAIヌード化を禁止",
+      "caption_preview": "【最新映像機材ニュース】\n\nAppleがApp Storeのガイドラインを更新し、同意なきAI生成の性的画像（NCII: Non-Consensual Intimate Imagery）を作成するアプリを明確に禁止対象として追加しました。いわゆる「nudify（ヌード化）アプリ」の排除を目的とした規約強化です。\n\n■ 注目ポイント\n・App Store Review Guidelinesに、同意な",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-17-222604.jpg"
+      ],
+      "ig_media_id": "18130388389773239",
+      "fb_post_id": "1120701334458496_122130561525301053",
+      "source_url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/",
+      "source": "Engadget"
     }
   ]
 }
