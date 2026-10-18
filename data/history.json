@@ -6805,6 +6805,26 @@
       "fb_post_id": "1120701334458496_122130650277301053",
       "source_url": "https://www.newsshooter.com/2026/10/17/nanuk-918-hard-case-pro-photo-kit-black-21l-on-sale-for-154-95-usd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-18T13:45:03Z",
+      "date": "2026-10-18",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Incredible Photos Shine a Light on Giraffes in Africa",
+      "template": "T_softbg",
+      "heading_image": "キリンを撮る、\n記憶に残すために。",
+      "caption_preview": "【最新映像機材ニュース】\n\n野生動物写真の名著シリーズ『Remembering Wildlife』最新作「Remembering Giraffes」が発売。世界トップクラスの野生動物写真家が作品を寄贈し、地球上で最も背の高い哺乳類キリンの姿を収めた写真集です。\n\n■ 注目ポイント\n・Jonathan & Angela Scott、Marsel van Oosten、Frans Lanting、Gr",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-18-224444.jpg"
+      ],
+      "ig_media_id": "17936269566400446",
+      "fb_post_id": "1120701334458496_122130668055301053",
+      "source_url": "https://petapixel.com/2026/10/18/incredible-photos-shine-a-light-on-giraffes-in-africa/",
+      "source": "PetaPixel"
     }
   ]
 }
