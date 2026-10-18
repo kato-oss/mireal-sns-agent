@@ -1,0 +1,1039 @@
+{
+  "date": "2026-10-18",
+  "ig": {
+    "username": "mireal_inc",
+    "followers": 413,
+    "follows": 5,
+    "media_count": 487,
+    "reach": 48,
+    "profile_views": 6,
+    "website_clicks": 1
+  },
+  "fb": {
+    "name": "MIREAL.Official",
+    "followers": 2,
+    "fan_count": 2
+  },
+  "posts": [
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "18125956960881317",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 22,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "18106931348625267",
+      "pillar": "C",
+      "format": "F5",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 21,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "17871790164602325",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 30,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "17873972121587325",
+      "pillar": "R",
+      "format": "RECRUIT",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 58,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 7
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "ig_media_id": "18638121088050930",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 9,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "ig_media_id": "18191494042392912",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 17,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "ig_media_id": "18124262005916507",
+      "pillar": "D",
+      "format": "F4",
+      "template": "T_tipcard",
+      "metrics": {
+        "reach": 21,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "ig_media_id": "18143924605596296",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 12,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "ig_media_id": "18105779372187922",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 9,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "ig_media_id": "18435161929179471",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 6,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "ig_media_id": "17950928814274344",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "ig_media_id": "18089326640692745",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 6,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "ig_media_id": "18094774406148349",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "ig_media_id": "18106830263364707",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "ig_media_id": "18103710878344689",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "ig_media_id": "18105606569578566",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "ig_media_id": "18122942434915489",
+      "pillar": "A",
+      "format": "F1",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 6,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "ig_media_id": "18153683285634274",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "ig_media_id": "17967509997176361",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "ig_media_id": "17937127659124202",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "ig_media_id": "18072076688571394",
+      "pillar": "C",
+      "format": "F3",
+      "template": "T_campaign",
+      "metrics": {
+        "reach": 15,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "ig_media_id": "18119570093472360",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "ig_media_id": "18007526943002432",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 7,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "ig_media_id": "18013589336956294",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 8,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "ig_media_id": "18090429866201899",
+      "pillar": "D",
+      "format": "F4",
+      "template": "T_tipcard",
+      "metrics": {
+        "reach": 15,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 4
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "ig_media_id": "18092417591661594",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 16,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "ig_media_id": "18112415927160241",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "ig_media_id": "17963309877212072",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "ig_media_id": "17877424950566422",
+      "pillar": "E",
+      "format": "F2",
+      "template": "T_campaign",
+      "metrics": {
+        "reach": 3,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "ig_media_id": "17920839021443334",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 15,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "ig_media_id": "18625076827009191",
+      "pillar": "R",
+      "format": "RECRUIT",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 20,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 5
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "ig_media_id": "18072692804739543",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 3,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "ig_media_id": "18001454730008122",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "ig_media_id": "18346457563250974",
+      "pillar": "A",
+      "format": "F3",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 21,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "ig_media_id": "18093362114167143",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "ig_media_id": "18127832222307514",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 7,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "ig_media_id": "17929814496453462",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 5,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "ig_media_id": "17863430253696259",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 6,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "ig_media_id": "18109596539352235",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 5,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "ig_media_id": "18012260513970409",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 3,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "ig_media_id": "17910152094559070",
+      "pillar": "D",
+      "format": "F1",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 20,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 4
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "ig_media_id": "17913704313496467",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 7,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "ig_media_id": "18439772485180367",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 4,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "ig_media_id": "17864157372689508",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "ig_media_id": "18636776290005154",
+      "pillar": "A",
+      "format": "F2",
+      "template": "T_campaign",
+      "metrics": {
+        "reach": 21,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 4
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "ig_media_id": "18113661764464659",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 6,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "ig_media_id": "18145173127569519",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "ig_media_id": "17952735918269332",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "ig_media_id": "18202873918376795",
+      "pillar": "C",
+      "format": "F5",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 13,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "ig_media_id": "17972540694175708",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "ig_media_id": "18111682262607883",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 5,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "ig_media_id": "17904772983665137",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 10,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "ig_media_id": "18102233141058531",
+      "pillar": "A",
+      "format": "F3",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 15,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "ig_media_id": "18040845476837771",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 3,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "ig_media_id": "18120425989897571",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 3,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "ig_media_id": "17914025970507527",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 1,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "ig_media_id": "18076863548559031",
+      "pillar": "D",
+      "format": "F4",
+      "template": "T_tipcard",
+      "metrics": {
+        "reach": 10,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "ig_media_id": "18129579616877009",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 8,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "ig_media_id": "18043208981836263",
+      "pillar": "R",
+      "format": "RECRUIT",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "ig_media_id": "18193461748397652",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 3,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "ig_media_id": "17994376593044797",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "ig_media_id": "18120194528056324",
+      "pillar": "C",
+      "format": "F1",
+      "template": "T_listicle",
+      "metrics": {
+        "reach": 7,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "ig_media_id": "18025254671873513",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 3,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "ig_media_id": "18057104123564768",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "ig_media_id": "18130388389773239",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 4,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "ig_media_id": "17938438995392185",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "ig_media_id": "17989922868119723",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_overlay",
+      "metrics": {
+        "reach": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "ig_media_id": "17936269566400446",
+      "pillar": "N",
+      "format": "NEWS",
+      "template": "T_softbg",
+      "metrics": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    }
+  ]
+}
