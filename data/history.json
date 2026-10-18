@@ -6765,6 +6765,26 @@
       "fb_post_id": "1120701334458496_122130561525301053",
       "source_url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-18T05:36:27Z",
+      "date": "2026-10-18",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Why it's important to monitor your PC's background processes",
+      "template": "T_overlay",
+      "heading_image": "PCの裏側を\n監視せよ",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、PCのバックグラウンドプロセスを監視することの重要性について解説記事を公開。編集作業中に突然PCが重くなる、書き出しが遅い…その原因は裏で動くプロセスにあるかもしれない。\n\n■ 注目ポイント\n・Windowsのタスクマネージャー / macOSのアクティビティモニタで常駐プロセスのCPU・メモリ・ディスク・ネットワーク使用率を可視化\n・OS純正プロセ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-18-143609.jpg"
+      ],
+      "ig_media_id": "17938438995392185",
+      "fb_post_id": "1120701334458496_122130631791301053",
+      "source_url": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
+      "source": "Engadget"
     }
   ]
 }
