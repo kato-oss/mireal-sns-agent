@@ -6843,6 +6843,26 @@
       ],
       "ig_media_id": "18287661370290781",
       "fb_post_id": "1120701334458496_122130720099301053"
+    },
+    {
+      "timestamp": "2026-10-19T05:54:49Z",
+      "date": "2026-10-19",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Bright Tangerine Loom Cable Tidies Review",
+      "template": "T_overlay",
+      "heading_image": "ケーブル整理の\n新定番アクセ登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nBright Tangerineから登場した小型アクセサリー「Loom Cable Tidies」のレビュー記事。カメラにアクセサリを追加するたびに増えるケーブルの混雑を、シンプルかつ堅牢にまとめるためのソリューション。\n\n■ 注目ポイント\n・カメラリグ周りのケーブル管理に特化した設計\n・小型・低価格ながら実用性が高いアクセサリ\n・配線のスパゲッティ化を防ぎ、操作性トラ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-19-145432.jpg"
+      ],
+      "ig_media_id": "18100454060564889",
+      "fb_post_id": "1120701334458496_122130737517301053",
+      "source_url": "https://www.newsshooter.com/2026/10/18/bright-tangerine-loom-cable-tidies-review/",
+      "source": "Newsshooter"
     }
   ]
 }
