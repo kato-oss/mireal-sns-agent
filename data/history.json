@@ -6883,6 +6883,26 @@
       "fb_post_id": "1120701334458496_122130758799301053",
       "source_url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-19T16:46:35Z",
+      "date": "2026-10-20",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Fiber vs. cable internet: What's the difference between them",
+      "template": "T_softbg",
+      "heading_image": "光ファイバか、\nケーブルか。",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが光ファイバ回線とケーブル回線の違いを解説。大容量素材のクラウド納品やライブ配信が当たり前になった今、クリエイターの回線選びを改めて整理する内容。\n\n■ 注目ポイント\n・光ファイバは上り下り対称で、下り/上りとも1Gbps〜数Gbps級が主流\n・ケーブル(DOCSIS)は下り重視で、上りは数十Mbps〜数百Mbpsに留まる構成が多い\n・遅延(レイテンシ)",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-20-014617.jpg"
+      ],
+      "ig_media_id": "18007388123996060",
+      "fb_post_id": "1120701334458496_122130784515301053",
+      "source_url": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
+      "source": "Engadget"
     }
   ]
 }
