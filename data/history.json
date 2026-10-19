@@ -6863,6 +6863,26 @@
       "fb_post_id": "1120701334458496_122130737517301053",
       "source_url": "https://www.newsshooter.com/2026/10/18/bright-tangerine-loom-cable-tidies-review/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-19T11:43:21Z",
+      "date": "2026-10-19",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Even Realities G2 review: Smart glasses, stupid controls",
+      "template": "T_overlay",
+      "heading_image": "Even Realities G2\nレビュー公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nEven Realities の第2世代スマートグラス「G2」のレビューがEngadgetで公開。市場でも高評価のスマートグラスだが、機能拡張に伴い操作性に課題が出ているとの指摘。\n\n■ 注目ポイント\n・通常の眼鏡に近い自然なデザインで日常使い可能\n・翻訳・ナビ・プロンプター等、機能セットが着実に拡張\n・一方で増え続ける機能の制御UIが複雑化し、直感的でない\n\n■ なぜ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-19-204304.jpg"
+      ],
+      "ig_media_id": "18093798452682578",
+      "fb_post_id": "1120701334458496_122130758799301053",
+      "source_url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "source": "Engadget"
     }
   ]
 }
