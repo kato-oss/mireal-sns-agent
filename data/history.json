@@ -6825,6 +6825,24 @@
       "fb_post_id": "1120701334458496_122130668055301053",
       "source_url": "https://petapixel.com/2026/10/18/incredible-photos-shine-a-light-on-giraffes-in-africa/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-19T01:01:35Z",
+      "date": "2026-10-19",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画を作る前に決めるべき5つ」",
+      "template": "T_listicle",
+      "heading_image": "動画制作は\n最初の5分で決まる",
+      "caption_preview": "「とりあえず動画を作りたい」\nこの状態で撮影に入ると、だいたい失敗します。\n\n理由はシンプルで、動画の良し悪しは撮影技術より「事前に何を決めたか」で9割決まるから。\n\n私たちが中小企業の現場で、撮影前に必ず一緒に決めている5つを共有します。\n\n1. 誰に見せる動画か\n「全員向け」は誰にも刺さりません。年齢・職業・悩みを1人の顔が浮かぶまで絞る。\n\n2. 見た人にどう動いてほしいか\n問い合わせ、来店",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-19.jpg",
+      "bgs_used": [
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18287661370290781",
+      "fb_post_id": "1120701334458496_122130720099301053"
     }
   ]
 }
