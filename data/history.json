@@ -6969,6 +6969,26 @@
       "fb_post_id": "1120701334458496_122130854445301053",
       "source_url": "https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-10-20T14:38:35Z",
+      "date": "2026-10-20",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Leica Competitor Pixii Is Facing Financial Collapse",
+      "template": "T_softbg",
+      "heading_image": "Pixii、\n経営危機へ",
+      "caption_preview": "【最新映像機材ニュース】\n\nフランスのカメラメーカー Pixii が、同国の正式な破産手続きである「司法清算 (judicial liquidation)」に入ったと報じられた。Leica M マウント互換のデジタルレンジファインダー機で、ニッチながら熱狂的なファンを持つブランドだった。\n\n■ 注目ポイント\n・Pixii は Leica M マウント互換のデジタルレンジファインダーを開発する希少な",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-20-233819.jpg"
+      ],
+      "ig_media_id": "18023475818715837",
+      "fb_post_id": "1120701334458496_122130870369301053",
+      "source_url": "https://petapixel.com/2026/10/20/leica-competitor-pixii-is-facing-financial-collapse/",
+      "source": "PetaPixel"
     }
   ]
 }
