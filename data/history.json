@@ -6949,6 +6949,26 @@
       "fb_post_id": "1120701334458496_122130831801301053",
       "source_url": "https://www.newsshooter.com/2026/10/19/zimaos-photos/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-20T10:44:57Z",
+      "date": "2026-10-20",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blackmagic Design Cuts DaVinci Resolve Studio 21 by 20% – Pa",
+      "template": "T_overlay",
+      "heading_image": "Resolve 21\n20%OFF開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic Designが期間限定でDaVinci Resolve Studio 21を20%オフで販売開始。買い切り版が$295から$239(セールページ表記では$236)に値下げされ、対応するコントロールパネルやエディターキーボードも割引対象になっています。\n\n■ 注目ポイント\n・DaVinci Resolve Studio 21が$295→$239の20",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-20-194439.jpg"
+      ],
+      "ig_media_id": "18115937410832809",
+      "fb_post_id": "1120701334458496_122130854445301053",
+      "source_url": "https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/",
+      "source": "CineD"
     }
   ]
 }
