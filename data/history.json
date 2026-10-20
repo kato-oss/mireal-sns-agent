@@ -6929,6 +6929,26 @@
       ],
       "ig_media_id": "17921798226446445",
       "fb_post_id": "1120701334458496_122130816567301053"
+    },
+    {
+      "timestamp": "2026-10-20T05:46:33Z",
+      "date": "2026-10-20",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: ZimaOS Photos",
+      "template": "T_overlay",
+      "heading_image": "自前NASで\n写真を一元管理",
+      "caption_preview": "【最新映像機材ニュース】\n\nオープンソースのNAS向けOS「ZimaOS」が最新版1.8を公開。新機能として、セルフホスト型のフォトライブラリ「ZimaOS Photos」が追加された。クラウドに頼らず自前サーバーで写真を一元管理できる。\n\n■ 注目ポイント\n・ZimaOS 1.8に統合された写真管理アプリ\n・自宅NASで動く完全セルフホスト型ライブラリ\n・ファイル管理・バックアップ・各種セルフホ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-20.jpg",
+      "bgs_used": [
+        "bg-021.jpg"
+      ],
+      "ig_media_id": "18220319365353544",
+      "fb_post_id": "1120701334458496_122130831801301053",
+      "source_url": "https://www.newsshooter.com/2026/10/19/zimaos-photos/",
+      "source": "Newsshooter"
     }
   ]
 }
