@@ -6903,6 +6903,32 @@
       "fb_post_id": "1120701334458496_122130784515301053",
       "source_url": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-20T01:41:12Z",
+      "date": "2026-10-20",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「税別¥98,000、追加料金なし」",
+      "template": "T_campaign",
+      "heading_image": "動画制作は¥98,000だけ",
+      "caption_preview": "「動画って、結局いくらかかるんですか?」\n\n見積もりを取るたびに不安になる、という声をよく聞きます。\n基本料金は安く見えても、撮影費・編集費・出演費・BGM費・修正費……気づけば数十万円。\n\n私たちMIREALのONE DAY PROMOTIONは、¥98,000(税別)。\nそれだけ。追加料金はありません。\n\nこの金額に含まれているもの:\n\n・撮影(1日・プロカメラマン)\n・編集(構成〜仕上げまで",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-20.jpg",
+      "bgs_used": [
+        "bg-089.jpg",
+        "bg-026.jpg",
+        "bg-046.jpg",
+        "bg-042.jpg",
+        "bg-033.jpg",
+        "bg-084.jpg",
+        "bg-043.jpg",
+        "bg-061.jpg",
+        "bg-070.jpg"
+      ],
+      "ig_media_id": "17921798226446445",
+      "fb_post_id": "1120701334458496_122130816567301053"
     }
   ]
 }
