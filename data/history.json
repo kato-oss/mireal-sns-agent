@@ -7027,6 +7027,26 @@
       "fb_post_id": "1120701334458496_122130920661301053",
       "source_url": "https://www.newsshooter.com/2026/10/20/save-1100-usd-on-the-shape-pro-shoulder-rig-kit-for-sony-fx6/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-21T10:56:33Z",
+      "date": "2026-10-21",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Fisherman Captures Incredible Drone Footage of Huge Whale Fe",
+      "template": "T_softbg",
+      "heading_image": "ドローンが変える\n野生動物撮影",
+      "caption_preview": "【最新映像機材ニュース】\n\n一般の釣り人がドローンで巨大な鯨の捕食シーンを捉えた映像が話題に。かつては一部のプロ写真家しかアクセスできなかった野生動物の決定的瞬間を、民生ドローンとカメラが誰でも撮れる時代にしている。\n\n■ 注目ポイント\n・民生ドローンによる海洋生物の空撮\n・釣り人という非プロが捉えた決定的瞬間\n・ワイルドライフ撮影の民主化を象徴する事例\n\n■ なぜ注目すべきか\nDJI等の民生機の",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-21-195607.jpg"
+      ],
+      "ig_media_id": "17992865007108475",
+      "fb_post_id": "1120701334458496_122130946257301053",
+      "source_url": "https://petapixel.com/2026/10/21/fisherman-captures-incredible-drone-footage-of-huge-whale-feeding/",
+      "source": "PetaPixel"
     }
   ]
 }
