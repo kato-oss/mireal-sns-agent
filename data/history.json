@@ -6989,6 +6989,24 @@
       "fb_post_id": "1120701334458496_122130870369301053",
       "source_url": "https://petapixel.com/2026/10/20/leica-competitor-pixii-is-facing-financial-collapse/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-21T01:26:40Z",
+      "date": "2026-10-21",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「飲食店、商品紹介動画」",
+      "template": "T_overlay",
+      "heading_image": "看板メニューを\n30秒動画に",
+      "caption_preview": "「料理写真はあるけど、動画がない」\nそんな飲食店オーナーの声をよく聞きます。\n\n今回は、仮想ケースでご紹介します。\n\n【業種】ランチが人気のカフェ\n【課題】Instagramで新メニューを告知したいが、写真だけでは湯気やとろけ感が伝わらない。常連さん以外に魅力が届かない。\n\n【ONE DAYでの進め方】\n朝10時、オープン前の店舗に撮影スタッフが到着。\n看板メニュー3品を、湯気・断面・提供シーンま",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-21.jpg",
+      "bgs_used": [
+        "bg-083.jpg"
+      ],
+      "ig_media_id": "18175409125455217",
+      "fb_post_id": "1120701334458496_122130908481301053"
     }
   ]
 }
