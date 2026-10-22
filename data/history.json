@@ -7103,6 +7103,26 @@
       "fb_post_id": "1120701334458496_122131027365301053",
       "source_url": "https://www.dpreview.com/photography/the-winner-of-nikons-small-world-competition-shows-the-microscopic-magic-world-of-printers/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-10-22T14:51:04Z",
+      "date": "2026-10-22",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Insta360 Mic brings flagship-level audio to everyday shootin",
+      "template": "T_overlay",
+      "heading_image": "Insta360 Mic\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nInsta360が新型ワイヤレスマイク「Insta360 Mic」を発表。同社初のカスタマイズ可能なE-Inkディスプレイを搭載し、拡張ストレージにも対応した注目モデル。\n\n■ 注目ポイント\n・同社初のE-Inkディスプレイ搭載、送信機の表示を自由にカスタマイズ可能\n・microSDによる拡張ストレージでバックアップ録音に対応\n・フラッグシップ「Mic Pro」とエント",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-22-235046.jpg"
+      ],
+      "ig_media_id": "17994982017100157",
+      "fb_post_id": "1120701334458496_122131080333301053",
+      "source_url": "https://www.provideocoalition.com/insta360-mic-brings-flagship-level-audio-to-everyday-shooting/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
