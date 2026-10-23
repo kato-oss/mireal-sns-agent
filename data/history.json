@@ -7187,6 +7187,26 @@
       ],
       "ig_media_id": "18129297538862972",
       "fb_post_id": "1120701334458496_122131154169301053"
+    },
+    {
+      "timestamp": "2026-10-23T10:47:50Z",
+      "date": "2026-10-23",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sigma announces new all-metal 50mm F1.4 CL DG | Contemporary",
+      "template": "T_overlay",
+      "heading_image": "Sigma 50mm F1.4\nオールメタル新機軸",
+      "caption_preview": "【最新映像機材ニュース】\n\nSigmaが新しい単焦点レンズ「50mm F1.4 CL DG | Contemporary」を発表。Iシリーズに続く新たな「CL」ラインの第1弾として、オールメタル製の小型軽量ボディにF1.4の明るさを凝縮したプレミアムレンズです。\n\n■ 注目ポイント\n・オールメタル筐体による高い質感と堅牢性\n・小型軽量ながらF1.4の大口径を実現\n・日常スナップから作品撮りまで対応",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-23-194735.jpg"
+      ],
+      "ig_media_id": "18131369824739670",
+      "fb_post_id": "1120701334458496_122131159431301053",
+      "source_url": "https://www.provideocoalition.com/sigma-announces-new-all-metal-50mm-f1-4-cl-dg-contemporary/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
