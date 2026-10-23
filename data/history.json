@@ -7149,6 +7149,26 @@
       ],
       "ig_media_id": "18090439799237948",
       "fb_post_id": "1120701334458496_122131127097301053"
+    },
+    {
+      "timestamp": "2026-10-23T05:51:39Z",
+      "date": "2026-10-23",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Oppo’s Find X10 Pro Max puts 200MP sensors behind all three ",
+      "template": "T_overlay",
+      "heading_image": "全3眼200MP\nFind X10 Pro Max",
+      "caption_preview": "【最新映像機材ニュース】\n\nOppoが新フラッグシップ「Find X10 Pro Max」を発表。リアカメラ3基すべてに200MPセンサーを搭載し、スマホカメラの常識を塗り替える構成となっています。\n\n■ 注目ポイント\n・メイン/超広角/望遠の全3眼が200MPの高解像度センサー\n・8K動画記録に対応\n・オープンゲート記録をサポートし、縦横マルチフォーマット編集に有利\n\n■ なぜ注目すべきか\nオー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-23.jpg",
+      "bgs_used": [
+        "bg-008.jpg"
+      ],
+      "ig_media_id": "18092271200229866",
+      "fb_post_id": "1120701334458496_122131141353301053",
+      "source_url": "https://www.dpreview.com/news/oppos-find-x10-pro-max-puts-200mp-sensors-behind-all-three-rear-cameras/",
+      "source": "DPReview"
     }
   ]
 }
