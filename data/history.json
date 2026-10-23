@@ -7207,6 +7207,26 @@
       "fb_post_id": "1120701334458496_122131159431301053",
       "source_url": "https://www.provideocoalition.com/sigma-announces-new-all-metal-50mm-f1-4-cl-dg-contemporary/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-10-23T14:37:44Z",
+      "date": "2026-10-23",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Best Canon Camera and Lens Deals You Can Get Right Now",
+      "template": "T_overlay",
+      "heading_image": "Canon EOS R と\nRFレンズが値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\nPetaPixel が、現在購入可能な Canon カメラ/レンズのお買い得情報をまとめて公開。ミラーレス EOS R シリーズ本体と RF マウントレンズの一部が値下げ対象になっている。\n\n■ 注目ポイント\n・ベストセラー常連の EOS R シリーズ本体が割引対象に\n・RF マウントレンズも複数ラインナップでディール展開\n・写真/動画両対応モデルが中心で選択肢が広い\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-23-233726.jpg"
+      ],
+      "ig_media_id": "17992751901105920",
+      "fb_post_id": "1120701334458496_122131183431301053",
+      "source_url": "https://petapixel.com/2026/10/23/the-best-canon-camera-and-lens-deals-you-can-get-right-now/",
+      "source": "PetaPixel"
     }
   ]
 }
