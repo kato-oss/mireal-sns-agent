@@ -7265,6 +7265,26 @@
       "fb_post_id": "1120701334458496_122131245243301053",
       "source_url": "https://www.newsshooter.com/2026/10/23/thypoch-simera-c-100mm-t1-9-lens/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-24T10:03:51Z",
+      "date": "2026-10-24",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Motorized Precision KIRA GEN 3 Flagship Camera Robot",
+      "template": "T_overlay",
+      "heading_image": "KIRA GEN 3\n始動",
+      "caption_preview": "【最新映像機材ニュース】\n\nMotorized Precisionが、フラッグシップカメラロボット「KIRA GEN 3」をティザー公開。シネマカメラを高速かつ精密に動かすハイエンドモーションコントロール機の最新世代です。\n\n■ 注目ポイント\n・最大ペイロード 30kg (66.12 lb) に対応、大型シネマリグも搭載可能\n・最高速度 6m/s のハイスピードモーション\n・単相電源対応で現場展開",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-24-190334.jpg"
+      ],
+      "ig_media_id": "17992087872052960",
+      "fb_post_id": "1120701334458496_122131262523301053",
+      "source_url": "https://www.newsshooter.com/2026/10/23/motorized-precision-kira-gen-3-flagship-camera-robot/",
+      "source": "Newsshooter"
     }
   ]
 }
