@@ -7245,6 +7245,26 @@
       ],
       "ig_media_id": "17983314129103210",
       "fb_post_id": "1120701334458496_122131231989301053"
+    },
+    {
+      "timestamp": "2026-10-24T05:34:51Z",
+      "date": "2026-10-24",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Thypoch Simera-C 100mm T1.9 Lens",
+      "template": "T_overlay",
+      "heading_image": "Thypoch 100mm T1.9\nシリーズ全7本完成",
+      "caption_preview": "【最新映像機材ニュース】\n\nThypochがSimera-Cシネプライムシリーズの7本目となる100mm T1.9を発表。これにより16mm/21mm/28mm/35mm/50mm/75mm/100mmの全7本ラインナップが完成しました。\n\n■ 注目ポイント\n・T1.9の明るさを持つ100mmシネプライム\n・Sony Eマウント / Leica Mマウントの2種を用意\n・Simera-Cシリーズ全",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-24-143435.jpg"
+      ],
+      "ig_media_id": "18156076414563631",
+      "fb_post_id": "1120701334458496_122131245243301053",
+      "source_url": "https://www.newsshooter.com/2026/10/23/thypoch-simera-c-100mm-t1-9-lens/",
+      "source": "Newsshooter"
     }
   ]
 }
