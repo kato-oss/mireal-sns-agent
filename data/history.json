@@ -7285,6 +7285,24 @@
       "fb_post_id": "1120701334458496_122131262523301053",
       "source_url": "https://www.newsshooter.com/2026/10/23/motorized-precision-kira-gen-3-flagship-camera-robot/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-24T13:48:52Z",
+      "date": "2026-10-24",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The beneficial purpose of 'IQ' on your Anker chargers",
+      "template": "T_tipcard",
+      "heading_image": "AnkerのIQが\n示す意味",
+      "caption_preview": "【最新ガジェット解説】\n\nAnkerの充電器に書かれている「IQ」の文字。これはAnker独自の充電最適化技術「PowerIQ」を示すマーク。接続した機器を自動識別し、その機器に最適な電圧・電流を供給する仕組みで、ロケや出張で複数デバイスを同時運用する映像クリエイターにとって地味に重要な機能。\n\n■ 注目ポイント\n・接続機器を自動識別して最適な出力を供給\n・iPhone/Android/タブレット",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-24.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18108223856262595",
+      "fb_post_id": "1120701334458496_122131283415301053",
+      "source_url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
+      "source": "Engadget"
     }
   ]
 }
