@@ -7303,6 +7303,26 @@
       "fb_post_id": "1120701334458496_122131283415301053",
       "source_url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-25T05:50:28Z",
+      "date": "2026-10-25",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Here's what you need to know before buying a wireless CarPla",
+      "template": "T_overlay",
+      "heading_image": "ワイヤレスCarPlay\n購入前のポイント",
+      "caption_preview": "【最新ガジェットニュース】\n\nEngadgetが、ワイヤレスCarPlayアダプタの購入前に知っておくべきポイントを解説。新しい車やヘッドユニットに買い替えなくても、適切なアダプタを使えば、iPhoneとCarPlayをケーブルレスで接続できる。\n\n■ 注目ポイント\n・有線CarPlay対応車なら基本的に後付けで無線化が可能\n・ドングル型アダプタをUSBポートに挿すだけで利用開始\n・Bluetoo",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-25-145013.jpg"
+      ],
+      "ig_media_id": "18426509185150489",
+      "fb_post_id": "1120701334458496_122131337313301053",
+      "source_url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+      "source": "Engadget"
     }
   ]
 }
