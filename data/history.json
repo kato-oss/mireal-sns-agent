@@ -7343,6 +7343,26 @@
       "fb_post_id": "1120701334458496_122131353399301053",
       "source_url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-26T05:53:26Z",
+      "date": "2026-10-26",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sennheiser EW 112P G4 Camera-Mount Wireless Omni Lavalier Mi",
+      "template": "T_overlay",
+      "heading_image": "定番ピンマイクが\n$280オフの衝撃",
+      "caption_preview": "【最新映像機材ニュース】\n\nSennheiserの定番カメラマウント型ワイヤレスラベリアマイクシステム「EW 112P G4」が$419 USDでセール中。通常から$280 USDオフという大幅値引きとなっている。\n\n■ 注目ポイント\n・オムニ指向性ラベリアマイク ME 2-II 同梱のフルセット\n・周波数帯は A1: 470-516 MHz / G: 566-608 MHz の2バージョン展開\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-26-145311.jpg"
+      ],
+      "ig_media_id": "18075204986723356",
+      "fb_post_id": "1120701334458496_122131458081301053",
+      "source_url": "https://www.newsshooter.com/2026/10/25/sennheiser-ew-112p-g4-camera-mount-wireless-omni-lavalier-microphone-system-on-sale-for-419-usd/",
+      "source": "Newsshooter"
     }
   ]
 }
