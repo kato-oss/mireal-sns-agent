@@ -7363,6 +7363,26 @@
       "fb_post_id": "1120701334458496_122131458081301053",
       "source_url": "https://www.newsshooter.com/2026/10/25/sennheiser-ew-112p-g4-camera-mount-wireless-omni-lavalier-microphone-system-on-sale-for-419-usd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-26T11:59:50Z",
+      "date": "2026-10-26",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: GoPro Close-Up Filters for MISSION 1 Announced – PolarPro Di",
+      "template": "T_overlay",
+      "heading_image": "GoProで\nマクロ撮影",
+      "caption_preview": "【最新映像機材ニュース】\n\nGoProが、MISSION 1 / MISSION 1 PRO向けのクローズアップフィルターを発表。PolarPro製のディオプター(接写レンズ)で、固定14mmレンズの最短撮影距離を縮め、より浅い被写界深度での寄り撮影を可能にする。\n\n■ 注目ポイント\n・単体 +0.5ディオプター: $49.99\n・+0.5 / +1 / +2 の3枚セット+トラベルケース: $9",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-26-205933.jpg"
+      ],
+      "ig_media_id": "18078164429749420",
+      "fb_post_id": "1120701334458496_122131486683301053",
+      "source_url": "https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/",
+      "source": "CineD"
     }
   ]
 }
