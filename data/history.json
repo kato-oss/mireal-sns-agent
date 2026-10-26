@@ -7383,6 +7383,26 @@
       "fb_post_id": "1120701334458496_122131486683301053",
       "source_url": "https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-10-26T16:26:33Z",
+      "date": "2026-10-27",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: GoPro Launches Some New Close-Up Filters to Add Cinematic De",
+      "template": "T_overlay",
+      "heading_image": "GoProが新型\nクローズアップフィルター",
+      "caption_preview": "【最新映像機材ニュース】\n\nGoProがMISSION 1シリーズ向けの新しいクローズアップフィルターを発表。PolarProとの共同開発で、コンパクトシネマカメラでより映画的な被写界深度表現を可能にする。\n\n■ 注目ポイント\n・MISSION 1 / MISSION 1 Pro / MISSION 1 Pro ILSに対応\n・近接撮影でボケ感と立体感を演出できる光学設計\n・フィルター業界で定評の",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-27-012618.jpg"
+      ],
+      "ig_media_id": "17929139091186588",
+      "fb_post_id": "1120701334458496_122131513839301053",
+      "source_url": "https://nofilmschool.com/gopro-close-up-filters",
+      "source": "NoFilmSchool"
     }
   ]
 }
