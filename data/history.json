@@ -7441,6 +7441,26 @@
       "fb_post_id": "1120701334458496_122131576173301053",
       "source_url": "https://www.newsshooter.com/2026/10/26/blackmagic-design-fusion-studio-21-1-2/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-27T11:21:09Z",
+      "date": "2026-10-27",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: OpenAI announces new discoveries in mathematics, computer sc",
+      "template": "T_softbg",
+      "heading_image": "AIが数学の\n未解決問題に挑む",
+      "caption_preview": "【最新テックニュース】\n\nOpenAIが、自社のAIモデルが数学・計算機科学・物理学の分野で新たな発見に貢献したと発表。中でも計算理論の未解決問題「指数時間仮説(ETH)」が偽であることを示す証明を生成したと主張しており、学術界で議論を呼んでいる。\n\n■ 注目ポイント\n・OpenAIモデルがETH(指数時間仮説)が偽であることの証明を生成したと発表\n・数学・物理学の未解決問題でも新たな結果を提示\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-27-202052.jpg"
+      ],
+      "ig_media_id": "17966721803992565",
+      "fb_post_id": "1120701334458496_122131597845301053",
+      "source_url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+      "source": "Engadget"
     }
   ]
 }
