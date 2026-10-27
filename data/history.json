@@ -7421,6 +7421,26 @@
       ],
       "ig_media_id": "18134850487664328",
       "fb_post_id": "1120701334458496_122131559217301053"
+    },
+    {
+      "timestamp": "2026-10-27T06:06:41Z",
+      "date": "2026-10-27",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Blackmagic Design Fusion Studio 21.1.2",
+      "template": "T_overlay",
+      "heading_image": "Fusion Studio 21.1.2\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nBlackmagic DesignがFusion Studio 21.1.2をリリース。OGrafグラフィックスの再生性能が最大4倍に向上し、テンプレート制御やレスポンシブ対応も強化された。さらにLinux環境でOGrafとLottieのグラフィックスがサポートされ、放送・配信ワークフローの選択肢が広がる。\n\n■ 注目ポイント\n・OGrafの再生速度が最大4倍に高速化\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-27-150625.jpg"
+      ],
+      "ig_media_id": "18338639983274058",
+      "fb_post_id": "1120701334458496_122131576173301053",
+      "source_url": "https://www.newsshooter.com/2026/10/26/blackmagic-design-fusion-studio-21-1-2/",
+      "source": "Newsshooter"
     }
   ]
 }
