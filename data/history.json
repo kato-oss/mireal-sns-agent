@@ -7481,6 +7481,24 @@
       "fb_post_id": "1120701334458496_122131626093301053",
       "source_url": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-28T02:06:21Z",
+      "date": "2026-10-28",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画依頼の流れ全部見せ」",
+      "template": "T_listicle",
+      "heading_image": "動画依頼から納品\nまでの全工程",
+      "caption_preview": "「動画を頼むって、何から始めればいいの？」\n\n初めての方からよくいただく質問です。\n今日は、MIREALに動画を依頼してから納品されるまでの流れを、全部そのままお見せします。\n\n【ステップ1】問い合わせ（所要5分）\nフォームから「業種」「用途」「希望日」をご記入ください。折り返しご連絡します。\n\n【ステップ2】ヒアリング（30分・オンライン）\n何を伝えたいか、誰に届けたいか。ここだけじっくり伺いま",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-28.jpg",
+      "bgs_used": [
+        "bg-065.jpg"
+      ],
+      "ig_media_id": "18130939804889019",
+      "fb_post_id": "1120701334458496_122131687407301053"
     }
   ]
 }
