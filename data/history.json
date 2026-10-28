@@ -7499,6 +7499,26 @@
       ],
       "ig_media_id": "18130939804889019",
       "fb_post_id": "1120701334458496_122131687407301053"
+    },
+    {
+      "timestamp": "2026-10-28T06:44:24Z",
+      "date": "2026-10-28",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony Japan announces the release date for the FX5 is Friday,",
+      "template": "T_overlay",
+      "heading_image": "Sony FX5\n発売日が正式決定",
+      "caption_preview": "【最新映像機材ニュース】\n\nSony Japanが、Cinema Lineの新型「FX5」の発売日を2026年11月20日(金)と正式に発表しました。業界内では延期の理由について以前から様々な噂が流れていましたが、Sonyはこれまで公式な説明を一切していません。今回のアナウンスでようやく正式な発売日が確定した形です。\n\n■ 注目ポイント\n・発売日: 2026年11月20日(金) 確定\n・Sony ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-28-154411.jpg"
+      ],
+      "ig_media_id": "18179130502445794",
+      "fb_post_id": "1120701334458496_122131705551301053",
+      "source_url": "https://www.newsshooter.com/2026/10/27/sony-japan-announces-the-release-date-for-the-fx5-is-friday-november-20-2026/",
+      "source": "Newsshooter"
     }
   ]
 }
