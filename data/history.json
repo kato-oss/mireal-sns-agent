@@ -7519,6 +7519,26 @@
       "fb_post_id": "1120701334458496_122131705551301053",
       "source_url": "https://www.newsshooter.com/2026/10/27/sony-japan-announces-the-release-date-for-the-fx5-is-friday-november-20-2026/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-28T11:55:04Z",
+      "date": "2026-10-28",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sony LYTIA 720 Announced – 50MP 1/1.56-Inch Mobile Sensor, 4",
+      "template": "T_overlay",
+      "heading_image": "Sony LYTIA 720\n発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nSony Semiconductor Solutionsがスマートフォンのメインカメラ向け新型イメージセンサー「LYTIA 720」を発表。フラッグシップではないものの、上位LYTIAの技術をミドル〜アッパーミドル機で主流の1/1.56型にまで落とし込んだ注目チップです。\n\n■ 注目ポイント\n・1/1.56型 積層型CMOS、対角10.24mm、約5000万画素 / 1",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-28-205447.jpg"
+      ],
+      "ig_media_id": "18098110076392873",
+      "fb_post_id": "1120701334458496_122131731213301053",
+      "source_url": "https://www.cined.com/sony-lytia-720-announced-50mp-1-1-56-inch-mobile-sensor-4k-60p-hdr-100-db-dynamic-range/",
+      "source": "CineD"
     }
   ]
 }
