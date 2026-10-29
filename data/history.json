@@ -7597,6 +7597,26 @@
       "fb_post_id": "1120701334458496_122131886733301053",
       "source_url": "https://www.cined.com/fujifilm-fujikina-nyc-2026-recap-real-images-real-community-and-no-ai-talk/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-10-29T16:34:38Z",
+      "date": "2026-10-30",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Siruri is joining the race to build $150 autofocus primes",
+      "template": "T_softbg",
+      "heading_image": "150ドルのAF単焦点\n新時代の幕開け",
+      "caption_preview": "【最新映像機材ニュース】\n\nSiruri が新シリーズ「Swift」で低価格オートフォーカス単焦点市場に参戦。20mm F2.4 と 40mm F2.2 の2本をラインナップし、Sony E / Fujifilm X / L マウントに対応します。\n\n■ 注目ポイント\n・価格は約150ドル帯、TTArtisan や AstrHori と同じ超低価格レンジ\n・20mm F2.4 と 40mm F2.",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-29.jpg",
+      "bgs_used": [
+        "bg-083.jpg"
+      ],
+      "ig_media_id": "18339681952273366",
+      "fb_post_id": "1120701334458496_122131920339301053",
+      "source_url": "https://www.dpreview.com/news/siruri-is-joining-the-race-to-build-150-autofocus-primes/",
+      "source": "DPReview"
     }
   ]
 }
