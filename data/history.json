@@ -7557,6 +7557,26 @@
       ],
       "ig_media_id": "18358129123219819",
       "fb_post_id": "1120701334458496_122131841025301053"
+    },
+    {
+      "timestamp": "2026-10-29T06:52:09Z",
+      "date": "2026-10-29",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Chromagraph Camera iOS App by Steve Yedlin ASC",
+      "template": "T_overlay",
+      "heading_image": "ハリウッドDPが作った\niPhoneカメラアプリ",
+      "caption_preview": "【最新映像機材ニュース】\n\n『Looper』『Knives Out』などの撮影監督 Steve Yedlin ASC が、監督 Rian Johnson、エンジニア Eric Cameron と共同で、iPhone用スチルカメラアプリ「Chromagraph Camera」をApp Storeでリリース。元々は自分たち用に作ったものを一般公開した形。\n\n■ 注目ポイント\n・ハリウッド現役DPが設計",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-29.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-29-155156.jpg"
+      ],
+      "ig_media_id": "18122990143937380",
+      "fb_post_id": "1120701334458496_122131861329301053",
+      "source_url": "https://www.newsshooter.com/2026/10/28/chromagraph-camera-ios-app-by-steve-yedlin-asc/",
+      "source": "Newsshooter"
     }
   ]
 }
