@@ -7577,6 +7577,26 @@
       "fb_post_id": "1120701334458496_122131861329301053",
       "source_url": "https://www.newsshooter.com/2026/10/28/chromagraph-camera-ios-app-by-steve-yedlin-asc/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-29T12:02:27Z",
+      "date": "2026-10-29",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: FUJIFILM Fujikina NYC 2026 Recap – Real Images, Real Communi",
+      "template": "T_softbg",
+      "heading_image": "AIの話題ゼロ\n写真が人を集めた3日間",
+      "caption_preview": "【最新映像機材ニュース】\n\nFUJIFILMがニューヨークのロウアー・イースト・サイドで開催した3日間のコミュニティフェス「Fujikina NYC 2026」のレポート。CineDのライターがプレス取材もスケジュールもなく、カメラ1台で参加した現地レポートです。\n\n■ 注目ポイント\n・取材・インタビュー・撮影案件なしの純粋な「参加型」フェス\n・会場では誰もAIの話をしていなかったという異例の空気",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-29.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-29-210207.jpg"
+      ],
+      "ig_media_id": "17888140107492708",
+      "fb_post_id": "1120701334458496_122131886733301053",
+      "source_url": "https://www.cined.com/fujifilm-fujikina-nyc-2026-recap-real-images-real-community-and-no-ai-talk/",
+      "source": "CineD"
     }
   ]
 }
