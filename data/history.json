@@ -7539,6 +7539,24 @@
       "fb_post_id": "1120701334458496_122131731213301053",
       "source_url": "https://www.cined.com/sony-lytia-720-announced-50mp-1-1-56-inch-mobile-sensor-4k-60p-hdr-100-db-dynamic-range/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-10-29T02:17:26Z",
+      "date": "2026-10-29",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "D",
+      "format": "F3",
+      "theme": "「撮影〜納品早回し」",
+      "template": "T_overlay",
+      "heading_image": "撮影から納品まで\n1日で完結する流れ",
+      "caption_preview": "「本当に1日で動画が納品されるの?」\nよく聞かれる質問です。\n\n今回はリール動画で、ONE DAY PROMOTIONの1日の流れを早回しでお見せします。\n\n【朝9:00】撮影クルー到着・機材セッティング\n専用機材を車に積み込み、現場へ直行。カメラ・照明・音声の設営は30分で完了します。\n\n【10:00〜12:00】撮影\n事前に固めた構成に沿って、カット単位で巻き取り。社長挨拶、商品紹介、店舗カッ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-29.jpg",
+      "bgs_used": [
+        "bg-076.jpg"
+      ],
+      "ig_media_id": "18358129123219819",
+      "fb_post_id": "1120701334458496_122131841025301053"
     }
   ]
 }
