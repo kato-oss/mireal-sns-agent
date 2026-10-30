@@ -7643,6 +7643,26 @@
       ],
       "ig_media_id": "17938884801401047",
       "fb_post_id": "1120701334458496_122131990005301053"
+    },
+    {
+      "timestamp": "2026-10-30T06:55:47Z",
+      "date": "2026-10-30",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sachtler Flowtech 75 MS Carbon Fiber Tripod System with Ace ",
+      "template": "T_overlay",
+      "heading_image": "Sachtler Flowtech\n$350オフ開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nSachtlerの定番カーボン三脚システム「Flowtech 75 MS Carbon Fiber Tripod System with Ace XL Mark II Fluid Head」が$350オフの$1,680で販売中。シネマ/ドキュメンタリー現場で絶大な支持を集めるFlowtech脚の、エントリーしやすい価格帯のセット。\n\n■ 注目ポイント\n・Flowtech",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-30-155530.jpg"
+      ],
+      "ig_media_id": "17997412653043503",
+      "fb_post_id": "1120701334458496_122132004681301053",
+      "source_url": "https://www.newsshooter.com/2026/10/29/sachtler-flowtech-75-ms-carbon-fiber-tripod-system-with-ace-xl-mark-ii-fluid-head-on-sale-for-1680-usd/",
+      "source": "Newsshooter"
     }
   ]
 }
