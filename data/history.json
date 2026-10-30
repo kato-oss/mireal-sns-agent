@@ -7701,6 +7701,26 @@
       "fb_post_id": "1120701334458496_122132038827301053",
       "source_url": "https://petapixel.com/2026/10/30/reddit-will-force-users-to-log-in-to-crack-down-on-bots/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-10-30T16:30:18Z",
+      "date": "2026-10-31",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: New tvOS 27.2 features to try for an upgraded Apple TV exper",
+      "template": "T_overlay",
+      "heading_image": "tvOS 27.2\n配信開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nAppleがApple TV向けOS「tvOS 27.2」をリリース。大規模な刷新ではないものの、UI改善や細かな機能追加が含まれており、Apple TVをメディアサーバーやレビュー用モニターとして使うクリエイターにも関わるアップデートとなっている。\n\n■ 注目ポイント\n・インターフェース周りの細かな改良\n・新機能がいくつか追加され、使い勝手が向上\n・Apple TV ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-31-013001.jpg"
+      ],
+      "ig_media_id": "17969461335196898",
+      "fb_post_id": "1120701334458496_122132068161301053",
+      "source_url": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
+      "source": "Engadget"
     }
   ]
 }
