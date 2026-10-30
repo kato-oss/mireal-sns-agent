@@ -7681,6 +7681,26 @@
       ],
       "ig_media_id": "17892514014456150",
       "fb_post_id": "1120701334458496_122132032749301053"
+    },
+    {
+      "timestamp": "2026-10-30T11:56:39Z",
+      "date": "2026-10-30",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Reddit Will Force Users to Log In to Crack Down on Bots",
+      "template": "T_overlay",
+      "heading_image": "Reddit\nログイン必須化へ",
+      "caption_preview": "【最新映像機材ニュース】\n\nRedditが、未ログインユーザーに対してサイトおよびアプリの大部分へのアクセスを制限する方針を発表。AIボットによる大規模スクレイピング対策が主な目的とされる。映像機材のレビューや作例情報を Reddit で検索している映像クリエイターにとっても影響が出そうなアップデート。\n\n■ 注目ポイント\n・未ログイン状態では閲覧できる範囲が大幅に制限される見込み\n・AIクローラ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-30.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-30-205621.jpg"
+      ],
+      "ig_media_id": "17881639428547585",
+      "fb_post_id": "1120701334458496_122132038827301053",
+      "source_url": "https://petapixel.com/2026/10/30/reddit-will-force-users-to-log-in-to-crack-down-on-bots/",
+      "source": "PetaPixel"
     }
   ]
 }
