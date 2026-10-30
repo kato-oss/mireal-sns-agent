@@ -7617,6 +7617,32 @@
       "fb_post_id": "1120701334458496_122131920339301053",
       "source_url": "https://www.dpreview.com/news/siruri-is-joining-the-race-to-build-150-autofocus-primes/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-10-30T02:30:56Z",
+      "date": "2026-10-30",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "C",
+      "format": "F2",
+      "theme": "「次の四半期、動画始めませんか」",
+      "template": "T_campaign",
+      "heading_image": "中小企業の動画は¥98,000から",
+      "caption_preview": "気づけば今年もあと2ヶ月。\n「来期こそ、動画をやろう」\nそう思ったまま、また一年が過ぎていませんか。\n\n動画を後回しにしてしまう理由は、だいたい3つです。\n\n1. 何から始めればいいか分からない\n2. 制作費が読めない\n3. 社内に動画の担当がいない\n\n私たちMIREALがつくったONE DAY PROMOTIONは、この3つを一気に片付けるために設計しました。\n\n企画のヒアリングから、撮影、編集",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-30.jpg",
+      "bgs_used": [
+        "bg-007.jpg",
+        "bg-005.jpg",
+        "bg-062.jpg",
+        "bg-024.jpg",
+        "bg-080.jpg",
+        "bg-036.jpg",
+        "bg-094.jpg",
+        "bg-077.jpg",
+        "bg-082.jpg"
+      ],
+      "ig_media_id": "17938884801401047",
+      "fb_post_id": "1120701334458496_122131990005301053"
     }
   ]
 }
