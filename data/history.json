@@ -7721,6 +7721,24 @@
       "fb_post_id": "1120701334458496_122132068161301053",
       "source_url": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-10-31T02:13:07Z",
+      "date": "2026-10-31",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "B",
+      "format": "F1",
+      "theme": "「動画制作の見積もりで騙されないコツ」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で損する\n見積もりの罠",
+      "caption_preview": "「見積もりをもらったら、思ったより高かった」\n「後から追加費用を請求された」\n\n動画制作の見積もりで、こんな経験はありませんか。\n\n私たちMIREALが、現場でよく聞く「見積もりの落とし穴」を5つにまとめました。\n\n1. 「一式」表記が多い\n→ 内訳が不透明。何にいくらかかっているか分からない見積もりは要注意です。\n\n2. 修正回数が明記されていない\n→ 「修正1回まで無料」なのか「無制限」なのか",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-31.jpg",
+      "bgs_used": [
+        "bg-018.jpg"
+      ],
+      "ig_media_id": "18121455634999646",
+      "fb_post_id": "1120701334458496_122132127627301053"
     }
   ]
 }
