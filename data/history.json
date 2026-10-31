@@ -7759,6 +7759,26 @@
       "fb_post_id": "1120701334458496_122132156817301053",
       "source_url": "https://www.newsshooter.com/2026/10/30/tilta-baby-pin-monitor-mount-for-boulder-camera-cart/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-31T11:29:54Z",
+      "date": "2026-10-31",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nikon Consolidated Financial Forecast for the Fiscal Year En",
+      "template": "T_softbg",
+      "heading_image": "Nikon、黒字\n転換へ始動",
+      "caption_preview": "【最新映像機材ニュース】\n\nNikonが2027年3月期(FY2027)の連結業績予想を発表。前年度860億円の最終赤字から一転、160億円の純利益(約1億155万ドル)への黒字転換を見込んでいる。\n\n■ 注目ポイント\n・FY2027 連結純利益予想: +160億円\n・前年度(FY2026): -860億円の最終赤字からの反転\n・映像事業を含むグループ全体の見通しとして公表\n\n■ なぜ注目すべきか",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-31.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-31-202936.jpg"
+      ],
+      "ig_media_id": "17995017611849253",
+      "fb_post_id": "1120701334458496_122132183193301053",
+      "source_url": "https://www.newsshooter.com/2026/10/30/nikon-consolidated-financial-forecast-for-the-fiscal-year-ending-march-31-2027/",
+      "source": "Newsshooter"
     }
   ]
 }
