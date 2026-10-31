@@ -7739,6 +7739,26 @@
       ],
       "ig_media_id": "18121455634999646",
       "fb_post_id": "1120701334458496_122132127627301053"
+    },
+    {
+      "timestamp": "2026-10-31T06:49:38Z",
+      "date": "2026-10-31",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: TILTA Baby Pin Monitor Mount for Boulder Camera Cart",
+      "template": "T_overlay",
+      "heading_image": "TILTAが新作\nモニターマウント発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nTILTAがBoulder Camera Cart向けの新しい「Baby Pin Monitor Mount」を発表。モニターの保持と給電、さらにアクセサリー増設も可能なオールインワン設計です。\n\n■ 注目ポイント\n・業界標準のベビーピンレシーバー採用で、C-Standや各種ライトスタンドにも装着可能\n・Boulder Camera Cartへ直接マウントできる専用設計",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-31.jpg",
+      "bgs_used": [
+        "news_bg/2026-10-31-154927.jpg"
+      ],
+      "ig_media_id": "18568229170072040",
+      "fb_post_id": "1120701334458496_122132156817301053",
+      "source_url": "https://www.newsshooter.com/2026/10/30/tilta-baby-pin-monitor-mount-for-boulder-camera-cart/",
+      "source": "Newsshooter"
     }
   ]
 }
