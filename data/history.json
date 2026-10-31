@@ -7779,6 +7779,26 @@
       "fb_post_id": "1120701334458496_122132183193301053",
       "source_url": "https://www.newsshooter.com/2026/10/30/nikon-consolidated-financial-forecast-for-the-fiscal-year-ending-march-31-2027/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-10-31T15:36:06Z",
+      "date": "2026-11-01",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Amazon Fire TV Stick setting you should try for better a",
+      "template": "T_overlay",
+      "heading_image": "Fire TVの音声設定で\nセリフが聴きやすく",
+      "caption_preview": "【最新映像機材ニュース】\n\nAmazon Fire TV Stickに搭載されている音声設定を調整することで、映画やドラマのセリフをより明瞭に再生できることが紹介されている。アクションシーンの爆音とセリフの音量差に悩まされてきたユーザーに向けた、見逃されがちな機能。\n\n■ 注目ポイント\n・ダイアログブースト機能で会話音声を強調\n・環境音・BGMとのバランスを自動調整\n・外部スピーカーやサウンドバー",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-10-31.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-01-003550.jpg"
+      ],
+      "ig_media_id": "17977849272158547",
+      "fb_post_id": "1120701334458496_122132210055301053",
+      "source_url": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
+      "source": "Engadget"
     }
   ]
 }
