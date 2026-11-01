@@ -7819,6 +7819,26 @@
       "fb_post_id": "1120701334458496_122132296179301053",
       "source_url": "https://www.newsshooter.com/2026/10/31/bts-of-spider-man-brand-new-day-shot-on-sony-venice-2/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-01T12:26:23Z",
+      "date": "2026-11-01",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Nextorage NX-F2AE Series SDXC UHS-II Memory Cards",
+      "template": "T_overlay",
+      "heading_image": "Nextorage\nNX-F2AE 発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nNextorageが、プロフェッショナル映像制作向けに設計された新しいSDXC UHS-IIメモリーカード「NX-F2AE Series」を発表しました。既存のNextorage SDXC UHS-IIラインナップの上位モデルとなる位置づけです。\n\n■ 注目ポイント\n・4K/8Kなど高解像度・高ビットレートコーデックに対応\n・UHS-II規格で安定した連続記録性能を確保",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-01-212609.jpg"
+      ],
+      "ig_media_id": "18125232802937475",
+      "fb_post_id": "1120701334458496_122132318349301053",
+      "source_url": "https://www.newsshooter.com/2026/11/01/nextorage-nx-f2ae-series-sdxc-uhs-ii-memory-cards/",
+      "source": "Newsshooter"
     }
   ]
 }
