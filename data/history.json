@@ -7799,6 +7799,26 @@
       "fb_post_id": "1120701334458496_122132210055301053",
       "source_url": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-01T07:16:01Z",
+      "date": "2026-11-01",
+      "weekday": "日",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: BTS of Spider-Man: Brand New Day Shot on Sony VENICE 2",
+      "template": "T_overlay",
+      "heading_image": "スパイダーマン新作\nBTS映像公開",
+      "caption_preview": "【最新映像機材ニュース】\n\nSony Picturesが『Spider-Man: Brand New Day』のBTS映像を公開。撮影にはSony VENICE 2、Rialto Extension System、そしてFX3が投入されている。\n\n■ 注目ポイント\n・メインカメラはVENICE 2 (8.6K フルサイズセンサー)\n・Rialto Extension Systemでセンサーブロック",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-01.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-01-161545.jpg"
+      ],
+      "ig_media_id": "18008857956005914",
+      "fb_post_id": "1120701334458496_122132296179301053",
+      "source_url": "https://www.newsshooter.com/2026/10/31/bts-of-spider-man-brand-new-day-shot-on-sony-venice-2/",
+      "source": "Newsshooter"
     }
   ]
 }
