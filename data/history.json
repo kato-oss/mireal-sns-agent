@@ -7899,6 +7899,26 @@
       "fb_post_id": "1120701334458496_122132480259301053",
       "source_url": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-11-02T19:57:49Z",
+      "date": "2026-11-03",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Casio's new keyboard lets anyone play along to songs without",
+      "template": "T_overlay",
+      "heading_image": "Casio新型キーボード\nFeel Sync搭載",
+      "caption_preview": "【最新ガジェットニュース】\n\nCasioが新しいキーボードを発表。独自の「Feel Sync」技術により、初心者でも曲に合わせて“間違った音を鳴らさずに”演奏できる仕組みを搭載しています。映像制作における劇伴やBGM制作の裾野を広げる可能性も。\n\n■ 注目ポイント\n・新技術「Feel Sync」を搭載し、どの鍵盤を押しても曲のキーに沿った音が鳴る\n・初心者やノンミュージシャンでも楽曲に合わせた演奏",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-02.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-03-045730.jpg"
+      ],
+      "ig_media_id": "18170298232487800",
+      "fb_post_id": "1120701334458496_122132521755301053",
+      "source_url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
+      "source": "Engadget"
     }
   ]
 }
