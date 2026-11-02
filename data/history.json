@@ -7879,6 +7879,26 @@
       "fb_post_id": "1120701334458496_122132434167301053",
       "source_url": "https://www.newsshooter.com/2026/11/01/sennheiser-profile-1-person-clip-on-wireless-microphone-system-recorder-for-camera-smartphone-2-4-ghz-on-sale-for-99-usd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-02T14:23:04Z",
+      "date": "2026-11-02",
+      "weekday": "月",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Rough Cuts on a Freelancer’s Clock – Understanding Adobe Pre",
+      "template": "T_softbg",
+      "heading_image": "AIが変える\nラフ編集の速度",
+      "caption_preview": "【最新映像機材ニュース】\n\n火曜朝9時、クライアントから3時間分のカンファレンス素材とインタビュー、整理されていないBロールが届き、締切は木曜。プロジェクト単価制のフリーランスにとって、一次アセンブリの時間はそのまま利益を削る。ProVideoCoalitionがAdobe Premiere ProのAI機能群をフリーランス視点で検証した。\n\n■ 注目ポイント\n・Text-Based Editin",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-02.jpg",
+      "bgs_used": [
+        "bg-074.jpg"
+      ],
+      "ig_media_id": "18100017740535013",
+      "fb_post_id": "1120701334458496_122132480259301053",
+      "source_url": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
+      "source": "ProVideoCoalition"
     }
   ]
 }
