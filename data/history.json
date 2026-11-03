@@ -7919,6 +7919,24 @@
       "fb_post_id": "1120701334458496_122132521755301053",
       "source_url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-03T03:53:57Z",
+      "date": "2026-11-03",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画制作で2週間待たされる本当の理由」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で2週間\n待たされる理由",
+      "caption_preview": "「動画お願いしたら、納品まで2週間って言われた…」\nこれ、業界では普通のこと。でも、なぜそんなに時間がかかるのか、理由を知っていますか。\n\n実は、制作の工程を分解すると見えてきます。\n\n1. 企画・構成の往復に3〜5日\nヒアリング、構成案、修正、再提出。メールのラリーだけで1週間近く溶けることも。\n\n2. 撮影日の調整に2〜4日\nカメラマン、ディレクター、クライアントの3者スケジュール合わせ。\n\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-03.jpg",
+      "bgs_used": [
+        "bg-039.jpg"
+      ],
+      "ig_media_id": "18642380512003871",
+      "fb_post_id": "1120701334458496_122132557359301053"
     }
   ]
 }
