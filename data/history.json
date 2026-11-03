@@ -7977,6 +7977,26 @@
       "fb_post_id": "1120701334458496_122132600649301053",
       "source_url": "https://www.dpreview.com/photography/weather-photographer-of-the-year-2026-finalists/",
       "source": "DPReview"
+    },
+    {
+      "timestamp": "2026-11-03T17:29:58Z",
+      "date": "2026-11-04",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How to choose the right gaming monitor for you",
+      "template": "T_listicle",
+      "heading_image": "ゲーミングモニター\n選びの基準",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetがゲーミングモニター選びのガイド記事を公開。初めての購入からアップグレードまで、押さえるべきスペックを整理した内容。映像制作用途のサブモニター選定にも参考になる視点が多い。\n\n■ 注目ポイント\n・解像度 (1440p が現状のスイートスポット、4Kは要GPU性能)\n・リフレッシュレート (144Hz以上が主流、240Hz/360Hzも選択肢)\n・パネル方",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-04-022940.jpg"
+      ],
+      "ig_media_id": "18142028761620438",
+      "fb_post_id": "1120701334458496_122132625513301053",
+      "source_url": "https://www.engadget.com/2300429/how-to-choose-the-right-gaming-monitor-for-you/",
+      "source": "Engadget"
     }
   ]
 }
