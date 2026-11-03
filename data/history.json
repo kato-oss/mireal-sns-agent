@@ -7957,6 +7957,26 @@
       "fb_post_id": "1120701334458496_122132574381301053",
       "source_url": "https://www.newsshooter.com/2026/11/02/deity-has-released-the-pr-2ii-pocket-recorder/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-03T13:22:49Z",
+      "date": "2026-11-03",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Triple lightning over NYC and a tornado: Weather Photographe",
+      "template": "T_softbg",
+      "heading_image": "空が描いた\n一瞬の芸術",
+      "caption_preview": "【最新映像機材ニュース】\n\n英国王立気象学会主催「Weather Photographer of the Year 2026」の最終候補30作品が発表。13ヶ国から5,500点超の応募の中から、ニューヨーク上空の三重稲妻、竜巻、山火事、洪水、後退する氷河など、気象と気候変動を捉えた圧巻の作品が選ばれた。\n\n■ 注目ポイント\n・応募総数5,500点超/13ヶ国から選出\n・三重稲妻や竜巻などの瞬間捕捉",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-03.jpg",
+      "bgs_used": [
+        "bg-004.jpg"
+      ],
+      "ig_media_id": "18013682433002241",
+      "fb_post_id": "1120701334458496_122132600649301053",
+      "source_url": "https://www.dpreview.com/photography/weather-photographer-of-the-year-2026-finalists/",
+      "source": "DPReview"
     }
   ]
 }
