@@ -7937,6 +7937,26 @@
       ],
       "ig_media_id": "18642380512003871",
       "fb_post_id": "1120701334458496_122132557359301053"
+    },
+    {
+      "timestamp": "2026-11-03T07:44:49Z",
+      "date": "2026-11-03",
+      "weekday": "火",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Deity has released the PR-2ii Pocket Recorder",
+      "template": "T_overlay",
+      "heading_image": "Deity PR-2ii\n発売開始",
+      "caption_preview": "【最新映像機材ニュース】\n\nDeity Microphonesが、ポケットレコーダー「PR-2」の第2世代となる「PR-2ii」を発売。B&Hにてラベリアマイク付属で$259にて販売開始されました。\n\n■ 注目ポイント\n・2入力2トラック仕様のウェアラブルレコーダー\n・出演者の身につけたり、シーンに仕込んだり、小型リグのバックアップ録音にも対応\n・ラベリアマイク同梱で$259という競争力ある価格設",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-03.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-03-164434.jpg"
+      ],
+      "ig_media_id": "18086557223321654",
+      "fb_post_id": "1120701334458496_122132574381301053",
+      "source_url": "https://www.newsshooter.com/2026/11/02/deity-has-released-the-pr-2ii-pocket-recorder/",
+      "source": "Newsshooter"
     }
   ]
 }
