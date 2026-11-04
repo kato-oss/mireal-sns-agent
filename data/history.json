@@ -8015,6 +8015,26 @@
       ],
       "ig_media_id": "18047974631818184",
       "fb_post_id": "1120701334458496_122132684319301053"
+    },
+    {
+      "timestamp": "2026-11-04T07:22:27Z",
+      "date": "2026-11-04",
+      "weekday": "水",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Maria Popova's Guide on How to Write Something Wise",
+      "template": "T_softbg",
+      "heading_image": "ネットを離れ\n深く掘る",
+      "caption_preview": "【最新映像制作ニュース】\n\nエッセイスト Maria Popova が David Perell のポッドキャストに登場し、自身のリサーチと執筆プロセスを公開。ブログ/エッセイ中心の活動ながら、脚本家や映像作家にも応用できる示唆に富む内容として NoFilmSchool が紹介している。\n\n■ 注目ポイント\n・「ネットから離れてリサーチする」—一次資料・書籍・物理アーカイブに触れることで、他者と同",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-04.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-04-162209.jpg"
+      ],
+      "ig_media_id": "18143734759610543",
+      "fb_post_id": "1120701334458496_122132704947301053",
+      "source_url": "https://nofilmschool.com/maria-popovas-guide-on-how-to-write-something-wise",
+      "source": "NoFilmSchool"
     }
   ]
 }
