@@ -8075,6 +8075,26 @@
       "fb_post_id": "1120701334458496_122132787255301053",
       "source_url": "https://nofilmschool.com/arah-schwab-three-features",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-05T07:49:08Z",
+      "date": "2026-11-05",
+      "weekday": "木",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Iconic Film Intros: Willy Wonka in 'Willy Wonka and the Choc",
+      "template": "T_softbg",
+      "heading_image": "期待を裏切る、\n緩急の演出術",
+      "caption_preview": "【映像演出アーカイブ】\n\n1971年版『夢のチョコレート工場』におけるウィリー・ウォンカ(ジーン・ワイルダー)の初登場シーンを解剖する記事。映画史に残る『キャラクター登場演出』の教科書として語り継がれる名シーンです。\n\n■ 注目ポイント\n・工場前に集まった家族たちの期待を最高潮まで煽ってからの『失速』演出\n・杖をつき足を引きずる沈痛な姿で登場→直後の前転アクションへの転換\n・観客と登場人物双方の『",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-05.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-05-164852.jpg"
+      ],
+      "ig_media_id": "18122999720286429",
+      "fb_post_id": "1120701334458496_122132862711301053",
+      "source_url": "https://nofilmschool.com/iconic-film-intros-willy-wonka",
+      "source": "NoFilmSchool"
     }
   ]
 }
