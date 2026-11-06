@@ -8153,6 +8153,26 @@
       ],
       "ig_media_id": "18152818099508219",
       "fb_post_id": "1120701334458496_122133005703301053"
+    },
+    {
+      "timestamp": "2026-11-06T07:48:40Z",
+      "date": "2026-11-06",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tilta Khronos OPPO Find X10 Pro Max Creator Kit",
+      "template": "T_overlay",
+      "heading_image": "スマホが変わる\nシネマリグ化キット",
+      "caption_preview": "【最新映像機材ニュース】\n\nTiltaがOPPO Find X10 Pro Max専用の『Khronos Creator Kit』を発表。カメラケージ風デザインのスマホケースを中心に、スマートフォンを本格的な撮影リグへ拡張するシステムです。\n\n■ 注目ポイント\n・カメラケージをモチーフにした専用スマホケースで日常的な傷や衝撃から保護\n・新しいクイックリリース式スナップイン構造で、ケースの着脱が高速",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-06-164826.jpg"
+      ],
+      "ig_media_id": "17969095752206860",
+      "fb_post_id": "1120701334458496_122133025287301053",
+      "source_url": "https://www.newsshooter.com/2026/11/05/tilta-khronos-oppo-find-x10-pro-max-creator-kit/",
+      "source": "Newsshooter"
     }
   ]
 }
