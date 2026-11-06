@@ -8193,6 +8193,26 @@
       "fb_post_id": "1120701334458496_122133063051301053",
       "source_url": "https://www.cined.com/ivanky-fusiondock-ultra-review-26-ports-10gbe-and-a-dual-cable-design-for-the-mac-desk/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-11-06T17:08:07Z",
+      "date": "2026-11-07",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 6 Editing Lessons from Stanley Kubrick",
+      "template": "T_listicle",
+      "heading_image": "キューブリックに学ぶ\n編集の教訓",
+      "caption_preview": "【最新映像機材ニュース】\n\nNoFilmSchoolが、スタンリー・キューブリックの編集手法を解説した新作ビデオエッセイを紹介。「映画は3回作られる(脚本・撮影・編集)」という格言を体現した巨匠が、ポストプロダクションで何を実践していたかを6つの教訓にまとめている。\n\n■ 注目ポイント\n・脚本・監督・編集の全工程に深く関与し、ビジョンの一貫性を維持\n・編集を「2回目の脚本執筆」と捉えるアプローチ\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-07-020751.jpg"
+      ],
+      "ig_media_id": "18102899342383958",
+      "fb_post_id": "1120701334458496_122133082233301053",
+      "source_url": "https://nofilmschool.com/stanley-kubrick-editing-lessons",
+      "source": "NoFilmSchool"
     }
   ]
 }
