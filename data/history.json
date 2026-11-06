@@ -8135,6 +8135,24 @@
       "fb_post_id": "1120701334458496_122132933121301053",
       "source_url": "https://nofilmschool.com/arri-reference-tool-cmd-update",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-06T03:20:59Z",
+      "date": "2026-11-06",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「町の整骨院、Instagram用動画を作った話」",
+      "template": "T_overlay",
+      "heading_image": "町の整骨院の\nInstagram動画",
+      "caption_preview": "「ホームページはある。チラシも配った。でも新規の予約が思うように伸びない」\n\n地方都市で開業10年目の整骨院さんから、こんなご相談をいただいた想定でお話しします。\n\n課題はシンプルでした。\n近隣に競合の整骨院が増えて、「どこも同じに見える」状態。院長の人柄や施術のこだわりが、文字と写真だけでは伝わりきらない。\n\nそこで選ばれたのが、Instagram用の短尺動画です。\n\nONE DAY PROMO",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-06.jpg",
+      "bgs_used": [
+        "bg-005.jpg"
+      ],
+      "ig_media_id": "18152818099508219",
+      "fb_post_id": "1120701334458496_122133005703301053"
     }
   ]
 }
