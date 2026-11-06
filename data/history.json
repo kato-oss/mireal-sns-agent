@@ -8173,6 +8173,26 @@
       "fb_post_id": "1120701334458496_122133025287301053",
       "source_url": "https://www.newsshooter.com/2026/11/05/tilta-khronos-oppo-find-x10-pro-max-creator-kit/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-06T13:31:59Z",
+      "date": "2026-11-06",
+      "weekday": "金",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: iVANKY FusionDock Ultra Review – 26 Ports, 10GbE and a Dual-",
+      "template": "T_overlay",
+      "heading_image": "iVANKY\nFusionDock Ultra",
+      "caption_preview": "【最新映像機材ニュース】\n\niVANKYのフラッグシップドック「FusionDock Ultra」のレビューがCineDに掲載。MacBook Proのポート不足を一掃する、26ポート搭載のThunderbolt 4ドックです。\n\n■ 注目ポイント\n・デュアルThunderbolt 4ホスト接続による広帯域確保\n・26ポート搭載 (10GbE、SD/CFexpressカードリーダー、USB-A/C",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-06.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-06-223140.jpg"
+      ],
+      "ig_media_id": "17940694104399893",
+      "fb_post_id": "1120701334458496_122133063051301053",
+      "source_url": "https://www.cined.com/ivanky-fusiondock-ultra-review-26-ports-10gbe-and-a-dual-cable-design-for-the-mac-desk/",
+      "source": "CineD"
     }
   ]
 }
