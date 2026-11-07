@@ -8269,6 +8269,26 @@
       "fb_post_id": "1120701334458496_122133168489301053",
       "source_url": "https://petapixel.com/2026/11/07/violette-cornelius-pioneering-female-photographer-discovered-after-thousands-of-negatives-found-in-suitcase/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-07T16:04:16Z",
+      "date": "2026-11-08",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Cleaning your PC with expired isopropyl alcohol can be risky",
+      "template": "T_overlay",
+      "heading_image": "期限切れIPAが\n機材を壊す理由",
+      "caption_preview": "【最新映像機材ニュース】\n\nカメラやPC、レンズ接点の清掃に定番のイソプロピルアルコール(IPA)。しかしEngadgetが、期限切れIPAを使うことで機材を傷めるリスクについて警告しています。\n\n■ 注目ポイント\n・IPAは時間経過と共に水分を吸収し、アルコール濃度が低下する\n・濃度が落ちると乾燥が遅くなり、基板や接点に水分が残留する恐れ\n・開封後のボトルは特に劣化が早く、ラベルの製造日・使用期",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-08-010359.jpg"
+      ],
+      "ig_media_id": "17992970913097017",
+      "fb_post_id": "1120701334458496_122133191685301053",
+      "source_url": "https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/",
+      "source": "Engadget"
     }
   ]
 }
