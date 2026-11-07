@@ -8229,6 +8229,26 @@
       "bgs_used": [],
       "ig_media_id": "17992625123865324",
       "fb_post_id": "1120701334458496_122133117255301053"
+    },
+    {
+      "timestamp": "2026-11-07T06:56:23Z",
+      "date": "2026-11-07",
+      "weekday": "土",
+      "week_num": 1,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Motorola’s $1,599 Signature 27 Is the ‘World’s Fastest Andro",
+      "template": "T_overlay",
+      "heading_image": "Motorola Signature 27\n世界最速Android発表",
+      "caption_preview": "【最新映像機材ニュース】\n\nMotorolaが新フラッグシップスマートフォン「Signature 27」を正式発表。 $1,599 (約24万円) という強気な価格設定で、「世界最速のAndroidスマートフォン」を謳うハイエンドスラブ型モデル。\n\n■ 注目ポイント\n・「世界最速Android」を標榜する最新チップセット搭載\n・$1,599 はAndroid機としては最高峰クラスの価格帯\n・長期の",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-07.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-07-155608.jpg"
+      ],
+      "ig_media_id": "18118017488585342",
+      "fb_post_id": "1120701334458496_122133147963301053",
+      "source_url": "https://petapixel.com/2026/11/06/motorolas-1599-signature-27-is-the-worlds-fastest-android-smartphone/",
+      "source": "PetaPixel"
     }
   ]
 }
