@@ -8289,6 +8289,26 @@
       "fb_post_id": "1120701334458496_122133191685301053",
       "source_url": "https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-08T07:03:17Z",
+      "date": "2026-11-08",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Samsung One UI 9.5 beta may be coming soon: Here's how to si",
+      "template": "T_overlay",
+      "heading_image": "One UI 9.5\nベータ間近か",
+      "caption_preview": "【最新ガジェットニュース】\n\nSamsungが次期OS「One UI 9.5」のベータプログラム準備を進めている模様。正式ローンチは2027年が見込まれており、Galaxyユーザーはまもなくテスター登録が可能になりそうです。\n\n■ 注目ポイント\n・One UI 9.5 ベータプログラムが近日開始の兆し\n・対象はGalaxy最新モデル中心になる見込み\n・登録はSamsung Members アプリか",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-08-160302.jpg"
+      ],
+      "ig_media_id": "18165736957498739",
+      "fb_post_id": "1120701334458496_122133261003301053",
+      "source_url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+      "source": "Engadget"
     }
   ]
 }
