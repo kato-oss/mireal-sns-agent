@@ -8309,6 +8309,26 @@
       "fb_post_id": "1120701334458496_122133261003301053",
       "source_url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-08T12:32:28Z",
+      "date": "2026-11-08",
+      "weekday": "日",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 10 useful iPad apps that could make your daily life easier",
+      "template": "T_listicle",
+      "heading_image": "iPadをもっと使い倒す\n実用アプリ厳選",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、日常やクリエイティブ業務に役立つiPad向けアプリ10選を紹介。Apple純正アプリの先にある選択肢として、すべて無料枠を備えたアプリがピックアップされています。\n\n■ 注目ポイント\n・全アプリが無料ティア付きで気軽に試せる\n・純正のメモ/カレンダー/リマインダーを超える機能性\n・iPadのLiquid Retina/Apple Pencil環境を活",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-08-213214.jpg"
+      ],
+      "ig_media_id": "18117439742128145",
+      "fb_post_id": "1120701334458496_122133283623301053",
+      "source_url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+      "source": "Engadget"
     }
   ]
 }
