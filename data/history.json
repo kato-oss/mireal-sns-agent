@@ -8329,6 +8329,26 @@
       "fb_post_id": "1120701334458496_122133283623301053",
       "source_url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-08T16:30:18Z",
+      "date": "2026-11-09",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: You can attach your Fitbit Air to almost any old-school watc",
+      "template": "T_overlay",
+      "heading_image": "Fitbit Air\nアナログ時計に装着",
+      "caption_preview": "【最新ガジェットニュース】\n\nFitbitの新型「Fitbit Air」は画面を持たない小型トラッキングデバイス。Engadgetが、このデバイスを既存のアナログ腕時計に組み合わせて装着するいくつかの方法を紹介している。\n\n■ 注目ポイント\n・Fitbit Air はスクリーンレス設計、センサーに特化した小型トラッカー\n・専用バンド以外にも、既存のアナログ時計のストラップに取り付けるアプローチが可",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-08.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-09-013004.jpg"
+      ],
+      "ig_media_id": "18080539454415608",
+      "fb_post_id": "1120701334458496_122133316941301053",
+      "source_url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
+      "source": "Engadget"
     }
   ]
 }
