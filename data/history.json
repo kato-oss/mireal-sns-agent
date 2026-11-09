@@ -8349,6 +8349,24 @@
       "fb_post_id": "1120701334458496_122133316941301053",
       "source_url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-09T02:31:58Z",
+      "date": "2026-11-09",
+      "weekday": "月",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F1",
+      "theme": "「失敗する動画の3パターン」",
+      "template": "T_listicle",
+      "heading_image": "成果が出ない動画の\n共通パターン",
+      "caption_preview": "「動画を作ったのに、再生されない」\n「社内で評判は良かったのに、問い合わせがゼロ」\n\n私たちが現場で聞く、こうした相談には共通点があります。\n失敗する動画は、だいたい次の3パターンに当てはまります。\n\n【1】誰に見せたいか決まっていない\n「とりあえず会社紹介」「とりあえず商品説明」。\nターゲットが曖昧なまま撮ると、誰の心にも刺さらない動画になります。\n30代の経営者に見せるのか、20代の求職者に見",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-09.jpg",
+      "bgs_used": [
+        "bg-071.jpg"
+      ],
+      "ig_media_id": "18127914419490349",
+      "fb_post_id": "1120701334458496_122133374607301053"
     }
   ]
 }
