@@ -8387,6 +8387,26 @@
       "fb_post_id": "1120701334458496_122133394347301053",
       "source_url": "https://www.newsshooter.com/2026/11/08/sigma-28mm-f-1-4-dg-hsm-art-lens-sony-e-on-sale-for-399-usd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-09T20:23:55Z",
+      "date": "2026-11-10",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Artizlab Revives a Leica Classic for Just $400",
+      "template": "T_overlay",
+      "heading_image": "$400で蘇る\n名玉Summilux",
+      "caption_preview": "【最新映像機材ニュース】\n\nArtizlabが新作レンズ「Classic-M 1:1.4/50mm」を発表。1960年代の名玉として知られるLeica Summilux 50mm f/1.4 第二世代 (E43) の描写と外観をオマージュした50mm単焦点で、価格は約$400。\n\n■ 注目ポイント\n・オリジナルSummilux E43の描写性格を再現することを狙った設計\n・開放f/1.4のクラシカ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-09.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-10-052334.jpg"
+      ],
+      "ig_media_id": "17919400488468009",
+      "fb_post_id": "1120701334458496_122133456465301053",
+      "source_url": "https://petapixel.com/2026/11/09/artizlab-revives-a-leica-classic-for-just-400/",
+      "source": "PetaPixel"
     }
   ]
 }
