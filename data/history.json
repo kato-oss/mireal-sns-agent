@@ -8407,6 +8407,32 @@
       "fb_post_id": "1120701334458496_122133456465301053",
       "source_url": "https://petapixel.com/2026/11/09/artizlab-revives-a-leica-classic-for-just-400/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-10T04:34:00Z",
+      "date": "2026-11-10",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "A",
+      "format": "F2",
+      "theme": "「即日納品って、本当に？」",
+      "template": "T_campaign",
+      "heading_image": "撮影から納品まで1日で完結",
+      "caption_preview": "「即日納品って、本当にできるんですか?」\n\n私たちが一番よく聞かれる質問です。\n\n答えは、はい、本当です。\nただし、仕組みがあります。\n\nONE DAY PROMOTIONの1日とは、こういう流れです。\n\n9:00 撮影クルー到着・セッティング\n10:00 撮影スタート\n13:00 撮影終了・その場で素材チェック\n14:00 編集開始（専用テンプレートで高速化）\n17:00 初稿共有\n翌営業日 修",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-10.jpg",
+      "bgs_used": [
+        "bg-002.jpg",
+        "bg-058.jpg",
+        "bg-043.jpg",
+        "bg-014.jpg",
+        "bg-078.jpg",
+        "bg-017.jpg",
+        "bg-065.jpg",
+        "bg-006.jpg",
+        "bg-040.jpg"
+      ],
+      "ig_media_id": "18108040121373061",
+      "fb_post_id": "1120701334458496_122133492885301053"
     }
   ]
 }
