@@ -8433,6 +8433,26 @@
       ],
       "ig_media_id": "18108040121373061",
       "fb_post_id": "1120701334458496_122133492885301053"
+    },
+    {
+      "timestamp": "2026-11-10T08:08:16Z",
+      "date": "2026-11-10",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: HoverAir Versa review: Convenience and creativity with compr",
+      "template": "T_overlay",
+      "heading_image": "HoverAir Versa\nレビュー速報",
+      "caption_preview": "【最新映像機材ニュース】\n\nHoverAirの新作「Versa」は、自律飛行ドローンとアクションカメラを合体させたユニークな一台。カメラ部分が着脱可能で、空撮から手持ち/マウント撮影まで一台でカバーする構造が特徴。\n\n■ 注目ポイント\n・ドローン本体からカメラモジュールを分離し、アクションカムとして単体使用可能\n・HoverAir従来のAI追尾・自律飛行モードを継承し、ワンボタンで撮影開始\n・Go",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-10-170801.jpg"
+      ],
+      "ig_media_id": "18164723011500975",
+      "fb_post_id": "1120701334458496_122133505203301053",
+      "source_url": "https://www.engadget.com/2311413/hoverair-versa-review/",
+      "source": "Engadget"
     }
   ]
 }
