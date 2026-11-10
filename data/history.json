@@ -8453,6 +8453,26 @@
       "fb_post_id": "1120701334458496_122133505203301053",
       "source_url": "https://www.engadget.com/2311413/hoverair-versa-review/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-10T14:02:11Z",
+      "date": "2026-11-10",
+      "weekday": "火",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Adobe’s Creative Agent Wants To Do the Photo and Video Editi",
+      "template": "T_overlay",
+      "heading_image": "AdobeのAIが\n編集作業を肩代わり",
+      "caption_preview": "【最新映像機材ニュース】\n\nマイアミで開催された Adobe MAX にて、Adobe Creative Agent の大幅拡張が発表。長年開発されてきたエージェント型AIが、ついに本格的に解き放たれる形となった。\n\n■ 注目ポイント\n・Firefly だけでなく Photoshop や Premiere など Creative Cloud 全体でテキスト指示に対応\n・面倒な編集タスク(切り抜き・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-10-230157.jpg"
+      ],
+      "ig_media_id": "17915809464286138",
+      "fb_post_id": "1120701334458496_122133561951301053",
+      "source_url": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
+      "source": "PetaPixel"
     }
   ]
 }
