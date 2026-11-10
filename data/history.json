@@ -8473,6 +8473,26 @@
       "fb_post_id": "1120701334458496_122133561951301053",
       "source_url": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-10T17:27:12Z",
+      "date": "2026-11-11",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Can you use WD-40 on your electronics?",
+      "template": "T_overlay",
+      "heading_image": "WD-40は電子機器に\n使っていいのか？",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが「WD-40は電子機器のメンテに使っていいのか？」という定番の疑問を検証。カメラやPC周辺機器の清掃で誤った製品選びをすると、接点不良や基板ダメージの原因になる。\n\n■ 注目ポイント\n・WD-40は本来「防錆・潤滑剤」であり、電子機器用クリーナーではない\n・石油系溶剤を含むため、プラスチックやゴム、コーティングを侵す可能性\n・電子接点専用には「Cont",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-10.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-11-022656.jpg"
+      ],
+      "ig_media_id": "18101140853388828",
+      "fb_post_id": "1120701334458496_122133581505301053",
+      "source_url": "https://www.engadget.com/2307782/can-you-use-wd40-on-electronics/",
+      "source": "Engadget"
     }
   ]
 }
