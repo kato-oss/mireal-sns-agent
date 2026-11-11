@@ -8531,6 +8531,26 @@
       "fb_post_id": "1120701334458496_122133631623301053",
       "source_url": "https://www.newsshooter.com/2026/11/10/save-200-usd-on-the-watson-pro-14-4v-98wh-micro-v-mount-battery-with-usb-c-port/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-11T13:19:19Z",
+      "date": "2026-11-11",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost elec",
+      "template": "T_softbg",
+      "heading_image": "低価格EVの王者、\n静かに最終章へ",
+      "caption_preview": "【最新ガジェットニュース】\n\nシボレーの低価格EV「Bolt」の2027年モデルがレビュー公開。一度は生産終了となった人気モデルが復活したものの、今回のモデルが最終世代となる見込み。\n\n■ 注目ポイント\n・低価格EV市場の象徴的存在が復活\n・「GOAT (史上最高)」と評される手頃な電動モビリティ\n・ただし今回のモデルで系譜は終焉へ\n\n■ なぜ注目すべきか\n映像クリエイターにとってロケ機材車として",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-11-221902.jpg"
+      ],
+      "ig_media_id": "18106275071343736",
+      "fb_post_id": "1120701334458496_122133664605301053",
+      "source_url": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
+      "source": "Engadget"
     }
   ]
 }
