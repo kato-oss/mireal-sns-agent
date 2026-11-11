@@ -8493,6 +8493,24 @@
       "fb_post_id": "1120701334458496_122133581505301053",
       "source_url": "https://www.engadget.com/2307782/can-you-use-wd40-on-electronics/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-11T02:40:27Z",
+      "date": "2026-11-11",
+      "weekday": "水",
+      "week_num": 2,
+      "pillar": "C",
+      "format": "F5",
+      "theme": "「採用動画、応募率が変わった話」",
+      "template": "T_overlay",
+      "heading_image": "応募率が3倍に\n変わった理由",
+      "caption_preview": "「求人を出しても、応募がこない」\n\n地方で小さな工務店を営む会社から、こんな相談をいただくことがあります。\n\n求人媒体の文章は整えた。\n写真も差し替えた。\nでも、問い合わせが増えない。\n\n理由はシンプルで、\n応募を考えている人は「職場の空気」を見たいからです。\n\n文字と写真だけでは、どんな人が働いているか、現場がどんな雰囲気か、伝わりきらない。ここで動画が効きます。\n\nMIREALの ONE DA",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-11.jpg",
+      "bgs_used": [
+        "bg-022.jpg"
+      ],
+      "ig_media_id": "18140355922650597",
+      "fb_post_id": "1120701334458496_122133609249301053"
     }
   ]
 }
