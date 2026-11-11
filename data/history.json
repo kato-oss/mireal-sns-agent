@@ -8551,6 +8551,26 @@
       "fb_post_id": "1120701334458496_122133664605301053",
       "source_url": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-11T17:40:49Z",
+      "date": "2026-11-12",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Deal: RED KOMODO-X 6K drops to $4,995 at B&H",
+      "template": "T_overlay",
+      "heading_image": "KOMODO-X 6Kが\n$4,995に値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\nB&HがRED DIGITAL CINEMAのKOMODO-X 6K（Canon RFマウント・ブラック）を $4,995 USD で販売中。通常価格 $6,995から $2,000オフのホリデーセール価格です。\n\n■ 注目ポイント\n・6K Super 35 グローバルシャッター CMOSセンサー搭載のシネマカメラ\n・REDCODE RAW収録に対応し、ハイエンド現場で",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-11.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-12-024032.jpg"
+      ],
+      "ig_media_id": "18093616733287270",
+      "fb_post_id": "1120701334458496_122133684465301053",
+      "source_url": "https://www.newsshooter.com/2026/11/11/deal-red-komodo-x-6k-drops-to-4995-at-bh/",
+      "source": "Newsshooter"
     }
   ]
 }
