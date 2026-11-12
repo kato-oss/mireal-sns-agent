@@ -8627,6 +8627,26 @@
       "fb_post_id": "1120701334458496_122133782769301053",
       "source_url": "https://petapixel.com/2026/11/12/leica-is-giving-the-m-a-and-m11-p-hammertone-special-edition-variants/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-12T17:53:17Z",
+      "date": "2026-11-13",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Director of ‘Knives Out’ Has Just Released a $13 Camera ",
+      "template": "T_overlay",
+      "heading_image": "Knives Out監督が\nカメラアプリ公開",
+      "caption_preview": "【最新映像機材ニュース】\n\n『Knives Out』『Looper』で知られる映画監督 Rian Johnson と、長年コンビを組む撮影監督 Steve Yedlin が、iPhone 向けカメラアプリを約 $13 でリリース。映画制作の現場で培った画作りの思想を、スマホ撮影に落とし込んだユニークなツールです。\n\n■ 注目ポイント\n・ハリウッドの第一線で活躍する監督×撮影監督タッグによる開発\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-13-025301.jpg"
+      ],
+      "ig_media_id": "18128556566513421",
+      "fb_post_id": "1120701334458496_122133804429301053",
+      "source_url": "https://petapixel.com/2026/11/12/the-director-of-knives-out-has-just-released-a-13-camera-app/",
+      "source": "PetaPixel"
     }
   ]
 }
