@@ -8607,6 +8607,26 @@
       "fb_post_id": "1120701334458496_122133753909301053",
       "source_url": "https://nofilmschool.com/iconic-director-actor-duos",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-12T14:24:08Z",
+      "date": "2026-11-12",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Leica Is Giving the M-A and M11-P Hammertone Special Edition",
+      "template": "T_overlay",
+      "heading_image": "Leica が放つ\nハンマートーン特別版",
+      "caption_preview": "【最新映像機材ニュース】\n\nLeica が M-A と M11-P のスペシャルエディションを発表。同社が「クラシックかつ稀にしか採用しないデザイン」と表現する、ハンマートーン仕上げを纏ったバリエーションとなります。\n\n■ 注目ポイント\n・フィルム機 M-A とデジタル機 M11-P という、Mシステムの両軸にハンマートーン塗装を採用\n・ハンマートーンは金属表面に凹凸のあるハンマー打ち風テクスチャ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-12-232353.jpg"
+      ],
+      "ig_media_id": "17951455665064203",
+      "fb_post_id": "1120701334458496_122133782769301053",
+      "source_url": "https://petapixel.com/2026/11/12/leica-is-giving-the-m-a-and-m11-p-hammertone-special-edition-variants/",
+      "source": "PetaPixel"
     }
   ]
 }
