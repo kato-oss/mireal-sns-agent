@@ -8571,6 +8571,22 @@
       "fb_post_id": "1120701334458496_122133684465301053",
       "source_url": "https://www.newsshooter.com/2026/11/11/deal-red-komodo-x-6k-drops-to-4995-at-bh/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-12T03:43:28Z",
+      "date": "2026-11-12",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "D",
+      "format": "F4",
+      "theme": "「編集ソフトちら見せ」",
+      "template": "T_tipcard",
+      "heading_image": "1日納品を支える\n編集設計の裏側",
+      "caption_preview": "「1日で動画って、本当に間に合うの?」\nよく聞かれます。\n\n答えは、仕組みにあります。\n今日は編集画面の裏側を少しだけ。\n\n私たちは、撮影前の段階で編集の設計が8割終わっています。\n\n具体的には、\n・カット割りのテンプレートが用意されている\n・テロップのフォント、色、位置が規定済み\n・BGM素材は用途別にライブラリ化\n・書き出し設定もプリセット保存\n\nつまり、撮影が終わった時点で、編集者は「素材を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-12.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18109422389250501",
+      "fb_post_id": "1120701334458496_122133737259301053"
     }
   ]
 }
