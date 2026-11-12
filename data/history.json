@@ -8587,6 +8587,26 @@
       "bgs_used": [],
       "ig_media_id": "18109422389250501",
       "fb_post_id": "1120701334458496_122133737259301053"
+    },
+    {
+      "timestamp": "2026-11-12T08:04:30Z",
+      "date": "2026-11-12",
+      "weekday": "木",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The 8 Greatest Director-Actor Duos in Movie History",
+      "template": "T_listicle",
+      "heading_image": "映画史に残る\n名監督×名俳優",
+      "caption_preview": "【映像制作コラム】\n\nNoFilmSchoolが「映画史に残る監督×俳優の黄金コンビ8組」を特集。何度も組むことで作品世界を深化させてきた名パートナーシップを振り返る内容です。\n\n■ 取り上げられた主なコンビ\n・Martin Scorsese × Robert De Niro（『タクシードライバー』『レイジング・ブル』『グッドフェローズ』等、数十年にわたる盟友関係）\n・Wes Anderson ×",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-12.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-12-170416.jpg"
+      ],
+      "ig_media_id": "18636259288002621",
+      "fb_post_id": "1120701334458496_122133753909301053",
+      "source_url": "https://nofilmschool.com/iconic-director-actor-duos",
+      "source": "NoFilmSchool"
     }
   ]
 }
