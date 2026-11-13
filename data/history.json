@@ -8731,6 +8731,26 @@
       "fb_post_id": "1120701334458496_122133887667301053",
       "source_url": "https://petapixel.com/2026/11/13/the-best-deals-on-canon-cameras-and-lenses/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-13T17:29:12Z",
+      "date": "2026-11-14",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Camp Snap Turns Its CS-8 Micro Camcorder Into a Collectible ",
+      "template": "T_overlay",
+      "heading_image": "CS-8 Micro\n登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nバイラルヒットしたCamp SnapのCS-8カムコーダーに、史上最小サイズの「CS-8 Micro」が登場。ブラインドボックス形式で販売され、開封するまでカラーが分からないコレクタブル仕様になっています。\n\n■ 注目ポイント\n・CS-8シリーズ最小サイズのミニチュアカムコーダー\n・ブラインドボックス式でカラーはランダム\n・バッグチャームとして身につけられるデザイン\n\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-14-022852.jpg"
+      ],
+      "ig_media_id": "17915454759559628",
+      "fb_post_id": "1120701334458496_122133927603301053",
+      "source_url": "https://petapixel.com/2026/11/13/camp-snap-turns-its-cs-8-micro-camcorder-into-a-collectible-blind-box-bag-charm/",
+      "source": "PetaPixel"
     }
   ]
 }
