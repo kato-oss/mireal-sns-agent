@@ -8647,6 +8647,32 @@
       "fb_post_id": "1120701334458496_122133804429301053",
       "source_url": "https://petapixel.com/2026/11/12/the-director-of-knives-out-has-just-released-a-13-camera-app/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-13T03:21:14Z",
+      "date": "2026-11-13",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "E",
+      "format": "F2",
+      "theme": "「47都道府県、全国対応」",
+      "template": "T_campaign",
+      "heading_image": "出張撮影対応47都道府県",
+      "caption_preview": "「東京の会社でしょう？うちは地方だから、来てくれないよね」\n\nそんな声を、これまで何度もいただきました。\n\nMIREAL の ONE DAY PROMOTION は、全国47都道府県、すべて対応しています。\n\n北海道の牧場、青森のりんご農家、島根の温泉旅館、熊本の工務店、沖縄のカフェ。\n場所を理由に、動画を諦める必要はありません。\n\n私たちは、撮影スタッフが現地に伺います。\n企画から撮影、編集、納",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-13.jpg",
+      "bgs_used": [
+        "bg-013.jpg",
+        "bg-019.jpg",
+        "bg-020.jpg",
+        "bg-044.jpg",
+        "bg-031.jpg",
+        "bg-017.jpg",
+        "bg-052.jpg",
+        "bg-003.jpg",
+        "bg-071.jpg"
+      ],
+      "ig_media_id": "18078687263739622",
+      "fb_post_id": "1120701334458496_122133837621301053"
     }
   ]
 }
