@@ -1,40 +1,45 @@
 # MIREAL SNS — Insights Summary
 
-_Last updated: 2026-11-12 UTC_
+_Last updated: 2026-11-13 UTC_
 
 ## Account
 
 | Platform | Followers | Reach (1d) | Profile views (1d) | Website clicks (1d) |
 |---|---|---|---|---|
-| **Instagram** @mireal_inc | 421 | 62 | 10 | 1 |
+| **Instagram** @mireal_inc | 421 | 71 | 2 | 0 |
 | **Facebook** MIREAL.Official | 2 | — | — | — |
 
 ## Recent Posts (last 30d)
 
 | Date | Pillar | Template | Reach | Likes | Saved | Comments | Shares |
 |---|---|---|---|---|---|---|---|
-| 2026-11-13 | N | T_overlay | 0 | 0 | 0 | 0 | 0 |
-| 2026-11-12 | N | T_overlay | 6 | 3 | 0 | 0 | 0 |
-| 2026-11-12 | D | T_tipcard | 10 | 3 | 0 | 0 | 0 |
-| 2026-11-12 | N | T_listicle | 2 | 1 | 0 | 0 | 0 |
-| 2026-11-12 | N | T_overlay | 0 | 0 | 0 | 0 | 0 |
-| 2026-11-11 | N | T_overlay | 9 | 2 | 0 | 0 | 0 |
-| 2026-11-11 | C | T_overlay | 16 | 3 | 0 | 0 | 0 |
-| 2026-11-11 | N | T_overlay | 5 | 3 | 0 | 0 | 0 |
-| 2026-11-11 | N | T_softbg | 3 | 1 | 0 | 0 | 0 |
-| 2026-11-10 | N | T_overlay | 8 | 3 | 0 | 0 | 0 |
-| 2026-11-10 | A | T_campaign | 16 | 3 | 0 | 0 | 0 |
-| 2026-11-10 | N | T_overlay | 3 | 2 | 0 | 0 | 0 |
+| 2026-11-14 | N | T_overlay | 0 | 0 | 0 | 0 | 0 |
+| 2026-11-13 | N | T_overlay | 3 | 2 | 0 | 0 | 0 |
+| 2026-11-13 | E | T_campaign | 9 | 1 | 0 | 0 | 0 |
+| 2026-11-13 | N | T_softbg | 5 | 2 | 0 | 0 | 0 |
+| 2026-11-13 | R | T_overlay | 3 | 2 | 0 | 0 | 0 |
+| 2026-11-13 | N | T_overlay | 1 | 0 | 0 | 0 | 0 |
+| 2026-11-12 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
+| 2026-11-12 | D | T_tipcard | 13 | 3 | 0 | 0 | 0 |
+| 2026-11-12 | N | T_listicle | 3 | 1 | 0 | 0 | 0 |
+| 2026-11-12 | N | T_overlay | 1 | 0 | 0 | 0 | 0 |
+| 2026-11-11 | N | T_overlay | 10 | 2 | 0 | 0 | 0 |
+| 2026-11-11 | C | T_overlay | 18 | 3 | 0 | 0 | 0 |
+| 2026-11-11 | N | T_overlay | 6 | 3 | 0 | 0 | 0 |
+| 2026-11-11 | N | T_softbg | 4 | 1 | 0 | 0 | 0 |
+| 2026-11-10 | N | T_overlay | 10 | 3 | 0 | 0 | 0 |
+| 2026-11-10 | A | T_campaign | 18 | 3 | 0 | 0 | 0 |
+| 2026-11-10 | N | T_overlay | 3 | 3 | 0 | 0 | 0 |
 | 2026-11-10 | N | T_overlay | 2 | 2 | 0 | 0 | 0 |
-| 2026-11-09 | N | T_overlay | 3 | 2 | 0 | 0 | 0 |
-| 2026-11-09 | D | T_listicle | 22 | 3 | 0 | 0 | 0 |
+| 2026-11-09 | N | T_overlay | 4 | 3 | 0 | 0 | 0 |
+| 2026-11-09 | D | T_listicle | 25 | 3 | 0 | 0 | 0 |
 | 2026-11-09 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
 | 2026-11-08 | N | T_overlay | 6 | 3 | 0 | 0 | 0 |
-| 2026-11-08 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
+| 2026-11-08 | N | T_overlay | 8 | 3 | 0 | 0 | 0 |
 | 2026-11-08 | N | T_listicle | 4 | 2 | 0 | 0 | 0 |
 | 2026-11-07 | N | T_listicle | 5 | 3 | 0 | 0 | 0 |
 | 2026-11-07 | D | T_tipcard | 14 | 3 | 0 | 0 | 0 |
-| 2026-11-07 | N | T_overlay | 11 | 3 | 1 | 0 | 0 |
+| 2026-11-07 | N | T_overlay | 12 | 3 | 1 | 0 | 0 |
 | 2026-11-07 | N | T_softbg | 2 | 2 | 0 | 0 | 0 |
 | 2026-11-06 | N | T_overlay | 9 | 3 | 0 | 0 | 0 |
 | 2026-11-06 | C | T_overlay | 19 | 3 | 0 | 0 | 0 |
@@ -46,7 +51,7 @@ _Last updated: 2026-11-12 UTC_
 | 2026-11-04 | N | T_listicle | 6 | 2 | 0 | 0 | 0 |
 | 2026-11-04 | C | T_overlay | 18 | 3 | 0 | 0 | 0 |
 | 2026-11-04 | N | T_softbg | 4 | 3 | 0 | 0 | 0 |
-| 2026-11-04 | N | T_overlay | 6 | 3 | 0 | 0 | 0 |
+| 2026-11-04 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
 | 2026-11-03 | N | T_overlay | 11 | 3 | 0 | 0 | 0 |
 | 2026-11-03 | A | T_listicle | 17 | 3 | 0 | 0 | 0 |
 | 2026-11-03 | N | T_overlay | 12 | 3 | 0 | 0 | 0 |
@@ -67,9 +72,9 @@ _Last updated: 2026-11-12 UTC_
 | 2026-10-30 | R | T_overlay | 15 | 4 | 0 | 0 | 0 |
 | 2026-10-30 | N | T_overlay | 5 | 2 | 0 | 0 | 0 |
 | 2026-10-29 | D | T_overlay | 24 | 3 | 0 | 0 | 0 |
-| 2026-10-29 | N | T_overlay | 100 | 4 | 0 | 0 | 1 |
+| 2026-10-29 | N | T_overlay | 101 | 4 | 0 | 0 | 1 |
 | 2026-10-29 | N | T_softbg | 8 | 3 | 0 | 0 | 0 |
-| 2026-10-28 | N | T_overlay | 6 | 2 | 0 | 0 | 0 |
+| 2026-10-28 | N | T_overlay | 7 | 2 | 0 | 0 | 0 |
 | 2026-10-28 | A | T_listicle | 18 | 3 | 0 | 0 | 0 |
 | 2026-10-28 | N | T_overlay | 7 | 2 | 0 | 0 | 0 |
 | 2026-10-28 | N | T_overlay | 4 | 3 | 0 | 0 | 0 |
@@ -88,7 +93,7 @@ _Last updated: 2026-11-12 UTC_
 | 2026-10-23 | C | T_campaign | 11 | 3 | 0 | 0 | 0 |
 | 2026-10-23 | N | T_overlay | 4 | 2 | 0 | 0 | 0 |
 | 2026-10-23 | R | T_overlay | 31 | 4 | 1 | 0 | 0 |
-| 2026-10-23 | N | T_overlay | 20 | 3 | 0 | 0 | 0 |
+| 2026-10-23 | N | T_overlay | 21 | 3 | 0 | 0 | 0 |
 | 2026-10-23 | N | T_overlay | 6 | 1 | 0 | 0 | 0 |
 | 2026-10-22 | D | T_tipcard | 4 | 3 | 0 | 0 | 0 |
 | 2026-10-22 | N | T_softbg | 14 | 3 | 0 | 0 | 0 |
@@ -104,30 +109,26 @@ _Last updated: 2026-11-12 UTC_
 | 2026-10-20 | N | T_softbg | 21 | 6 | 0 | 0 | 0 |
 | 2026-10-19 | C | T_listicle | 5 | 2 | 0 | 0 | 0 |
 | 2026-10-19 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
-| 2026-10-19 | N | T_overlay | 6 | 3 | 0 | 0 | 0 |
+| 2026-10-19 | N | T_overlay | 7 | 3 | 0 | 0 | 0 |
 | 2026-10-18 | N | T_overlay | 6 | 2 | 0 | 0 | 0 |
 | 2026-10-18 | N | T_overlay | 8 | 2 | 0 | 0 | 0 |
 | 2026-10-18 | N | T_softbg | 3 | 2 | 0 | 0 | 0 |
 | 2026-10-17 | C | T_listicle | 10 | 2 | 0 | 0 | 0 |
-| 2026-10-17 | N | T_softbg | 7 | 2 | 0 | 0 | 0 |
+| 2026-10-17 | N | T_softbg | 8 | 2 | 0 | 0 | 0 |
 | 2026-10-17 | N | T_overlay | 5 | 2 | 0 | 0 | 0 |
-| 2026-10-17 | N | T_overlay | 9 | 1 | 0 | 0 | 0 |
+| 2026-10-17 | N | T_overlay | 10 | 1 | 0 | 0 | 0 |
 | 2026-10-16 | D | T_tipcard | 18 | 2 | 0 | 0 | 0 |
 | 2026-10-16 | N | T_overlay | 15 | 1 | 0 | 0 | 0 |
-| 2026-10-16 | R | T_overlay | 67 | 4 | 0 | 0 | 1 |
-| 2026-10-16 | N | T_overlay | 7 | 2 | 0 | 0 | 0 |
+| 2026-10-16 | R | T_overlay | 68 | 4 | 0 | 0 | 1 |
+| 2026-10-16 | N | T_overlay | 8 | 2 | 0 | 0 | 0 |
 | 2026-10-16 | N | T_overlay | 4 | 2 | 0 | 0 | 0 |
 | 2026-10-15 | A | T_overlay | 18 | 2 | 0 | 0 | 0 |
 | 2026-10-15 | N | T_listicle | 5 | 2 | 0 | 0 | 0 |
 | 2026-10-15 | N | T_softbg | 8 | 2 | 0 | 0 | 0 |
 | 2026-10-15 | N | T_overlay | 6 | 1 | 0 | 0 | 0 |
-| 2026-10-14 | C | T_overlay | 15 | 2 | 0 | 0 | 0 |
-| 2026-10-14 | N | T_overlay | 6 | 2 | 0 | 0 | 0 |
-| 2026-10-14 | N | T_softbg | 8 | 2 | 0 | 0 | 0 |
-| 2026-10-14 | N | T_overlay | 14 | 2 | 0 | 0 | 0 |
 
 ### 🏆 Top 3 by reach
 
-1. **2026-10-29** (N-T_overlay) — reach **100**, saved 0, likes 4
-2. **2026-10-16** (R-T_overlay) — reach **67**, saved 0, likes 4
+1. **2026-10-29** (N-T_overlay) — reach **101**, saved 0, likes 4
+2. **2026-10-16** (R-T_overlay) — reach **68**, saved 0, likes 4
 3. **2026-10-23** (R-T_overlay) — reach **31**, saved 1, likes 4
