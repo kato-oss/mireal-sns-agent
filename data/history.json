@@ -8673,6 +8673,26 @@
       ],
       "ig_media_id": "18078687263739622",
       "fb_post_id": "1120701334458496_122133837621301053"
+    },
+    {
+      "timestamp": "2026-11-13T07:42:47Z",
+      "date": "2026-11-13",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How Filmmaker Jill V. Dae Turned a 3-Day Script into a Fearl",
+      "template": "T_softbg",
+      "heading_image": "3日の脚本が\n短編映画になる時代",
+      "caption_preview": "【最新映像制作ニュース】\n\n映画監督Jill V. Daeが、わずか3日で書き上げた脚本を元に短編『DEI』を制作。『フリーキー・フライデー』風の身体入れ替えコメディに、メキシコの死者の日（Día de los Muertos）という文化的・祖先的な重みを融合させた作品。グリーンライトを待たず、自ら動いて撮り切ったゲリラスピード制作の記録。\n\n■ 注目ポイント\n・脚本執筆からわずか数日で撮影に突入",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-13-164234.jpg"
+      ],
+      "ig_media_id": "17962368765410200",
+      "fb_post_id": "1120701334458496_122133859689301053",
+      "source_url": "https://nofilmschool.com/filmmaker-jill-v-dae",
+      "source": "NoFilmSchool"
     }
   ]
 }
