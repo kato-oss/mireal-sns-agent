@@ -8711,6 +8711,26 @@
       ],
       "ig_media_id": "17988925869082258",
       "fb_post_id": "1120701334458496_122133879051301053"
+    },
+    {
+      "timestamp": "2026-11-13T13:43:11Z",
+      "date": "2026-11-13",
+      "weekday": "金",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Best Deals on Canon Cameras and Lenses",
+      "template": "T_overlay",
+      "heading_image": "Canonセール\n大型スタート",
+      "caption_preview": "【最新映像機材ニュース】\n\nホリデーシーズンを前に、Canon機材の大型セールが各所でスタート。EOS Rシリーズのミラーレス、一部EOS DSLR、RFレンズ群まで幅広く対象になっている。\n\n■ 注目ポイント\n・EOS Rシリーズのミラーレスボディが対象\n・RFマウントレンズに複数の値下げ\n・一部DSLR機材も在庫処分価格に\n・アクセサリ類も同時にディスカウント\n\n■ なぜ注目すべきか\nCano",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-13.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-13-224259.jpg"
+      ],
+      "ig_media_id": "18095400593676498",
+      "fb_post_id": "1120701334458496_122133887667301053",
+      "source_url": "https://petapixel.com/2026/11/13/the-best-deals-on-canon-cameras-and-lenses/",
+      "source": "PetaPixel"
     }
   ]
 }
