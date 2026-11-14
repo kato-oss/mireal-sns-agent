@@ -8751,6 +8751,24 @@
       "fb_post_id": "1120701334458496_122133927603301053",
       "source_url": "https://petapixel.com/2026/11/13/camp-snap-turns-its-cs-8-micro-camcorder-into-a-collectible-blind-box-bag-charm/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-14T03:00:14Z",
+      "date": "2026-11-14",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「打ち合わせ→即撮影」",
+      "template": "T_overlay",
+      "heading_image": "朝イチ打合せ\n夕方には撮影",
+      "caption_preview": "「打ち合わせ、したばかりなのに。」\nそう驚かれることが、私たちにはよくあります。\n\n通常、動画制作の流れはこうです。\n初回打ち合わせ → 企画書 → 構成案 → 撮影日調整 → 撮影 → 編集 → 初稿確認 → 修正 → 納品。\nここまでで、2〜4週間。早くても10日。\n\nMIREALのONE DAY PROMOTIONは、ここを圧縮しました。\n\n朝、打ち合わせ。\nその場で撮影カット・構成・尺を決",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-14.jpg",
+      "bgs_used": [
+        "bg-092.jpg"
+      ],
+      "ig_media_id": "18121490705055912",
+      "fb_post_id": "1120701334458496_122133965085301053"
     }
   ]
 }
