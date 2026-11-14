@@ -8769,6 +8769,26 @@
       ],
       "ig_media_id": "18121490705055912",
       "fb_post_id": "1120701334458496_122133965085301053"
+    },
+    {
+      "timestamp": "2026-11-14T07:29:09Z",
+      "date": "2026-11-14",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: FAA allows flights to resume after hours-long ground stop ac",
+      "template": "T_overlay",
+      "heading_image": "FAAが全米で\nグランドストップ",
+      "caption_preview": "【最新映像機材ニュース】\n\n米連邦航空局(FAA)が11月13日、全米で数時間にわたるグランドストップ(地上待機)を発令。運輸長官は原因を「老朽化し誤作動を起こした航空管制システム」と説明した。\n\n■ 注目ポイント\n・全米規模のフライト停止が数時間継続\n・原因は旧式の航空管制インフラの不具合\n・運輸長官が公式にシステムの老朽化を指摘\n\n■ なぜ注目すべきか\n映像制作現場でもロケ機材やタレントの空輸",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-14-162853.jpg"
+      ],
+      "ig_media_id": "17906987286602659",
+      "fb_post_id": "1120701334458496_122133986589301053",
+      "source_url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+      "source": "Engadget"
     }
   ]
 }
