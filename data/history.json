@@ -8809,6 +8809,26 @@
       "fb_post_id": "1120701334458496_122134005117301053",
       "source_url": "https://www.newsshooter.com/2026/11/13/smallhd-cine-18-snap-on-sunhood/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-14T16:20:42Z",
+      "date": "2026-11-15",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Sodium vs. lithium-ion batteries: What's the difference betw",
+      "template": "T_softbg",
+      "heading_image": "電池の未来が\n現場を変える",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、現在主流のリチウムイオン電池と、次世代候補として注目されるナトリウムイオン電池を徹底比較。カメラ・ジンバル・ドローン・ライトまで映像機材の多くはLi-ion駆動だが、その勢力図が変わる可能性がある。\n\n■ 注目ポイント\n・ナトリウムイオンは原料コストが安く、資源が豊富（海水から採取可能）\n・低温耐性が高く、寒冷地での撮影に有利\n・一方でエネルギー密度",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-15-012026.jpg"
+      ],
+      "ig_media_id": "18097328336172383",
+      "fb_post_id": "1120701334458496_122134021155301053",
+      "source_url": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
+      "source": "Engadget"
     }
   ]
 }
