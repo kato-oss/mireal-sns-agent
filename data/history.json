@@ -8789,6 +8789,26 @@
       "fb_post_id": "1120701334458496_122133986589301053",
       "source_url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-14T12:47:11Z",
+      "date": "2026-11-14",
+      "weekday": "土",
+      "week_num": 2,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallHD Cine 18 Snap-On Sunhood",
+      "template": "T_overlay",
+      "heading_image": "SmallHD Cine 18\nスナップ式フード登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallHDが現場モニター「Cine 18」専用のSnap-On Sunhood（スナップオン サンフード）を発表。モニター側にスナップスクリューを装着しておけば、フード本体をワンタッチで着脱できる仕様です。\n\n■ 注目ポイント\n・付属のスナップスクリューでモニターに常時固定、フードは数秒で脱着\n・屋外撮影時のグレア・反射を低減\n・遮光下でも色味・輝度を正確に視認でき",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-14.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-14-214655.jpg"
+      ],
+      "ig_media_id": "18150677392576100",
+      "fb_post_id": "1120701334458496_122134005117301053",
+      "source_url": "https://www.newsshooter.com/2026/11/13/smallhd-cine-18-snap-on-sunhood/",
+      "source": "Newsshooter"
     }
   ]
 }
