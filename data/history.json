@@ -8849,6 +8849,26 @@
       "fb_post_id": "1120701334458496_122134110105301053",
       "source_url": "https://www.newsshooter.com/2026/11/14/pelican-r60-ruck-case-on-sale-for-29-95-usd/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-15T13:15:25Z",
+      "date": "2026-11-15",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Inside Nikon’s New Exhibit Celebrating the Art and Evolution",
+      "template": "T_softbg",
+      "heading_image": "ファインダーが映す\n映像表現の進化史",
+      "caption_preview": "【最新映像機材ニュース】\n\n東京のニコンミュージアムで、カメラの根幹要素「ファインダー」にフォーカスした特別展が開催中。アナログ時代の光学ファインダーから、現代のミラーレス機に搭載されるEVFまで、その進化の系譜を一望できる内容となっている。\n\n■ 注目ポイント\n・光学ファインダー(OVF)からEVFまで、ファインダー技術の変遷を体系的に展示\n・ニコンの歴代機に搭載されたファインダー構造や設計思想",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-15-221509.jpg"
+      ],
+      "ig_media_id": "17981229092914999",
+      "fb_post_id": "1120701334458496_122134131915301053",
+      "source_url": "https://petapixel.com/2026/11/15/inside-nikons-new-exhibit-celebrating-the-art-and-evolution-of-the-viewfinder/",
+      "source": "PetaPixel"
     }
   ]
 }
