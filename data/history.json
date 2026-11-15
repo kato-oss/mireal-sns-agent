@@ -8869,6 +8869,26 @@
       "fb_post_id": "1120701334458496_122134131915301053",
       "source_url": "https://petapixel.com/2026/11/15/inside-nikons-new-exhibit-celebrating-the-art-and-evolution-of-the-viewfinder/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-15T16:46:28Z",
+      "date": "2026-11-16",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How to Use Vectorscope in Lightroom",
+      "template": "T_overlay",
+      "heading_image": "Lightroomに\nベクトルスコープ搭載",
+      "caption_preview": "【最新映像機材ニュース】\n\nAdobe Lightroom に待望のベクトルスコープが搭載された。数ヶ月前に Camera Raw へ追加されたものが、ついに Lightroom 本体でも利用可能に。写真編集における色管理の精度が一段引き上がる。\n\n■ 注目ポイント\n・色相と彩度を円形グラフで可視化、肌色ライン(Iライン)基準で正確な補正が可能\n・ホワイトバランスやカラーグレーディングの偏りを数値",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-16-014609.jpg"
+      ],
+      "ig_media_id": "18213007747318731",
+      "fb_post_id": "1120701334458496_122134144305301053",
+      "source_url": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
+      "source": "PetaPixel"
     }
   ]
 }
