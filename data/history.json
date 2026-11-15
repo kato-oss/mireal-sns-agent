@@ -8829,6 +8829,26 @@
       "fb_post_id": "1120701334458496_122134021155301053",
       "source_url": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-15T07:41:51Z",
+      "date": "2026-11-15",
+      "weekday": "日",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Pelican R60 Ruck Case on sale for $29.95 USD",
+      "template": "T_overlay",
+      "heading_image": "Pelican R60\n$29.95で特価販売",
+      "caption_preview": "【最新映像機材ニュース】\n\nPelicanのコンパクトハードケース「R60 Ruck Case」が$29.95 USDで販売中。通常価格から$52 USDオフの大幅ディスカウントとなっている。\n\n■ 注目ポイント\n・IP68等級の完全防水・防塵設計\n・フレキシブルなリッドオーガナイザーとパージバルブ内蔵\n・デュアルピボットラッチ、ラバー外装、ABS外殻の堅牢構造\n\n■ なぜ注目すべきか\nSSD、バ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-15.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-15-164134.jpg"
+      ],
+      "ig_media_id": "18169729129468440",
+      "fb_post_id": "1120701334458496_122134110105301053",
+      "source_url": "https://www.newsshooter.com/2026/11/14/pelican-r60-ruck-case-on-sale-for-29-95-usd/",
+      "source": "Newsshooter"
     }
   ]
 }
