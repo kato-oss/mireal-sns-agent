@@ -8907,6 +8907,24 @@
       ],
       "ig_media_id": "17913261663308739",
       "fb_post_id": "1120701334458496_122134185255301053"
+    },
+    {
+      "timestamp": "2026-11-16T14:25:17Z",
+      "date": "2026-11-16",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: What is an NFC tag and how does one work?",
+      "template": "T_tipcard",
+      "heading_image": "NFCタグとは？\n極小チップの仕組み",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetがNFCタグの基礎解説を公開。スマホをかざすだけでデータ読み取り/動作トリガーが可能な極小チップで、撮影現場での機材管理やワークフロー自動化にも応用が広がっています。\n\n■ 注目ポイント\n・電源不要、スマホの電磁誘導で駆動する受動型チップ\n・通信距離は約4cm、ペアリングやURL起動が1タップで完結\n・RFIDの一種だが、より短距離・双方向通信に最適化\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-16.jpg",
+      "bgs_used": [],
+      "ig_media_id": "18137879449736073",
+      "fb_post_id": "1120701334458496_122134236027301053",
+      "source_url": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
+      "source": "Engadget"
     }
   ]
 }
