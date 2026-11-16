@@ -8925,6 +8925,26 @@
       "fb_post_id": "1120701334458496_122134236027301053",
       "source_url": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-16T19:59:39Z",
+      "date": "2026-11-17",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Film Quote of the Day: The ‘Harry Potter’ Line That Reminds ",
+      "template": "T_softbg",
+      "heading_image": "夢に浸り\n生きるのを忘れるな",
+      "caption_preview": "【映像制作者が心に刻む名言】\n\nNoFilmSchoolが『ハリー・ポッターと賢者の石』(2001)から、ダンブルドアの名台詞を取り上げました。\n\n「It does not do to dwell on dreams and forget to live.」\n(夢にふけって生きることを忘れてはならぬ)\n\n■ 注目ポイント\n・故リチャード・ハリスが演じたダンブルドアの含蓄ある一言\n・クリス・コロンバ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-16.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-17-045924.jpg"
+      ],
+      "ig_media_id": "18343176325274235",
+      "fb_post_id": "1120701334458496_122134287477301053",
+      "source_url": "https://nofilmschool.com/it-does-not-do-to-dwell-on-dreams-and-forget-to-live",
+      "source": "NoFilmSchool"
     }
   ]
 }
