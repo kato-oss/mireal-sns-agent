@@ -8889,6 +8889,24 @@
       "fb_post_id": "1120701334458496_122134144305301053",
       "source_url": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-16T02:40:23Z",
+      "date": "2026-11-16",
+      "weekday": "月",
+      "week_num": 3,
+      "pillar": "C",
+      "format": "F1",
+      "theme": "「動画を作る前に決めるべき5つ」",
+      "template": "T_listicle",
+      "heading_image": "動画制作で失敗する\n本当の理由",
+      "caption_preview": "「動画を作ったのに、使いどころがなかった」\nこれ、中小企業の現場でいちばん多い失敗です。\n\n原因はシンプルで、作る前に決めるべきことを決めずに走り出すから。\n\n私たちが初回ヒアリングで必ず確認している5つを共有します。\n\n1. 誰に見せる動画か\n「みんな」はターゲットではありません。採用候補者なのか、既存客なのか、通りすがりの人なのか。1人に絞るほど刺さります。\n\n2. どこで流す動画か\nInst",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-16.jpg",
+      "bgs_used": [
+        "bg-007.jpg"
+      ],
+      "ig_media_id": "17913261663308739",
+      "fb_post_id": "1120701334458496_122134185255301053"
     }
   ]
 }
