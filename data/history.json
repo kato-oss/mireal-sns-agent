@@ -8991,6 +8991,26 @@
       "fb_post_id": "1120701334458496_122134344825301053",
       "source_url": "https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-17T15:18:05Z",
+      "date": "2026-11-18",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Panasonic Goes 6K Open Gate With Its New LUMIX SHX1 Full-Fra",
+      "template": "T_overlay",
+      "heading_image": "LUMIX SHX1\n6K Open Gate対応",
+      "caption_preview": "【最新映像機材ニュース】\n\nPanasonicが新型ボックス型シネマカメラ「LUMIX SHX1」を発表。フルフレームセンサーを搭載し、6K30pのOpen Gate収録に対応。UHD 4K120pの無制限記録も可能という、現行のボックスカメラ市場に真っ向から挑む一台です。\n\n■ 注目ポイント\n・フルフレームセンサー × 6K30p Open Gate対応\n・UHD 4K120pで無制限記録(熱制",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-18-001747.jpg"
+      ],
+      "ig_media_id": "17989412748086971",
+      "fb_post_id": "1120701334458496_122134373643301053",
+      "source_url": "https://nofilmschool.com/panasonic-lumix-shx1",
+      "source": "NoFilmSchool"
     }
   ]
 }
