@@ -8945,6 +8945,32 @@
       "fb_post_id": "1120701334458496_122134287477301053",
       "source_url": "https://nofilmschool.com/it-does-not-do-to-dwell-on-dreams-and-forget-to-live",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-17T05:02:08Z",
+      "date": "2026-11-17",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "B",
+      "format": "F2",
+      "theme": "「税別¥98,000、追加料金なし」",
+      "template": "T_campaign",
+      "heading_image": "動画制作、ぜんぶ込みで¥98,000から",
+      "caption_preview": "「見積もりを取ったら、想定の3倍だった」\n動画制作でよく聞く話です。\n\nMIREALのONE DAY PROMOTIONは、¥98,000(税別)。\n追加料金は、ありません。\n\n含まれているのは、この5つです。\n\n1. 企画・構成の打ち合わせ\n2. 撮影（1日・出張費込み）\n3. 編集・テロップ・BGM\n4. 修正1回無料\n5. 納品データ一式\n\n業界平均は60〜80万円と言われます。\n私たちが¥",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-17.jpg",
+      "bgs_used": [
+        "bg-082.jpg",
+        "bg-088.jpg",
+        "bg-041.jpg",
+        "bg-027.jpg",
+        "bg-050.jpg",
+        "bg-051.jpg",
+        "bg-096.jpg",
+        "bg-038.jpg",
+        "bg-053.jpg"
+      ],
+      "ig_media_id": "18155381197550464",
+      "fb_post_id": "1120701334458496_122134317543301053"
     }
   ]
 }
