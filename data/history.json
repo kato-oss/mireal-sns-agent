@@ -8971,6 +8971,26 @@
       ],
       "ig_media_id": "18155381197550464",
       "fb_post_id": "1120701334458496_122134317543301053"
+    },
+    {
+      "timestamp": "2026-11-17T08:56:34Z",
+      "date": "2026-11-17",
+      "weekday": "火",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: TRMNL Frame is a $1300 full-color e-paper display that looks",
+      "template": "T_softbg",
+      "heading_image": "紙のように佇む\nフルカラー電子ペーパー",
+      "caption_preview": "【最新映像機材ニュース】\n\nE-paperフレームやキットで知られるTRMNLが、同社史上最大かつ最もカラフルな製品「TRMNL Frame」を発表。価格は$1,300で、本物のアート作品のように見えるフルカラー電子ペーパーディスプレイです。\n\n■ 注目ポイント\n・フルカラー対応のe-paper(電子ペーパー)採用で、紙のような質感と反射光による自然な見え方\n・大判サイズでアート作品や写真をそのま",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-17.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-17-175620.jpg"
+      ],
+      "ig_media_id": "17891333094478785",
+      "fb_post_id": "1120701334458496_122134344825301053",
+      "source_url": "https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art/",
+      "source": "Engadget"
     }
   ]
 }
