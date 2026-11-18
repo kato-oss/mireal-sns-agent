@@ -9049,6 +9049,26 @@
       ],
       "ig_media_id": "17978194689152431",
       "fb_post_id": "1120701334458496_122134425279301053"
+    },
+    {
+      "timestamp": "2026-11-18T08:21:54Z",
+      "date": "2026-11-18",
+      "weekday": "水",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: SmallRig Black Friday Sale 2026: Up to 40% Off Tripods, V-Mo",
+      "template": "T_overlay",
+      "heading_image": "SmallRig BF\n最大40%OFF",
+      "caption_preview": "【最新映像機材ニュース】\n\nSmallRigが2026年ブラックフライデーセールを開催。期間は11月19日〜11月30日、公式サイトとAmazon公式ストアで最大40%オフ。三脚からバッテリー、ライト、ケージまで主力ラインが対象です。\n\n■ 注目ポイント\n・Potato Jet コラボの TRIBEX 三脚シリーズが対象\n・カーボンファイバー製モノポッドもセール対象\n・99Wh Vマウントバッテリ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-18-172137.jpg"
+      ],
+      "ig_media_id": "18144913906609301",
+      "fb_post_id": "1120701334458496_122134439307301053",
+      "source_url": "https://www.newsshooter.com/2026/11/18/smallrig-black-friday-sale-2026-up-to-40-off-tripods-v-mount-batteries-lights-and-cages/",
+      "source": "Newsshooter"
     }
   ]
 }
