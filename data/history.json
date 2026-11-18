@@ -9069,6 +9069,26 @@
       "fb_post_id": "1120701334458496_122134439307301053",
       "source_url": "https://www.newsshooter.com/2026/11/18/smallrig-black-friday-sale-2026-up-to-40-off-tripods-v-mount-batteries-lights-and-cages/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-18T18:36:53Z",
+      "date": "2026-11-19",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: What is Lumix Thinking & What Does Sony Need to Change? | Th",
+      "template": "T_softbg",
+      "heading_image": "Lumixは何を狙う？\n新ボックスカメラの戦略",
+      "caption_preview": "【最新映像機材ニュース】\n\nPetaPixel Podcastの最新回で、Lumixの新型ボックスカメラとSony FXラインとの競合回避戦略が議論されました。ゲストホストにJason Vongを迎え、Lumixのシネマ戦略の方向性を掘り下げています。\n\n■ 注目ポイント\n・Lumixが発表した新ボックスカメラの立ち位置\n・なぜLumixはSony FX6/FX3クラスに正面から挑まないのか\n・S",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-18.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-19-033638.jpg"
+      ],
+      "ig_media_id": "17916860457489962",
+      "fb_post_id": "1120701334458496_122134477767301053",
+      "source_url": "https://petapixel.com/2026/11/18/what-is-lumix-thinking-what-does-sony-need-to-change-the-petapixel-podcast/",
+      "source": "PetaPixel"
     }
   ]
 }
