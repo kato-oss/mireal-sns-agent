@@ -9089,6 +9089,24 @@
       "fb_post_id": "1120701334458496_122134477767301053",
       "source_url": "https://petapixel.com/2026/11/18/what-is-lumix-thinking-what-does-sony-need-to-change-the-petapixel-podcast/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-19T04:03:58Z",
+      "date": "2026-11-19",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "A",
+      "format": "F3",
+      "theme": "「明日撮影に来てください」",
+      "template": "T_overlay",
+      "heading_image": "「明日来て」に\n1日で応える",
+      "caption_preview": "「明日、撮影に来てもらえませんか」\n\nこの電話、私たちは珍しいと思っていません。\n月に何度もかかってきます。\n\n来週のイベント。\n月末の展示会。\n急に決まった採用説明会。\n\n現場は、いつも急です。\n\n通常の動画制作だと、問い合わせから納品まで2〜4週間。\n「明日」と言われた時点で、ほとんどの会社は断ります。\n\n私たちは、断りません。\n\n理由はシンプルで、\n最初から「1日で終わらせる」仕組みで動いて",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-19.jpg",
+      "bgs_used": [
+        "bg-022.jpg"
+      ],
+      "ig_media_id": "18286864399291601",
+      "fb_post_id": "1120701334458496_122134516041301053"
     }
   ]
 }
