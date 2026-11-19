@@ -9107,6 +9107,26 @@
       ],
       "ig_media_id": "18286864399291601",
       "fb_post_id": "1120701334458496_122134516041301053"
+    },
+    {
+      "timestamp": "2026-11-19T08:33:07Z",
+      "date": "2026-11-19",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Cinelab’s Remote Kit – On-Location Dailies on iodyne Pro Dat",
+      "template": "T_softbg",
+      "heading_image": "サーバー不要の\n可搬デイリーズ",
+      "caption_preview": "【最新映像機材ニュース】\n\nロンドンのポストプロダクション Cinelab Film & Digital が、ロケ地で現場デイリーズ処理を完結させる「Remote Kit」を構築。サーバーもローカルネットワークも不要で、iodyne Pro Data 1台でインジェスト/レンダリング/QC/アーカイブを同時並列処理できる構成です。\n\n■ 注目ポイント\n・中核は iodyne Pro Data の ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-19-173250.jpg"
+      ],
+      "ig_media_id": "18120905479804841",
+      "fb_post_id": "1120701334458496_122134530879301053",
+      "source_url": "https://www.cined.com/cinelabs-remote-kit-on-location-dailies-on-iodyne-pro-data-from-easter-island-to-kenya/",
+      "source": "CineD"
     }
   ]
 }
