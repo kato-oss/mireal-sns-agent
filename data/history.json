@@ -9147,6 +9147,26 @@
       "fb_post_id": "1120701334458496_122134557417301053",
       "source_url": "https://petapixel.com/2026/11/19/how-close-can-an-arri-powered-phone-get-to-an-alexa-cinema-camera/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-19T18:49:04Z",
+      "date": "2026-11-20",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: This iPhone App Lets You Take Photos By Clapping",
+      "template": "T_overlay",
+      "heading_image": "拍手でシャッターが\n切れるアプリ登場",
+      "caption_preview": "【最新映像機材ニュース】\n\niPhone向けの新カメラアプリ「HyperCam Trigger」が登場。拍手音や動き、稲光などのトリガーに反応して自動でシャッターを切れる、モバイルフォトグラファー向けの撮影支援アプリです。\n\n■ 注目ポイント\n・音声トリガー(拍手・声など)で遠隔シャッター\n・モーション検知でアクションシーンを自動キャプチャ\n・落雷の閃光に反応するライトニングモード搭載\n\n■ なぜ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-20-034846.jpg"
+      ],
+      "ig_media_id": "17949183390085858",
+      "fb_post_id": "1120701334458496_122134596087301053",
+      "source_url": "https://petapixel.com/2026/11/19/this-iphone-app-lets-you-take-photos-by-clapping/",
+      "source": "PetaPixel"
     }
   ]
 }
