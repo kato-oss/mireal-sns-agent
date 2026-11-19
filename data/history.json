@@ -9127,6 +9127,26 @@
       "fb_post_id": "1120701334458496_122134530879301053",
       "source_url": "https://www.cined.com/cinelabs-remote-kit-on-location-dailies-on-iodyne-pro-data-from-easter-island-to-kenya/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-11-19T14:59:30Z",
+      "date": "2026-11-19",
+      "weekday": "木",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How Close Can an Arri-Powered Phone Get to an Alexa Cinema C",
+      "template": "T_overlay",
+      "heading_image": "ARRI搭載スマホは\nAlexaに迫れるか",
+      "caption_preview": "【最新映像機材ニュース】\n\nPetaPixelが、ARRIと提携したHonorのスマートフォンが、ハリウッド基準のシネマカメラ「ARRI Alexa」にどこまで迫れるのかを検証。中国五大スマホブランドの中では最小規模のHonorが、ミュンヘン拠点のARRIと手を組んだ異色のコラボの実力に注目が集まっている。\n\n■ 注目ポイント\n・ARRIのカラーサイエンス(色科学)をスマホに搭載という珍しい試み\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-19.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-19-235915.jpg"
+      ],
+      "ig_media_id": "18121357444962341",
+      "fb_post_id": "1120701334458496_122134557417301053",
+      "source_url": "https://petapixel.com/2026/11/19/how-close-can-an-arri-powered-phone-get-to-an-alexa-cinema-camera/",
+      "source": "PetaPixel"
     }
   ]
 }
