@@ -9221,6 +9221,26 @@
       ],
       "ig_media_id": "18109333012976793",
       "fb_post_id": "1120701334458496_122134669089301053"
+    },
+    {
+      "timestamp": "2026-11-20T18:15:22Z",
+      "date": "2026-11-21",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Here’s Another Director’s Viewfinder App to Consider for Pla",
+      "template": "T_overlay",
+      "heading_image": "Scouter登場\n画角を事前確認",
+      "caption_preview": "【最新映像機材ニュース】\n\nロケハンや絵コンテ作成に役立つディレクターズビューファインダーアプリ「Scouter」が登場。iOS/Android両対応で、使用予定のカメラと記録フォーマットに応じて焦点距離やフレーミングを現場で比較・プレビューできる。\n\n■ 注目ポイント\n・カメラ機種と記録フォーマット(センサーサイズ/アスペクト比)を指定してシミュレーション可能\n・複数の焦点距離を切り替えて画角を",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-21-031505.jpg"
+      ],
+      "ig_media_id": "18001061955044142",
+      "fb_post_id": "1120701334458496_122134701633301053",
+      "source_url": "https://nofilmschool.com/scouter-directors-viewfinder-app",
+      "source": "NoFilmSchool"
     }
   ]
 }
