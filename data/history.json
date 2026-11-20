@@ -9183,6 +9183,26 @@
       "bgs_used": [],
       "ig_media_id": "18108889886256327",
       "fb_post_id": "1120701334458496_122134633533301053"
+    },
+    {
+      "timestamp": "2026-11-20T08:14:54Z",
+      "date": "2026-11-20",
+      "weekday": "金",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Audio-Technica ATV-AD1USB First Look at Inter BEE 2026",
+      "template": "T_overlay",
+      "heading_image": "3.5mmマイクを\nUSB-Cデジタル化",
+      "caption_preview": "【最新映像機材ニュース】\n\nAudio-TechnicaがInter BEE 2026で、新型オーディオインターフェース「ATV-AD1USB」を展示。3.5mmアナログ音声をUSB-Cデジタル信号に変換する小型アダプターです。\n\n■ 注目ポイント\n・3.5mm出力のマイクをUSB-C機器にそのまま接続可能\n・スマホ/PC/タブレットでデジタル音声として扱える\n・アダプター単体で機能するコンパクト",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-20.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-20-171439.jpg"
+      ],
+      "ig_media_id": "17957373093311662",
+      "fb_post_id": "1120701334458496_122134645575301053",
+      "source_url": "https://www.newsshooter.com/2026/11/20/audio-technica-atv-ad1usb-first-look-at-inter-bee-2026/",
+      "source": "Newsshooter"
     }
   ]
 }
