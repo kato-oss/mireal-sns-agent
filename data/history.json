@@ -9279,6 +9279,26 @@
       "fb_post_id": "1120701334458496_122134766691301053",
       "source_url": "https://www.newsshooter.com/2026/11/20/bright-tangerine-open-rig-system-explained/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-21T13:58:30Z",
+      "date": "2026-11-21",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Why Sony's new digital Walkmans cost thousands of dollars",
+      "template": "T_overlay",
+      "heading_image": "Sony新Walkman\n最高約160万円",
+      "caption_preview": "【最新映像機材ニュース】\n\nSonyが新型デジタルWalkman 3機種の予約受付を開始。最上位モデルは数千ドル(日本円換算で百数十万円クラス)という桁外れの価格設定で、オーディオ業界に衝撃が走っている。\n\n■ 注目ポイント\n・フラッグシップはハイエンドDAP市場をターゲットにした価格帯\n・ハイレゾ音源/バランス出力/高級DAC搭載を想定した構成\n・ポータブル機ながら据え置き級の音質を標榜\n\n■ ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-21-225813.jpg"
+      ],
+      "ig_media_id": "18157338832525900",
+      "fb_post_id": "1120701334458496_122134788909301053",
+      "source_url": "https://www.engadget.com/2322505/why-sony-digital-walkmans-cost-thousands/",
+      "source": "Engadget"
     }
   ]
 }
