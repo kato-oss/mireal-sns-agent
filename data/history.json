@@ -9259,6 +9259,26 @@
       ],
       "ig_media_id": "18388281826238536",
       "fb_post_id": "1120701334458496_122134747533301053"
+    },
+    {
+      "timestamp": "2026-11-21T08:08:20Z",
+      "date": "2026-11-21",
+      "weekday": "土",
+      "week_num": 3,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Bright Tangerine Open Rig System Explained",
+      "template": "T_overlay",
+      "heading_image": "縦に外せる\n新リグ構造",
+      "caption_preview": "【最新映像機材ニュース】\n\nBright Tangerineが新たなカメラリギングシステム「OpenRig」を発表。レール上をスライドさせずに、アクセサリを縦方向から直接着脱できる\"オープンジョー\"構造が特徴のモジュラー式システムです。\n\n■ 注目ポイント\n・オープンジョー設計で15mm/19mmロッド上のアクセサリを縦方向に着脱可能\n・マットボックスやフォローフォーカス等を一度外さず順序入れ替え",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-21-170758.jpg"
+      ],
+      "ig_media_id": "18120293662810779",
+      "fb_post_id": "1120701334458496_122134766691301053",
+      "source_url": "https://www.newsshooter.com/2026/11/20/bright-tangerine-open-rig-system-explained/",
+      "source": "Newsshooter"
     }
   ]
 }
