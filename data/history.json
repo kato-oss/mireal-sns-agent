@@ -9299,6 +9299,26 @@
       "fb_post_id": "1120701334458496_122134788909301053",
       "source_url": "https://www.engadget.com/2322505/why-sony-digital-walkmans-cost-thousands/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-21T17:04:30Z",
+      "date": "2026-11-22",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: One of Apple HomeView's best features will have you cooking ",
+      "template": "T_overlay",
+      "heading_image": "Apple HomeViewで\n料理が進化する",
+      "caption_preview": "【最新ガジェットニュース】\n\nAppleがスマートディスプレイ「HomeView」向けに、料理をサポートする新機能を発表。キッチンでの体験をより直感的に、そしてプロのような仕上がりへ導くツールとして注目されています。\n\n■ 注目ポイント\n・Apple純正スマートディスプレイ「HomeView」搭載の料理支援機能\n・レシピの工程をディスプレイ上でわかりやすくガイド\n・Appleエコシステムとのシーム",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-21.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-22-020413.jpg"
+      ],
+      "ig_media_id": "17982863673160566",
+      "fb_post_id": "1120701334458496_122134800897301053",
+      "source_url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
+      "source": "Engadget"
     }
   ]
 }
