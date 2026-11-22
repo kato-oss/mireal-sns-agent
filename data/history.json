@@ -9319,6 +9319,26 @@
       "fb_post_id": "1120701334458496_122134800897301053",
       "source_url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-22T07:53:20Z",
+      "date": "2026-11-22",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $411 USD on the Easyrig Minimax",
+      "template": "T_overlay",
+      "heading_image": "Easyrig Minimax\n$411オフで登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nハンドヘルド撮影の負担を軽減するカメラサポート「Easyrig Minimax」が$411オフの$999 USDで販売中。長時間の手持ち撮影でカメラの重量を腕ではなく腰や肩に分散させる定番リグが、手の届きやすい価格に。\n\n■ 注目ポイント\n・対応カメラ重量 4.4〜15.4 lb(約2〜7kg)の幅広いレンジ\n・腕への負担を軽減し、長時間ハンドヘルドを可能に\n・ドキュメ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-22-165305.jpg"
+      ],
+      "ig_media_id": "18016299977763353",
+      "fb_post_id": "1120701334458496_122134867941301053",
+      "source_url": "https://www.newsshooter.com/2026/11/21/save-411-usd-on-the-easyrig-minimax/",
+      "source": "Newsshooter"
     }
   ]
 }
