@@ -9359,6 +9359,26 @@
       "fb_post_id": "1120701334458496_122134893285301053",
       "source_url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-22T17:35:03Z",
+      "date": "2026-11-23",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 5 iOS 27.3 changes coming to your Apple devices by 2027",
+      "template": "T_listicle",
+      "heading_image": "iOS 27.3で変わる\n映像制作の未来",
+      "caption_preview": "【最新映像機材ニュース】\n\nAppleがiOS 27.3の最初の開発者ベータを公開。2026年12月の正式リリースを前に、注目すべき新機能が複数明らかになった。映像クリエイターにとっても無関係ではないアップデート内容となっている。\n\n■ 注目ポイント\n・開発者ベータが先行公開、2026年12月リリース見込み\n・5つの注目アップデートを搭載\n・iPhone/iPadの撮影・編集ワークフローに影響する",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-23-023446.jpg"
+      ],
+      "ig_media_id": "18124168480938219",
+      "fb_post_id": "1120701334458496_122134907343301053",
+      "source_url": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
+      "source": "Engadget"
     }
   ]
 }
