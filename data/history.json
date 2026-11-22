@@ -9339,6 +9339,26 @@
       "fb_post_id": "1120701334458496_122134867941301053",
       "source_url": "https://www.newsshooter.com/2026/11/21/save-411-usd-on-the-easyrig-minimax/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-22T13:52:03Z",
+      "date": "2026-11-22",
+      "weekday": "日",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Apple AirPods 5 vs. AirPods Pro 3: What are the key differen",
+      "template": "T_overlay",
+      "heading_image": "AirPods 5 vs\nAirPods Pro 3",
+      "caption_preview": "【最新映像機材ニュース】\n\nAppleの新世代AirPods「AirPods 5」と「AirPods Pro 3」の比較記事がEngadgetに掲載。両モデルの外観・充電方式・バッテリー・機能差を整理した内容で、映像収録やモニタリング用途を検討するクリエイターにも参考になる情報です。\n\n■ 注目ポイント\n・AirPods Pro 3はアクティブノイズキャンセリング(ANC)と外音取り込みを搭載。A",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-22.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-22-225142.jpg"
+      ],
+      "ig_media_id": "18090222887306613",
+      "fb_post_id": "1120701334458496_122134893285301053",
+      "source_url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
+      "source": "Engadget"
     }
   ]
 }
