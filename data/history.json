@@ -9399,6 +9399,26 @@
       "fb_post_id": "1120701334458496_122134960707301053",
       "source_url": "https://www.newsshooter.com/2026/11/23/tamron-head-link-slider-link-at-inter-bee-2026/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-23T16:58:55Z",
+      "date": "2026-11-24",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: No Two Copies of Light Lens Lab’s New 40mm f/2 ‘Hua’ Lens Ar",
+      "template": "T_softbg",
+      "heading_image": "一本ごとに\n異なる個性の光",
+      "caption_preview": "【最新映像機材ニュース】\n\n中国のレンズメーカー Light Lens Lab が、創業者 Zhou氏のヴィンテージ中国レンズコレクションにオマージュを捧げた新作「40mm f/2 'Hua'」を発表。注目すべきは、個体ごとに描写特性が異なるという前代未聞のコンセプト。\n\n■ 注目ポイント\n・焦点距離40mm / 開放F2のコンパクト設計\n・中国製オールドレンズの描写特性を再現したスペシャルプロジ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-24-015839.jpg"
+      ],
+      "ig_media_id": "18031600418748432",
+      "fb_post_id": "1120701334458496_122134992351301053",
+      "source_url": "https://petapixel.com/2026/11/23/no-two-copies-of-light-lens-labs-new-40mm-f-2-hua-lens-are-the-same/",
+      "source": "PetaPixel"
     }
   ]
 }
