@@ -9379,6 +9379,26 @@
       "fb_post_id": "1120701334458496_122134907343301053",
       "source_url": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-23T08:45:58Z",
+      "date": "2026-11-23",
+      "weekday": "月",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Tamron HEAD Link & SLIDER Link at Inter BEE 2026",
+      "template": "T_overlay",
+      "heading_image": "Tamronが示す\n次世代フォーカス制御",
+      "caption_preview": "【最新映像機材ニュース】\n\nInter BEE 2026にてTamronが新デバイス「HEAD Link」「SLIDER Link」のプロトタイプを公開。対応TamronのAFレンズを使い、アプリ上で複数のフォーカスポイントをプリセット登録、スマホ/タブレット画面にマッピングして切り替え操作できる仕組みです。\n\n■ 注目ポイント\n・Tamron AFレンズ連携による電子制御フォーカス\n・アプリで複",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-23-174543.jpg"
+      ],
+      "ig_media_id": "18126518756318401",
+      "fb_post_id": "1120701334458496_122134960707301053",
+      "source_url": "https://www.newsshooter.com/2026/11/23/tamron-head-link-slider-link-at-inter-bee-2026/",
+      "source": "Newsshooter"
     }
   ]
 }
