@@ -9419,6 +9419,26 @@
       "fb_post_id": "1120701334458496_122134992351301053",
       "source_url": "https://petapixel.com/2026/11/23/no-two-copies-of-light-lens-labs-new-40mm-f-2-hua-lens-are-the-same/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-23T21:53:47Z",
+      "date": "2026-11-24",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Free Mac Photo Editor Channels Aperture and Lightroom Classi",
+      "template": "T_overlay",
+      "heading_image": "Mac専用・無料\n現像アプリ登場",
+      "caption_preview": "【最新映像機材ニュース】\n\nmacOSネイティブの無料・オープンソース現像/管理アプリ「PixelLoupe」が登場。Adobe Lightroom Classicのような編集機能と、かつてのApple Apertureを彷彿とさせるアセット管理UIを両立することを謳うフォトグラファー向けツール。\n\n■ 注目ポイント\n・macOSネイティブ設計で軽快動作\n・RAW現像＋カタログ型のアセット管理\n・",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-23.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-24-065330.jpg"
+      ],
+      "ig_media_id": "18095369609207605",
+      "fb_post_id": "1120701334458496_122135015745301053",
+      "source_url": "https://petapixel.com/2026/11/23/free-mac-photo-editor-channels-aperture-and-lightroom-classic/",
+      "source": "PetaPixel"
     }
   ]
 }
