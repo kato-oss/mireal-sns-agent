@@ -9497,6 +9497,26 @@
       "fb_post_id": "1120701334458496_122135090925301053",
       "source_url": "https://nofilmschool.com/how-to-write-better-during-the-ai-boom",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-24T20:29:29Z",
+      "date": "2026-11-25",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: You Can Buy a Fujifilm GFX Eterna 55 for $6,500 Less Than Be",
+      "template": "T_overlay",
+      "heading_image": "GFX Eterna 55\n$6,500値下げ",
+      "caption_preview": "【最新映像機材ニュース】\n\n富士フイルム初のシネマカメラ「GFX Eterna 55」が、当初予定より$6,500安く購入可能になることが発表されました。ラージフォーマットセンサー搭載のシネマ機が、よりアクセスしやすい価格帯へ。\n\n■ 注目ポイント\n・GFXシリーズ譲りのラージフォーマットセンサー採用\n・富士フイルム初の本格シネマカメラライン\n・当初価格から$6,500の大幅な価格改定\n\n■ なぜ",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-25-052911.jpg"
+      ],
+      "ig_media_id": "18178328746455707",
+      "fb_post_id": "1120701334458496_122135103843301053",
+      "source_url": "https://petapixel.com/2026/11/24/you-can-buy-a-fujifilm-gfx-eterna-55-for-6500-less-than-before/",
+      "source": "PetaPixel"
     }
   ]
 }
