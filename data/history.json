@@ -9477,6 +9477,26 @@
       "fb_post_id": "1120701334458496_122135062305301053",
       "source_url": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
       "source": "Engadget"
+    },
+    {
+      "timestamp": "2026-11-24T16:47:19Z",
+      "date": "2026-11-25",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: How To Stand Out as a Writer in the Age of AI",
+      "template": "T_softbg",
+      "heading_image": "AI時代に\n書き手として立つ",
+      "caption_preview": "【最新映像業界ニュース】\n\nNoFilmSchoolが、ライターDavid PerellがThe Nathan Berry Showで語ったインタビューを取り上げている。テーマは「AI時代にライター(クリエイター)としてどう突き抜けるか」。生成AIが文章やシナリオ領域まで浸食する中で、人間の書き手に何が残るのかを掘り下げた内容だ。\n\n■ 注目ポイント\n・AIに代替されるという前提を疑え、という議論",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-25-014700.jpg"
+      ],
+      "ig_media_id": "17969261790252655",
+      "fb_post_id": "1120701334458496_122135090925301053",
+      "source_url": "https://nofilmschool.com/how-to-write-better-during-the-ai-boom",
+      "source": "NoFilmSchool"
     }
   ]
 }
