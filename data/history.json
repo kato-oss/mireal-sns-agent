@@ -9457,6 +9457,26 @@
       ],
       "ig_media_id": "18059612615805073",
       "fb_post_id": "1120701334458496_122135045235301053"
+    },
+    {
+      "timestamp": "2026-11-24T10:46:06Z",
+      "date": "2026-11-24",
+      "weekday": "火",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Honor teams up with cinema camera-maker Arri on the Magic 9 ",
+      "template": "T_softbg",
+      "heading_image": "スマホが映画の\n画を手に入れる",
+      "caption_preview": "【最新映像機材ニュース】\n\nHonor が最新フラッグシップ「Magic 9 Pro Max」で、シネマカメラの名門 ARRI とのパートナーシップを発表。スマホカメラの画作りに映画撮影機メーカーの知見を取り込む流れがさらに加速しています。\n\n■ 注目ポイント\n・シネマカメラ大手 ARRI とのカラーサイエンス面での協業\n・Honor Magic シリーズ最上位モデル Pro Max として投入\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-24.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-24-194549.jpg"
+      ],
+      "ig_media_id": "17909844702603046",
+      "fb_post_id": "1120701334458496_122135062305301053",
+      "source_url": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
+      "source": "Engadget"
     }
   ]
 }
