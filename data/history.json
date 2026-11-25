@@ -9575,6 +9575,26 @@
       "fb_post_id": "1120701334458496_122135202597301053",
       "source_url": "https://nofilmschool.com/free-uk-documentary-contest",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-25T19:44:03Z",
+      "date": "2026-11-26",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The State of Indie Producing and Financing Plus AFM '26 Take",
+      "template": "T_softbg",
+      "heading_image": "インディー映画\n資金調達の新潮流",
+      "caption_preview": "【最新映像業界ニュース】\n\nNoFilmSchoolのポッドキャストに、Static Films共同創設者で元Buffalo 8のEPでもあるインディー映画プロデューサー Stephen Mastrocola が登場。2026年のAmerican Film Market (AFM) の所感と、現在のインディー映画の資金調達・制作・配給の現状を語った。\n\n■ 注目ポイント\n・従来のプリセールス(事前",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-26-044345.jpg"
+      ],
+      "ig_media_id": "18116402360156214",
+      "fb_post_id": "1120701334458496_122135215071301053",
+      "source_url": "https://nofilmschool.com/state-of-indie-producing-financing",
+      "source": "NoFilmSchool"
     }
   ]
 }
