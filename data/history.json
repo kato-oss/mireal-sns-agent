@@ -9555,6 +9555,26 @@
       "fb_post_id": "1120701334458496_122135172597301053",
       "source_url": "https://www.newsshooter.com/2026/11/24/save-11359-80-usd-on-the-dzofilm-pavo-2x-anamorphic-6-lens-set-pl-ef-mount-feet/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-25T16:34:50Z",
+      "date": "2026-11-26",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: This Free UK Documentary Fellowship Offers Seed Grants, Ment",
+      "template": "T_overlay",
+      "heading_image": "英ドキュ助成金\n最優秀£20,000",
+      "caption_preview": "【最新映像業界ニュース】\n\n英国のドキュメンタリー支援団体DocsOutが、リーズのプロダクション「Sticks & Glass」と組んで、新進ドキュメンタリー作家向けの6ヶ月フェローシップ「The Graduate Fellowship」を立ち上げ。応募無料、最優秀賞は£20,000(約380万円)というかなり本気の内容。\n\n■ 注目ポイント\n・応募料ゼロ、エントリー制限ゆるめ\n・テーマは「動物",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-26-013435.jpg"
+      ],
+      "ig_media_id": "18115904989888907",
+      "fb_post_id": "1120701334458496_122135202597301053",
+      "source_url": "https://nofilmschool.com/free-uk-documentary-contest",
+      "source": "NoFilmSchool"
     }
   ]
 }
