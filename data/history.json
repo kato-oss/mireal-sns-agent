@@ -9517,6 +9517,24 @@
       "fb_post_id": "1120701334458496_122135103843301053",
       "source_url": "https://petapixel.com/2026/11/24/you-can-buy-a-fujifilm-gfx-eterna-55-for-6500-less-than-before/",
       "source": "PetaPixel"
+    },
+    {
+      "timestamp": "2026-11-25T05:21:10Z",
+      "date": "2026-11-25",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "A",
+      "format": "F1",
+      "theme": "「動画依頼の流れ全部見せ」",
+      "template": "T_listicle",
+      "heading_image": "動画依頼の流れ\n全部見せます",
+      "caption_preview": "「動画を頼みたいけど、何から始めればいいか分からない」\nそんな声をよくいただきます。\n\n今日は、MIREALのONE DAY PROMOTIONで動画ができるまでの流れを、全ステップ公開します。\n\n―――\n\n【STEP 1】問い合わせ(当日)\nフォームまたは電話で相談。業種・用途・希望納期をヒアリング。\n最短でその日のうちに撮影日を仮押さえします。\n\n【STEP 2】事前ヒアリング(1〜2日前)\n",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-25.jpg",
+      "bgs_used": [
+        "bg-038.jpg"
+      ],
+      "ig_media_id": "18093268961705092",
+      "fb_post_id": "1120701334458496_122135157651301053"
     }
   ]
 }
