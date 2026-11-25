@@ -9535,6 +9535,26 @@
       ],
       "ig_media_id": "18093268961705092",
       "fb_post_id": "1120701334458496_122135157651301053"
+    },
+    {
+      "timestamp": "2026-11-25T09:42:47Z",
+      "date": "2026-11-25",
+      "weekday": "水",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Save $11,359.80 USD on the DZOFilm PAVO 2x Anamorphic 6-Lens",
+      "template": "T_overlay",
+      "heading_image": "PAVO 2x 6本セット\n約170万円OFF",
+      "caption_preview": "【最新映像機材ニュース】\n\nDZOFilm の PAVO 2x アナモルフィックレンズ6本セット (PL/EFマウント・Feet表記) が、$11,359.80 OFF の $10,739.11 USD で販売中。Super35センサー対応のシネスタイルレンズセットです。\n\n■ 注目ポイント\n・28mm / 32mm / 40mm / 55mm / 75mm / 100mm の6本構成\n・2x ス",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-25.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-25-184230.jpg"
+      ],
+      "ig_media_id": "17916701514287492",
+      "fb_post_id": "1120701334458496_122135172597301053",
+      "source_url": "https://www.newsshooter.com/2026/11/24/save-11359-80-usd-on-the-dzofilm-pavo-2x-anamorphic-6-lens-set-pl-ef-mount-feet/",
+      "source": "Newsshooter"
     }
   ]
 }
