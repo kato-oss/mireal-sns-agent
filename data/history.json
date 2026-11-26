@@ -9611,6 +9611,26 @@
       "bgs_used": [],
       "ig_media_id": "17919412281470682",
       "fb_post_id": "1120701334458496_122135252049301053"
+    },
+    {
+      "timestamp": "2026-11-26T09:16:58Z",
+      "date": "2026-11-26",
+      "weekday": "木",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The Making Of Tenzing",
+      "template": "T_softbg",
+      "heading_image": "英雄の物語を\nスクリーンに刻む",
+      "caption_preview": "【最新映像機材ニュース】\n\nApple TVが、Jennifer Peedom監督の伝記ドラマ『Tenzing』のメイキング映像を公開。1953年のテンジン・ノルゲイとエドモンド・ヒラリーによるエベレスト世界初登頂の実話を描いた作品で、Genden Phuntsok、Tom Hiddleston、Willem Dafoeが出演する。\n\n■ 注目ポイント\n・ドキュメンタリー出身のPeedom監督(『",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-26.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-26-181641.jpg"
+      ],
+      "ig_media_id": "18136638562843954",
+      "fb_post_id": "1120701334458496_122135269809301053",
+      "source_url": "https://www.newsshooter.com/2026/11/26/the-making-of-tenzing/",
+      "source": "Newsshooter"
     }
   ]
 }
