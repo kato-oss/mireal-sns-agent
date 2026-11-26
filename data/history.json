@@ -9631,6 +9631,26 @@
       "fb_post_id": "1120701334458496_122135269809301053",
       "source_url": "https://www.newsshooter.com/2026/11/26/the-making-of-tenzing/",
       "source": "Newsshooter"
+    },
+    {
+      "timestamp": "2026-11-26T16:07:58Z",
+      "date": "2026-11-27",
+      "weekday": "金",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: Share your instant camera photos to celebrate the first Pola",
+      "template": "T_softbg",
+      "heading_image": "ポラロイド、\n77年の軌跡",
+      "caption_preview": "【最新映像機材ニュース】\n\n1948年11月26日、世界初のインスタントカメラ「Polaroid Land Camera Model 95」が発売されてから77年。DPReviewが記念企画として、読者のインスタントカメラ作品投稿を募集している。\n\n■ 注目ポイント\n・エドウィン・ランド博士が開発したModel 95は、撮影から約60秒でセピア調のプリントが得られる革新的機構\n・当時の価格は89.",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-26.jpg",
+      "bgs_used": [
+        "bg-003.jpg"
+      ],
+      "ig_media_id": "17981904678177268",
+      "fb_post_id": "1120701334458496_122135316687301053",
+      "source_url": "https://www.dpreview.com/articles/share-your-instant-camera-photos-to-celebrate-the-first-polaroid-camera-sold-in-1948/",
+      "source": "DPReview"
     }
   ]
 }
