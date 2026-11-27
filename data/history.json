@@ -9755,6 +9755,26 @@
       "fb_post_id": "1120701334458496_122135455893301053",
       "source_url": "https://www.provideocoalition.com/lab-test-compendium-2026/",
       "source": "ProVideoCoalition"
+    },
+    {
+      "timestamp": "2026-11-27T19:19:23Z",
+      "date": "2026-11-28",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 10 Christmas Movies That Shaped America's National Identity",
+      "template": "T_softbg",
+      "heading_image": "名作が教える\n物語の普遍構造",
+      "caption_preview": "【最新映像機材ニュース】\n\nNoFilmSchoolが、アメリカの文化的アイデンティティを形作ってきたクリスマス映画10本を特集。単なる季節ものではなく、脚本家・映像作家にとって学ぶべき物語構造と演出の教科書として再評価する内容。\n\n■ 注目ポイント\n・『素晴らしき哉、人生！』『34丁目の奇跡』など古典から現代作まで横断\n・ホリデー映画特有の「救済と共同体」構造の分析\n・脚本志望者向けにクラシック",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-27.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-28-041910.jpg"
+      ],
+      "ig_media_id": "18170986192467413",
+      "fb_post_id": "1120701334458496_122135471625301053",
+      "source_url": "https://nofilmschool.com/american-christmas-movies",
+      "source": "NoFilmSchool"
     }
   ]
 }
