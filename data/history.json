@@ -9775,6 +9775,24 @@
       "fb_post_id": "1120701334458496_122135471625301053",
       "source_url": "https://nofilmschool.com/american-christmas-movies",
       "source": "NoFilmSchool"
+    },
+    {
+      "timestamp": "2026-11-28T04:39:42Z",
+      "date": "2026-11-28",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "B",
+      "format": "F1",
+      "theme": "「動画制作の見積もりで騙されないコツ」",
+      "template": "T_listicle",
+      "heading_image": "動画見積もりの\n落とし穴",
+      "caption_preview": "「動画制作、見積もりを取ったら思ったより高かった」\nそんな経験はありませんか。\n\n実は動画制作の見積もりには、依頼側が気づきにくい追加費用が潜んでいることが多いんです。\n今日は、見積もりで損をしないための5つのチェックポイントをまとめました。\n\n1. 「一式」表記に要注意\n内訳が書かれていない「撮影一式」「編集一式」は、後から追加請求が発生しやすい項目。必ず内訳を確認してください。\n\n2. 修正回",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-28.jpg",
+      "bgs_used": [
+        "bg-021.jpg"
+      ],
+      "ig_media_id": "18645624913008252",
+      "fb_post_id": "1120701334458496_122135515263301053"
     }
   ]
 }
