@@ -9793,6 +9793,26 @@
       ],
       "ig_media_id": "18645624913008252",
       "fb_post_id": "1120701334458496_122135515263301053"
+    },
+    {
+      "timestamp": "2026-11-28T08:45:55Z",
+      "date": "2026-11-28",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: The New York Times Bans Photoshop 2027 for Freelancers – Hid",
+      "template": "T_overlay",
+      "heading_image": "NYTがPS2027を\n取材案件で禁止",
+      "caption_preview": "【最新映像機材ニュース】\n\nThe New York Times がフリーランスフォトグラファーに対し、Adobe Photoshop 2027 (version 28.0.0 以降) を同紙の取材案件で使用しないよう通達。新バージョンの一部機能がユーザーに気づかれない形で生成AIを利用し、実際に撮影した写真にも「AI生成」を示すメタデータを付与する可能性があるため。\n\n■ 注目ポイント\n・対象は",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-28-174537.jpg"
+      ],
+      "ig_media_id": "18113374445257915",
+      "fb_post_id": "1120701334458496_122135527341301053",
+      "source_url": "https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/",
+      "source": "CineD"
     }
   ]
 }
