@@ -9813,6 +9813,26 @@
       "fb_post_id": "1120701334458496_122135527341301053",
       "source_url": "https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/",
       "source": "CineD"
+    },
+    {
+      "timestamp": "2026-11-28T14:50:47Z",
+      "date": "2026-11-28",
+      "weekday": "土",
+      "week_num": 4,
+      "pillar": "N",
+      "format": "NEWS",
+      "theme": "海外ニュース: 5 music streaming services that let you listen for free",
+      "template": "T_listicle",
+      "heading_image": "無料で聴ける\n音楽配信サービス",
+      "caption_preview": "【最新映像機材ニュース】\n\nEngadgetが、サブスク不要で利用できる音楽ストリーミングサービス5つを紹介。映像制作者にとっては、楽曲リファレンスや編集時のBGMリサーチ、クライアントとのムード共有に便利な選択肢となる。\n\n■ 注目ポイント\n・Spotify / YouTube Music / Amazon Music / Pandora / SiriusXM の無料プランを比較\n・広告挿入や機",
+      "image_url": "https://raw.githubusercontent.com/kato-oss/mireal-sns-agent/main/data/images/generated/2026-11-28.jpg",
+      "bgs_used": [
+        "news_bg/2026-11-28-235035.jpg"
+      ],
+      "ig_media_id": "18110821186955004",
+      "fb_post_id": "1120701334458496_122135552889301053",
+      "source_url": "https://www.engadget.com/2325263/free-music-streaming-services/",
+      "source": "Engadget"
     }
   ]
 }
